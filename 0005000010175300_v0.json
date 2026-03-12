@@ -1,0 +1,459 @@
+{
+    "title_id": "0005000010175300",
+    "region": 4,
+    "version": 0,
+    "files": [
+        {
+            "file": "code/WUP-JCPP.rpx",
+            "hash": "2A24F9EF1740757E14FB0B89606CE7D919237D64DA25B70333506D79143FD0AD"
+        },
+        {
+            "file": "code/app.xml",
+            "hash": "78F6A039D42CC1EBEF9623135DC306A7F619A859C155DBE68D99608D4DFBCDC9"
+        },
+        {
+            "file": "code/cos.xml",
+            "hash": "0A84FBF38671507EF56886145FCC401E168D207A361CC51AB7BAE18332384DAA"
+        },
+        {
+            "file": "code/preload.txt",
+            "hash": "BD887BE0AB965504C8D3DD7B8232BC33A4D43CAA5354469832E9D292C9207957"
+        },
+        {
+            "file": "code/title.fst",
+            "hash": "308F0CE6954D6B04C9E333D4989287D0D4675C87AF88691A3AB8463474C4D066"
+        },
+        {
+            "file": "code/title.tmd",
+            "hash": "B88D65F4C85B796BE925E4DB27829B9A4213C7B197AAA9CA75D4883B6356CBF5"
+        },
+        {
+            "file": "content/msg/CHN_sc/ERR.msbt",
+            "hash": "E3B3B60B01F8E0F2B79313849BD2FFE2A8BF408ECE6B14BFA182687EEECC2758"
+        },
+        {
+            "file": "content/msg/CHN_sc/SYS.msbt",
+            "hash": "8EA3D21C35066D00EC8BC18E4202DED19F72284818E067745894C65775B87ED9"
+        },
+        {
+            "file": "content/msg/CHN_sc/VCM.msbt",
+            "hash": "F31A4BC9107F0FF86070C18D726A9EEB82E99B71D9C4626232E52E1DCA936BAD"
+        },
+        {
+            "file": "content/msg/EUR_au/ERR.msbt",
+            "hash": "E3B3B60B01F8E0F2B79313849BD2FFE2A8BF408ECE6B14BFA182687EEECC2758"
+        },
+        {
+            "file": "content/msg/EUR_au/SYS.msbt",
+            "hash": "8EA3D21C35066D00EC8BC18E4202DED19F72284818E067745894C65775B87ED9"
+        },
+        {
+            "file": "content/msg/EUR_au/VCM.msbt",
+            "hash": "F31A4BC9107F0FF86070C18D726A9EEB82E99B71D9C4626232E52E1DCA936BAD"
+        },
+        {
+            "file": "content/msg/EUR_cs/ERR.msbt",
+            "hash": "E3B3B60B01F8E0F2B79313849BD2FFE2A8BF408ECE6B14BFA182687EEECC2758"
+        },
+        {
+            "file": "content/msg/EUR_cs/SYS.msbt",
+            "hash": "8EA3D21C35066D00EC8BC18E4202DED19F72284818E067745894C65775B87ED9"
+        },
+        {
+            "file": "content/msg/EUR_cs/VCM.msbt",
+            "hash": "F31A4BC9107F0FF86070C18D726A9EEB82E99B71D9C4626232E52E1DCA936BAD"
+        },
+        {
+            "file": "content/msg/EUR_da/ERR.msbt",
+            "hash": "E3B3B60B01F8E0F2B79313849BD2FFE2A8BF408ECE6B14BFA182687EEECC2758"
+        },
+        {
+            "file": "content/msg/EUR_da/SYS.msbt",
+            "hash": "8EA3D21C35066D00EC8BC18E4202DED19F72284818E067745894C65775B87ED9"
+        },
+        {
+            "file": "content/msg/EUR_da/VCM.msbt",
+            "hash": "F31A4BC9107F0FF86070C18D726A9EEB82E99B71D9C4626232E52E1DCA936BAD"
+        },
+        {
+            "file": "content/msg/EUR_de/ERR.msbt",
+            "hash": "54A3DF896056720D6BCFE2EDEBA0AF208663DD4A373F111DFC655845B748A35D"
+        },
+        {
+            "file": "content/msg/EUR_de/SYS.msbt",
+            "hash": "0946196472837C9F4C3C081A480F18D876A8C2F24C80D8F0FABB183F2FE76B5E"
+        },
+        {
+            "file": "content/msg/EUR_de/VCM.msbt",
+            "hash": "B8044753DF05A61BE0BF325944A25323976E0E9F58769C5842A3DC0455010832"
+        },
+        {
+            "file": "content/msg/EUR_el/ERR.msbt",
+            "hash": "E3B3B60B01F8E0F2B79313849BD2FFE2A8BF408ECE6B14BFA182687EEECC2758"
+        },
+        {
+            "file": "content/msg/EUR_el/SYS.msbt",
+            "hash": "8EA3D21C35066D00EC8BC18E4202DED19F72284818E067745894C65775B87ED9"
+        },
+        {
+            "file": "content/msg/EUR_el/VCM.msbt",
+            "hash": "F31A4BC9107F0FF86070C18D726A9EEB82E99B71D9C4626232E52E1DCA936BAD"
+        },
+        {
+            "file": "content/msg/EUR_en/ERR.msbt",
+            "hash": "E45612A43DC5BF82D0688DCEB825F60A3F2C891F81E1037AE3331B75498C7EC0"
+        },
+        {
+            "file": "content/msg/EUR_en/SYS.msbt",
+            "hash": "D7B4B1DA4DDD4CF9B7C762D1CEDF01C2A56D704824517B661E28065D09F0BF9E"
+        },
+        {
+            "file": "content/msg/EUR_en/VCM.msbt",
+            "hash": "6A5525A86118E8197C895B6B502CA145FC24F499ADAFED669160D9AB079162F8"
+        },
+        {
+            "file": "content/msg/EUR_es/ERR.msbt",
+            "hash": "95F3CEA37A74D58E2D065A8A8B0D9DED50FF075B7E9799B9A6721100E617A185"
+        },
+        {
+            "file": "content/msg/EUR_es/SYS.msbt",
+            "hash": "65AAD396513E4F4AF014265674BD9C7944D30F0BFD2CA1EB86576F4E3EE52F8B"
+        },
+        {
+            "file": "content/msg/EUR_es/VCM.msbt",
+            "hash": "1C6FD13DADC29B5806457F2037A6C77B24E470D1F08859F5894F6E7DD5250F59"
+        },
+        {
+            "file": "content/msg/EUR_fi/ERR.msbt",
+            "hash": "E3B3B60B01F8E0F2B79313849BD2FFE2A8BF408ECE6B14BFA182687EEECC2758"
+        },
+        {
+            "file": "content/msg/EUR_fi/SYS.msbt",
+            "hash": "8EA3D21C35066D00EC8BC18E4202DED19F72284818E067745894C65775B87ED9"
+        },
+        {
+            "file": "content/msg/EUR_fi/VCM.msbt",
+            "hash": "F31A4BC9107F0FF86070C18D726A9EEB82E99B71D9C4626232E52E1DCA936BAD"
+        },
+        {
+            "file": "content/msg/EUR_fr/ERR.msbt",
+            "hash": "37C020D278FCAC02946FE9AF7FBA703E6B287BF3D6CE4D377910F6C2288B42F0"
+        },
+        {
+            "file": "content/msg/EUR_fr/SYS.msbt",
+            "hash": "B32144B2E5191CBC57147EF47D53A76D35C7E1BA34D4BF3F4703939760105516"
+        },
+        {
+            "file": "content/msg/EUR_fr/VCM.msbt",
+            "hash": "8254ADFF1E6AB1741C26CC9A286E56DA8E0E0842C57A22C8BB4174B5198CFE8F"
+        },
+        {
+            "file": "content/msg/EUR_it/ERR.msbt",
+            "hash": "2E3E46BEA9D4FBEB85C3397E7EDA7844BA01DEFA619FFA834516E6D6AB3E39FC"
+        },
+        {
+            "file": "content/msg/EUR_it/SYS.msbt",
+            "hash": "89AEEB55D50A9BC6D7A873610923F25AE5705E826D0BA2CBEE27C03CD4DF5907"
+        },
+        {
+            "file": "content/msg/EUR_it/VCM.msbt",
+            "hash": "B562B7C678AAC29FD8E856BAD6E68CC9C985A14C08004DF8E1E6534F836A6557"
+        },
+        {
+            "file": "content/msg/EUR_nl/ERR.msbt",
+            "hash": "3B5EE9717DE940CC9F06D581F40C2F7A46EDF69074DC0CBD2B656BA176133E80"
+        },
+        {
+            "file": "content/msg/EUR_nl/SYS.msbt",
+            "hash": "C94B473E8B52CA687E52AD29593045A69C795EE5D9E67F4CFF4BF79A10256716"
+        },
+        {
+            "file": "content/msg/EUR_nl/VCM.msbt",
+            "hash": "F50038DF1EA6F8D94BEF0B0E01C7316D74B32774F6720B0C783602B0B68B79EB"
+        },
+        {
+            "file": "content/msg/EUR_no/ERR.msbt",
+            "hash": "E3B3B60B01F8E0F2B79313849BD2FFE2A8BF408ECE6B14BFA182687EEECC2758"
+        },
+        {
+            "file": "content/msg/EUR_no/SYS.msbt",
+            "hash": "8EA3D21C35066D00EC8BC18E4202DED19F72284818E067745894C65775B87ED9"
+        },
+        {
+            "file": "content/msg/EUR_no/VCM.msbt",
+            "hash": "F31A4BC9107F0FF86070C18D726A9EEB82E99B71D9C4626232E52E1DCA936BAD"
+        },
+        {
+            "file": "content/msg/EUR_pl/ERR.msbt",
+            "hash": "E3B3B60B01F8E0F2B79313849BD2FFE2A8BF408ECE6B14BFA182687EEECC2758"
+        },
+        {
+            "file": "content/msg/EUR_pl/SYS.msbt",
+            "hash": "8EA3D21C35066D00EC8BC18E4202DED19F72284818E067745894C65775B87ED9"
+        },
+        {
+            "file": "content/msg/EUR_pl/VCM.msbt",
+            "hash": "F31A4BC9107F0FF86070C18D726A9EEB82E99B71D9C4626232E52E1DCA936BAD"
+        },
+        {
+            "file": "content/msg/EUR_pt/ERR.msbt",
+            "hash": "DEC3DB15E2777908A9491FE5307A07B935E9427C9606E626B31DEC6FAF62E0C6"
+        },
+        {
+            "file": "content/msg/EUR_pt/SYS.msbt",
+            "hash": "51B5C85960312CB3E26E687EA7AC0F2B0BEED781230B39EE4C65C6FF87BBE4BB"
+        },
+        {
+            "file": "content/msg/EUR_pt/VCM.msbt",
+            "hash": "6C5F82CD30D9C6B4C190C578668F3205DC087D59423FD41944EEDE3132D3840D"
+        },
+        {
+            "file": "content/msg/EUR_ru/ERR.msbt",
+            "hash": "35FC552AF2A2B2DDE85C73B98F0227175C1130FF3AD573BB3D65B5A3D8E972A4"
+        },
+        {
+            "file": "content/msg/EUR_ru/SYS.msbt",
+            "hash": "16EB602A5FADD40995B434FA77976EB30A7D0A80AABD27EF8F7C9CE16C8484FA"
+        },
+        {
+            "file": "content/msg/EUR_ru/VCM.msbt",
+            "hash": "8D79C0F0540FD959E2AA89CEA120C955153E3FF3F5F2AABA6C0DDFFD82203273"
+        },
+        {
+            "file": "content/msg/EUR_sv/ERR.msbt",
+            "hash": "E3B3B60B01F8E0F2B79313849BD2FFE2A8BF408ECE6B14BFA182687EEECC2758"
+        },
+        {
+            "file": "content/msg/EUR_sv/SYS.msbt",
+            "hash": "8EA3D21C35066D00EC8BC18E4202DED19F72284818E067745894C65775B87ED9"
+        },
+        {
+            "file": "content/msg/EUR_sv/VCM.msbt",
+            "hash": "F31A4BC9107F0FF86070C18D726A9EEB82E99B71D9C4626232E52E1DCA936BAD"
+        },
+        {
+            "file": "content/msg/EUR_tr/ERR.msbt",
+            "hash": "E3B3B60B01F8E0F2B79313849BD2FFE2A8BF408ECE6B14BFA182687EEECC2758"
+        },
+        {
+            "file": "content/msg/EUR_tr/SYS.msbt",
+            "hash": "8EA3D21C35066D00EC8BC18E4202DED19F72284818E067745894C65775B87ED9"
+        },
+        {
+            "file": "content/msg/EUR_tr/VCM.msbt",
+            "hash": "F31A4BC9107F0FF86070C18D726A9EEB82E99B71D9C4626232E52E1DCA936BAD"
+        },
+        {
+            "file": "content/msg/JPN_ja/ERR.msbt",
+            "hash": "D2817DB9576CF8194BE8B3DF3C639964BAFB52F4172F47F4BC501C3FD2ADC8DA"
+        },
+        {
+            "file": "content/msg/JPN_ja/SYS.msbt",
+            "hash": "198B20945685C226D061AB5E253EBCA63A6395CC1FE773E62F16CCE63A3A7767"
+        },
+        {
+            "file": "content/msg/JPN_ja/VCM.msbt",
+            "hash": "383407A54273FF3168F219326D7909263765DB280D5A91F53951D1EB55E65616"
+        },
+        {
+            "file": "content/msg/KOR_ko/ERR.msbt",
+            "hash": "E3B3B60B01F8E0F2B79313849BD2FFE2A8BF408ECE6B14BFA182687EEECC2758"
+        },
+        {
+            "file": "content/msg/KOR_ko/SYS.msbt",
+            "hash": "8EA3D21C35066D00EC8BC18E4202DED19F72284818E067745894C65775B87ED9"
+        },
+        {
+            "file": "content/msg/KOR_ko/VCM.msbt",
+            "hash": "F31A4BC9107F0FF86070C18D726A9EEB82E99B71D9C4626232E52E1DCA936BAD"
+        },
+        {
+            "file": "content/msg/TWN_en/ERR.msbt",
+            "hash": "E3B3B60B01F8E0F2B79313849BD2FFE2A8BF408ECE6B14BFA182687EEECC2758"
+        },
+        {
+            "file": "content/msg/TWN_en/SYS.msbt",
+            "hash": "8EA3D21C35066D00EC8BC18E4202DED19F72284818E067745894C65775B87ED9"
+        },
+        {
+            "file": "content/msg/TWN_en/VCM.msbt",
+            "hash": "F31A4BC9107F0FF86070C18D726A9EEB82E99B71D9C4626232E52E1DCA936BAD"
+        },
+        {
+            "file": "content/msg/TWN_tc/ERR.msbt",
+            "hash": "E3B3B60B01F8E0F2B79313849BD2FFE2A8BF408ECE6B14BFA182687EEECC2758"
+        },
+        {
+            "file": "content/msg/TWN_tc/SYS.msbt",
+            "hash": "8EA3D21C35066D00EC8BC18E4202DED19F72284818E067745894C65775B87ED9"
+        },
+        {
+            "file": "content/msg/TWN_tc/VCM.msbt",
+            "hash": "F31A4BC9107F0FF86070C18D726A9EEB82E99B71D9C4626232E52E1DCA936BAD"
+        },
+        {
+            "file": "content/msg/USA_en/ERR.msbt",
+            "hash": "E324B438048FCF7BF9BC35DE8CB30DC7A290EDECAAEF95583E031B4523B9CEFC"
+        },
+        {
+            "file": "content/msg/USA_en/SYS.msbt",
+            "hash": "3086B0C6CB03415D695B70DB255F55BC7A3257478A7084AB1FE7E3AA1A153DCA"
+        },
+        {
+            "file": "content/msg/USA_en/VCM.msbt",
+            "hash": "0D93E7A428378F822CBBDA6EA468665E9ADE9AAFBFA274D0AC8EBAD8140C9C54"
+        },
+        {
+            "file": "content/msg/USA_es/ERR.msbt",
+            "hash": "00412183C76469FEE1D5F10482616E78BF01CBBDB086E89F65A393CD4E86E949"
+        },
+        {
+            "file": "content/msg/USA_es/SYS.msbt",
+            "hash": "2B939D2F63354F37D6F9356CED72F073E53579373F561206D189B2796AF12B8E"
+        },
+        {
+            "file": "content/msg/USA_es/VCM.msbt",
+            "hash": "7DC118BC889BFCDBF34AB6D3C81711A178D53221E89EEF383C09C8120749D1BE"
+        },
+        {
+            "file": "content/msg/USA_fr/ERR.msbt",
+            "hash": "106E4B088302CB5A2B181970A9FD98E2CE608DEA58BE45C759EF6674D5058D13"
+        },
+        {
+            "file": "content/msg/USA_fr/SYS.msbt",
+            "hash": "B068E9A40B321705C7822B859E854A5B05D210649C6FD21F017CFF718C30F472"
+        },
+        {
+            "file": "content/msg/USA_fr/VCM.msbt",
+            "hash": "EEB942A515FC36E88DB841D4CCB6F2D2D523CF7DAA8C9CFE29BF04B7603876BB"
+        },
+        {
+            "file": "content/msg/USA_pt/ERR.msbt",
+            "hash": "589C1F30DE40FE456C3B99DE3DBC4AE11CB9A7F0C851F0F9392635C7B3F6E3A6"
+        },
+        {
+            "file": "content/msg/USA_pt/SYS.msbt",
+            "hash": "7105E27347B1528C5FEA8D609CC3F4A4163997FE5DE39E945568432E5E372F5A"
+        },
+        {
+            "file": "content/msg/USA_pt/VCM.msbt",
+            "hash": "E3F015378D48A7299D543C108C40F7A7DA4243A1E54ED9AE877870A9E13B0E31"
+        },
+        {
+            "file": "content/snd/wiiu_shared.bfsar",
+            "hash": "8E1FF9EB63844FBF897C7C726A5E32095F978A5D8078E50C4F117C27BEE43FD2"
+        },
+        {
+            "file": "content/texture2D_206.gsh",
+            "hash": "88F9356BA77FB86C51F0DBEAC695255B85F7A6489F86FB8CEB5E874DAD222E8E"
+        },
+        {
+            "file": "meta/CERO_ja.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/CGSRR_zh.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/COB_en.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/ESRB_en.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/ESRB_fr.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/GRB_ko.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/Manual.bfma",
+            "hash": "9BAB995130AD0CC085AEC7BDDC51E118BE08CBABC55449E1BC5A4AF368CFBD2C"
+        },
+        {
+            "file": "meta/OFLC_en.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_BBFC_en.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_Portugal_pt.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_de.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_en.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_es.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_fr.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_it.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_nl.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_pt.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_ru.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/RAR_ru.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/USK_de.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/bootDrcTex.tga",
+            "hash": "66A70C8887C3BF8F9865AE119B4BC8D3D0BED8ABA708A40486E1658F9A4331B2"
+        },
+        {
+            "file": "meta/bootLogoTex.tga",
+            "hash": "91B63D9C03F7F9153C8B9FC8179E1CCCB6F4AFC60204B988D91D1B5EFCEE4AA8"
+        },
+        {
+            "file": "meta/bootMovie.h264",
+            "hash": "069FD8C5713F4B23EA1098D2674BCC839E610BA844683BF532E1E6CB10642621"
+        },
+        {
+            "file": "meta/bootSound.btsnd",
+            "hash": "081E1D8D8DF5236A4568899D0AF856728D0A1405DF623D70AD4A0170068B747E"
+        },
+        {
+            "file": "meta/bootTvTex.tga",
+            "hash": "B30BE6DB8E6AB1D233D44CBDF5B78DA12379CD7F811D43BD0FE96EC1A63582DD"
+        },
+        {
+            "file": "meta/iconTex.tga",
+            "hash": "374F3F4CD7FEEE5EC59C3B23D36EF1DEBF627F06FF1A5F19C6E06468A9C55A8B"
+        },
+        {
+            "file": "meta/meta.xml",
+            "hash": "E47EFA88A7491FE61749146E2B851418A4259F73F91E5E6F80996186ABA98457"
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "title_id": "000500301006d20a",
+    "region": 4,
+    "version": 24,
+    "files": [
+        {
+            "file": "code/app.xml",
+            "hash": "9D9901C3EE1A251B1F37B62B30FD5665FBA88F52B5219FB956A5431097900F92"
+        },
+        {
+            "file": "code/cabinet-U.rpx",
+            "hash": "FEF46E8E024CC54F1D541D03E2D4A70BFC42214921C244AC7988E67BEA27A2A0"
+        },
+        {
+            "file": "code/cos.xml",
+            "hash": "D09D57612342F7B68E362D269439646106C1773235C9694E5BAD55A57C302887"
+        },
+        {
+            "file": "code/title.fst",
+            "hash": "7D7CE53753958780408654FB415D94C55C31E5ACCC37B825AB56970782946ECD"
+        },
+        {
+            "file": "code/title.tmd",
+            "hash": "18E93AF593B39AB6BA144C3E8723A723E8EA0B5F9CA1A4A69F13A5FA5E407739"
+        },
+        {
+            "file": "content/arcmain/main.cbarc.cmp",
+            "hash": "A650DC682782D306D0449F8C639C24E2C1C57047D10A417EB3102007AB203C48"
+        },
+        {
+            "file": "content/sound/cabinet.bfsar",
+            "hash": "8E6E23A65038B8D2AEA4E8B676C8602371A3C1A417D88D7531D50E9299A78DF5"
+        },
+        {
+            "file": "content/sound/stream/BGM_STR_BGM_1.dspadpcm.bfstm",
+            "hash": "F853CF3841B28F7B2322468B8E88B7EAAA45D88E08901D9ADED0EDCE44F54AD0"
+        },
+        {
+            "file": "meta/bootDrcTex.tga",
+            "hash": "9E02028B817F1C0DF90B2CE02C3F828E8E8711680FB6788580EBAE27251729D3"
+        },
+        {
+            "file": "meta/bootLogoTex.tga",
+            "hash": "91B63D9C03F7F9153C8B9FC8179E1CCCB6F4AFC60204B988D91D1B5EFCEE4AA8"
+        },
+        {
+            "file": "meta/bootMovie.h264",
+            "hash": "069FD8C5713F4B23EA1098D2674BCC839E610BA844683BF532E1E6CB10642621"
+        },
+        {
+            "file": "meta/bootTvTex.tga",
+            "hash": "ADDA05804635F8DD639CF70C97B3212BE5EA50C7D020C6BC4853BF82230FE9AF"
+        },
+        {
+            "file": "meta/iconTex.tga",
+            "hash": "8FD585233FB5699AEE9D4443CD7C8101EF73FE755FA7A2601D2E5E3E44EE924F"
+        },
+        {
+            "file": "meta/meta.xml",
+            "hash": "AB4086CBA43294099B670DBD7CE8F2465F0234939C57328F98BAB42937AF4D27"
+        }
+    ]
+}

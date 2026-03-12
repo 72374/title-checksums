@@ -1,0 +1,35 @@
+{
+    "title_id": "0005000c101d6000",
+    "region": 4,
+    "version": 0,
+    "files": [
+        {
+            "file": "code/app.xml",
+            "hash": "52E60EF9499B0B692005C6EA4CC5FAE43D2C584E70C262EC71B2E576A0D19C8B"
+        },
+        {
+            "file": "code/cos.xml",
+            "hash": "74A4D17A69EFAF1D70BF0D8F0D773AA368247D76DD45E7EA21132B89A852FECE"
+        },
+        {
+            "file": "code/title.fst",
+            "hash": "EE24032C0F020973146FD3A3ED84F9CAF21E9221EDA4D1B76888D85E54C95B56"
+        },
+        {
+            "file": "code/title.tmd",
+            "hash": "6711EF007D1864528D7BB5C4C3B15EF1AE200B0ADF4B80730E4D857E8E5B7916"
+        },
+        {
+            "file": "content/0010/content.bin",
+            "hash": "0B08E3DCC50FE4E5CEE9B0B3A671A8DB936F8335BA9050696D41CBB9A07F22E3"
+        },
+        {
+            "file": "meta/iconTex.tga",
+            "hash": "7D65E614537CD99B72625DD88157AA4990417DFDEA7F1A882E996BBD1D49E271"
+        },
+        {
+            "file": "meta/meta.xml",
+            "hash": "D02C3820364CA0D4C81EF180A9008595F7EA1D1C3FD3658609424015BFBA8CCF"
+        }
+    ]
+}

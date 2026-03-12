@@ -1,0 +1,287 @@
+{
+    "title_id": "000500001019e100",
+    "region": 4,
+    "version": 0,
+    "files": [
+        {
+            "file": "code/app.xml",
+            "hash": "0AE4D16022D36CEC239FE2233A221A3C64627A4937C7C196CED3DAB119E9941F"
+        },
+        {
+            "file": "code/cos.xml",
+            "hash": "88CB760126C365ACAE9292E241BB52F3A2DF6343CE7D3A75B0CB3BC5346591FB"
+        },
+        {
+            "file": "code/frisbiiU.rpx",
+            "hash": "258335DA131DA6C681DEDDD0C448A5EEE1698ACEA49C88EFB1DACBBD9B77EFC3"
+        },
+        {
+            "file": "code/fw.img",
+            "hash": "EE31BC0F1DA47E147FFC765ECB102A2037D0AA9B247B0A074DAA3756A8E9ABBC"
+        },
+        {
+            "file": "code/fw.tmd",
+            "hash": "1BF1A3B74B8F478D3208D5412AAF3927BFB84B5F8CB8D2B4906CE1A4802FC1D3"
+        },
+        {
+            "file": "code/htk.bin",
+            "hash": "9C5928E21E74F6BC9539651C17E3D4C42AD4B4A75AD221595159EE7CF5AD4619"
+        },
+        {
+            "file": "code/nn_hai_user.rpl",
+            "hash": "43D9EEE81B1E614120778E52DB9F0FF5E8D2C853141A00CD30AAD9B8BB8DA450"
+        },
+        {
+            "file": "code/rvlt.tik",
+            "hash": "946EE599ED221174D0FCDD18AA6E89B6C3567E4FC9B157D9E5F59E1CB0E8323A"
+        },
+        {
+            "file": "code/rvlt.tmd",
+            "hash": "EB33BDCE21101C359B1E35F540FC90390B3CE8408F122148E0A345CD0A961272"
+        },
+        {
+            "file": "code/title.fst",
+            "hash": "6C75CDB9B9A5AB6B24C726E07ACA8EDECCA1AFD43AFEB69C85FA1512A284362E"
+        },
+        {
+            "file": "code/title.tmd",
+            "hash": "862C2105A4E41CFF56031F4379012F739C00EB5F035897164E8F4314F2587CC7"
+        },
+        {
+            "file": "content/assets/shaders/cafe/banner.gsh",
+            "hash": "01E1F30F131793F8AA9032B682F73EC726985908123485B23151BB61E290448F"
+        },
+        {
+            "file": "content/assets/shaders/cafe/fade.gsh",
+            "hash": "E9E0C20987DE633505AB70F87DFA4D766F9FD5EBA53FC13E1CE3C518F5EABA47"
+        },
+        {
+            "file": "content/hif_000000.nfs",
+            "hash": "63329C062DD017822AD79C7BE33FB1B292655A1FEE31B3E45C8E6C7BDB24A0BE"
+        },
+        {
+            "file": "content/hif_000001.nfs",
+            "hash": "0559A87C290D2A5E9C6FD9E34CF28C19864B6B878A9BAFC5841845BCD547C1A4"
+        },
+        {
+            "file": "content/hif_000002.nfs",
+            "hash": "AC2C6C6071127B976889C4C32E7918A46C08C7BEA9D6BF46AB38F7925A501606"
+        },
+        {
+            "file": "content/hif_000003.nfs",
+            "hash": "75A90042051EDD60851928C607350BF67EE8D60BA3AFC939D2297BC3503E285D"
+        },
+        {
+            "file": "content/hif_000004.nfs",
+            "hash": "CEAAE6A65B2F987A89B2CC8E2167D5F8257145EF7E8E60EE5DFCBEF69FBAA0D8"
+        },
+        {
+            "file": "content/hif_000005.nfs",
+            "hash": "145EEC56E3CC0CAA0A289053B9DE0797FB0C05FCDFFDEB3F5C2A8FC0AF79DA88"
+        },
+        {
+            "file": "content/hif_000006.nfs",
+            "hash": "DCD3337201DC2E0246B717A905974BA474DF086B5B5966D2D6B282A637A08F4A"
+        },
+        {
+            "file": "content/hif_000007.nfs",
+            "hash": "BE5CBE736A82C423F66F6BD2F0BE39F862B4D30811B2D4B53EED779C0108B3A7"
+        },
+        {
+            "file": "content/hif_000008.nfs",
+            "hash": "E87AAE718B09B99FF8D2839B6A8CD5629CF457AACD8015910E5037C6F0445510"
+        },
+        {
+            "file": "content/hif_000009.nfs",
+            "hash": "64DA15F35C722A1BB8469AB59AA869962E99F23DF7E41707C8161322D2D693BC"
+        },
+        {
+            "file": "content/hif_000010.nfs",
+            "hash": "0BB3AA35C46CC68905E732FA2D5E8F0C346B29B8C07228395FC131A96DAE58B8"
+        },
+        {
+            "file": "content/hif_000011.nfs",
+            "hash": "6DBA21C83AA8F3513126B67B5C600FB1A75DCC69BAB4AD0D9DCA969986E6FAE5"
+        },
+        {
+            "file": "content/hif_000012.nfs",
+            "hash": "66B431992DB4C96883A2DC6E5EA7F25EDAA9AA0364045B9BDC6CD612784489A1"
+        },
+        {
+            "file": "content/hif_000013.nfs",
+            "hash": "D1E3FF81784E495C7FA5CE9168F33108F4D79E662DBFE45F61DCF3433428DEA0"
+        },
+        {
+            "file": "content/hif_000014.nfs",
+            "hash": "CF06E89A4CB8280E82F8F75F63C447A45DD54E49EF8BFB269107785A6A7E94EF"
+        },
+        {
+            "file": "content/hif_000015.nfs",
+            "hash": "CA0BA9928C51C8AF732E3453A93204B640F154EC60B1662858FB4E9F7F1692D5"
+        },
+        {
+            "file": "content/hif_000016.nfs",
+            "hash": "584C3AD0B7D76D20484E3B485953AF4857806715B2C25EE34062A1EC9DC25032"
+        },
+        {
+            "file": "content/hif_000017.nfs",
+            "hash": "B37EFE5CAA0D0659390C1B72F9D65DF8C232F353CFD43FB9E22B30D8126A9CC9"
+        },
+        {
+            "file": "content/hif_000018.nfs",
+            "hash": "073548ECAB7FA30E780EEA1F554FB6B3625683483AD639469A6750D4B05D9CE1"
+        },
+        {
+            "file": "content/hif_000019.nfs",
+            "hash": "B3364364918BD71131C962FB54A0E95931BE5EE953587DC6E3B6ECE501DA424F"
+        },
+        {
+            "file": "content/hif_000020.nfs",
+            "hash": "CC680D76E3952CA2377A1F693720A9E1EEF6DC8F0D698AF3EE2FCC4800759BB8"
+        },
+        {
+            "file": "content/hif_000021.nfs",
+            "hash": "B6C1B3C14F14764297915044BB44C11029BB4214C927855CDD990526E74AFBC1"
+        },
+        {
+            "file": "content/hif_000022.nfs",
+            "hash": "82634F42870477BE5B5B3F230237736F639FEC3EEED55EF5DB96C4E29BA0C0EC"
+        },
+        {
+            "file": "content/hif_000023.nfs",
+            "hash": "B4AF395CF58DC03A79841D7968F33B801FF9E02B9D340D03B8D5F3F5C13F1816"
+        },
+        {
+            "file": "content/hif_000024.nfs",
+            "hash": "54FE7876434BBC1854519BDE6E3699F2EA9F108A6B2077C4F616C45311BA8BDE"
+        },
+        {
+            "file": "content/hif_000025.nfs",
+            "hash": "77AA33D2E7EE43B237854710B5458B56D828A51522BA71E406D938D7B3F626FE"
+        },
+        {
+            "file": "content/hif_000026.nfs",
+            "hash": "3BA8ACE59F94940C6964554DB96879853C4E29C2A4FBEE1DC763E46F1D358C9A"
+        },
+        {
+            "file": "content/hif_000027.nfs",
+            "hash": "9E6CD4DBA59D921E52AF81FFBC8ADC7D37D164749DDDB20F8B5193F94FE0F862"
+        },
+        {
+            "file": "content/hif_000028.nfs",
+            "hash": "AD24E4139203E7F6411D9F6778288502F62EDBE6AF93A3C34241474656A1DB8D"
+        },
+        {
+            "file": "content/hif_000029.nfs",
+            "hash": "462B8E2CFCA7CA29D558811B6DCAC4368D95B3B78F6953A7133591800C6101A0"
+        },
+        {
+            "file": "meta/CERO_ja.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/CGSRR_zh.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/COB_en.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/ESRB_en.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/ESRB_fr.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/GRB_ko.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/Manual.bfma",
+            "hash": "FA7816986CB6A50A1030C4E376BECE6623D6BC3C5728944B4FC295578CEABD2F"
+        },
+        {
+            "file": "meta/OFLC_en.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_BBFC_en.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_Portugal_pt.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_de.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_en.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_es.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_fr.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_it.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_nl.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_pt.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_ru.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/RAR_ru.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/USK_de.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/bootDrcTex.tga",
+            "hash": "26485D70E55A271A22DAF1C84E2462DB1C385477F176578EA085E55A1D008502"
+        },
+        {
+            "file": "meta/bootLogoTex.tga",
+            "hash": "91B63D9C03F7F9153C8B9FC8179E1CCCB6F4AFC60204B988D91D1B5EFCEE4AA8"
+        },
+        {
+            "file": "meta/bootMovie.h264",
+            "hash": "069FD8C5713F4B23EA1098D2674BCC839E610BA844683BF532E1E6CB10642621"
+        },
+        {
+            "file": "meta/bootSound.btsnd",
+            "hash": "618E7A270C33FC7493CEB694B95C83CEBA083ED556C5D759ED2AC453AD09600C"
+        },
+        {
+            "file": "meta/bootTvTex.tga",
+            "hash": "4F2E316301EE7DFF605E9D1FECC86A31070F98ED7E65D951A8DEB77816FE8921"
+        },
+        {
+            "file": "meta/iconTex.tga",
+            "hash": "D6A41556C9B9A3C4B9F5AD245B3778DFF11A981229DE6940281A1E5C3761F4E8"
+        },
+        {
+            "file": "meta/meta.xml",
+            "hash": "573E8A8FBEBD172421D95DA32EBB81D3EB3DC414059DBCFAAF79A6C4CE42C8A2"
+        }
+    ]
+}

@@ -1,0 +1,215 @@
+{
+    "title_id": "000500301001420a",
+    "region": 4,
+    "version": 131,
+    "files": [
+        {
+            "file": "code/SQLite.rpl",
+            "hash": "7C3397F216B66EE756109682649004B32223A96B470DB03E51095ADAE129CB27"
+        },
+        {
+            "file": "code/app.xml",
+            "hash": "26A489FD5A0A3A8AC403FF00C93A63D92E14DE94FA40F90170CF953332EA4E2D"
+        },
+        {
+            "file": "code/cos.xml",
+            "hash": "F0B1F46AF53F66C721AC94AD4F6661725FCF88F1660442C06F4F601545CFA60D"
+        },
+        {
+            "file": "code/fdlibm.rpl",
+            "hash": "F5B83F1F0CBFCE0CC15FEECC0B09DD5B558EC3AE024E33E1AFB5FF18C6A21DF7"
+        },
+        {
+            "file": "code/libcairo.rpl",
+            "hash": "AE1A20A3311108207D24F96070EC42BEBFBD866EDA4DC75501B281A35B58E027"
+        },
+        {
+            "file": "code/libcurl.rpl",
+            "hash": "B9F3093784370142F3BE8F410955DB4BCB351EB8E9B7A37DDB0722D3287516C0"
+        },
+        {
+            "file": "code/libfont4_sdk20000.rpl",
+            "hash": "42B48E1D5BB69C1A22B36BB30A180D0B702FCA04CE674F2929D9166C31A8DFD3"
+        },
+        {
+            "file": "code/libicu4c.rpl",
+            "hash": "A9E099B19C09B7BE6D9A35FB5ADFCDA15EF53557745716C845F7A65E479002FF"
+        },
+        {
+            "file": "code/libjpeg.rpl",
+            "hash": "E1CAAD3AE38AB2BC4CAB34CFC595A43DDA3842673FDB9936F664D229E6D0F7F2"
+        },
+        {
+            "file": "code/libopenssl.rpl",
+            "hash": "79BEA71B802A2B3921E084C6A3EE9C84EA87C3461404DDBE84E96FFEFDBAE7E9"
+        },
+        {
+            "file": "code/libpixman.rpl",
+            "hash": "A203E52A14FD9079942FE43893C07204FD4AC7BFB3CE1A766B9F9DEB4A155C8D"
+        },
+        {
+            "file": "code/libpng.rpl",
+            "hash": "F08211B3DF1DA5E29510E92BB26F98320DA3C39CB03A5C611B16B41BA3D55998"
+        },
+        {
+            "file": "code/libwk_peer.rpl",
+            "hash": "10F901C6B36D99E5F33326039411E91766B2FBA0F50FEFC09D4650E1E8C6002E"
+        },
+        {
+            "file": "code/libwk_peer_access.rpl",
+            "hash": "556443DCF5B86AB743B06688C5CD2822C51FD4FACD3BCFACDDC501F73DC45191"
+        },
+        {
+            "file": "code/libwkc.rpl",
+            "hash": "EA5887595141BC21CF73D96CB0B1C1B7EAA633810001E194C2943B42517C5FC9"
+        },
+        {
+            "file": "code/libwkc_wiiu.rpl",
+            "hash": "EB4BDE7D2BC01D590298AE31943DA5C3DD2659C4B97D794079AB10185D5C0D01"
+        },
+        {
+            "file": "code/libxml2.rpl",
+            "hash": "43906CCA706D34FE914C3B624A7A8F2C5D5825094080212300BD4A82565BE237"
+        },
+        {
+            "file": "code/mvplayer.rpl",
+            "hash": "60EA8BB957B36354F4213A04514B7225DFEEB670FADF6609BC2C84C6BF7FE35E"
+        },
+        {
+            "file": "code/randgen.rpl",
+            "hash": "BED8D9C3CC4278C71456889ED5569A3D41F06436001DE4C2E818DE58652FEEDC"
+        },
+        {
+            "file": "code/title.fst",
+            "hash": "16C78683A217435C51C7EDF4312C2970ECB4969F54C24F8FDB1C064AC1B8F30C"
+        },
+        {
+            "file": "code/title.tmd",
+            "hash": "182CBDEAFCB971710F9BEBDB4796CFAC69FA5ED19E9A37056B3F923BF87C9DE8"
+        },
+        {
+            "file": "code/wave.rpx",
+            "hash": "17FC15284EB9D8B2A8BF3AED304D73303DD311BC9C12E1239DEF5E29BAA42D0D"
+        },
+        {
+            "file": "code/zlib.rpl",
+            "hash": "7DE6D3DB95335C31EF066D4979D2A2D607D75BC27EF672B62DF9DC05A152590A"
+        },
+        {
+            "file": "content/browser/MediaControls.css",
+            "hash": "6F8EB110761BDF0C3962C032DEA479F3D8A0433E3797DB5958FEA12825F52F91"
+        },
+        {
+            "file": "content/browser/Skin.dat",
+            "hash": "D39F1B402145C99EE1C93B83FA958738A48223E371C8F58C5917002AA4ECA301"
+        },
+        {
+            "file": "content/browser/UserCss.dat",
+            "hash": "29464E3ACDEB801B53461313D9BA21BF8AFE8081C2308B5A23EABF361C90E609"
+        },
+        {
+            "file": "content/browser/effective_tld_names.dat",
+            "hash": "991F8EED5D8110A465B956A0E2379D83B695A01FE300223D2167651DB3FCAF41"
+        },
+        {
+            "file": "content/browser/error.html",
+            "hash": "2EDB6E02E1529D0DB3A3E78799FC38CF26AC60B08D0757346F6593B62E1C28A5"
+        },
+        {
+            "file": "content/browser/rootca.pem",
+            "hash": "6859D7E7B73EE382ACF063D7A16E8D461D33DF01FEE96ED94FD7DA3C3D46FAB5"
+        },
+        {
+            "file": "content/initial.oma",
+            "hash": "F69985791FE3DFF4D354BB4BA9DD6DA1427BEA6A29BBA946E121366C112B8193"
+        },
+        {
+            "file": "content/layouts/bodies/AcsSettingBG.arc",
+            "hash": "219E2C27D2933294C68A3F85D80E22867C77EE30D8A36C49350943C94F2C46E4"
+        },
+        {
+            "file": "content/layouts/bodies/Mask.arc",
+            "hash": "704437D883394E6A2B2AA85F9CBB563C44B212C9503D673A17269F3A88FA0DB6"
+        },
+        {
+            "file": "content/layouts/bodies/WaveCurtain.arc",
+            "hash": "772F4CFC0295B1337F5A0293DFF7553FA0C4DF97891EF98714F7B3F2261AAA2D"
+        },
+        {
+            "file": "content/layouts/bodies/dialog/DTextLoad.arc",
+            "hash": "5DF421E02536DDA6D0A0BD215251E51F6AFDCECF83430EFD4A1FFAA91A35732B"
+        },
+        {
+            "file": "content/layouts/parts/Boot_Olive.arc",
+            "hash": "6146F41A2DD05ADEB7A3645420AEE706C9A915905C5631B5A222694280568C2B"
+        },
+        {
+            "file": "content/layouts/parts/BtnBasic_00.arc",
+            "hash": "104B23D71F8678953639BDFBFA15BDD6E990ACEE4664B670B1D3535C2DD6E9C0"
+        },
+        {
+            "file": "content/layouts/parts/CanvasMpInline.arc",
+            "hash": "8DEAE67DDD6F69FD44D93A04E55B7CC40FC33B2BF508FDEDE482688CBC06F063"
+        },
+        {
+            "file": "content/layouts/parts/SelectFrame.arc",
+            "hash": "34A8DC5BCD40C579B0C22F7BA9A312C2EA36BC57870A6BDF3EAA9D580B587AE3"
+        },
+        {
+            "file": "content/layouts/parts/WaveCurtain.arc",
+            "hash": "3D58002B636BF512DEB40E625B108FA4850B62A3ADC91F3CB91BB021AFFB134E"
+        },
+        {
+            "file": "content/layouts/parts/WdwText2Line.arc",
+            "hash": "3D594965341F40121610D271A9901CAA4F80144197E83B5620D6BA120E899434"
+        },
+        {
+            "file": "content/mediaplayer/AudioOnly.gtx",
+            "hash": "EF8E1A55FCD025D387EFB8300F9EC8E3417167E2EF68A23731A1B98A29CAFBB4"
+        },
+        {
+            "file": "content/preload.oma",
+            "hash": "1AE947122C443D55CE977C853A0F7DFFC7E11C7B14D5DC861DC4501AC30E73FE"
+        },
+        {
+            "file": "content/sound/stream/BGM_WOOD_BOOT_0.dspadpcm.bfstm",
+            "hash": "73472D747DBE921779929AF35FE5BBA804785BDC27038A76D67B23B412B3FDB4"
+        },
+        {
+            "file": "content/sound/stream/BGM_WOOD_MAIN.dspadpcm.bfstm",
+            "hash": "3362A66B059532875AAB9A7C2FB31C071E36324199722C06370FC82C857CE8BD"
+        },
+        {
+            "file": "content/sound/stream/BGM_WOOD_SETTING.dspadpcm.bfstm",
+            "hash": "C62FE591E2F58218765F1FC71C2646D7CC45EE8CE2B812F7C05A359B8444F237"
+        },
+        {
+            "file": "content/sound/wiiu_sounddata.bfsar",
+            "hash": "C8E5B0069032DC3E52DD062FC34EEE5828DEAE4AD8572E0FB6ABC1AFDD30E684"
+        },
+        {
+            "file": "meta/bootDrcTex.tga",
+            "hash": "9E02028B817F1C0DF90B2CE02C3F828E8E8711680FB6788580EBAE27251729D3"
+        },
+        {
+            "file": "meta/bootLogoTex.tga",
+            "hash": "91B63D9C03F7F9153C8B9FC8179E1CCCB6F4AFC60204B988D91D1B5EFCEE4AA8"
+        },
+        {
+            "file": "meta/bootMovie.h264",
+            "hash": "069FD8C5713F4B23EA1098D2674BCC839E610BA844683BF532E1E6CB10642621"
+        },
+        {
+            "file": "meta/bootTvTex.tga",
+            "hash": "ADDA05804635F8DD639CF70C97B3212BE5EA50C7D020C6BC4853BF82230FE9AF"
+        },
+        {
+            "file": "meta/iconTex.tga",
+            "hash": "0A843251306ED9A5C5C547A8F35140B5CF6866BBB736DE7E63E373786AD566B3"
+        },
+        {
+            "file": "meta/meta.xml",
+            "hash": "323374E1F5D512EED0DF87063326978F374DE6D6CD8D0E8B45DE42B0C6E80459"
+        }
+    ]
+}

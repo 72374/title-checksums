@@ -1,0 +1,419 @@
+{
+    "title_id": "000500101004a200",
+    "region": 4,
+    "version": 50,
+    "files": [
+        {
+            "file": "code/app.xml",
+            "hash": "FAB4C5407405BFADBC81FBF086DB1D2465891FA783E7C59817B2E22182B7FD57"
+        },
+        {
+            "file": "code/cos.xml",
+            "hash": "B8635FA74B043FE928206AC31B32C2CBB687F89CAE57FA87021A135C30CA542D"
+        },
+        {
+            "file": "code/ffl_app.rpx",
+            "hash": "B7F71CFB651BBCB9C1A1546546E547C52F154A3C8B9645A43CE0360858C7D72E"
+        },
+        {
+            "file": "code/title.fst",
+            "hash": "CAA6B1EF141F996600717AAE07FD283C553957FFDD39C3E7FA6135123E9EC3F6"
+        },
+        {
+            "file": "code/title.tmd",
+            "hash": "D1CBE84CD5101EBAEE7F381410C9305142D648477090F2E31634DE34C430B194"
+        },
+        {
+            "file": "content/arcboot/boot.sgarc.cmp",
+            "hash": "05573A9C7562A30D269207A7CAC733C3894EE8FD3CEC164CA7719C28EE4BF6DD"
+        },
+        {
+            "file": "content/arclayout/layout.sgarc.cmp",
+            "hash": "783391DD089F8438CCC5F8640AB1246FC65911A212F06C78A8E9DCA8D57C9650"
+        },
+        {
+            "file": "content/arcmain/main.sgarc.cmp",
+            "hash": "E07193794A610020715B8AA165E9D4C80BF811D36FF3499357BD747FE5909CDC"
+        },
+        {
+            "file": "content/ffl/Compressor.gsh",
+            "hash": "5CD2C995A683B5A6D5ADD8DA72F305CEB28C935E3869D8BAD31DD5F082ED0195"
+        },
+        {
+            "file": "content/ffl/FFLLetterList.bin",
+            "hash": "C2F022F01E99432304311F0DD4877327DBF633A7F835A16C5C37758EA6B369DD"
+        },
+        {
+            "file": "content/ffl/shader/FFLDefaultShader.gsh",
+            "hash": "C7870364106FD0BA232E1AA72452778E82D7E7DA4E8769FA8B57C32A36A06169"
+        },
+        {
+            "file": "content/ffl/shader/FFLShader.gsh",
+            "hash": "6461CE017AFDC4D434BD2DAEE600AF19FDF4E6A699B0B971139322A45EF97F0B"
+        },
+        {
+            "file": "content/ffsd/Mii01.ffsd",
+            "hash": "3F0AABE9E2B8F447CDB7AE28EC857DD72ADA106758F76B703B33842EB9BC7FD3"
+        },
+        {
+            "file": "content/ffsd/Mii02.ffsd",
+            "hash": "C93B7B8472944EB03C24CF2A3C1F408F96918786A495CDEC4D83CFD6F44AB68F"
+        },
+        {
+            "file": "content/ffsd/Mii03.ffsd",
+            "hash": "E1C83FCB07A57A9095A1AEBF1478CEEB91F1E16D9B6E57A7C4D542AEC5AFAD85"
+        },
+        {
+            "file": "content/ffsd/Mii04.ffsd",
+            "hash": "C4410BF8C7C0BE76E4EAF1A5C5939D6061042AD44479A56294370BDCD6C05698"
+        },
+        {
+            "file": "content/ffsd/Mii05.ffsd",
+            "hash": "BE3B8CF0215627B78CF61E8127D3267A7B793ADB120E36277E7EBC4F7F13EEA6"
+        },
+        {
+            "file": "content/ffsd/Mii06.ffsd",
+            "hash": "F4EC2E79A544C04B70494FA26487E2301A7CA05B31C5C7A200C57B68B1AC09CC"
+        },
+        {
+            "file": "content/gsh/copy.gsh",
+            "hash": "7EDDF8F3B5E5F6FD897B9F06373536A32949926047BDE9AA9714466A18750A62"
+        },
+        {
+            "file": "content/gsh/edge_color_correction.gsh",
+            "hash": "4A1B705D338F9B2F369D8588F4C30094C2BE87F5E23E70EB577204B064F29E0F"
+        },
+        {
+            "file": "content/gsh/mii_outline.gsh",
+            "hash": "5AEC49112C739126C1FE73579EBC6A2601F0B578E96ACDAEFA389AE06F41E8A5"
+        },
+        {
+            "file": "content/gsh/translucent.gsh",
+            "hash": "2EFB3A2A1A3194061749A8088BEB1217C142E716EE7E4C6199AEF54A03F6219E"
+        },
+        {
+            "file": "content/mpf/data/mpfConfig.txt",
+            "hash": "83A486A9206CDF017C87526C84C4DC97FDA89BACA0EEBC5A0045D8A0BFDB509D"
+        },
+        {
+            "file": "content/mpf/data/mpfConfigCTR.txt",
+            "hash": "39F9C37D8E7E6F307E79BE8FABEB40B851DE1F44099A234C3A448E70FE1AAD90"
+        },
+        {
+            "file": "content/mpf/data/mpfData.data",
+            "hash": "B261B9FF5A741C6A6D0360480BDD38CC0DBD1CF608F2C803960F27DAE6C70893"
+        },
+        {
+            "file": "content/mpf/data/nigaoeParts/eye/eye00.gtx",
+            "hash": "52B54251D42DAC24F79447F20ECF075DDF49672185C0D91755AA090521B0A55A"
+        },
+        {
+            "file": "content/mpf/data/nigaoeParts/eye/eye02.gtx",
+            "hash": "E8A432CBFBEE8ABD21C1D2C25CB7848E41AD321685649A5C4E5B3B9DD81AF234"
+        },
+        {
+            "file": "content/mpf/data/nigaoeParts/eye/eye02_brown.gtx",
+            "hash": "2541A36612EF131241E87AC885911E404925B81DC791357374734D7A8FAE8FD5"
+        },
+        {
+            "file": "content/mpf/data/nigaoeParts/eye/eye04.gtx",
+            "hash": "E7FBC44FA9C1CC5BC0F3652AE117542DC9046CD22E5F9C6EBA8757D097141613"
+        },
+        {
+            "file": "content/mpf/data/nigaoeParts/eye/eye05.gtx",
+            "hash": "3CDD9B9AB7A706A8339C4C0307941AB32C3EFF9C10793773CCAD0F81FF3AD323"
+        },
+        {
+            "file": "content/mpf/data/nigaoeParts/eye/eye08.gtx",
+            "hash": "DFD61D046043A2A590061560EB6D3ED8B3108D22080DADF27A0AE2DB5E07DF23"
+        },
+        {
+            "file": "content/mpf/data/nigaoeParts/eye/eye12.gtx",
+            "hash": "4DB5EB605A44C225D0852675C96A60CC80A58AB6344DFA41DB02F2039EB58237"
+        },
+        {
+            "file": "content/mpf/data/nigaoeParts/eye/eye16.gtx",
+            "hash": "E2265788A2C414227DA80F791E2FB180A36BDC3C6E59FDB9445B1BE3DABC16D8"
+        },
+        {
+            "file": "content/mpf/data/nigaoeParts/eye/eye19.gtx",
+            "hash": "F755D287C47B1D1B38500C04C58DC4AB3A068D7C578BEBA304CB2E33DEF55B39"
+        },
+        {
+            "file": "content/mpf/data/nigaoeParts/eye/eye23.gtx",
+            "hash": "79F78491D79F4B660BF53E29EFD6715DCB99A2E690226E6F8178E9CEC2083120"
+        },
+        {
+            "file": "content/mpf/data/nigaoeParts/eye/eye24.gtx",
+            "hash": "48872FD1040B2C026958E6EF08399EC34D2FBA58E08E57B66026A31494E18B50"
+        },
+        {
+            "file": "content/mpf/data/nigaoeParts/eye/eye25.gtx",
+            "hash": "1DEF5EB82EEE01A140D6EE98AF08F3C2FFBD37E58C8302486D3C76F8CE18F513"
+        },
+        {
+            "file": "content/mpf/data/nigaoeParts/eye/eye26.gtx",
+            "hash": "B20AB445B7D46A2B99B1B2740C5545E07A499A03C845183C17ECEE75BDA85226"
+        },
+        {
+            "file": "content/mpf/data/nigaoeParts/eye/eye27.gtx",
+            "hash": "38BC6D57B652C821476BEFD68EADD90CE5DF9BFFBA1CBC0D30848E8942D297E1"
+        },
+        {
+            "file": "content/mpf/data/nigaoeParts/eye/eye29.gtx",
+            "hash": "FA36BE6303086A02B6B338BB04E964C0B3207CA12C3E4E7AE90D6629A09BFA9F"
+        },
+        {
+            "file": "content/mpf/data/nigaoeParts/eye/eye30.gtx",
+            "hash": "09BE9ADB055A20DA4BE50C43224F006F32C72BC572382EC8849D281B2A3B13B6"
+        },
+        {
+            "file": "content/mpf/data/nigaoeParts/eye/eye31.gtx",
+            "hash": "887D8B279CD83EBF285692525A69E8EFAE38ED5747F91279D29A4CA4CCF1131D"
+        },
+        {
+            "file": "content/mpf/data/nigaoeParts/eye/eye32.gtx",
+            "hash": "B53AD30FCBE667E54E9A8E4170BD1FC7642587EC720DF114C4B30022DD5C6F35"
+        },
+        {
+            "file": "content/mpf/data/nigaoeParts/eye/eye33.gtx",
+            "hash": "1C1BD1048D6D096CCE96330678A363423FCE89B97EFAD58D590911080C55D62E"
+        },
+        {
+            "file": "content/mpf/data/nigaoeParts/eye/eye36.gtx",
+            "hash": "094BD6B6702CF7CB5499F4C65A8FFD318A5D96857E9B2506E33FC6586D260BFC"
+        },
+        {
+            "file": "content/mpf/data/nigaoeParts/eye/eye37.gtx",
+            "hash": "6DAB9B2335268A13BA26E99ADE8D8395720EC6520633834E8E4F55CB9AE97CBF"
+        },
+        {
+            "file": "content/mpf/data/nigaoeParts/eye/eye48.gtx",
+            "hash": "0060ABB0580EF5377ABD4722B2A12AB70791AA0CE97AD1BA4F7D34661D7EF27A"
+        },
+        {
+            "file": "content/mpf/data/nigaoeParts/eye/eye58.gtx",
+            "hash": "3B15A5A91103CF77C4D078EABE006598166CD5740109AF12A8D856DA98681593"
+        },
+        {
+            "file": "content/mpf/data/nigaoeParts/eyebrow/eyebrow00.gtx",
+            "hash": "3D4295721D4A4B09493588BB3D915DEC738A51FA45F77A40E20D8A6D8641DC04"
+        },
+        {
+            "file": "content/mpf/data/nigaoeParts/eyebrow/eyebrow01.gtx",
+            "hash": "BCC58646C684A5CF8F7AA82342D9D0BEC528ECF8881BE822EF5B6F5E98AC6A73"
+        },
+        {
+            "file": "content/mpf/data/nigaoeParts/eyebrow/eyebrow03.gtx",
+            "hash": "1F9BBA95C3F0D0CE4CADAFEAAF1F7975ECCEE0E5B59F985D531AAA37E24D6F4D"
+        },
+        {
+            "file": "content/mpf/data/nigaoeParts/eyebrow/eyebrow06.gtx",
+            "hash": "A4784BDDA8799B8B0CE901F1DF23EB239B1309681AFF5CB7FC40D928E51B049B"
+        },
+        {
+            "file": "content/mpf/data/nigaoeParts/eyebrow/eyebrow09.gtx",
+            "hash": "B8D192F31F2D809D926A62E82C05498884C9318CBD2F663317DD044B4A06598E"
+        },
+        {
+            "file": "content/mpf/data/nigaoeParts/eyebrow/eyebrow11.gtx",
+            "hash": "035FE895986AEF6379879BBC0619800AA3E14BCFF02F38E904289B987BC9A3C9"
+        },
+        {
+            "file": "content/mpf/data/nigaoeParts/eyebrow/eyebrow12.gtx",
+            "hash": "CED44767B17C4104751AC210798449D379A2588A8F4E05FD24D0C6505ABB58E9"
+        },
+        {
+            "file": "content/mpf/data/nigaoeParts/eyebrow/eyebrow15.gtx",
+            "hash": "C4F213B2B4FDC1B1283B0AE9BF935732D32256D40CA8EDB207F65BBB22E5483E"
+        },
+        {
+            "file": "content/mpf/data/nigaoeParts/eyebrow/eyebrow16.gtx",
+            "hash": "E6084A6DAC63D603CA13B52B49E58350A56237BC043D13E744DD3399E7353B64"
+        },
+        {
+            "file": "content/mpf/data/nigaoeParts/eyebrow/eyebrow19.gtx",
+            "hash": "7C9B3767E6DF2A1B1F684EFB1169BE5671DEE53DFB7637703305CB58BF04272D"
+        },
+        {
+            "file": "content/mpf/data/nigaoeParts/mouth/mouth00.gtx",
+            "hash": "83FFD23CA449B89D31DE4768582FE334E26805EB515ACDEABE3C05A4BAC48796"
+        },
+        {
+            "file": "content/mpf/data/nigaoeParts/mouth/mouth01.gtx",
+            "hash": "1D002DFD1D3A84C4599D331AAC857570CBD17993C158630370AD705A7BBC3A93"
+        },
+        {
+            "file": "content/mpf/data/nigaoeParts/mouth/mouth05.gtx",
+            "hash": "67DA85C1DF6EDE548D2DBA0FAA09AADF2BB382ABF9B5083F3C8AD0643F62D254"
+        },
+        {
+            "file": "content/mpf/data/nigaoeParts/mouth/mouth08.gtx",
+            "hash": "677E2C44F73A69BCC1767FB9377DAB09A995B3ED4F64BF4639621F670A9FCBAF"
+        },
+        {
+            "file": "content/mpf/data/nigaoeParts/mouth/mouth09.gtx",
+            "hash": "0DED52B1994D5F951F4541616E8CDBDB4B0A7497712E2518EF4FC196193443AD"
+        },
+        {
+            "file": "content/mpf/data/nigaoeParts/mouth/mouth10.gtx",
+            "hash": "C8BCE49CBA711A24106886A3240CCF2D926B7E15D022494005CE5B068A2B1DBB"
+        },
+        {
+            "file": "content/mpf/data/nigaoeParts/mouth/mouth18.gtx",
+            "hash": "863CABE75BA1E10F09DDCFFAF7769A2333C5E35C7CE9D0B2AC8C95EB043AC91C"
+        },
+        {
+            "file": "content/mpf/data/nigaoeParts/mouth/mouth19.gtx",
+            "hash": "D0C7D675EF96436660ED09F7EA77E5C477E47642CB1FD7E4E798AE21232FF5CE"
+        },
+        {
+            "file": "content/mpf/data/nigaoeParts/mouth/mouth21.gtx",
+            "hash": "4D4A4E55A67F2F4CE54CF36CF27B6DC4A66B6771C686C34ACCA3B6E7F7C9A1D6"
+        },
+        {
+            "file": "content/mpf/data/nigaoeParts/mouth/mouth23.gtx",
+            "hash": "36AD943ABF3ACA7E0C94C56842B6BECF2037BED9C8491BCD9E449A8BCB54137D"
+        },
+        {
+            "file": "content/mpf/data/nigaoeParts/mouth/mouth24.gtx",
+            "hash": "57086C04259EFADD89568D65D015C08512B0E2425A547FD4294FD1656693D931"
+        },
+        {
+            "file": "content/mpf/data/nigaoeParts/mouth/mouth30.gtx",
+            "hash": "762A738409D68701A3AAC33AE794B3DCF119A6388755FE4AA5BA9AB99F3F036B"
+        },
+        {
+            "file": "content/mpf/data/nigaoeParts/mouth/mouth33.gtx",
+            "hash": "E93426FF6F621D6E2EED5FC460DE30A564D2A553947373D7946CA9B29B11387E"
+        },
+        {
+            "file": "content/mpf/data/nigaoeParts/nose/nose01.gtx",
+            "hash": "5FC9860A7527B71357D11DE0FEC2A4BE2620F0CC0D1412CB9225B084739DEF11"
+        },
+        {
+            "file": "content/mpf/data/nigaoeParts/nose/nose03.gtx",
+            "hash": "6814CE5705BF931849F92A34A1EBECE6FA62866EB2AC610317306C2BA9DCA52D"
+        },
+        {
+            "file": "content/mpf/data/nigaoeParts/nose/nose05.gtx",
+            "hash": "0E8730BD05B540B78BA7E1B6EA122AD943835A92BBFE897AC789818959210C54"
+        },
+        {
+            "file": "content/mpf/data/nigaoeParts/nose/nose06.gtx",
+            "hash": "84D02547CCAB62BD7AD112CA602012A90896F8FABDB81989C02D309097319D5A"
+        },
+        {
+            "file": "content/mpf/data/nigaoeParts/nose/nose07.gtx",
+            "hash": "AFA6B394CFADC01F0F79448B4EAB5EB8149D35E9AF429BE016E7A784CC73B12C"
+        },
+        {
+            "file": "content/mpf/data/nigaoeParts/nose/nose09.gtx",
+            "hash": "618765207EFC04FD773A52F8652BFEE17326F5ABC2B6DF2340CE852E797201AD"
+        },
+        {
+            "file": "content/mpf/data/nigaoeParts/nose/nose10.gtx",
+            "hash": "C0B02355EA1EA6A1B3855C74C17CA47BEA0E9B2BB6A5F46D8847CB9FA8744774"
+        },
+        {
+            "file": "content/mpf/data/nigaoeParts/nose/nose12.gtx",
+            "hash": "6F80C84F1BD240EED08F475B86653B8544CC25AFB00215323D672E5F2B8BD8F6"
+        },
+        {
+            "file": "content/mpf/data/nigaoeParts/nose/nose13.gtx",
+            "hash": "2E0CFC6A4EFCE02957EC37C5C84FAB72EDF03CCD051132798AD784B2707A8F7C"
+        },
+        {
+            "file": "content/mpf/data/nigaoeParts/nose/nose15.gtx",
+            "hash": "ADDA65957FD9BE91550001B3EA70265B6E978CFEF00557487370978015C953C0"
+        },
+        {
+            "file": "content/mpf/data/nigaoeParts/nose/nose16.gtx",
+            "hash": "28E2FB87C326E2E3E7E7337A6AA0101371BD4B3F78B1BE370CA70678AC3058F4"
+        },
+        {
+            "file": "content/mpf/data/nigaoeParts/nose/nose17.gtx",
+            "hash": "E29F2D04645EFDC8678A48A6AD6582749C916EC35F1A72630D37A283164921E1"
+        },
+        {
+            "file": "content/shader/lyt/lyt_BuildinShader.gsh",
+            "hash": "AB01EC2F751C6C26807E404E2CD8671CB3EE965213CC09C6DDF1F673C1B75C56"
+        },
+        {
+            "file": "content/shader/simple/nv12decode.gsh",
+            "hash": "24A465A4867EEDF6C72753BFC9C00D49D0AFB74F6E03B470879F435A402D1D91"
+        },
+        {
+            "file": "content/shader/sys/font_BuildinShader.gsh",
+            "hash": "B43C0EEF8C1BE9A52D316812BF3804AB72D268BF177629707EDA1B74DADFAB46"
+        },
+        {
+            "file": "content/sound/stream/BGM_STR_BARISTA_ACS_SUGAR_DRC.dspadpcm.bfstm",
+            "hash": "00BF6EC566D1FDD9B9EE4504D9010D2DCE4B3CA2CE4861398B06717E62610C26"
+        },
+        {
+            "file": "content/sound/stream/BGM_STR_BARISTA_ACS_SUGAR_TV.dspadpcm.bfstm",
+            "hash": "E27704EC29982766E1EF65A19BFE93B3071542D5D4C61C1CA73CB1C86BA8BCD1"
+        },
+        {
+            "file": "content/sound/stream/BGM_STR_BOOT_DRC.dspadpcm.bfstm",
+            "hash": "9BEBD66DF6B133F2DB9C701AE3E5DA7F4199134DC9FBF491BEDC6F6C5BEABC32"
+        },
+        {
+            "file": "content/sound/stream/BGM_STR_BOOT_TV.dspadpcm.bfstm",
+            "hash": "FD60A948DD610C236FF5E444B949AAE366A390782F88679CCECF406C48BDA312"
+        },
+        {
+            "file": "content/sound/stream/BGM_STR_MII_EDIT_ORCH_DRC.dspadpcm.bfstm",
+            "hash": "06DE97BF20DA3786580C17385947DC143829970BA64D9A6E9FBF34A9C9A3B420"
+        },
+        {
+            "file": "content/sound/stream/BGM_STR_MII_EDIT_ORCH_TV.dspadpcm.bfstm",
+            "hash": "12B2ACA488C1489AB80582A4299677A910B210EEAB8D30E02DEB15D8922FE15B"
+        },
+        {
+            "file": "content/sound/stream/BGM_STR_TOP_MENU.dspadpcm.bfstm",
+            "hash": "27285BE90D402D3D95DD7CA9E920E14D1C371077752B0540F1C631B37CAF39EA"
+        },
+        {
+            "file": "content/sound/stream/BGM_STR_TOP_MENU_DRC.dspadpcm.bfstm",
+            "hash": "BAB6E6DBC436B2C030FCEB8F901DEA4EF9055498D233B469980B93692F0690C9"
+        },
+        {
+            "file": "content/sound/sugar.bfsar",
+            "hash": "FD9567F18886F1655493B6350228EA843A0D5B1413AFEB767999309FE530FD8E"
+        },
+        {
+            "file": "meta/Manual.bfma",
+            "hash": "C79E0E7C9C9F7B91DE4E22F9CB076A51176C1FCD85F77A809FA5B1CF4F2451C5"
+        },
+        {
+            "file": "meta/bootDrcTex.tga",
+            "hash": "9E02028B817F1C0DF90B2CE02C3F828E8E8711680FB6788580EBAE27251729D3"
+        },
+        {
+            "file": "meta/bootLogoTex.tga",
+            "hash": "91B63D9C03F7F9153C8B9FC8179E1CCCB6F4AFC60204B988D91D1B5EFCEE4AA8"
+        },
+        {
+            "file": "meta/bootMovie.h264",
+            "hash": "069FD8C5713F4B23EA1098D2674BCC839E610BA844683BF532E1E6CB10642621"
+        },
+        {
+            "file": "meta/bootSound.btsnd",
+            "hash": "646B01A4953CC1A4482AD691E6979A08513971BD1EED6E888CA4DE3C59CEEA92"
+        },
+        {
+            "file": "meta/bootTvTex.tga",
+            "hash": "ADDA05804635F8DD639CF70C97B3212BE5EA50C7D020C6BC4853BF82230FE9AF"
+        },
+        {
+            "file": "meta/iconTex.tga",
+            "hash": "2981DA263E491AC936F6EDD10242C7DAD4CA94F0B00E088CBE99FC1B7E2E3988"
+        },
+        {
+            "file": "meta/meta.xml",
+            "hash": "79B8765462FEAD6F7E20947C580780838DDD694C380132CE6B31FDE1B2B3CFA2"
+        }
+    ]
+}

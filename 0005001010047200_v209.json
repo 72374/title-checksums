@@ -1,0 +1,119 @@
+{
+    "title_id": "0005001010047200",
+    "region": 4,
+    "version": 209,
+    "files": [
+        {
+            "file": "code/app.xml",
+            "hash": "C289BEBD8B7DFC0FC0F720A8619D3142190805E6A7C8B5E059FC63153DE66D90"
+        },
+        {
+            "file": "code/cos.xml",
+            "hash": "168957E38449721F72DD647B9EE59EB7D863E768150D64E4226123762CFD1D82"
+        },
+        {
+            "file": "code/preload.txt",
+            "hash": "B4E28D445514F88FC3C6E448A63358177886B8112172F5962566AB47151EE09B"
+        },
+        {
+            "file": "code/set.rpx",
+            "hash": "1923079B7F0FE27C2213473F7D3FBA1C82065FC85FC0C655F68A5C9663FA301B"
+        },
+        {
+            "file": "code/title.fst",
+            "hash": "C7E04E9EC35B4F98331FE50DBAEBAC3677528AA02225FE67EF0956E658C6EDB3"
+        },
+        {
+            "file": "code/title.tmd",
+            "hash": "E5359480B43AD4B348AAC2630A54C3F78A1518458FF45D42E0F7DD7EC4F0E441"
+        },
+        {
+            "file": "content/Common/Package/Set.pack",
+            "hash": "C163CF03397B8C4BD4B0154409660D4A78CA706A3D15967ADFA5B139A2DB4B26"
+        },
+        {
+            "file": "content/Common/Package/Set2.pack",
+            "hash": "359ACEF4B0D9251BAB12D03C9A4763C78AE7F30CB72C5C256D87C627F413B755"
+        },
+        {
+            "file": "content/Common/Sound/Set/cafe_barista_set.bfsar",
+            "hash": "219260DE58336D1FCBB40E3A70B56B389A0E7877FB89A7C479911DA0B7014ECF"
+        },
+        {
+            "file": "content/Common/Sound/Set/stream/BGM_SET_ACS.bfstm",
+            "hash": "DFCC7D71E28302581B41B624A6E512CC24BB9C0039CA676075F93E14EB49FD32"
+        },
+        {
+            "file": "content/Common/System/RegionLang.txt",
+            "hash": "029B9AE1CB01A93D95862392AB96885980091019D7DBD559A35F575CD5FFA7AF"
+        },
+        {
+            "file": "content/Common/System/revision.txt",
+            "hash": "26173B4775FEA948E5DE329261A211D63B6A7A3EF10A228C0DB1EE2AE6B8D4E0"
+        },
+        {
+            "file": "content/Common/System/timeStamp.txt",
+            "hash": "D79F3D45EC98A75930586222A13092C929DE89FACD8CE94B41866C77885CDA3C"
+        },
+        {
+            "file": "content/Eu/Model/ConfigTvCap_Eu.szs",
+            "hash": "711345373A374CB2D69E2FA18EDCB40E9B4B2589A196E84643E1BC26CEBE87A8"
+        },
+        {
+            "file": "content/EuDutch/Message/AllMessage.szs",
+            "hash": "88F552FEA430F1296AA7B0EEDA54135F353D1ABF7A87F6354643C118168737CD"
+        },
+        {
+            "file": "content/EuEnglish/Message/AllMessage.szs",
+            "hash": "1EC6F0E7733F8C71914C0BB053AFBBB297461D70D63D191D699E1B33158C1B54"
+        },
+        {
+            "file": "content/EuFrench/Message/AllMessage.szs",
+            "hash": "D0EF8D744197299F4294C03A35C47A23B068475509F8F40172EF991532C1DFDE"
+        },
+        {
+            "file": "content/EuGerman/Message/AllMessage.szs",
+            "hash": "171A4F38C0CAE7B1FA8CD09271659AB65BAA279EF098EF3CC72CEDE061FC5CE8"
+        },
+        {
+            "file": "content/EuItalian/Message/AllMessage.szs",
+            "hash": "961B160F3CD974EA0205720F54B434F3EDA18C2D13FB5A1835CA938DCA5F6098"
+        },
+        {
+            "file": "content/EuPortuguese/Message/AllMessage.szs",
+            "hash": "2D3FB500C4FC7B1E23CBA5EFBDECB7D8AAA2964BE746BD6A463CABB24ED43732"
+        },
+        {
+            "file": "content/EuRussian/Message/AllMessage.szs",
+            "hash": "9B4FCFE2B9407D45AB83F24328A2E30E54C6AB9E39D1D2E5BEDC151A0EC62977"
+        },
+        {
+            "file": "content/EuSpanish/Message/AllMessage.szs",
+            "hash": "C8F51D05FB482E0D7C27D0DF3338E84530463892226FA1F71360F14494EF7D11"
+        },
+        {
+            "file": "meta/bootDrcTex.tga",
+            "hash": "9E02028B817F1C0DF90B2CE02C3F828E8E8711680FB6788580EBAE27251729D3"
+        },
+        {
+            "file": "meta/bootLogoTex.tga",
+            "hash": "91B63D9C03F7F9153C8B9FC8179E1CCCB6F4AFC60204B988D91D1B5EFCEE4AA8"
+        },
+        {
+            "file": "meta/bootMovie.h264",
+            "hash": "069FD8C5713F4B23EA1098D2674BCC839E610BA844683BF532E1E6CB10642621"
+        },
+        {
+            "file": "meta/bootTvTex.tga",
+            "hash": "ADDA05804635F8DD639CF70C97B3212BE5EA50C7D020C6BC4853BF82230FE9AF"
+        },
+        {
+            "file": "meta/iconTex.tga",
+            "hash": "77D376582109482354CFA4D632704D3015F10A990AD86E6A4E9D9EC577C24AE5"
+        },
+        {
+            "file": "meta/meta.xml",
+            "hash": "6D6566882A8C17AA5FA7B40AD72ADD84D551E69C2355D48E2785495AA45DB0BA"
+        }
+    ]
+}

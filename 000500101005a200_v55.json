@@ -1,0 +1,395 @@
+{
+    "title_id": "000500101005a200",
+    "region": 4,
+    "version": 55,
+    "files": [
+        {
+            "file": "code/app.xml",
+            "hash": "2DF13C22F75420D3D6EBFC23DDDA0147B6485FD95D6F6BF3584AFBCEA0524FB3"
+        },
+        {
+            "file": "code/cos.xml",
+            "hash": "B76014BE0697623A8152DEC56D559DFCE14C5E333D0E8CED3EAEDD7AA0592380"
+        },
+        {
+            "file": "code/doors.rpx",
+            "hash": "85E5C60732E6479F7572A91C1CB7C83C05F5C7687210F22E277C21684AC6968C"
+        },
+        {
+            "file": "code/title.fst",
+            "hash": "3EB0DFF1F6F10B414A39CF7815FCA767466619884972975332BCB7B5A73B6581"
+        },
+        {
+            "file": "code/title.tmd",
+            "hash": "F0D77FC3C513095A43865AF3F6B7DFAEA8B962DF17FD9FBE5FD70B687C4E7ADD"
+        },
+        {
+            "file": "content/art/Audio/doors.bfsar",
+            "hash": "599A216B77213157B260DB197847946EDF7E17188426F91E9204BFA49286CFEB"
+        },
+        {
+            "file": "content/art/Audio/stream/BGM_DOORS_BOOT_TV.dspadpcm.bfstm",
+            "hash": "B6EEED47E0C60FE7C7A69499C01AB790627CC384C62CD609DE400DF36F9F13AC"
+        },
+        {
+            "file": "content/art/Audio/stream/BGM_DOORS_CONNECTING_RECIEVE_TV.dspadpcm.bfstm",
+            "hash": "4B0585BC2BA57CAF586E81D5C962F3503C1FDC6CF393FAA7C71CF81B959EE64F"
+        },
+        {
+            "file": "content/art/Audio/stream/BGM_DOORS_CONNECTING_TV.dspadpcm.bfstm",
+            "hash": "05A381335235959D2342A225800E843CA0EA1BF6A547B1041280093D5F9FDF71"
+        },
+        {
+            "file": "content/art/Audio/stream/BGM_DOORS_CONNECTING_WATER_TV.dspadpcm.bfstm",
+            "hash": "19022B72861F5DDF593B3E8D7D8917398822B53D164A5CF881CA0F120D254FA6"
+        },
+        {
+            "file": "content/art/Audio/stream/DOORS_GOODBYE_TV.dspadpcm.bfstm",
+            "hash": "1DDCDA9A8FD4D2594544F9C7DBC04243C01F14F16176FB23C146CB327CBDB91C"
+        },
+        {
+            "file": "content/art/Audio/stream/DOORS_LOBBY_DRC.dspadpcm.bfstm",
+            "hash": "BE76AC8686373F2BBA48B15AB8F0489B9F2E040972FA5BBA63CC6587621B26D5"
+        },
+        {
+            "file": "content/art/Audio/stream/DOORS_LOBBY_TV.dspadpcm.bfstm",
+            "hash": "C948F6BDFE5B38B011CB5C3AC4C584618AC7BF8732446C7B6630A6644D67BF57"
+        },
+        {
+            "file": "content/art/FE/BackgroundScreen.data",
+            "hash": "757E3FA14259254F6423CEC6D2AAF42E7DEAB14127400911849503E5E7E6D085"
+        },
+        {
+            "file": "content/art/FE/BackgroundScreen.dict",
+            "hash": "78690465AD1DBC76DF00A87D660AD48D7C8CCDD2915248B926D3D550BA8FD93B"
+        },
+        {
+            "file": "content/art/FE/BackgroundScreenTV.data",
+            "hash": "3847F95672368DAB85DA2961E8975376C60BEB0A67156E225316028E3CFDCC09"
+        },
+        {
+            "file": "content/art/FE/BackgroundScreenTV.dict",
+            "hash": "A9F035452BEACA0FD598FB94BC5FC6F80A9EFE56BCAE6EAEDF779980CB33D205"
+        },
+        {
+            "file": "content/art/FE/FEGroupBoot_res.data",
+            "hash": "658886C61912233FFAFFA8937F91F135B6C76DEC837B9B808CE39CF309FDAC28"
+        },
+        {
+            "file": "content/art/FE/FEGroupBoot_res.dict",
+            "hash": "FC6993F759667E10DB5A49526EC33320A29E28D21A9C11A550A6F466998B31AE"
+        },
+        {
+            "file": "content/art/FE/FEGroupMainUI_res.data",
+            "hash": "F4F0C795D7E90864367820351490C26894F09C11449382E645D29CF253BE704B"
+        },
+        {
+            "file": "content/art/FE/FEGroupMainUI_res.dict",
+            "hash": "754B88F272328A63A961EFF28603E4521D0AED346CDB63E0AB07D280C62FBA0B"
+        },
+        {
+            "file": "content/art/FE/GenericDialog.data",
+            "hash": "93952BDD4F62F0EFF59062B3A28A188D2C32C382F5286B829B245EE2B2FE83E0"
+        },
+        {
+            "file": "content/art/FE/GenericDialog.dict",
+            "hash": "5B0EBAB98BB8152D946939BED5B125D8D3C058F9FB11C74E67F1B98088C8347F"
+        },
+        {
+            "file": "content/art/FE/HelpDialog.data",
+            "hash": "12EC4FC3559B0D0D6AE87D4748AFEEC289CC3F0A0E1D935F4EDE3BEFDD5316FD"
+        },
+        {
+            "file": "content/art/FE/HelpDialog.dict",
+            "hash": "480D5EF06B7D3E8139EA917A296846E3B0ED2377135C787EE20199577E3F677D"
+        },
+        {
+            "file": "content/art/FE/LoadingScreen.data",
+            "hash": "FA8F325C19A699DEB0312A2BD5097EA1794AAC493E25A0ED1626814E2FC21AB4"
+        },
+        {
+            "file": "content/art/FE/LoadingScreen.dict",
+            "hash": "C20D15D56F6A16C04DDE544909864FC2F1D1208005870BC31AF9D07D37A2A9CD"
+        },
+        {
+            "file": "content/art/FE/LoadingScreenTV.data",
+            "hash": "D4CF7E1965DF9009F332CD46E7F84ED5C9142245843BDAF27DC2CD74FD746821"
+        },
+        {
+            "file": "content/art/FE/LoadingScreenTV.dict",
+            "hash": "9526A3E6127C6D31DEC59BBD78F4D529F388E7A6FEC3EB0F27A07EE2F35BA044"
+        },
+        {
+            "file": "content/art/FE/MainMenuScreen.data",
+            "hash": "8C05B8D954273E2220387E337B1A97E1CF01CF39DBB8AC645836FC958C9D6802"
+        },
+        {
+            "file": "content/art/FE/MainMenuScreen.dict",
+            "hash": "EEC696ABC6FF8230D7F8323E5A83AB638337BDA581C0FB7B000D656A90597AC4"
+        },
+        {
+            "file": "content/art/FE/MainMenuScreenTV.data",
+            "hash": "FDBA9F7325DCCC9F16BDF26E588228BC526735AB0A8C6EEECEEA1A4C668469BE"
+        },
+        {
+            "file": "content/art/FE/MainMenuScreenTV.dict",
+            "hash": "E380D5B63315DC234F10285B92C9A511EA340701E6AB1DB10A514717ED84F317"
+        },
+        {
+            "file": "content/art/FE/MenuDialog.data",
+            "hash": "D8AD1F565EC06A6D39FB8AED02889DB66CAC733EA834797DEC036B5898EE400C"
+        },
+        {
+            "file": "content/art/FE/MenuDialog.dict",
+            "hash": "57EA93486EA2819DF9A09E7765C5D6427B1BA3E21235A386285BFDB44DE5F8E8"
+        },
+        {
+            "file": "content/art/FE/MissedCallDialog.data",
+            "hash": "83CECB24166F37ACEB38A82B75F8CEFF670B3C1D9B7CACF3191D7CCDE4F43235"
+        },
+        {
+            "file": "content/art/FE/MissedCallDialog.dict",
+            "hash": "3BE3085CC5A0FA0DB62A490F207E779C45C72BC21169DC55D8630A59B46D7415"
+        },
+        {
+            "file": "content/art/FE/RequestReceivedDialog.data",
+            "hash": "E7231158B901AE00C570D133A9EC87A3233D2105DA71B1E493A57C760887194D"
+        },
+        {
+            "file": "content/art/FE/RequestReceivedDialog.dict",
+            "hash": "BFFD7870E23CE9C0FFC54DF76F929B0FDCD4E3311BBCFF4FE744D48BBE1DB356"
+        },
+        {
+            "file": "content/art/FE/RequestSentDialog.data",
+            "hash": "11928B8D50C08072E3F948E51656E0895F06746E24AB177E3A5FAB04F9BD4174"
+        },
+        {
+            "file": "content/art/FE/RequestSentDialog.dict",
+            "hash": "E25F56FA23C9C7000291192B0E9158301DD84993AE1A8FDE2A47C7657E8B15A7"
+        },
+        {
+            "file": "content/art/FE/SettingsDialog.data",
+            "hash": "90AADA6E8DD486AE919563D206AF064E64C0E21EF6BEF6ABA33757BABFF7C001"
+        },
+        {
+            "file": "content/art/FE/SettingsDialog.dict",
+            "hash": "E6112C5715A1EE3D1F3C4913864C727760261646095C07EC4BDAAC8AFE9CCF0D"
+        },
+        {
+            "file": "content/art/FE/SystemScreen.data",
+            "hash": "5172C40EB0AA564EE4D1B4A41395EECADFAA9393F675BD17A1576E05C45FE777"
+        },
+        {
+            "file": "content/art/FE/SystemScreen.dict",
+            "hash": "29375684CF381B7FA352210F9527DEA405D8715FAAB859742274A44B06991340"
+        },
+        {
+            "file": "content/art/FE/SystemScreenTV.data",
+            "hash": "5654F713C0FB95F419A762C8292F410BC427C98F552EE72ED83A9822E5742B3A"
+        },
+        {
+            "file": "content/art/FE/SystemScreenTV.dict",
+            "hash": "29375684CF381B7FA352210F9527DEA405D8715FAAB859742274A44B06991340"
+        },
+        {
+            "file": "content/art/FE/VideoChatScreen.data",
+            "hash": "CBF6CBC09F8F7FD481C72203207487FFB9F46136F80D13193F8BE2DB1719BC59"
+        },
+        {
+            "file": "content/art/FE/VideoChatScreen.dict",
+            "hash": "442D47A1D9C7FC3D1D6EA7D04D0B8689DC260D64CBA3330987F7523ADC25801F"
+        },
+        {
+            "file": "content/art/FE/VideoChatScreenTV.data",
+            "hash": "8CF3212FAB2B5E31FC54125A4833C1B90932EEC914936902C4946DB3E86ECE50"
+        },
+        {
+            "file": "content/art/FE/VideoChatScreenTV.dict",
+            "hash": "1CBAB5DE98C19298DDC149F588699AB3CFA2BD13FDE2B2D9834C876E0BF8D43F"
+        },
+        {
+            "file": "content/art/FE/dutch.data",
+            "hash": "EB1EFF81C66297D44899D25A58FA51DA08557C5807C2FE62BA95CAEDEBFC0A21"
+        },
+        {
+            "file": "content/art/FE/dutch.dict",
+            "hash": "BD69A5EF540F20196583D2202805D288FE3357E6BEAD4E7A477993F35AD6A8F1"
+        },
+        {
+            "file": "content/art/FE/english.data",
+            "hash": "780F2C78ED3F06469C1CA30BEBA5C9BEFE297BDE7A39D388BD2E95B10CFC66F9"
+        },
+        {
+            "file": "content/art/FE/english.dict",
+            "hash": "030745CD07080153C5B68DE0F2287952DB01FE2EF7D45CA272CA7B9E3426BB63"
+        },
+        {
+            "file": "content/art/FE/french.data",
+            "hash": "ACCD24A2D97B75C295A071D8563FDEFD94BA47428DF0EA6403C9228269CD74C4"
+        },
+        {
+            "file": "content/art/FE/french.dict",
+            "hash": "BE7647A78FC5F5973E6B75DD9331F078BE043B98F65B4DD9820AEF7A6E598989"
+        },
+        {
+            "file": "content/art/FE/german.data",
+            "hash": "EBEE537430B749051BD3E95F680F856BEDBA7DE678FBD9018812951332EA2FD8"
+        },
+        {
+            "file": "content/art/FE/german.dict",
+            "hash": "099D308099390B112FBE9F7FBCE86C9FEEFA3C4BB4EBA6B695B09DC9F675CF01"
+        },
+        {
+            "file": "content/art/FE/italian.data",
+            "hash": "3F84AFE6A222264E8B660322154DB7ED64E9BEDF33647D0EFCF1644B112F9E4D"
+        },
+        {
+            "file": "content/art/FE/italian.dict",
+            "hash": "BEF5C031E1F59C2DDB9CF756CF499E2F1A201456A010D7C0CC8682D7B5D91EBC"
+        },
+        {
+            "file": "content/art/FE/japanese.data",
+            "hash": "FE196DE10DE3E1FD47586A0F9DF266291E8E61E849164482887121FBB7CCB046"
+        },
+        {
+            "file": "content/art/FE/japanese.dict",
+            "hash": "446B0ECF4E6074EA39135FB313EABE826C716204A13A6212548E9D74172E2604"
+        },
+        {
+            "file": "content/art/FE/nafrench.data",
+            "hash": "9AC5C7136AF8273496CD102C21CF92A28214416784C87E7B5B5E406B28368F8E"
+        },
+        {
+            "file": "content/art/FE/nafrench.dict",
+            "hash": "DD7885DE4C7980B98C5E46972A4AD8EA2230042344CA604A98E87BAB8996035D"
+        },
+        {
+            "file": "content/art/FE/naportuguese.data",
+            "hash": "5F0432ADAFE05FA72733AA4B91368B050B891918ECB6595B0FA6E35369A52419"
+        },
+        {
+            "file": "content/art/FE/naportuguese.dict",
+            "hash": "015AD442392EDD0CF1FCA86D304549B7A06193A154E31D909F7C950E46AE8143"
+        },
+        {
+            "file": "content/art/FE/naspanish.data",
+            "hash": "E28BA0413B77C02BFFCD3788B6015157F8E78C699C38FAA77D05EC06206CE69B"
+        },
+        {
+            "file": "content/art/FE/naspanish.dict",
+            "hash": "BE7647A78FC5F5973E6B75DD9331F078BE043B98F65B4DD9820AEF7A6E598989"
+        },
+        {
+            "file": "content/art/FE/portuguese.data",
+            "hash": "9C0CC6938C0CABF7894D5B921341B78B35D0BFBF4C160D5F6FF0E3BCE418CF25"
+        },
+        {
+            "file": "content/art/FE/portuguese.dict",
+            "hash": "B96CDD1D5AFA173069173E295236E454075B13F3FA8A7A563FB879651865FC8D"
+        },
+        {
+            "file": "content/art/FE/russian.data",
+            "hash": "DE86F709450D2B18FC91DEF24459C42F0F1C1927542B004F1C172D5516468B23"
+        },
+        {
+            "file": "content/art/FE/russian.dict",
+            "hash": "BD69A5EF540F20196583D2202805D288FE3357E6BEAD4E7A477993F35AD6A8F1"
+        },
+        {
+            "file": "content/art/FE/spanish.data",
+            "hash": "D5960D5477BAC8B6866C1AE9EAF5A2DE52D95EAAA7073CFE1FDE59F3AE1A68AD"
+        },
+        {
+            "file": "content/art/FE/spanish.dict",
+            "hash": "AAD67C936CE4E43F19D90226D48110BEE8386A03E5764310DCFFB9294F661135"
+        },
+        {
+            "file": "content/art/FE/ukenglish.data",
+            "hash": "23A8CFBC6F7F706A85949265D04528B1E3A9142096002D04171BD6701CDC510F"
+        },
+        {
+            "file": "content/art/FE/ukenglish.dict",
+            "hash": "107CD19C139C56FC88E1B673B59E7C040061A191FFB6CC7A7E39F5495933A51B"
+        },
+        {
+            "file": "content/art/Levels/Default/bundle.data",
+            "hash": "78EACB0C1C831A3BCC231D460B7A77BEE76EA01EA619A3DE8527D4B55B31221A"
+        },
+        {
+            "file": "content/art/Levels/Default/bundle.dict",
+            "hash": "208D0D603566B017C72A0C5ADCD638FCC1FB1C6E1340FF2A961686B52FEA641E"
+        },
+        {
+            "file": "content/art/Levels/Global.data",
+            "hash": "DD82882CA878308BA8DC6F68B4AE88FCB62F4F00D72B20A3C50066E3A517C8A9"
+        },
+        {
+            "file": "content/art/Levels/Global.dict",
+            "hash": "9C2C9C15A1B315D3CCB07D5A2076846EB975B7C548FDED12ACA2CB62E379D4F2"
+        },
+        {
+            "file": "content/art/effects/effects.data",
+            "hash": "42C23B3BDF04FFAA4BFC44603163AEE598B872E43B37CF25238EC8B079EF7184"
+        },
+        {
+            "file": "content/art/effects/effects.dict",
+            "hash": "065B26A34C047F717F0C8B607B302942900F86FD3D7FA4CA5FDBD26018D9623C"
+        },
+        {
+            "file": "content/art/flow.data",
+            "hash": "F726F0A320FDCE76DD1B3F599106C4ECEEB925A6470247FA8AEE27CC9C5DF30C"
+        },
+        {
+            "file": "content/art/flow.dict",
+            "hash": "04BA252A95C9B15EEF6DFDAD7DBB1D341654A7D6F61D5A93589AB4669F792276"
+        },
+        {
+            "file": "content/art/global.data",
+            "hash": "040A0E49EC7F12B54A3F110D9E08DC0BDBCFDF5458A6F0F3721B5C95CCF48E69"
+        },
+        {
+            "file": "content/art/global.dict",
+            "hash": "E39FA50A682F9588A7D7308D22D93D1F0273BA94CD59AEDA9E6ACD1C38550249"
+        },
+        {
+            "file": "content/ffl/shaders/cafe/FFLDefaultShader.gsh",
+            "hash": "11C974E85F4C693DD3CD5AE2560366314D164C8F91CEC797C811CC59651211A0"
+        },
+        {
+            "file": "content/materials/material_new.data",
+            "hash": "F87462469BCB86B0461941433A97D9D788CE9A621534D4195251FA8975D99B49"
+        },
+        {
+            "file": "content/materials/material_new.dict",
+            "hash": "6CE892A41E8C5B9B915FBC1B18C8A53BFF85219F4F0C91BC1030902733E7713C"
+        },
+        {
+            "file": "meta/Manual.bfma",
+            "hash": "9050C29EBD4559FD1536D0188E957D77FF7AF48E25C54DF9FBC35C31A9A0502F"
+        },
+        {
+            "file": "meta/bootDrcTex.tga",
+            "hash": "9858A031FDF11B9A3E490FD2F59F0C355175495AAFC9DE2A8121D85AC60BB592"
+        },
+        {
+            "file": "meta/bootLogoTex.tga",
+            "hash": "91B63D9C03F7F9153C8B9FC8179E1CCCB6F4AFC60204B988D91D1B5EFCEE4AA8"
+        },
+        {
+            "file": "meta/bootMovie.h264",
+            "hash": "069FD8C5713F4B23EA1098D2674BCC839E610BA844683BF532E1E6CB10642621"
+        },
+        {
+            "file": "meta/bootTvTex.tga",
+            "hash": "90BEC39B7AE4A54D78BF78EC0AB24F2BC9C9E914A3541DCCBB70297727ED1F64"
+        },
+        {
+            "file": "meta/iconTex.tga",
+            "hash": "746963614B29E4540D128A424F156EE0EC35AA1D1DA00EBED5BF3F8A9D35414A"
+        },
+        {
+            "file": "meta/meta.xml",
+            "hash": "8064E74E0D6727093257C3063EF70A5CE72156FDBD67193B8B83603781DC8DBE"
+        }
+    ]
+}

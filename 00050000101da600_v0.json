@@ -1,0 +1,667 @@
+{
+    "title_id": "00050000101da600",
+    "region": 4,
+    "version": 0,
+    "files": [
+        {
+            "file": "code/app.xml",
+            "hash": "CA2A271A17FBC7E79ACC9962482477CAD999703971B58A874078425C684FAFE3"
+        },
+        {
+            "file": "code/cos.xml",
+            "hash": "AD38210DE0599313A1AF7CE1040760EE191610076D380881A4FB14AAD662B3AB"
+        },
+        {
+            "file": "code/hachihachi_ntr.rpx",
+            "hash": "A52628497F3F75093F4D31FE45F5FEA6E9C6E882ACA181D4B0DD72E05CCFA322"
+        },
+        {
+            "file": "code/title.fst",
+            "hash": "F99412350EE38965E7DEBB9BDBB70273097AA596A3981893E49375D69B029DE3"
+        },
+        {
+            "file": "code/title.tmd",
+            "hash": "2CBB52D5D8EE94CC022B1B1456FF0AB3A87A3AA3B793655A01124F2B0FFF2BC1"
+        },
+        {
+            "file": "content/0010/assets/fonts/nintendo_NTLG-DB_002.bfttf",
+            "hash": "02316D9CF3ADBB0ABEB34FAAC8ADEA01B6F307D268B183A1110C7C61CB3B9F42"
+        },
+        {
+            "file": "content/0010/assets/shaders/lib_demo/cafe/demoFont.gsh",
+            "hash": "08F98B282997B5817531B979E77F8DD0C9E2CF49E2AF9ED309FE661B7ECDBF7B"
+        },
+        {
+            "file": "content/0010/assets/shaders/texture2D.gsh",
+            "hash": "88F9356BA77FB86C51F0DBEAC695255B85F7A6489F86FB8CEB5E874DAD222E8E"
+        },
+        {
+            "file": "content/0010/assets/textures/drcback.png",
+            "hash": "462141D11178F218385D85AE46989958D8BE4AEAB754BD2889F8E1665E9C02CE"
+        },
+        {
+            "file": "content/0010/assets/textures/mire.png",
+            "hash": "9B7E2A6619FE34EB8844D1A92B1C9222B2A8FEF5F27DC6A38C2C46C102DEB22D"
+        },
+        {
+            "file": "content/0010/assets/textures/nds1st_31p.png",
+            "hash": "4A4DA14E62E4DBCDCBECB5BA2515E71C98B4829DA7778F6249D5CC41CEB113F5"
+        },
+        {
+            "file": "content/0010/assets/textures/nds1st_31p_tv.png",
+            "hash": "20E3BF6877A9FBA2F5D8E9DA27AD0DC22AA74292AA20A34449BBF324483B71BC"
+        },
+        {
+            "file": "content/0010/assets/textures/nonTouch.gtx",
+            "hash": "EBE963BE3111A35ABF675284F0AA47F708F266C1E7D732299D015250F3BC3D53"
+        },
+        {
+            "file": "content/0010/assets/textures/tvback.png",
+            "hash": "F7948D3233B7C89EC852A82A78DB5802E28DF0083AEB95C7F66F878BA151E7D4"
+        },
+        {
+            "file": "content/0010/configuration_cafe.json",
+            "hash": "7DB3FB12A29A1AAB5E1C1934C229AC8B25B52B9D57FC21A0D932F1E919E4CD5E"
+        },
+        {
+            "file": "content/0010/data/animations/bilinear_off.sceneanim",
+            "hash": "D4EF57E0E7F5C5A33A14126E2714448FB676695D2FD19406DD1A3F242A697193"
+        },
+        {
+            "file": "content/0010/data/animations/bilinear_off_disappear.sceneanim",
+            "hash": "13FA03FCA86AAC6D10961890A6986E39C0DD99CA3C848FA024EFFE4164627B46"
+        },
+        {
+            "file": "content/0010/data/animations/bilinear_on.sceneanim",
+            "hash": "2B0A71984F55034B051086F95291779B2901854269B82C895E16091093FCBF26"
+        },
+        {
+            "file": "content/0010/data/animations/bilinear_on_disappear.sceneanim",
+            "hash": "3C4FCA4B775EE052108B1EAEBA986ED22F7DDAD6D4790DB67BEFD2037C764E54"
+        },
+        {
+            "file": "content/0010/data/animations/button_back_clicked.sceneanim",
+            "hash": "80DD03987DF7961154F30BA11AB131033CEAC3FE3F8C8187097753DFEF95A87B"
+        },
+        {
+            "file": "content/0010/data/animations/button_clicked.sceneanim",
+            "hash": "645ABC14C32ADB0800B840A4917312EE238888102DA1278930715214ED5B83C8"
+        },
+        {
+            "file": "content/0010/data/animations/button_focused.sceneanim",
+            "hash": "7688D8D4974A435683756ECD987653CADE7578937EF35884C2A9BE7C2E589CB8"
+        },
+        {
+            "file": "content/0010/data/animations/button_pressed.sceneanim",
+            "hash": "4450C82EDF5884583D5DB85F4544DEF2486C008018BE70CD0C9EC76DA32A3A1B"
+        },
+        {
+            "file": "content/0010/data/animations/close_settings.sceneanim",
+            "hash": "0ECDE53F3072CD7669383E9334D8071190B2B1227D522A8C5A2B6E855ED711A4"
+        },
+        {
+            "file": "content/0010/data/animations/close_vcmenu.sceneanim",
+            "hash": "306848203078B9E0844D7AFADD6EA8292021557777251761906AF19B3E5A425A"
+        },
+        {
+            "file": "content/0010/data/animations/label_clicked.sceneanim",
+            "hash": "C72153FC3C8650B25689F6FF93E96D0E0EC2847C4D531E0DEBD94E82D5BD5CD5"
+        },
+        {
+            "file": "content/0010/data/animations/label_pressed.sceneanim",
+            "hash": "C766521D1587A9F499B515316D319D92E85D089836DB3AD160A53D4873DA805B"
+        },
+        {
+            "file": "content/0010/data/animations/label_released.sceneanim",
+            "hash": "F953B4BDC609E548369CDD39379CAC2E3C90CFB1D440DA77CF0288D85A47ABA9"
+        },
+        {
+            "file": "content/0010/data/animations/layout_button_pressed.sceneanim",
+            "hash": "71E285669A1E44E4E6E7ABB56FF3D9B46A13CC0E1E672E56FB9C047D1891165B"
+        },
+        {
+            "file": "content/0010/data/animations/layout_move_left.sceneanim",
+            "hash": "447ECA71976C638341A1FE39FFD7608EB632BC43FB43CE1DB8A5623B1DD4E2BB"
+        },
+        {
+            "file": "content/0010/data/animations/layout_move_right.sceneanim",
+            "hash": "7C26464B1E745F6849031756418DA16112EC301D7F29C0A0DF6461CFE553101B"
+        },
+        {
+            "file": "content/0010/data/animations/layout_switch_alt_bottom.sceneanim",
+            "hash": "6130BBF89AFF9DBC55E19C68AC3011E1F61488908439872BD377F05DD3ACF209"
+        },
+        {
+            "file": "content/0010/data/animations/layout_switch_alt_top.sceneanim",
+            "hash": "9C81BFCE4A0DA9F6972730D505CF9E9C1E37F4C48BDE61287A424485DBA05349"
+        },
+        {
+            "file": "content/0010/data/animations/main_button_clicked.sceneanim",
+            "hash": "E85A39B3CA128D3046E8158934A68D7C0B764AA08E89F379E550527796AE829C"
+        },
+        {
+            "file": "content/0010/data/animations/main_button_pressed.sceneanim",
+            "hash": "CFB1B05AC60F8C7CAA29E03BBDE91381205492AFEA7F65C6C23AE4D7494ED286"
+        },
+        {
+            "file": "content/0010/data/animations/menu_fadeout.sceneanim",
+            "hash": "ED1CD8D686604B0292E91203AD11F785C0E591E9548984BA53DF7D7BC1D2DF60"
+        },
+        {
+            "file": "content/0010/data/animations/open_settings.sceneanim",
+            "hash": "130163A8B2B43E2B3CE694BCADE36CF0E2539D5B46F59EE0EA902316037E10C3"
+        },
+        {
+            "file": "content/0010/data/animations/open_vcmenu.sceneanim",
+            "hash": "6835689F732A04B4E6C236D4A73D7E3F19BA8663CE0C41BEE04F635FC51C76BD"
+        },
+        {
+            "file": "content/0010/data/animations/outlight_blinking.sceneanim",
+            "hash": "4D34C78763DE0FB99BD7B6BD7C0CA2CE31AD9C46FCDBB883E87743FBFEF60750"
+        },
+        {
+            "file": "content/0010/data/animations/popup_close.sceneanim",
+            "hash": "C4118E06CE00A30B7DA0A4DC782D69DC013A84AC8312854A4CB9AE2C75AB65C0"
+        },
+        {
+            "file": "content/0010/data/animations/popup_close_cancel.sceneanim",
+            "hash": "313E8ADDE85C38B02FA5FC7D38D8FCAD393E22F250543961C421473CD2907077"
+        },
+        {
+            "file": "content/0010/data/animations/popup_close_transition.sceneanim",
+            "hash": "4AE9B496357739B92CA5AA9E00390BEB000044A630DBE163A32D8E4C55E4696E"
+        },
+        {
+            "file": "content/0010/data/animations/popup_close_transparent.sceneanim",
+            "hash": "89F267F5B8A971E5803CD128BF8EB74338EF4FF3BDFBE25DDCFF3AFC75C2FDB8"
+        },
+        {
+            "file": "content/0010/data/animations/popup_open.sceneanim",
+            "hash": "E29CA8163D6538F611E444F26673DC2FE03C39DD45638D8FDBFD8FD32BBD22C6"
+        },
+        {
+            "file": "content/0010/data/animations/popup_open_transition.sceneanim",
+            "hash": "DB1C1689E815E9EC2A5CEBF85CE691DD5FEDA49DD776736B069528A56A34FF6A"
+        },
+        {
+            "file": "content/0010/data/animations/popup_open_transparent.sceneanim",
+            "hash": "C767C4BACE2755701A97CAC15CBEAE56A1767259F9BD0E15DF036810BE8A1167"
+        },
+        {
+            "file": "content/0010/data/animations/r_stick_pressed.sceneanim",
+            "hash": "BBBB1B03C6012E4EF9D9AF146E783955F538C7F1DAF0B1F149C5310872E38101"
+        },
+        {
+            "file": "content/0010/data/animations/switch_bilinear.sceneanim",
+            "hash": "9CD92C0A59BE420BCEBB19EE506A5F37815DEF91A1B79C40B2B6888C41A80449"
+        },
+        {
+            "file": "content/0010/data/defaultscene.scene",
+            "hash": "C7903D361B0D4375666D189D1949F97E763A34F15C3F1F509D0FDD26BBF984B9"
+        },
+        {
+            "file": "content/0010/data/dependencies.json",
+            "hash": "780B35213731C4E629E25184708633408B6C8B9EF689C2A4777D14D28FE9E434"
+        },
+        {
+            "file": "content/0010/data/dialogs/popup_2_messages_2_buttons.scene",
+            "hash": "2DE00D74D81CD2A9B5092118C539C89D17CB7CEB7FD0B12459A6EB9FD32945DA"
+        },
+        {
+            "file": "content/0010/data/dialogs/popup_first_message.scene",
+            "hash": "73D9FA8226C71DBC04183E5110E34159E34313ABC8E2795CC48E2A9F88D7A364"
+        },
+        {
+            "file": "content/0010/data/dialogs/popup_load_from_restore_message.scene",
+            "hash": "BCF023228456CE665AF342C0AA61DC70596E3C6A93A6CC86B1E25EE231C1E05C"
+        },
+        {
+            "file": "content/0010/data/dialogs/popup_load_restorepoint.scene",
+            "hash": "8F70EAD0E296EA9D13938618233AE59D177F9326B2E55D4C173DA45BE9688DEE"
+        },
+        {
+            "file": "content/0010/data/dialogs/popup_load_success.scene",
+            "hash": "6E17A126F99BA5A2ABBCC16B4264374E4EC5237FB185F7862057EAC456CDBA1C"
+        },
+        {
+            "file": "content/0010/data/dialogs/popup_reset.scene",
+            "hash": "BFEE18192A8038304D5C0023E3020594CB230BB1BBA162E2547E79873A5A1B60"
+        },
+        {
+            "file": "content/0010/data/dialogs/popup_save_restorepoint.scene",
+            "hash": "E51F8AE253E2C199AAF848324D437FB9C393037E7BCACC46DCBA53A5996C4C8D"
+        },
+        {
+            "file": "content/0010/data/dialogs/popup_save_restorepoint_exist.scene",
+            "hash": "0FFD919D209769811074555CA2B5828B89237402C7EC056E0D43C4D3F8768C1F"
+        },
+        {
+            "file": "content/0010/data/dialogs/popup_save_success.scene",
+            "hash": "1F14ADCD62DC34A9E511D7EB9B480AA0F020DCC520B47FC14A94D10E695860FF"
+        },
+        {
+            "file": "content/0010/data/fonts/arial_22.fnt",
+            "hash": "F05C840B5C545865057AADF96DDCEF6880C0CC43BEAA8F17A4DEF44C0F5A4C12"
+        },
+        {
+            "file": "content/0010/data/fonts/arial_22_0.png",
+            "hash": "B617840D06D601FB676245951475912BA3155F4E8879A96080D1C0DC746913C5"
+        },
+        {
+            "file": "content/0010/data/fonts/arial_24.fnt",
+            "hash": "9FB50FDA7D33D4BF1559BF3189258AF6CC40C7409A377710A6866B40DF528E0E"
+        },
+        {
+            "file": "content/0010/data/fonts/arial_24_0.png",
+            "hash": "D8A3365DC676CB4D6BA24820984CBC0099F3071087DA98349DCE624C2EE5383E"
+        },
+        {
+            "file": "content/0010/data/fonts/courier12.fnt",
+            "hash": "8CB134654519063F762C9BCDEBE27FD84C77AD94F4B6C082ABB7EDDA678CD9DC"
+        },
+        {
+            "file": "content/0010/data/fonts/courier12_0.png",
+            "hash": "ED203C53B79A18E5818E388207FC034F85365B39BF561B280CF21F9426703E39"
+        },
+        {
+            "file": "content/0010/data/fonts/nintendo_ntlg_22.fnt",
+            "hash": "08B9C3E8827D7DA04437D4CF10C511353A5BAA111EED688F56DD5DD30FD12556"
+        },
+        {
+            "file": "content/0010/data/fonts/nintendo_ntlg_22_0.png",
+            "hash": "4D64D3EFEE8A88A9BC7157861BDB629A1E3458374073E48BCF4D87C6A040F097"
+        },
+        {
+            "file": "content/0010/data/fonts/nintendo_ntlg_24.fnt",
+            "hash": "5569996CAD2A48C0C233FAC68632B15CC30A3333338B58159F5CAFFA5D575271"
+        },
+        {
+            "file": "content/0010/data/fonts/nintendo_ntlg_24_0.png",
+            "hash": "E60FD298928D71DFDFEF47ECEF2120B30534CF1C97436D3F8D5CEF01AA20BB68"
+        },
+        {
+            "file": "content/0010/data/fonts/nintendo_ntlg_26.fnt",
+            "hash": "047698D2F93B05A8B6D91A7F2488F74F9FF4DB8215227FAB7569B4C820658B7D"
+        },
+        {
+            "file": "content/0010/data/fonts/nintendo_ntlg_26_0.png",
+            "hash": "914EEBE18A11CD85F119F5822B6F28C9CC3987257B5B8660593B729FB01501C4"
+        },
+        {
+            "file": "content/0010/data/fonts/nintendo_ntlg_28.fnt",
+            "hash": "388549B51C2891431DA7A7266E8E0826559DD906B67CFD63BCFD67AD0829D942"
+        },
+        {
+            "file": "content/0010/data/fonts/nintendo_ntlg_28_0.png",
+            "hash": "875A8D5170894B838D9AAC925532D801E0815AB3024F5D6532CEFDFC45DB31FE"
+        },
+        {
+            "file": "content/0010/data/images/background.png",
+            "hash": "739C042B236C280419289541FC0EF614F0F553C77AF252A6D1BD4E90D60149D2"
+        },
+        {
+            "file": "content/0010/data/images/bottom_background_ph.png",
+            "hash": "B543840E75F15526379282014861DD0C18F2951D1427CBC9D01EFF48C82F41C6"
+        },
+        {
+            "file": "content/0010/data/images/drcback.png",
+            "hash": "756346E15C6C3B34EFF21008235A28AA5B29F40F71D4E91499482286BBD01201"
+        },
+        {
+            "file": "content/0010/data/images/layout_bg.png",
+            "hash": "2EBF2A705B5D094F09A2B8A8BCB1340B63C4BA3DCDBE8A73219AC7416650CC15"
+        },
+        {
+            "file": "content/0010/data/images/nds1st_31p.png",
+            "hash": "E00A8F39805EE8CC73D32B41856BE4990A98E22DB42865978745EA219021A25F"
+        },
+        {
+            "file": "content/0010/data/images/nds1st_31p_tv.png",
+            "hash": "06D5ECE46CB4105749C84B4527DC8C229CB9111220B06F94F5E8D61EFB48DAEB"
+        },
+        {
+            "file": "content/0010/data/images/save_bottom_ph.png",
+            "hash": "B543840E75F15526379282014861DD0C18F2951D1427CBC9D01EFF48C82F41C6"
+        },
+        {
+            "file": "content/0010/data/images/save_up_ph.png",
+            "hash": "B543840E75F15526379282014861DD0C18F2951D1427CBC9D01EFF48C82F41C6"
+        },
+        {
+            "file": "content/0010/data/images/screen_bottom_ph.png",
+            "hash": "B543840E75F15526379282014861DD0C18F2951D1427CBC9D01EFF48C82F41C6"
+        },
+        {
+            "file": "content/0010/data/images/screen_up_ph.png",
+            "hash": "B543840E75F15526379282014861DD0C18F2951D1427CBC9D01EFF48C82F41C6"
+        },
+        {
+            "file": "content/0010/data/images/top_background_ph.png",
+            "hash": "B543840E75F15526379282014861DD0C18F2951D1427CBC9D01EFF48C82F41C6"
+        },
+        {
+            "file": "content/0010/data/images/vcmenus_common_1.json",
+            "hash": "F8CFFA0D5B17D391754E7D5FFE7D0101B5AAC1134ED64D379D7E3A1449236E41"
+        },
+        {
+            "file": "content/0010/data/images/vcmenus_common_1.png",
+            "hash": "7515449CD0CF76B4BB2C6AD6D4340FC8B9CA4F6D6192E51B208F68ECCA947968"
+        },
+        {
+            "file": "content/0010/data/images/vcmenus_common_2.json",
+            "hash": "626EC931EA5B5925E6689BDDE070249F80AF10C95A86260EA007BA71A33CB95B"
+        },
+        {
+            "file": "content/0010/data/images/vcmenus_common_2.png",
+            "hash": "A67A638A2E554E62831378B2E4A5D9E162BDFFB096B4E1B9A75F759BC5764D22"
+        },
+        {
+            "file": "content/0010/data/images/vcmenus_ntr.json",
+            "hash": "60A68BAAEC99E3A29BAE19351698CFE2577FCD2B710A74E12DB2D48B3AC67BD2"
+        },
+        {
+            "file": "content/0010/data/images/vcmenus_ntr.png",
+            "hash": "97678610EE23492987708BC6F16879F7D319C71B4010B88AC76A9D7BD68FEE39"
+        },
+        {
+            "file": "content/0010/data/images/vcmenus_nus.json",
+            "hash": "6001B079EF542D5BBA594718F0D6CAC392272C311C9DADD47405FEC7008C26E9"
+        },
+        {
+            "file": "content/0010/data/images/vcmenus_nus.png",
+            "hash": "EBE18468C2FF512CCFCB7353C381A86081F1DB45681AA96F24BAFA2733061E84"
+        },
+        {
+            "file": "content/0010/data/init.json",
+            "hash": "3CB2D400B10456F8231BDA57A781C4636227CB82CD050A2F6967E33452F3EBCE"
+        },
+        {
+            "file": "content/0010/data/prefabs/layout_presentation.scene",
+            "hash": "1CDA032A5439FC95BFD7560695BBA2E3DF1430AAE394ACDB1F806F1EF5124471"
+        },
+        {
+            "file": "content/0010/data/scripts/core/core.lua",
+            "hash": "BF3C5E97EE14559892AF98A637606996FA37889B5982A99802867F7ACA7A99E9"
+        },
+        {
+            "file": "content/0010/data/scripts/core/math.lua",
+            "hash": "48D362B5F3608EF69A4AFA97C352FDBF19B172821E70BE4F559CB33699715F5F"
+        },
+        {
+            "file": "content/0010/data/scripts/core/table.lua",
+            "hash": "D9B49BBC3B898EF0ED6EEA99433E394E7321E608FB95C8405076A2C550226F55"
+        },
+        {
+            "file": "content/0010/data/scripts/gui/gui.lua",
+            "hash": "3C4D719D35620773E4B9C24D67616E5518DBCAA5A35A15419891360A5E5E47E2"
+        },
+        {
+            "file": "content/0010/data/scripts/gui/gui_button.lua",
+            "hash": "813245DC7EBC387F9316C2994181F53F995C3CDA6B01BE65F8FF26005DFC17DB"
+        },
+        {
+            "file": "content/0010/data/scripts/gui/gui_check.lua",
+            "hash": "2455EA3B5683D7617B7F17C823A4AB1BC001ACC4905F3F5FA14E162055648209"
+        },
+        {
+            "file": "content/0010/data/scripts/gui/gui_element.lua",
+            "hash": "2FE524AF8FB7F421235EA2CEFC0EF2FB1D7EACB94054C12D5B60065A869DFAE4"
+        },
+        {
+            "file": "content/0010/data/scripts/gui/gui_inputs.lua",
+            "hash": "08BE556F67C5B48705E3F2FF3F61FB9FF7133FB24994BFA0F70CE907A3569F2E"
+        },
+        {
+            "file": "content/0010/data/scripts/gui/gui_list.lua",
+            "hash": "71B6D3A5F34BE640B10B09DD14D4ED3FA6943E5BDEC116359E1AABD0BB833FD8"
+        },
+        {
+            "file": "content/0010/data/scripts/gui/gui_popup.lua",
+            "hash": "41E92CAA20CC6CA936AA70EF0A965B3522B62DADA5E65F2856702FA8D0EFFB32"
+        },
+        {
+            "file": "content/0010/data/scripts/gui/gui_scroll.lua",
+            "hash": "94E1064886603C800F777878C334EC22E19094C90836E0E4429F6DB2FB005D5A"
+        },
+        {
+            "file": "content/0010/data/scripts/gui/gui_slider.lua",
+            "hash": "E37EB46158039AA4DFFD13F9D8D77E7B47D800B246DD66B1946DE7FB13BD4A5B"
+        },
+        {
+            "file": "content/0010/data/scripts/layouts.lua",
+            "hash": "459DF013CC9A5F1F29AB701BDFBD5CC87BA3C47D8EA6597286D28F48BE7FDE8F"
+        },
+        {
+            "file": "content/0010/data/scripts/layoutscroller.lua",
+            "hash": "E1F4895A1D6FD3C8984F1E9D1858E5FBD73F649AA4D19B1C689DB41A15793A47"
+        },
+        {
+            "file": "content/0010/data/scripts/mainpage.lua",
+            "hash": "C94162FB2FEED7AB47A3A442D885264C56CDA97EEB4376C3C3826ED5C3D38EAB"
+        },
+        {
+            "file": "content/0010/data/scripts/params.lua",
+            "hash": "40BB40F12FDB8BF298397DC8AFF6276A49A62C694C2BFB372C37ED6B1F902857"
+        },
+        {
+            "file": "content/0010/data/scripts/popups.lua",
+            "hash": "FCAB3A49B02522B3D9EE9E6946D1929965128E1E5BAE8A7B3748132EB3E26A0D"
+        },
+        {
+            "file": "content/0010/data/scripts/settingspage.lua",
+            "hash": "293CF42702C081053228A42DD9F722F1AD46A8459C01FD1B9FE9743164DA34AF"
+        },
+        {
+            "file": "content/0010/data/scripts/utils.lua",
+            "hash": "07BD202709A1802178407D66C677C7DB89E18ECCF82528B7CBC057795DD973E1"
+        },
+        {
+            "file": "content/0010/data/scripts/vc_methods.lua",
+            "hash": "EAB632B93FA3BCD520C929F995F184D512EC1AF9983BA58ADFDB41B4FAC75EE1"
+        },
+        {
+            "file": "content/0010/data/scripts/vcbutton.lua",
+            "hash": "0414C3CB3D9E6B57CCA02F588AA67437634B67EE46661942CC9F4CAD9189B13D"
+        },
+        {
+            "file": "content/0010/data/scripts/vcmenus.lua",
+            "hash": "1E313E81BFBC2DA0D7B1CC4587F15D71692901AAA1BDC971B5E9EDD8F593E7AF"
+        },
+        {
+            "file": "content/0010/data/shaders/default.gshbin",
+            "hash": "70B3A617302862711A1185B13467FC09DBC18ED41720B18AA2E4DAFC79CA42A2"
+        },
+        {
+            "file": "content/0010/data/shaders/gui.gshbin",
+            "hash": "FDA837D8E26F0DB50305DBF13A33EB1FD243E26EA43E3B4DCACCD2E0701CF83D"
+        },
+        {
+            "file": "content/0010/data/shaders/sprite.gshbin",
+            "hash": "E5CEC6DE90F2EFAB582D8B92F952457F971F15CD2D4382C07CE4DBF134DEFE49"
+        },
+        {
+            "file": "content/0010/data/shaders/text.gshbin",
+            "hash": "3C47CEEED3227155D08D5C72AAC0279A5C23CB0A33B9A2ECA36D1492B671939F"
+        },
+        {
+            "file": "content/0010/data/shaders/tilemap.gshbin",
+            "hash": "77C983F8518B359082525D6C771F7261B42765BAB6D0D9A6665B10312773D21E"
+        },
+        {
+            "file": "content/0010/data/sounds/cancel.mo.32.c4.dsp",
+            "hash": "93E243FAF5BE9DFB510DB3E8DC5A9C23A56E6888D8EBB427B7548F1448AC6EF9"
+        },
+        {
+            "file": "content/0010/data/sounds/cancel.mo.32.c4.wav",
+            "hash": "2EDC1DEC358927574CF97E729C461FC3B08CEC4B9CCB0B562868BA738F330A79"
+        },
+        {
+            "file": "content/0010/data/sounds/check_button.mo.32.c4.dsp",
+            "hash": "8544EF10CB2826EC34DEDD438192F6E746A47ED2F1049256BD0CAEDDD220D6F7"
+        },
+        {
+            "file": "content/0010/data/sounds/check_button.mo.32.c4.wav",
+            "hash": "50D492A663C15F27A5421CC12FFB4F43727297F9DF7656019A3595322E4C38F5"
+        },
+        {
+            "file": "content/0010/data/sounds/decide_main.mo.32.c4.dsp",
+            "hash": "03B2CE81B47D34F73D450B6D41136F82E549536219D14CA00E218922F724096A"
+        },
+        {
+            "file": "content/0010/data/sounds/decide_main.mo.32.c4.wav",
+            "hash": "B622EFA8C44AB8FDA552A7C69A04CA907583CE789687DB4EA2D6D58C44030FD5"
+        },
+        {
+            "file": "content/0010/data/sounds/decide_sub.mo.32.c4.dsp",
+            "hash": "F6610DC86F50078045BD366219F571D9E28A71403021AE51533C9E52A2D68F2F"
+        },
+        {
+            "file": "content/0010/data/sounds/decide_sub.mo.32.c4.wav",
+            "hash": "28B01B129F6CFE5406AA5F355AB3A1999CE18CEC1B416ECC314898A930F3BC33"
+        },
+        {
+            "file": "content/0010/data/sounds/finish.mo.32.c4.dsp",
+            "hash": "039FC3616DD8C16EF0A981EF522D236135E655A101E43C2F3499EC74C0B9F494"
+        },
+        {
+            "file": "content/0010/data/sounds/finish.mo.32.c4.wav",
+            "hash": "38C4C1BE92F1D6B53D2DD05DA6AA2721A9EEFD3F35B54938055719450514C678"
+        },
+        {
+            "file": "content/0010/data/sounds/page_change.mo.44.c4.dsp",
+            "hash": "6825EEF66C2EDEAD1D29A8A184B9A3A1EDA2909ED9C5C821B185D64FA311B157"
+        },
+        {
+            "file": "content/0010/data/sounds/page_change.mo.44.c4.wav",
+            "hash": "BC41F67D3445326F064A734A5D01C7891F1DE2203C62CA369F12E1E30B999557"
+        },
+        {
+            "file": "content/0010/data/sounds/scroll.mo.32.c4.dsp",
+            "hash": "A1FAA689F5A4AB3B311ABBA5C1B55B02E030E7181D7830367D1A5E80E98AA0E5"
+        },
+        {
+            "file": "content/0010/data/sounds/scroll.mo.32.c4.wav",
+            "hash": "DE901B7710E7B4DD385D7725011AEA604A0DAA6B2396CB170DA7BC056E55193D"
+        },
+        {
+            "file": "content/0010/data/sounds/se_page_change_2.dsp",
+            "hash": "90549D98FCCE19F8FB61FE3D025D88CB298B6D88ABA03A0E495C74718B9722AD"
+        },
+        {
+            "file": "content/0010/data/sounds/se_page_change_2.wav",
+            "hash": "A9FC5B07844F42CF14FE910C8657B6D5FD822EE3FC94A1117B8F2C607B29B86A"
+        },
+        {
+            "file": "content/0010/data/sounds/se_vcm_start.dsp",
+            "hash": "C24BF9E5D877A63AA2BF2D15648165B3016B241E270E3C6E4184F553FF98D42B"
+        },
+        {
+            "file": "content/0010/data/sounds/se_vcm_start.wav",
+            "hash": "DF8DDBD01F74705CC2E7D47D556C102A9097561C1ED4DF3287A147AA980FAA23"
+        },
+        {
+            "file": "content/0010/data/sounds/select.mo.32.c4.dsp",
+            "hash": "93AEA10AAB4838E193269910C3D20E41359B6D85709A01A5B7AB824FABE28C12"
+        },
+        {
+            "file": "content/0010/data/sounds/select.mo.32.c4.wav",
+            "hash": "0B70D8CD91C428A6132934B58E2902975359E8B51D3D0561B208B4C8F2735EC7"
+        },
+        {
+            "file": "content/0010/data/strings/de/strings.json",
+            "hash": "0A75F2AD25E815B3952A64FC2C6FCF57B61D3EC71A749C4D56E3F21BB49452AE"
+        },
+        {
+            "file": "content/0010/data/strings/en/strings.json",
+            "hash": "BA8AF3C110246B32B08478A1B84CB372BF99EA759495DE01E4D148B78B9026B6"
+        },
+        {
+            "file": "content/0010/data/strings/es/strings.json",
+            "hash": "879CBC845B24835164EBEED5007E4896E2B697A6080079FC0C6474F4EDB48C6B"
+        },
+        {
+            "file": "content/0010/data/strings/eur_en/strings.json",
+            "hash": "B7D6EBC29394A34B3FCC702692619F915BE10EF17DE6487C20D0EEA85F56410B"
+        },
+        {
+            "file": "content/0010/data/strings/fr/strings.json",
+            "hash": "C136B16AEF86DE4CF575B983FAAE170591603675D55ABF335AE1E90E483EB0A3"
+        },
+        {
+            "file": "content/0010/data/strings/it/strings.json",
+            "hash": "A745CCBFE5889183D2878615C645F1B5FA292AF3271580057F7A9468E511B031"
+        },
+        {
+            "file": "content/0010/data/strings/ja/strings.json",
+            "hash": "E0D99568508CF2502860BB1FBF12392246B075D8EAFE514B9412DF0309860F0C"
+        },
+        {
+            "file": "content/0010/data/strings/nl/strings.json",
+            "hash": "B9F25C426CFDAC828233E1B63436AA20741B3027DF681A684EC8CA1114B40CB0"
+        },
+        {
+            "file": "content/0010/data/strings/pt/strings.json",
+            "hash": "79012FB720C113E201C5EC14EAD4A6436990F8D95211ED9FFFE88B3D0F3BE5CD"
+        },
+        {
+            "file": "content/0010/data/strings/ru/strings.json",
+            "hash": "1FB014CD5E81195CBEC721DF13B4C68769B3C1F021C86C43CE14238CA1059F49"
+        },
+        {
+            "file": "content/0010/data/strings/strings.json",
+            "hash": "BA8AF3C110246B32B08478A1B84CB372BF99EA759495DE01E4D148B78B9026B6"
+        },
+        {
+            "file": "content/0010/data/strings/usa_es/strings.json",
+            "hash": "E2331BCF6F02917E85858AA999D34A507AFED44123572CB2148D0BEEFE7BA2F6"
+        },
+        {
+            "file": "content/0010/data/strings/usa_fr/strings.json",
+            "hash": "EB0D4695C56C2CBBE3669440B93084898AA6A3FC6848C9A12E89599FDD8DFEF3"
+        },
+        {
+            "file": "content/0010/data/strings/usa_pt/strings.json",
+            "hash": "D36963729DA8E689669F29FE7572ADFDF087BFFD27B694133B908B2789673F36"
+        },
+        {
+            "file": "content/0010/rom.zip",
+            "hash": "F5A2F5444712BD5EC6A68FF79CB5F4A4C22D310BF2B438E35177A1E8AC01F167"
+        },
+        {
+            "file": "content/0010/shaders/lib_demo/cafe/demoFont.gsh",
+            "hash": "08F98B282997B5817531B979E77F8DD0C9E2CF49E2AF9ED309FE661B7ECDBF7B"
+        },
+        {
+            "file": "meta/Manual.bfma",
+            "hash": "99285B20E04F93B95B6191908ED923432352379CA306C81896751EA38CE39EF5"
+        },
+        {
+            "file": "meta/bootDrcTex.tga",
+            "hash": "93B495DFFC05326BC6D310EEEFB807CBB893BEF5D8C71FE39AFEA1216BA5402B"
+        },
+        {
+            "file": "meta/bootLogoTex.tga",
+            "hash": "91B63D9C03F7F9153C8B9FC8179E1CCCB6F4AFC60204B988D91D1B5EFCEE4AA8"
+        },
+        {
+            "file": "meta/bootMovie.h264",
+            "hash": "069FD8C5713F4B23EA1098D2674BCC839E610BA844683BF532E1E6CB10642621"
+        },
+        {
+            "file": "meta/bootSound.btsnd",
+            "hash": "081E1D8D8DF5236A4568899D0AF856728D0A1405DF623D70AD4A0170068B747E"
+        },
+        {
+            "file": "meta/bootTvTex.tga",
+            "hash": "E7EE3206739F8270B37E17106E86BA6536FD1754D70CC4474F1F87909C907771"
+        },
+        {
+            "file": "meta/iconTex.tga",
+            "hash": "89EE2DA2F0F1B14C27FCEB8DAB1876F265C9FE2819C7823EA8AD246D135B8CF2"
+        },
+        {
+            "file": "meta/meta.xml",
+            "hash": "80DA80EEE710C3282DFDBDB851C5ACFD2C41202649AA4B6534C77929E565ED71"
+        }
+    ]
+}

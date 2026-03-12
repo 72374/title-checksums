@@ -1,0 +1,67 @@
+{
+    "title_id": "0005000010176e00",
+    "region": 4,
+    "version": 0,
+    "files": [
+        {
+            "file": "code/app.xml",
+            "hash": "9A50781330AEE40D8C16F09474F949220960A3F06CE216E9B101688D370CBF0E"
+        },
+        {
+            "file": "code/cos.xml",
+            "hash": "57DA91445B8FC5AE6C11BF4A124B543330380ECE0EA48CF33F0648F141C501BC"
+        },
+        {
+            "file": "code/m2engage.rpx",
+            "hash": "CA5CBA9DB85DCFB927FD9935A53B674DA58EED3B79E401E2C14121AE92A8CCBE"
+        },
+        {
+            "file": "code/title.fst",
+            "hash": "CE0537A34DF5E844B9632B06D9F50CB8DCF5343FCD97E280D5F126608ECDB73C"
+        },
+        {
+            "file": "code/title.tmd",
+            "hash": "013B0B77063132994CC6BB5C00A381B505C6542E65F8D25C77DD98ACEB6EDCCF"
+        },
+        {
+            "file": "content/alldata.bin",
+            "hash": "E407FF4D5465B9679F9566F670120A0C4B7D3BB3669B75199CAA3D0C238EFF1E"
+        },
+        {
+            "file": "content/alldata.psb.m",
+            "hash": "281F00105E3794838D201786AF0E534175F3DA2B2A60E5A143C5F42EC8A05079"
+        },
+        {
+            "file": "meta/Manual.bfma",
+            "hash": "6DC0978D484ACD8A34EAB7655A0A2FA9B938D38509FC9C14F6D424A79DEFBB6E"
+        },
+        {
+            "file": "meta/bootDrcTex.tga",
+            "hash": "079E08EB63DF546BAD42471A165E4E314622DA59979F07D4D67A9028D480205B"
+        },
+        {
+            "file": "meta/bootLogoTex.tga",
+            "hash": "91B63D9C03F7F9153C8B9FC8179E1CCCB6F4AFC60204B988D91D1B5EFCEE4AA8"
+        },
+        {
+            "file": "meta/bootMovie.h264",
+            "hash": "069FD8C5713F4B23EA1098D2674BCC839E610BA844683BF532E1E6CB10642621"
+        },
+        {
+            "file": "meta/bootSound.btsnd",
+            "hash": "5CB03E3D625D87F4820507369AC4D73DEDB9153826FF291A51A4883178E96A67"
+        },
+        {
+            "file": "meta/bootTvTex.tga",
+            "hash": "56C1E76A0FAE65DEFDBD19CE4B2294F3E1D53E3224062A5C307C1A81073A5D14"
+        },
+        {
+            "file": "meta/iconTex.tga",
+            "hash": "2A63261F63AA8ECECDEC24F455938A066599F0F141421D4A932BBBEAEC10D046"
+        },
+        {
+            "file": "meta/meta.xml",
+            "hash": "476C557179E853DDBE9637AAD1671F6FDA006D25E77DBD7DABBDBEFD0E18E573"
+        }
+    ]
+}

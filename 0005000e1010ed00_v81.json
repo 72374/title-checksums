@@ -1,0 +1,2603 @@
+{
+    "title_id": "0005000e1010ed00",
+    "region": 4,
+    "version": 81,
+    "files": [
+        {
+            "file": "code/Turbo.rpx",
+            "hash": "74C3501339F7559991AC0F19EAEA4646A4F32E246F47577E5C70260F43D28C1B"
+        },
+        {
+            "file": "code/app.xml",
+            "hash": "3FA0531ADC2FC865F25B6BCBB35648D60558DEA484CA293804A916981D6967F7"
+        },
+        {
+            "file": "code/cos.xml",
+            "hash": "9D37B0C64DF8AA3827F0078E714EB1E5BD6E1E946096B2E5C5125CF08B42F0DA"
+        },
+        {
+            "file": "code/mvplayer.rpl",
+            "hash": "43D2E7D2799DF561229B4D4960C33864D7374718AF4918B9517B78D8DDDFBB1C"
+        },
+        {
+            "file": "code/mw_shamo.rpl",
+            "hash": "72BEC417D11E7BAD3E0BD21FDBC214EFB525CB9EC9F5DEAD7B396AE97C070B0F"
+        },
+        {
+            "file": "code/mw_shamo_sbc.rpl",
+            "hash": "98EB088B904DB67CBD2A8EE6ECDFB65FCCF187D87F090D22B0202D87A3734BC1"
+        },
+        {
+            "file": "content/audio/bin/slink.bin",
+            "hash": "D90C58F4FEFFAD38947EA1E8BBD9B039F6BE016D455BC91974065F2991CDC9CA"
+        },
+        {
+            "file": "content/audio/bin/turbo_random_id.bsis",
+            "hash": "29E0BDFB3D698C653D94423980CB85CCA1A40E8FE01C2675723D5AC43D34A70B"
+        },
+        {
+            "file": "content/audio/body/SNDG_B_Sct.bars",
+            "hash": "EEFC5774C6CECC5DC67E357C962802BFAF598C93520AEA48A91A3E16C2AF58B9"
+        },
+        {
+            "file": "content/audio/body/SNDG_B_Zlb.bars",
+            "hash": "3482FC9634F9FD6F624FC3BE3795E18FF2C1029A66D6A863D65BD077B667A5EE"
+        },
+        {
+            "file": "content/audio/body/SNDG_KT_200cc.bars",
+            "hash": "A0198F356D1C487F74161A47F3D87D0AACC9960A50230ED34E0A44E1B7BD26C4"
+        },
+        {
+            "file": "content/audio/body/SNDG_K_Bds.bars",
+            "hash": "B4DB80F6C8A82EA99DEEDAEAE1DBD98D2491B61181074FE337B9AC37CC664EAF"
+        },
+        {
+            "file": "content/audio/body/SNDG_K_Bfl.bars",
+            "hash": "2561F877844DA1C07C97BF847197292EEA998319B7965458316253EA8EA18BD7"
+        },
+        {
+            "file": "content/audio/body/SNDG_K_Btl.bars",
+            "hash": "D85E959EDC5492918C9A47DE198A7CECD020B19F2565B268F97F768597065A1D"
+        },
+        {
+            "file": "content/audio/body/SNDG_K_Gla.bars",
+            "hash": "5E6CD93A132BB5B99ACE71165A420C4D6871D50CEE00BE547FDB1E0638E3D917"
+        },
+        {
+            "file": "content/audio/body/SNDG_K_Pwc.bars",
+            "hash": "85431D4AB55D40C74C54BBBDBA965BCF4C6A4F03554E04B57BE2F1653EF9C7B6"
+        },
+        {
+            "file": "content/audio/body/SNDG_K_Rst.bars",
+            "hash": "F6700B539D29C2308063DD1E57DA11CAC5E32CE87027E686B94B52774EB28DF4"
+        },
+        {
+            "file": "content/audio/body/SNDG_K_Slv.bars",
+            "hash": "99B0A7C5E1FDB1A2F7BD2902A2705E8C8359F3BB65FF633F7A0B21369F2826D3"
+        },
+        {
+            "file": "content/audio/body/SNDG_K_Tnk.bars",
+            "hash": "32848082A5C17C6EDBE4EBC5671393841FDAEB607B43E5E7B0E86654CE30C808"
+        },
+        {
+            "file": "content/audio/body/SNDG_V_Drb.bars",
+            "hash": "8C36702D9A42DCEA1F723809F0A4A7D483D660567D4DD5A39C91DA25223B9291"
+        },
+        {
+            "file": "content/audio/driver/SNDG_AnimalBoyA.bars",
+            "hash": "199454AAAD4961D7FBF57ADF03888ACD9F558FDFE1A465B0AC5B1B2C4268AD80"
+        },
+        {
+            "file": "content/audio/driver/SNDG_AnimalGirlA.bars",
+            "hash": "199454AAAD4961D7FBF57ADF03888ACD9F558FDFE1A465B0AC5B1B2C4268AD80"
+        },
+        {
+            "file": "content/audio/driver/SNDG_CatPeach.bars",
+            "hash": "4313AA1542A0D121F8F20211117CA541F6009D6757D519D60CAA780B4D66EAF6"
+        },
+        {
+            "file": "content/audio/driver/SNDG_HoneKoopa.bars",
+            "hash": "BC5E48F2BB27F7E5D3CA65C04B709D0736F678466F82A331762BB5145406C537"
+        },
+        {
+            "file": "content/audio/driver/SNDG_Link.bars",
+            "hash": "319100A6523F2217856CABE6894C81D79FEF51636C654C5DBD96728304CCA878"
+        },
+        {
+            "file": "content/audio/driver/SNDG_Shizue.bars",
+            "hash": "A3C5D86399BF7BABFE9902BF17D762B588A01FD13A4BB6625941E7CEA8D614ED"
+        },
+        {
+            "file": "content/audio/driver/SNDG_TanukiMario.bars",
+            "hash": "D53A4C9EE48CE379B2724B5443A35AABD33CD4E92E947F7BBA0411F4ED5E21F6"
+        },
+        {
+            "file": "content/audio/driver_menu/SNDG_M_AnimalBoyA.bars",
+            "hash": "9CDF1E227E5D116EB65333AD87C7CEB3CA5B0046EB3817FAD05A6BE8EA4CF121"
+        },
+        {
+            "file": "content/audio/driver_menu/SNDG_M_AnimalGirlA.bars",
+            "hash": "9CDF1E227E5D116EB65333AD87C7CEB3CA5B0046EB3817FAD05A6BE8EA4CF121"
+        },
+        {
+            "file": "content/audio/driver_menu/SNDG_M_CatPeach.bars",
+            "hash": "646AF1014FE1F3EE2821295573F7F91EDB001759C449E7733B0B9EEF05246909"
+        },
+        {
+            "file": "content/audio/driver_menu/SNDG_M_HoneKoopa.bars",
+            "hash": "F455E92A5192665D8AE74E23F74F02CF55A030BFA0A915D2BD64C4F0C4C1E9E2"
+        },
+        {
+            "file": "content/audio/driver_menu/SNDG_M_Link.bars",
+            "hash": "61EB4680FBE045AEDC6A8EE2AAA453EC5D7CA4DC2E3997645B86D43EF9A8B945"
+        },
+        {
+            "file": "content/audio/driver_menu/SNDG_M_Shizue.bars",
+            "hash": "915EFA1EB1D62F69CCBD796E475004BD84688418056951835FDE2CEF60DFDFEB"
+        },
+        {
+            "file": "content/audio/driver_menu/SNDG_M_TanukiMario.bars",
+            "hash": "7BEA699DD23C01E9D596CDE75D057FF206D1ABBC37E9E94CD27FC1A40DDEAAF9"
+        },
+        {
+            "file": "content/audio/ground/SNDG_GND_ANIMAL.bars",
+            "hash": "1089AF66E1BF66B37BB1984A15917291EE53D0941B37F6ABC635E28E8E042AB4"
+        },
+        {
+            "file": "content/audio/ground/SNDG_GND_ASASE.bars",
+            "hash": "10F73CCEE9113537FBF7B29C6CB662DC10CD7D03C14B9EB445015F19524EC798"
+        },
+        {
+            "file": "content/audio/ground/SNDG_GND_BELT.bars",
+            "hash": "2348E41BF9894A2E3AE978BFB486E3D744EA9657B431C7861CD15E73A84EF0B1"
+        },
+        {
+            "file": "content/audio/ground/SNDG_GND_IRON_WET.bars",
+            "hash": "271B9C9AFDFD632A55DB1BF94A2D9CD84F041F4F923E8588244A08482AC5A3B1"
+        },
+        {
+            "file": "content/audio/ground/SNDG_GND_JYARI.bars",
+            "hash": "F9210225D3B74A8BC90749CC915D9252679329D18CA03B64F4999A17F36372B1"
+        },
+        {
+            "file": "content/audio/ground/SNDG_GND_KAIFUKU.bars",
+            "hash": "77293421E43B897157471C06002FEAF3CA8C2B5ED4E74968F3EE8D1F668EE568"
+        },
+        {
+            "file": "content/audio/ground/SNDG_GND_RUBBER_WET.bars",
+            "hash": "BB3E3346FC3A306F43120E7F900F8AE362F435E186FA5F5AF2CAE085B99C9FEC"
+        },
+        {
+            "file": "content/audio/ground/SNDG_GND_WOOL.bars",
+            "hash": "D6A5A69FD8D8ACF18EEDAFE513A772D86BBF4A2D6933981D032D0700E3726EB8"
+        },
+        {
+            "file": "content/audio/ground/SNDG_WALL_Fzero.bars",
+            "hash": "E4FD783ABBC9ED163BC93C1E52578BF3956E83441A575B9CF6DE5224A351BD4D"
+        },
+        {
+            "file": "content/audio/stream/Animal_Reslut_WU.aa.32.dspadpcm.bfstm",
+            "hash": "028D6E0F1ABB7FC518F6D78832AE72EC115AA0129FD0310DD781402D67401587"
+        },
+        {
+            "file": "content/audio/stream/BabyPark_GC_Replay.n.32.dspadpcm.bfstm",
+            "hash": "B38BEFCB434E6B9658165CD6DD05AC859A57F334D181155D86A078940A53916F"
+        },
+        {
+            "file": "content/audio/stream/BigBlue_WU_REPLAY.n.32.dspadpcm.bfstm",
+            "hash": "557DD73B1DD67058A09230E710A9F0D292348AD1AD869BD0B743561439619F26"
+        },
+        {
+            "file": "content/audio/stream/FZeroBigblue_Reslut_WU.aa.32.dspadpcm.bfstm",
+            "hash": "FF70CD682F888E9E97C68480EBB48D576CC204002F7C90B81BF17CED26FA8E4E"
+        },
+        {
+            "file": "content/audio/stream/FZero_Reslut_WU.aa.32.dspadpcm.bfstm",
+            "hash": "FF70CD682F888E9E97C68480EBB48D576CC204002F7C90B81BF17CED26FA8E4E"
+        },
+        {
+            "file": "content/audio/stream/ReplayMetro_WU.aa.32.dspadpcm.bfstm",
+            "hash": "EB5B347FED6B07D7717AD9B522CF6ECC876EB61F714E9EC726723A2FCDFC9503"
+        },
+        {
+            "file": "content/audio/stream/pBGM_3DS_NEOBOWSERCITY_F.bfstm",
+            "hash": "7B344C4EA4A14BE849DCE57195D1E838603C57D669A5C5B41AFD2DC11DA7C046"
+        },
+        {
+            "file": "content/audio/stream/pBGM_3DS_NEOBOWSERCITY_N.bfstm",
+            "hash": "0404D7B815A3E416B92AF474AE57B090BF8A92AF6077661F279A44FA0B421036"
+        },
+        {
+            "file": "content/audio/stream/pBGM_GBA_CHEESELAND_F.bfstm",
+            "hash": "FAC62CBE42F5669BDF30F4CA467B951BAA9D1BA00D8C697C2C4F5BB5DE1EF512"
+        },
+        {
+            "file": "content/audio/stream/pBGM_GBA_CHEESELAND_N.bfstm",
+            "hash": "FB50069FF44547447AE57226ED3D9A95E30EC5B11207141D1E69C4388428A992"
+        },
+        {
+            "file": "content/audio/stream/pBGM_GBA_RIBBONROAD_F.bfstm",
+            "hash": "456ABDAD8469D51942D3F6DF281DF603AF9B7F951B18E3358BEB51EF00C8396D"
+        },
+        {
+            "file": "content/audio/stream/pBGM_GBA_RIBBONROAD_N.bfstm",
+            "hash": "54D049FB85424781E058FA94F8A89F20BE720C7C89A4425CB9D0D6C0D6CC1250"
+        },
+        {
+            "file": "content/audio/stream/pBGM_GC_BABYPARK_F.bfstm",
+            "hash": "959A0A485059C6F378C3B6F4CD13A2E386CC581BB6BDF0D609397C9C40F838A5"
+        },
+        {
+            "file": "content/audio/stream/pBGM_GC_BABYPARK_N.bfstm",
+            "hash": "39EC1B7DF6D8803E7CA377E441045EADC8CBA986BA399ED2582EA502A9A7B958"
+        },
+        {
+            "file": "content/audio/stream/pBGM_GC_YOSHICIRCUIT_F.bfstm",
+            "hash": "4C056829229D27506EDB751559F0D545CF91171928BCE26A31F87922D059D618"
+        },
+        {
+            "file": "content/audio/stream/pBGM_GC_YOSHICIRCUIT_N.bfstm",
+            "hash": "5B2B344984D8A72D3D97D5D3E93F3930C54FB2A7556659FD3F788C7E8A531588"
+        },
+        {
+            "file": "content/audio/stream/pBGM_SFC_RAINBOWROAD_F.bfstm",
+            "hash": "EA0844E21966EDB3C615779B21975BE184E79DD4DCBB5B92596E02BF5ACB53F4"
+        },
+        {
+            "file": "content/audio/stream/pBGM_SFC_RAINBOWROAD_N.bfstm",
+            "hash": "AAAA70985314FD57765C75451174A27EF0CAA43EC5FE50F88CD1DA53131163C5"
+        },
+        {
+            "file": "content/audio/stream/pBGM_WII_WARIOSMINE_F.bfstm",
+            "hash": "431E0810695DC26A8EAC09C596071B10CB7B2A03431EA509C522DE7F72AE1C9F"
+        },
+        {
+            "file": "content/audio/stream/pBGM_WII_WARIOSMINE_N.bfstm",
+            "hash": "BC87C2D2936F38396DE14FA4CB32D69FB483ACE850534DBD689CF51A5AB279D8"
+        },
+        {
+            "file": "content/audio/stream/pBGM_WU_ANIMALAUTUMN_F.bfstm",
+            "hash": "40F79A1BAEE5708DE417B53AB09E463ADFA4ACD5D8FC262CE0DAC830B6F7AED5"
+        },
+        {
+            "file": "content/audio/stream/pBGM_WU_ANIMALAUTUMN_N.bfstm",
+            "hash": "D2196F34DDE05B02CEF558C8AD0F0D4F43E9B585AFF6811A4C274944515DC128"
+        },
+        {
+            "file": "content/audio/stream/pBGM_WU_ANIMALSPRING_F.bfstm",
+            "hash": "67D94D873E2969BA35FF238EFC300FC640D77A06F80FDE14E9C8FA5DF501CC18"
+        },
+        {
+            "file": "content/audio/stream/pBGM_WU_ANIMALSPRING_N.bfstm",
+            "hash": "896315D37355991B1E48A6860C56B7E004895C47FAA4D7A12D7F9FC814159E44"
+        },
+        {
+            "file": "content/audio/stream/pBGM_WU_ANIMALSUMMER_F.bfstm",
+            "hash": "6E4C60E45EAE049DB66345F1B11569345AAE2D788A8C4724C6715C19A7720A53"
+        },
+        {
+            "file": "content/audio/stream/pBGM_WU_ANIMALSUMMER_N.bfstm",
+            "hash": "5CCDBDBFC12D2DAB755952ED71BD33E37A886361E50BD53461697EBF579055ED"
+        },
+        {
+            "file": "content/audio/stream/pBGM_WU_ANIMALWINTER_F.bfstm",
+            "hash": "3DE130BF82348D83406D611224C1694C7ADC7F70036FC2BE3E8EED3EAC8AFEE2"
+        },
+        {
+            "file": "content/audio/stream/pBGM_WU_ANIMALWINTER_N.bfstm",
+            "hash": "10B18A0FD0684C429A368C6A3B114BAFD0C0A4056827271F9EDB40A913C9DB57"
+        },
+        {
+            "file": "content/audio/stream/pBGM_WU_BIGBLUE_F.bfstm",
+            "hash": "89C640BD27EBF9DB5B9526BB094FA39CD1C8BEED5A6026443F8B0091A36BF96A"
+        },
+        {
+            "file": "content/audio/stream/pBGM_WU_BIGBLUE_N.bfstm",
+            "hash": "8BEB7237342F5048CCF09B68193B14BCC7E45FBD02CD56369096F93DDBEA37CE"
+        },
+        {
+            "file": "content/audio/stream/pBGM_WU_DRAGONROAD_F.bfstm",
+            "hash": "A926DA5DB2FA807719CC63C998152405B0A716865105EB5D49D1DDA5F0B97A51"
+        },
+        {
+            "file": "content/audio/stream/pBGM_WU_DRAGONROAD_N.bfstm",
+            "hash": "EC0139F650C7944E311E6A67CC977D0B5F871B407F939811C6B0D1B621ABA8F0"
+        },
+        {
+            "file": "content/audio/stream/pBGM_WU_EXCITEBIKE_F.bfstm",
+            "hash": "A59BB9FE2910BE4454A1E55EBAC16C70B2E57509BA7D9231856B27AC270D07E8"
+        },
+        {
+            "file": "content/audio/stream/pBGM_WU_EXCITEBIKE_N.bfstm",
+            "hash": "5BFDD55D11D1479BC838071683C307A52412A7403D3CC912A35F6E6A1F033280"
+        },
+        {
+            "file": "content/audio/stream/pBGM_WU_HYRULE_F.bfstm",
+            "hash": "98738A16E1B5B0D2274E1C447702FA139CEFCEA021410DB48B9943381C5063A7"
+        },
+        {
+            "file": "content/audio/stream/pBGM_WU_HYRULE_N.bfstm",
+            "hash": "598950E210E67E645EDE3E0E86D02E3C875775855FC62FE388C4A41D62F317B4"
+        },
+        {
+            "file": "content/audio/stream/pBGM_WU_ICEPARK_F.bfstm",
+            "hash": "B36BE85D171442E6BA9F2739318D259CA1F48A0F514E8129EB5FB6FEF4D47D4B"
+        },
+        {
+            "file": "content/audio/stream/pBGM_WU_ICEPARK_N.bfstm",
+            "hash": "16306505DE8D3F66BA8120C6323ABFD684835D2BE304C073B81CEBBADDC2E3BB"
+        },
+        {
+            "file": "content/audio/stream/pBGM_WU_METRO_F.bfstm",
+            "hash": "C59A9037D21BE9801B63B2C3B0A963F37BEBE6C667FFCC09B7F27284191FF2E3"
+        },
+        {
+            "file": "content/audio/stream/pBGM_WU_METRO_N.bfstm",
+            "hash": "D37BCE35D99280680CCD5F689933CB8C64E64AA919D524F37BB1F3843F66BEDF"
+        },
+        {
+            "file": "content/audio/stream/pBGM_WU_MUTECITY_F.bfstm",
+            "hash": "DA4B6C5ACFFB63807B90AA7FFEDA954AB022155483EF52085CF675D245A1C717"
+        },
+        {
+            "file": "content/audio/stream/pBGM_WU_MUTECITY_N.bfstm",
+            "hash": "F0F56563309E7FDBA0510AAD29D73EA96BD80E1946BF8B693F79DA4C784084CA"
+        },
+        {
+            "file": "content/audio/stream/pBGM_WU_WOOD_F.bfstm",
+            "hash": "8428545D64ABB9713F29C29FCD7598F54934FA11A22BC213408E1288B8AB2D40"
+        },
+        {
+            "file": "content/audio/stream/pBGM_WU_WOOD_N.bfstm",
+            "hash": "ECAAD601F092B99559876DC716D133DFC7370E436FBC434EF70DC64D93ECB817"
+        },
+        {
+            "file": "content/common/effect/common.ptcl",
+            "hash": "18CE4EE1FD4C7601D4494B16BB952B48E4A804A7EA7C01A82F07D1B9E71909BF"
+        },
+        {
+            "file": "content/common/effect/elink.bin",
+            "hash": "3BFB720AA16F67A66E1921F75A44AF86DBD35763FC84833FA3991521FFB226FD"
+        },
+        {
+            "file": "content/common/gfx/agl_resource_cafe.sarc",
+            "hash": "86B5D7648FA40223736A553AC2CFC0021BA7F53A5880BBB79785025BF40C83D5"
+        },
+        {
+            "file": "content/common/gfx/gsys_resource_cafe.sarc",
+            "hash": "82433560982D57353632B8EA89E4AAF176A8B466D069CFD64537188678CD0894"
+        },
+        {
+            "file": "content/common/gfx/turbo_apkg_cafe.sarc",
+            "hash": "63EE0BB1688B07253DA6F823980D99C97260DBB5E2D2526F98A6B10C1102C64E"
+        },
+        {
+            "file": "content/common/mush/Audio.bin",
+            "hash": "FB3747076CB7AA2E6D5A0EDC43470E36F07894667C7CC0BDE8D1784ABE64EC3F"
+        },
+        {
+            "file": "content/common/mush/Course.bin",
+            "hash": "C88166676B335F0E594DC5F3719F013D9CEBF86D500B15EE94EE1543A236E303"
+        },
+        {
+            "file": "content/common/mush/DLC.bin",
+            "hash": "8E40D174613FE1F596E6F31F356B0C0E2FD4FE3AF4BB3A7F4F83C294B7ECD7B5"
+        },
+        {
+            "file": "content/common/mush/Item.bin",
+            "hash": "0CE326B214166E18D1F43126F0D31B3EA15CFDA9BCE21A5144146CD6DB86BB75"
+        },
+        {
+            "file": "content/common/mush/MiiVoice.bin",
+            "hash": "B768D0A76A6D7F66B6910470519453524485FD5DD660953E74F39B8DDE656EBE"
+        },
+        {
+            "file": "content/common/mush/OpenFlag.bin",
+            "hash": "D61051FA85F3D6902D7AA6E24BF817764CE95475F88E11FC966BAEEEB3C41B70"
+        },
+        {
+            "file": "content/common/mush/Parts.bin",
+            "hash": "FEC93BFF88E3E8005AE77BC089D31E8A3A075A1FB7DCE0C786FBD780F94F0540"
+        },
+        {
+            "file": "content/common/mush/Performance.bin",
+            "hash": "C55743367F8C1DCD1DC6C4CA08120752C1273AD692852B15555346B348A01AC9"
+        },
+        {
+            "file": "content/common/stamp/Stamp00.szs",
+            "hash": "673C40C666CA805623E111102C582DB81E980CA2A5E4A300D57BCF2213C19AAB"
+        },
+        {
+            "file": "content/common/stamp/Stamp01.szs",
+            "hash": "6E7414F61E84BC8F33551EEB0DE5648BB7E5403F6E7725BBAD651035D9D63348"
+        },
+        {
+            "file": "content/common/stamp/Stamp02.szs",
+            "hash": "37E4E7278F231C5F7C003A79E6AE579FEDBB5A7ED8EEEE117312F04C036F267C"
+        },
+        {
+            "file": "content/common/stamp/Stamp03.szs",
+            "hash": "937662E7915E067D7078ED99F98A01CCE1093232954E68076EB3FB9C63AD6D92"
+        },
+        {
+            "file": "content/common/stamp/Stamp04.szs",
+            "hash": "1A2B6D4C3ED03FDD46FD4B4402C225C8C51F6C96BFDD601D40DDBE41E837A59F"
+        },
+        {
+            "file": "content/common/stamp/Stamp05.szs",
+            "hash": "663515D015B6AD32DEC1496E730D3DA01D25B102832E77B20C2C6D09B4AB961A"
+        },
+        {
+            "file": "content/common/stamp/Stamp06.szs",
+            "hash": "8AB79805F2BB4ADEB8BB90DBB065326A481796B1A4DF5561615EAA870600B942"
+        },
+        {
+            "file": "content/common/stamp/Stamp07.szs",
+            "hash": "67409519E47B5D1E415EEBAD0B81E483C273828FD3ABA4E6F5D4B00C81A8D496"
+        },
+        {
+            "file": "content/common/stamp/Stamp08.szs",
+            "hash": "ECA2A1F689D6524C2C6ADF272C94D145B44859E0E8996FC645E156E7528430AE"
+        },
+        {
+            "file": "content/common/stamp/Stamp09.szs",
+            "hash": "821136CAB20535982615C81AF28772BE56C324FCDEF794C220FA97FDFB7D5718"
+        },
+        {
+            "file": "content/course/D3ds_NeoBowserCity/course_muunt_200.byaml",
+            "hash": "1196C5E7BB69CEE8CAEF0DBFDEEF29A99827F0A531F8F30F4D6BBD575B98F543"
+        },
+        {
+            "file": "content/course/Dagb_CheeseLand/course_muunt_200.byaml",
+            "hash": "4AFFA49ADBF069E8FB0F842D9B2949AB34328A945F1D7606F20DA427CBEC83ED"
+        },
+        {
+            "file": "content/course/Dagb_RibbonRoad/course_muunt_200.byaml",
+            "hash": "1895CF5B40B06E4BE0AC4999BB8A7C046655F1A82630D4335D2E085BF29A14C4"
+        },
+        {
+            "file": "content/course/Dgc_YoshiCircuit/course_muunt_200.byaml",
+            "hash": "9D7C5F44E96D344E01DB9D15FF33AB7B137DBE2A228FC1CAF3A432BD49DFCEAD"
+        },
+        {
+            "file": "content/course/Du_Animal_Autumn/course_muunt_200.byaml",
+            "hash": "E886E54172B3C6CCA5B98CA49948E66A7D942CB151572D2BD367A45894D7FF83"
+        },
+        {
+            "file": "content/course/Du_Animal_Spring/course_muunt_200.byaml",
+            "hash": "7DDC0284AC1238DABE25D7CD7157A8D28FD39820B13870CF88939AA89B169381"
+        },
+        {
+            "file": "content/course/Du_Animal_Summer/course_muunt_200.byaml",
+            "hash": "E32FDC4DCD2F164035CB4C00F107FA0403839FBD523C757AC5616BE09192D371"
+        },
+        {
+            "file": "content/course/Du_Animal_Winter/course_muunt_200.byaml",
+            "hash": "A5B73B64F0E43BC14074EFFE64F8FE632C6A95FD12B8F1244FA27B836D9A1DB0"
+        },
+        {
+            "file": "content/course/Du_Metro/course_muunt_200.byaml",
+            "hash": "37F04FF70A9B806285B68B541B350A3B00FCBF29C1C402257B658647B787109A"
+        },
+        {
+            "file": "content/course/Du_Woods/course_muunt_200.byaml",
+            "hash": "B01C8976AABDA97ACACD7172BAA9287440EE53FC094EB6AA785F513F09F28383"
+        },
+        {
+            "file": "content/course/G3ds_DKJungle/course_maptexture.bflim",
+            "hash": "A28E52763559DEF01965A268427CBF53BCEA0DE99D674D380D07164DBD3DA0ED"
+        },
+        {
+            "file": "content/course/G3ds_DKJungle/course_muunt_200.byaml",
+            "hash": "B1251195840A27B65D7771FAC45CBA0D412F569A3FC24FE13AD0D40A55DE0547"
+        },
+        {
+            "file": "content/course/G3ds_MusicPark/course_maptexture.bflim",
+            "hash": "FBBD3CA6FCE90E96CB6EDF74A18016C73E56A94FAD9A5B74F0D89C22DCF302EC"
+        },
+        {
+            "file": "content/course/G3ds_MusicPark/course_muunt_200.byaml",
+            "hash": "257A6907EC5CBC852879D531212838942986FB0B5E278C41DEF00FB4EA6000D5"
+        },
+        {
+            "file": "content/course/G3ds_PackunSlider/course_maptexture.bflim",
+            "hash": "39A6CA6F5F13D0C31644AA76FE9690018088F13242E3AB3A7A4120565AA1958F"
+        },
+        {
+            "file": "content/course/G3ds_PackunSlider/course_muunt_200.byaml",
+            "hash": "5235F8F4CA5CFD2959222CA67FF0135C12EE56FE4D1EA2C2236F685C9F7F41AB"
+        },
+        {
+            "file": "content/course/G64_KinopioHighway/course_maptexture.bflim",
+            "hash": "A7C1A2E04299DF1702DAF8D7144B2BC03628F4B48D21B26D627808D87A30C8CC"
+        },
+        {
+            "file": "content/course/G64_PeachCircuit/course_maptexture.bflim",
+            "hash": "7F813D4E56E095DD2654DA6BD8861A42DBE8CB8BE1AE4B7A911027768684AF80"
+        },
+        {
+            "file": "content/course/G64_RainbowRoad/course_maptexture.bflim",
+            "hash": "FAF6C95E07406053B65E464AFE5ECF750C53C8B0007A62313A859F89B7399093"
+        },
+        {
+            "file": "content/course/G64_YoshiValley/course_maptexture.bflim",
+            "hash": "95F14BFED46B466FA7404297F16D0AB217843165A0570969CCB7F1F95ADAF19F"
+        },
+        {
+            "file": "content/course/Gagb_MarioCircuit/course_maptexture.bflim",
+            "hash": "7C6614F8D1B5A361DC5D4BB8DC9193FAED19CDD462E2F824F9F5B7BF89773237"
+        },
+        {
+            "file": "content/course/Gagb_MarioCircuit/course_muunt_200.byaml",
+            "hash": "F9A746C1243A4D8E2C164D0113EFD290F565FEEC6C7381C0D2FF6A7DBAE73765"
+        },
+        {
+            "file": "content/course/Gds_PukupukuBeach/course_maptexture.bflim",
+            "hash": "D3FA0B6C9143E5A0D9E3FC5D6B9C1377214D25BAF78D4AFB6836B3B755E026B1"
+        },
+        {
+            "file": "content/course/Gds_TickTockClock/course_maptexture.bflim",
+            "hash": "D71AA1B85C82E7AE7DEFB91CEC8D66F499CA0944348911FB8C3F3013D57DE676"
+        },
+        {
+            "file": "content/course/Gds_WarioStadium/course_maptexture.bflim",
+            "hash": "429030915F4CE99043B809F13BAA4B525D742ED1E2ED12632E5A738831E73BB9"
+        },
+        {
+            "file": "content/course/Gds_WarioStadium/course_muunt_200.byaml",
+            "hash": "6F51DF99747A1B83235FD4B7D86DC5002500BC90EEFFB9E83059292CA0A94803"
+        },
+        {
+            "file": "content/course/Ggc_DryDryDesert/course_maptexture.bflim",
+            "hash": "1E27BFB552C2D1B62B43D3E3BCDB5BA0124BAB258738FCE93B7B423CEA4DF975"
+        },
+        {
+            "file": "content/course/Ggc_SherbetLand/course_maptexture.bflim",
+            "hash": "848B99D3C532236F817A5670BAF5473584F01BA4DC09B0B1BF0B8B9D980C3161"
+        },
+        {
+            "file": "content/course/Gsfc_DonutsPlain3/course_maptexture.bflim",
+            "hash": "5497A20D7D873F81C703870D67703186BDF4415B79C8C8DF0B7974E26A91A163"
+        },
+        {
+            "file": "content/course/Gu_Airport/course_maptexture.bflim",
+            "hash": "4C3FAECF96A80211341C2F56A4A93AB8E9A03B88773A846DD43BBE6E6B1F03F5"
+        },
+        {
+            "file": "content/course/Gu_Airport/course_muunt_200.byaml",
+            "hash": "EBD93C6963AFA967CB9AD0EDFA2ED4149D8B77963AF29F2108F5E79D3C36C779"
+        },
+        {
+            "file": "content/course/Gu_BowserCastle/course_maptexture.bflim",
+            "hash": "8DDB8431BFE4C4F87E9CF380B845A7EBBD91D7E20187C0F09F3E5BF7B8550271"
+        },
+        {
+            "file": "content/course/Gu_Cake/course_maptexture.bflim",
+            "hash": "224F37464B374904B94917CC3345B957740090571649572F74E2F229AE0252F9"
+        },
+        {
+            "file": "content/course/Gu_Cake/course_muunt_200.byaml",
+            "hash": "428608AE3AF2AE7027066ABFFBF57ED9103715634ACF2821BA0AF4FB24FC8D61"
+        },
+        {
+            "file": "content/course/Gu_City/course_maptexture.bflim",
+            "hash": "0730A1E3A248B6D533A3F502A1BBFD5B7F586631720543637CF5B158F087F81C"
+        },
+        {
+            "file": "content/course/Gu_City/course_muunt_200.byaml",
+            "hash": "2BA7AC09E6E2BD912773581A06D0653C4230B6E71CCB02823FA55EEB993D8581"
+        },
+        {
+            "file": "content/course/Gu_Cloud/course_maptexture.bflim",
+            "hash": "DB22183769707C8D35D0EFE239AF9CC5E2342C261967EF24C0FB44635AA4EEAE"
+        },
+        {
+            "file": "content/course/Gu_Cloud/course_muunt_200.byaml",
+            "hash": "7E4CCF781DE63CBB0793FEA7EE853F1145D9A008BF9F7DA281236354DFBE617F"
+        },
+        {
+            "file": "content/course/Gu_Desert/course_maptexture.bflim",
+            "hash": "59B0166171EC0D2B31F907325400D5EAF123D50C568BD873114D845561D795D6"
+        },
+        {
+            "file": "content/course/Gu_Desert/course_muunt_200.byaml",
+            "hash": "004F03E8710597830D217DEC8887EE0DBC9C8E87414623131BA9743DBD35D24B"
+        },
+        {
+            "file": "content/course/Gu_DossunIseki/course.ptcl",
+            "hash": "E88679408437ACFD848E986819FF94EB252E60B7F4DB76DA85D93D294E8EDC62"
+        },
+        {
+            "file": "content/course/Gu_DossunIseki/course_maptexture.bflim",
+            "hash": "6D41D036D341B5632AE971AB9DCB3407BBF5DDD704061C33CC3368F30D849172"
+        },
+        {
+            "file": "content/course/Gu_Expert/course_maptexture.bflim",
+            "hash": "EF13D65886117582F7FFCE12C693442E121A2BF2DDB1A54F5BCF9E26D037C9A8"
+        },
+        {
+            "file": "content/course/Gu_Expert/course_muunt_200.byaml",
+            "hash": "ACB4079F04905CD7BED6287166454D64F436EB9BFC3B7D9BB0E7B77952D3DB1F"
+        },
+        {
+            "file": "content/course/Gu_FirstCircuit/course_maptexture.bflim",
+            "hash": "8EC65CA1E01F588F5C8CFE063F3AA36A3EE51FD851D8E75BB352DCCE744E8273"
+        },
+        {
+            "file": "content/course/Gu_HorrorHouse/course_maptexture.bflim",
+            "hash": "CD133A8E9B6C377C70DFF23C4141B953E6CAD4BC7A62C1E66F7BCA7885C98A35"
+        },
+        {
+            "file": "content/course/Gu_HorrorHouse/course_muunt_200.byaml",
+            "hash": "E54B0C3721E90DD7AFCFF5122C358B62F3C680087718507ED8557839F8501995"
+        },
+        {
+            "file": "content/course/Gu_MarioCircuit/course_maptexture.bflim",
+            "hash": "7F4B68408885D1B4A375C381849197992DFAECDFB72AE7B29E7DA194E1B300F4"
+        },
+        {
+            "file": "content/course/Gu_Ocean/course_maptexture.bflim",
+            "hash": "09D729F1F4352E4FBB3AF11251489B7530772FB6B99A49D9F8050683245C7E08"
+        },
+        {
+            "file": "content/course/Gu_RainbowRoad/course_maptexture.bflim",
+            "hash": "36ED844A5D8C4629DAEE2F013958DEF6FC389659EBFDAAE49BF4ABC9064E80FB"
+        },
+        {
+            "file": "content/course/Gu_RainbowRoad/course_muunt_200.byaml",
+            "hash": "82840A0CE6CE76F3B45E7D10822E8077603CCE75932B8705BBE85AB72A53E2C1"
+        },
+        {
+            "file": "content/course/Gu_SnowMountain/course_maptexture.bflim",
+            "hash": "4BDED9839B10DB43C4E3B2041F2D621D8D648D1B767CDE6F12FC179E3928D358"
+        },
+        {
+            "file": "content/course/Gu_SnowMountain/course_muunt_200.byaml",
+            "hash": "8B3B2CE347E5AEEF153AD0873BEAE13D18EE3E5D7EAC4B08B8B654E9633EE011"
+        },
+        {
+            "file": "content/course/Gu_Techno/course_maptexture.bflim",
+            "hash": "0BF145048B7759FA613DBF2F5B14B1253F502385CE2BBA0A895C1BE0AD657966"
+        },
+        {
+            "file": "content/course/Gu_WaterPark/course_maptexture.bflim",
+            "hash": "1C0191C0B860831377B0A062DEFBD62BBF74F3ED4240D2204FDC1DAA9C1BAAD0"
+        },
+        {
+            "file": "content/course/Gwii_GrumbleVolcano/course_maptexture.bflim",
+            "hash": "4BD0E72E07F1EBF22468EB8FD745E11D5AAD2837782E1996C74FD3FB271DCDFE"
+        },
+        {
+            "file": "content/course/Gwii_MooMooMeadows/course_maptexture.bflim",
+            "hash": "FBC205752EBB53A90C94E3C2777273FA23F77EB27D8D682442A4C184C6D0701F"
+        },
+        {
+            "file": "content/data/objflow.byaml",
+            "hash": "992F0DC3107A6416B02A6E9091610B86B4A0DAF1057F142F18D8C63E1A5C7294"
+        },
+        {
+            "file": "content/driver/AnimalBoyA.szs",
+            "hash": "106AC5CC7E7AEA51BF35BF83C012DAFAC3FCB35786A1539BE46B6E8CF1CB7F67"
+        },
+        {
+            "file": "content/driver/AnimalGirlA.szs",
+            "hash": "F39F06419AAD44F94A1AD6D40329EFA4AF16A3770643D926A012BC5B1397312A"
+        },
+        {
+            "file": "content/driver/CatPeach.szs",
+            "hash": "3BB01E8CBB4E7D0E4FC0B88598A3351652DBD71BDECC46B02236DCF91858D4EF"
+        },
+        {
+            "file": "content/driver/DaisySuit.szs",
+            "hash": "23E63ECDA59D7EC62066D1F0768A33D85AC791C94DDCD8B842DA4242C7DAF02D"
+        },
+        {
+            "file": "content/driver/HoneKoopa.szs",
+            "hash": "D1D8809DDF66AB54A7D8AB66B865768BFA4BC7A7D88783B604EA6847AFF057A7"
+        },
+        {
+            "file": "content/driver/Koopa.szs",
+            "hash": "7B87721A7387BB61695AEF4D52649EC2E33BF2D7B80207B77D4498FECB68770D"
+        },
+        {
+            "file": "content/driver/Lemmy.szs",
+            "hash": "ADAA078ED457943F9BC7DC0F4263D7E8A2C552234ADD8B2938B3EA5B0CF58FFD"
+        },
+        {
+            "file": "content/driver/Link.szs",
+            "hash": "E280E906BA7B9264133EED58532D319D934BE580AC60F89E2E18C9271A47CD80"
+        },
+        {
+            "file": "content/driver/Ludwig.szs",
+            "hash": "21C81E54CD1CDF964F5166797743D251E62B572B9A9731C6E6F7F6058B91E919"
+        },
+        {
+            "file": "content/driver/MiiDkg.szs",
+            "hash": "F6C230ABAF1688B0DBABAE79DD66FD1BE26BBAF80DFF598D6EDFE543D53B94D5"
+        },
+        {
+            "file": "content/driver/MiiFlc.szs",
+            "hash": "1DF0D9803D79C0F580EE6133ADBE83998908C9C03615459C1F9BE6D70CA639C1"
+        },
+        {
+            "file": "content/driver/MiiFox.szs",
+            "hash": "56384370A173561A4227F026205F77B261519F89B0E0F7CD1B134C2BEB54FEA3"
+        },
+        {
+            "file": "content/driver/MiiKby.szs",
+            "hash": "093BA3319298C5B8303C676F58E58ABD0648CE8FB01B1862E1D38FC7855ADB56"
+        },
+        {
+            "file": "content/driver/MiiKno.szs",
+            "hash": "A4B6DD279A957DB86D8C3A0754D9D8068ED5DB915BD066EA63533BDD1AAC02B3"
+        },
+        {
+            "file": "content/driver/MiiKop.szs",
+            "hash": "4D084845262C859DD3493F0E0906574CC6E844EA36BCE5E0042114306F268F0B"
+        },
+        {
+            "file": "content/driver/MiiLig.szs",
+            "hash": "1446FD76ACA2977A18B71F3051C9DF2156921020398A6676E4DCE2A04A8D92BD"
+        },
+        {
+            "file": "content/driver/MiiLnk.szs",
+            "hash": "D0324A9EC0070FD26E57F286983A4A8315483FB6B9617C4B65050A00577DCB89"
+        },
+        {
+            "file": "content/driver/MiiMgm.szs",
+            "hash": "77AC6BC6D4AD0F3C4A4CC421CFC3A60A77FA1B86D63E2CD2FAFBF7B4F972FC60"
+        },
+        {
+            "file": "content/driver/MiiMrb.szs",
+            "hash": "16E85B0F77EA08EE17508A875C142B8761D02D81F3F183F1389D3221467E18C8"
+        },
+        {
+            "file": "content/driver/MiiMro.szs",
+            "hash": "FD953E0969CAA7DC38BB74C23D84A9B14269C7762DEDB14BE36705522B3555D5"
+        },
+        {
+            "file": "content/driver/MiiPac.szs",
+            "hash": "69F154CD3B50B9E0E5E00607B34E17DAFC24C872E21F59B3851C359DCB5D3E5C"
+        },
+        {
+            "file": "content/driver/MiiPch.szs",
+            "hash": "B03613F1123A4E3A079771211EE8AE654391A9C6BFA8A2F2B27AD9A11A9E56D3"
+        },
+        {
+            "file": "content/driver/MiiPkm.szs",
+            "hash": "1B8584849C27018BCE8C34A17C8DD5C42F21CEFDA0559CFC16F68C56ED287595"
+        },
+        {
+            "file": "content/driver/MiiRst.szs",
+            "hash": "6614C643DA788E5CF734F6C97861967E2963241B0E6DF6E3DFBFEFDF8905AB24"
+        },
+        {
+            "file": "content/driver/MiiSms.szs",
+            "hash": "1BAF037FD28BCE0091B79EE45427555F621CC0A1A934FC654BF5CEE67DCC1B03"
+        },
+        {
+            "file": "content/driver/MiiSnk.szs",
+            "hash": "A6E0C1327961C0E0ACB3CB1578418775E6EE67A5563A9B73BD11CAA0C3EE41F9"
+        },
+        {
+            "file": "content/driver/MiiWro.szs",
+            "hash": "46CE1507B981468C735319FB36827BF4FB5813E4A6093723F32B504B6D64A442"
+        },
+        {
+            "file": "content/driver/MiiYsi.szs",
+            "hash": "0C102300ACAEBE7A78094A948A490E0C71ACEE6DEB8193E1DA03052A14244B5A"
+        },
+        {
+            "file": "content/driver/Morton.szs",
+            "hash": "6099B9EC66A57E23A54C64B93BD6A67672AA7669C9F1D9A32AAF1BA83D61A653"
+        },
+        {
+            "file": "content/driver/RosettaSuit.szs",
+            "hash": "07FDC5E6EC21D1341F7E76275E175E32006337937527CBDAE3629CEF096B5A3F"
+        },
+        {
+            "file": "content/driver/Shizue.szs",
+            "hash": "099B53EEE4A95E374A8768DF080792612D6AAC8BB559E2DC041347B2202B7730"
+        },
+        {
+            "file": "content/driver/TanukiMario.szs",
+            "hash": "DAB1B7870616AD1B9EA9170F7B3F66C2D5BE131C14AF556D533A734714E70D3D"
+        },
+        {
+            "file": "content/driver_anim/MiiAnimF.szs",
+            "hash": "058E0885C79FC1FA414C3E940AF414B9A8A08C3FDF658D6F83001F967315DE98"
+        },
+        {
+            "file": "content/driver_anim/MiiAnimM.szs",
+            "hash": "3B760CBD4439F613C00A34006F0FF06C9C0B79EDC5E0CDFA7F765B9B3873D08E"
+        },
+        {
+            "file": "content/driver_tex/Heyho_Tex01.szs",
+            "hash": "73432E89D1DD5CE0352028B4B3A5FE733A0D6F1430CE6F9566F22F2A8E5259C3"
+        },
+        {
+            "file": "content/driver_tex/Heyho_Tex02.szs",
+            "hash": "C7DAAEA62B23D29801221C36A03CE3F36E861490774DAB1A0180DD8A45B1721C"
+        },
+        {
+            "file": "content/driver_tex/Heyho_Tex03.szs",
+            "hash": "FA8E3F14A6DD31DE034CE8A672B2B2705E39BE7BE5737E2407A9115735CA1334"
+        },
+        {
+            "file": "content/driver_tex/Heyho_Tex04.szs",
+            "hash": "DB0954F445DFD17121576E6B4F1AF1509EEEF193B91A7D767118A27ECF6392C1"
+        },
+        {
+            "file": "content/driver_tex/Heyho_Tex05.szs",
+            "hash": "FEE7AAF363B7C3C8A2910F1777DBAD1B915D52863E5B0BF44E1CB65CAF0F4F8E"
+        },
+        {
+            "file": "content/driver_tex/Heyho_Tex06.szs",
+            "hash": "11EA3FC9CD5181576D5D98CBD7E5B53173E501473AB32CBD67F3B23AACB3A7DF"
+        },
+        {
+            "file": "content/driver_tex/Heyho_Tex07.szs",
+            "hash": "E8A139E9D8C1053BAD124FA70F280131CE35FF952EB151C77EED03BC4DEB89CB"
+        },
+        {
+            "file": "content/driver_tex/Heyho_Tex08.szs",
+            "hash": "E3F9CF2BE22E851D7B34051618E802CF9FD19BC180AFAA0BEEF7604ACFDADC1D"
+        },
+        {
+            "file": "content/driver_tex/Yoshi_Tex01.szs",
+            "hash": "6BFAEEFC1938A5C8CA1AB5E9F38F9E173D4CBF11C7479FD123A3F8C4C23D177C"
+        },
+        {
+            "file": "content/driver_tex/Yoshi_Tex02.szs",
+            "hash": "3D38CE374E239C0AF65507A7C1A3CE0462CA1B05FDE48439734982D6880ECBB0"
+        },
+        {
+            "file": "content/driver_tex/Yoshi_Tex03.szs",
+            "hash": "5FEEBB54EF3E5F21358E00294AD320C253B14472C2AB13319F19C4893468060B"
+        },
+        {
+            "file": "content/driver_tex/Yoshi_Tex04.szs",
+            "hash": "70F35A8E417F409AD7639D25B8B563206BA2009C0B3FA16EB35AD37DA886A8A3"
+        },
+        {
+            "file": "content/driver_tex/Yoshi_Tex05.szs",
+            "hash": "783FA77C79F0295A5E3C8C17F3E99B1EE5A9E37C505D1DA05837C871ACB720BE"
+        },
+        {
+            "file": "content/driver_tex/Yoshi_Tex06.szs",
+            "hash": "9D101979386B3F710DE9FE61E2CFB14FBE86FE41E6EE894F8576B3258F1BA6DD"
+        },
+        {
+            "file": "content/driver_tex/Yoshi_Tex07.szs",
+            "hash": "C8BCB33E19D28F3B86CFDDD989F6749F06AEA1D616C583351DC7F1B93736401D"
+        },
+        {
+            "file": "content/driver_tex/Yoshi_Tex08.szs",
+            "hash": "B09D3C7205AACAAE4615DE03C777422B9CCAAC788A3D2DEFA40EA7B98D8D6541"
+        },
+        {
+            "file": "content/ghost/slow/sg20301005002503002070af02926302a32202a2fa93b3e793b3e7004e0069006e2605004a0075006c0069006500744d00000093b3e793b3e7.dat",
+            "hash": "F7B162CA40327AC60E07C34D9E7E3B154267AA2FB362D2D785C18AC54BE622C4"
+        },
+        {
+            "file": "content/ghost/slow/sg21310000001d020020a1ab02b09802b0c602c04d93b3e793b3e7004e0069006e2605004c0061007500720061000031000000.dat",
+            "hash": "A5DEA93141F6E757A55695A251FB06E0432EBB533BFE37A8F0BDA68CC8E96CAA"
+        },
+        {
+            "file": "content/ghost/slow/sg22320f00001301012051e702a18902a0c602838093b3e793b3e7004e0069006e2605004b0061006f00720069000001000000.dat",
+            "hash": "6D6E985EA566BF349B0438BA2AE3F14DE3D8B11C951876718816A1DF96E798CA"
+        },
+        {
+            "file": "content/ghost/slow/sg23331f000020130c20b09c02d00b02b0e202a39793b3e793b3e7004e0069006e26050043006c00610075006400696e000000.dat",
+            "hash": "B09E1C69AD9DE16EF2C3E6AA001178AE7972759AB277AA3F72A78BDFB0ABCDDC"
+        },
+        {
+            "file": "content/ghost/slow/sg243421000025030d13a1110270fb02707702738793b3e793b3e7004e0069006e2605004d006100720069006500003100000093b3e793b3e7.dat",
+            "hash": "4D2EA63A615D09395858C589BFA7CFD9569E91740F77DD516317C2EBC6F049F0"
+        },
+        {
+            "file": "content/ghost/slow/sg25350000000e03002061e302b05602a22402835193b3e793b3e7004e0069006e26050050006500640072006f000069000000.dat",
+            "hash": "3B55B5C32CD20FA8389747A056771C8D7EB44831B3A5CABF765B80F7DCC8D240"
+        },
+        {
+            "file": "content/ghost/slow/sg263620000023140d2041e002a13d02811402937793b3e793b3e7004e0069006e26050041006b00690072006100000100000093b3e793b3e7.dat",
+            "hash": "D41A86B4EFC5B20FC1F6D96A3D1331F10C96665353FEFC9C6B8C380CD8083A59"
+        },
+        {
+            "file": "content/ghost/slow/sg27371e00001e010020736402c24802734402b1c093b3e793b3e7004e0069006e26050050006100760065006c000064000000.dat",
+            "hash": "18442DB9B4EBE5FCA7E2F97FE33ED2911AC464ED7684FC2EB5D1FD8FA31074C2"
+        },
+        {
+            "file": "content/ghost/slow/sg28380401001f000020b12b02c3a002b23502a32693b3e793b3e7004e0069006e260500410064007200690065006e4d000000.dat",
+            "hash": "57B60C4D598E5912F6EED228F518D6CB5117E698EF5C4D939772470F022A6E0C"
+        },
+        {
+            "file": "content/ghost/slow/sg29390a000000010021330e02e2bf02e3de02e05993b3e793b3e7004e0069006e26050050006900740000000000004e000000.dat",
+            "hash": "2A4018F4092B7BFB5F46F4858B6F31491BA3CA7EE892DFE653F4C068D6922558"
+        },
+        {
+            "file": "content/ghost/slow/sg2a3a22000004100012e2570251cb0220ff02237593b3e793b3e7004e0069006e26050041006e006e0065000000005e000000.dat",
+            "hash": "646BA89DE8E81B5C639BEBCF0C98B2B48E6B80786F1F6FDD28CBD4D173D1EB3E"
+        },
+        {
+            "file": "content/ghost/slow/sg2b3b24000019060020b34702a2e002b27102d1de93b3e793b3e7004e0069006e2605004700690075006c006900615300000093b3e793b3e7.dat",
+            "hash": "04BE002D82006D1BFB5E3396BF9052905B23252E303FB9061DD4EC931EA8F4D5"
+        },
+        {
+            "file": "content/ghost/slow/sg2c3c23000026050020920102b39902a13b02b11593b3e793b3e7004e0069006e2605004700750069006c006c00653100000093b3e793b3e7.dat",
+            "hash": "D1F358D640281BDD8F3D156D0482D029437757FE09353D96BD40B9D8A018DC20"
+        },
+        {
+            "file": "content/ghost/slow/sg2d3d11000009000011623200a3c900c1a100a35200b11c00c144004e0069006e2605004a006f006f0073007400005e00000000c16500c169.dat",
+            "hash": "53806FB1B52E0D90D59F12F08AFE35DFBA61555046187590E3CBA83DCED616AE"
+        },
+        {
+            "file": "content/ghost/slow/sg2e3e04080001010620925902b3bd0293cc02b2a093b3e793b3e7004e0069006e260500410072006100630065006c6900000093b3e793b3e7.dat",
+            "hash": "7F7AAD9323F08527D89D46A04A2E9E8955D136B6C7428156922743704180F78E"
+        },
+        {
+            "file": "content/ghost/slow/sg2f3f000000240b0012c0640270960182fe0280b893b3e793b3e7004e0069006e260500440079006c0061006e00006e00000093b3e793b3e7.dat",
+            "hash": "62AB6DF076D90D184EB9EA5C25CD82CB3B064DC7476E06CE17F92E5190C486A7"
+        },
+        {
+            "file": "content/kart/arm/ArmK_Anm.szs",
+            "hash": "CE5A60D8BB0E7EF345E3EA4F690FA4279D963B0A579C72275CAB5A6137E94069"
+        },
+        {
+            "file": "content/kart/arm/ArmK_Gla.szs",
+            "hash": "A1233021AEF5E6D7223BBA5CB01C0228DECAE3C4D96AA1EEFFFAE46674BE91E8"
+        },
+        {
+            "file": "content/kart/arm/ArmK_Tri.szs",
+            "hash": "1625E5E22B0F5980C3857F2654FD915298007A11FBCEBB49E3C1679B847BB73F"
+        },
+        {
+            "file": "content/kart/body/BodyB_Sct.szs",
+            "hash": "BC6E7D92D4D0436BEF4B947B783738E348E319D15560FA8D0F774F61A7A220FE"
+        },
+        {
+            "file": "content/kart/body/BodyB_Zlb.szs",
+            "hash": "A7FDADE14CC07B456F556B76D295984429B06E0B50DACBECAA4C059D4471AFC3"
+        },
+        {
+            "file": "content/kart/body/BodyK_Bds.szs",
+            "hash": "4C1A88630E9625BFBDC9317D53CDE212FAEAE309758ADD917018EADDB129A8A1"
+        },
+        {
+            "file": "content/kart/body/BodyK_Bfl.szs",
+            "hash": "35CA962EDD1E97730408853C2BB5EE77EEB0919274519ED5D5B4A371FD52DFEE"
+        },
+        {
+            "file": "content/kart/body/BodyK_Btl.szs",
+            "hash": "E6AABF5F108D0E39FC550F2EB4FF43D094279B06281FB868BBABD112C174A70C"
+        },
+        {
+            "file": "content/kart/body/BodyK_Gla.szs",
+            "hash": "D3954BFB5C3B70FB723E17F22D006BE7A91457F2EBA387FF42D03CC68F56D0C8"
+        },
+        {
+            "file": "content/kart/body/BodyK_Gld.szs",
+            "hash": "1F8CF87E56570AD5C95E5B8285078B38E1B946BA00B92C4CA0501B722AEB8970"
+        },
+        {
+            "file": "content/kart/body/BodyK_Pch.szs",
+            "hash": "FFF2592D1F9AA8E170696454956DE27576982976A3B58E3341B54763E8D6B0C6"
+        },
+        {
+            "file": "content/kart/body/BodyK_Pwc.szs",
+            "hash": "6F16F1B764639B82DB687DD8A4E5A9A7B546B16A750E71BD2A5D8045A58FE80C"
+        },
+        {
+            "file": "content/kart/body/BodyK_Rst.szs",
+            "hash": "6DDD02B90A3D5ADB588D87A6F98C95AC5D6BFC6EFC61D0FBFC967B1BFE6215A5"
+        },
+        {
+            "file": "content/kart/body/BodyK_Shp.szs",
+            "hash": "3D4E2F1D8A3EB8BB5B19A1A2B1132E653795B4C4866263F500972160ECEE0D64"
+        },
+        {
+            "file": "content/kart/body/BodyK_Slv.szs",
+            "hash": "BCEFB1D6B9E093C70DA305926CB16A13AF0CC0B9F00C0B02E5A9882238647912"
+        },
+        {
+            "file": "content/kart/body/BodyK_Std.szs",
+            "hash": "DEF92F38CA69E4AB004F6F6BF78EC796223AA18037B42F55BA9D781988F74A47"
+        },
+        {
+            "file": "content/kart/body/BodyK_Tnk.szs",
+            "hash": "00A96D9CFBECAAC4F176B318BD9D68D7FDD98AD30426F29D9CC91C37D9B459AC"
+        },
+        {
+            "file": "content/kart/body/BodyV_Drb.szs",
+            "hash": "BFDAC909CF9E4C7BBF4F8F4C1B14DDE97E803BCE521662344F09BBA0CEBBC5B8"
+        },
+        {
+            "file": "content/kart/body_tex/ArmB_Mgp_Hyh00_Alb.szs",
+            "hash": "D6EF9F0F5BA5D09AA903433CEE148806719873CDCF84E54BB1DCEA3892711859"
+        },
+        {
+            "file": "content/kart/body_tex/ArmB_Mgp_Ysi00_Alb.szs",
+            "hash": "854EC6E2BD9BAC77F40D8B84B63586655C5AC606043009935FDF7030F1B3E0B0"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Mgp_Hyh00_Alb.szs",
+            "hash": "8F14BB9E9BA3611EDEF46DFD8197FC6DE361E4DED4E9C6BCF252A85227EBD4D0"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Mgp_Ysi00_Alb.szs",
+            "hash": "F9F071D830255D6423339B87BC3BEEEA330B73D9EE0D861AADC3920BDECE5799"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Sct_A_Alb.szs",
+            "hash": "29EE40CBA0F9A767FAAAB48978E722627810D524F1AF02C151C6DFAB611EDAB3"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Sct_A_Spm.szs",
+            "hash": "F12BD41FCFD164319B1359C18C889DBEE506C9DD116E28DA125E22A971517E35"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Sct_B_Alb.szs",
+            "hash": "374F41605E73275DE74303BE5C992C00823412C269CFF9F38EE5945B4AE31AE6"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Sct_B_Spm.szs",
+            "hash": "B345A478EFA49F384BD62428DE6ED56E5F08A711D62895A413EDA03764BCD2B7"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Sct_C_Alb.szs",
+            "hash": "A9B71C2BAAA344FEB3A0119A528696C750562752914624A85FC18A4227434CEB"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Sct_C_Spm.szs",
+            "hash": "40CCEA0EAD7020D6C558EE54FD68643CF186B876C0D7FF27FDB747BFAB66BFAA"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Sct_D_Alb.szs",
+            "hash": "9D784E7C57888AB1594F91892198748DA5036F9876F845C872BEE9548176FBEB"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Sct_D_Spm.szs",
+            "hash": "CC029A6D1355D2BD985AFAF28F02DFA3AC1FA5B7A8CE8F6993A3BA610769114D"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Sct_E_Alb.szs",
+            "hash": "428C2213C9E1AE123633069A1457E6389CF2382AD0E58A543E9414B6AF68CE1D"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Sct_E_Spm.szs",
+            "hash": "1A74FC1D7E0ACAA2128A7D28B10BC376D0F159A508277B621164FAB06F5CA1CC"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Sct_F_Alb.szs",
+            "hash": "668322B7C3FF2B31B2561CE32F8C93E07F944032AE0FC720E6B1E72ACD603AFA"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Sct_F_Spm.szs",
+            "hash": "2B281304C62C8A20CBFFC738FE4065DD736B2A92B1E394D8B63A4C3C412F4886"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Sct_G_Alb.szs",
+            "hash": "34FCB989061F0082E9B5297F5EBC6DBEFB0F3E66FD76CBD38E21656CE326D869"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Sct_G_Spm.szs",
+            "hash": "50E5711BB23120B67FF0E5ACBFED5A81650272573627EE8A0824923C6F15B382"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Sct_H_Alb.szs",
+            "hash": "97D295067FAA0B3270D5400225BDDE5D84B8BF84E28CCD5122FAEED31A9A400A"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Sct_H_Spm.szs",
+            "hash": "7C82616A469E412D00E9942874BF48F3023EBBD6D7EAE75410C40B254213151E"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Sct_Hyh00_Alb.szs",
+            "hash": "25795A2C69DDC0D1CD112C7974010809070C01AABA27A6DAB6E96BCDD378D02F"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Sct_Hyh00_Spm.szs",
+            "hash": "02A052B801D40E6CF329D44B9D326F4CE83AB5CC42180A933E9A00E0C5409E4B"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Sct_I_Alb.szs",
+            "hash": "6E5E7751CE72B20477CCA4C21F73F9F04A533769395274B6574600D969BB92E1"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Sct_I_Spm.szs",
+            "hash": "F77B448D890FC37BA96D4D1370B6968754E8EB1BDB2DD4D76811D3BE67747F42"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Sct_J_Alb.szs",
+            "hash": "1EA9603814CADB3D98460E1F7D6584BC7AD99BC4AA36EFEAA07851A6262E02BF"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Sct_J_Spm.szs",
+            "hash": "D8AF46D971937508458AC71F20B20E3506299036A3EC79B1CD3CE614BC93E006"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Sct_K_Alb.szs",
+            "hash": "B6AB965EDD0B11DD4AA5AFA0EFE0EFEDDB5EA836B394386A407EC5C708558CF8"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Sct_K_Spm.szs",
+            "hash": "D4DC0248DDE0EB118967901716C33E1AC9DFDD907E6BDBB144E85BC24DAEE5CE"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Sct_L_Alb.szs",
+            "hash": "8C0A10DEE3D2921F87BF3B733A92062B2506A05721AE8425C783A7AB9BEFD232"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Sct_L_Spm.szs",
+            "hash": "810166478E6607A268A7E9008603A1DFAB59E46E682238285C6C8F507B773DA9"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Sct_Mii00_Alb.szs",
+            "hash": "2C4F5207E057AE590D2B11DF764D47A46A2D082273BC5DF97275C159579B2EF6"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Sct_Mii00_Spm.szs",
+            "hash": "28A4917C06EE18191B9CB64355807AA7EE33BA83CB97C0BA845628E16938D8CA"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Sct_Mii01_Alb.szs",
+            "hash": "501ED54042D809F046F89F55B222DF1AD2F70C33B1993FA49A3EC3593B90DCB4"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Sct_Mii01_Spm.szs",
+            "hash": "256F7AF4797C3AC664234DF0E90863EC1A561A982D3F9ACD8F1CBC95CA94B020"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Sct_Mii02_Alb.szs",
+            "hash": "2B92DEE5C6A8C3760305BBEA0133A3EAF4DBDB6040344207B95280F47594CADA"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Sct_Mii02_Spm.szs",
+            "hash": "AAF11FC25CD698651C5D4817D401C3A8307F90B0BAEC24DFE65FD498DD47C9C7"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Sct_Mii03_Alb.szs",
+            "hash": "EB6EBC3921554DA731AAA3AEAF58A5AB7E220055F136552A7C6387983E2EEC1C"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Sct_Mii03_Spm.szs",
+            "hash": "59756829BA8472E18C470B80C89DA64F12FDB5A3F8C87356F8DC8CCA10139D6C"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Sct_Mii04_Alb.szs",
+            "hash": "DC14D536DEEE34A024EF27B416E4FBB9C7048D373D9909208F608EE2BF95BEA9"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Sct_Mii04_Spm.szs",
+            "hash": "303189837C94EBB8920F448B55B7DC2F14B57792C0D8727705A920DFCAB9C6CD"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Sct_Mii05_Alb.szs",
+            "hash": "B3AA03FC3A539E61503717D58B7A3586477C669B460B6CE22CD1EFBD013E97B7"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Sct_Mii05_Spm.szs",
+            "hash": "78EA90B9244CD1E3658ADB7100280F603A97208185982FFF4A506C1B246CA2FE"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Sct_Mii06_Alb.szs",
+            "hash": "379BF6F2E2798C4A466E35B58879F025FA40C642E5D93A8A4A451854D216A079"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Sct_Mii06_Spm.szs",
+            "hash": "6E2535FD1E725A086FF73ED3891B28A2102535EE6CD0DA85190604DEF73DF86C"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Sct_Mii07_Alb.szs",
+            "hash": "887315106C1AE3CEAE71E7F7E2FC7FEC7D87BFD02A0680A4658B701595C2C29D"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Sct_Mii07_Spm.szs",
+            "hash": "7DCCF363072995F5ED396D818EB7CE6222E4BC72A0C2EFBCCEA5F916A10BEED2"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Sct_Mii08_Alb.szs",
+            "hash": "45256C7A87F631F746D3740418E4247845FBC107A5E672BF7C2DF822B5F9ACFC"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Sct_Mii08_Spm.szs",
+            "hash": "23AF026C37B11DFFAFC140286237683CF1CD7EBC8F4994815094F558D25521D9"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Sct_Mii09_Alb.szs",
+            "hash": "90B7CE63806EF397D8CDA4901EE46847FA5B6109535E15E70AB7D4EFF5EBF191"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Sct_Mii09_Spm.szs",
+            "hash": "48A78FA018C3A14350A49F72D02DFD6772A7BE32C0F5514B10740AF70F054425"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Sct_Mii10_Alb.szs",
+            "hash": "3471AF200CDF8429E1106900F19D1B8A3737687338F33E1905D561042F915417"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Sct_Mii10_Spm.szs",
+            "hash": "9A6B31ACD4987DED18190A1DCCABA0055C720E05807D5940B2FD476A499B79A9"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Sct_Mii11_Alb.szs",
+            "hash": "D6E0FBD4CE2B360EA47BCEB13E55751D8D2497933F48CF6D43673004FEDDA569"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Sct_Mii11_Spm.szs",
+            "hash": "E45CC3A581B96EABB3CDB7FEBDBEDAE24072C89595B22C504C7D3A8A367F14A4"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Sct_Ysi00_Alb.szs",
+            "hash": "462CB4C149AA92F9C22A1C595C9A48CA9B44B382B6F4B9FF9EC5ED522FBC2102"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Sct_Ysi00_Spm.szs",
+            "hash": "5EC9B6AC99BA9F9A9FCC8A678425240F93E86CB54CB05405FB1FC494864ACC6F"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Std_KopB_Alb.szs",
+            "hash": "E8F17C1E14BBC10BC097D311DB1E27AD7490E3CFFD7AB3D5E8DBFB52BBB77B78"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Std_Lnk_Alb.szs",
+            "hash": "1CCC631D16F12862192BB1BD98542468F3992FCB224BBE8B277372D45FA3A804"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Std_Lnk_Spm.szs",
+            "hash": "B5823974F772E893AE165956330B209AE96C7C7D5C7EE8A49CC5ECD94A245CC4"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Std_Mrb_Alb.szs",
+            "hash": "D735CA7E9647D790F08E55AF71715FDD93F3F1ADB563A760EAF612DDF76BC07B"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Std_Mrg_Alb.szs",
+            "hash": "B4A57C92166DEC64E3FBEF0CB3C701EDEC305F19A5179FE218735A5B202C6752"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Std_Mrg_Spm.szs",
+            "hash": "B934935D0DC6C51BEB8AACBA9C98AA4034CF84792F8D8230A257B2E0E5991213"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Std_MroT_Alb.szs",
+            "hash": "D24F139EB246A154FE1E3B755F9F9DD6FCB709DAD9F6249DD3CACCAAAECC2283"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Std_PchC_Alb.szs",
+            "hash": "54A9D31091D382CB974B26CAC83A4595334DC28D60156DB9DF7AD8525D388B9E"
+        },
+        {
+            "file": "content/kart/body_tex/BodyB_Std_Shz_Alb.szs",
+            "hash": "9DA99A1E9A10F7218023650CB24088F81B26FC4A33C43AD9C5E126A1FA1B5899"
+        },
+        {
+            "file": "content/kart/body_tex/BodyK_Fml_Hyh00_Alb.szs",
+            "hash": "481FC64C62D3ECBD9CFAB0BF8C2EE252DFD8C93F1D1131B1036B0B8A4DFA8AA7"
+        },
+        {
+            "file": "content/kart/body_tex/BodyK_Fml_Ysi00_Alb.szs",
+            "hash": "1F8B0FAD816A6E36D0123AE9CD71AD5D6E687B4420380B09BA63C1E9A518E738"
+        },
+        {
+            "file": "content/kart/body_tex/BodyK_Gla_A_Alb.szs",
+            "hash": "8444CB0ED88091F328670CAB0B360F371D11C93AE1AA02629A1925704348E832"
+        },
+        {
+            "file": "content/kart/body_tex/BodyK_Gla_B_Alb.szs",
+            "hash": "E82576AA3D7EF728A5B4A6A5D4458DE173D7E90A7895CC23DECE19409E3519BB"
+        },
+        {
+            "file": "content/kart/body_tex/BodyK_Gla_C_Alb.szs",
+            "hash": "CBF79D973DE5A1B2868E3341839CE055D97CA48ECC5A592F991E0701207CE309"
+        },
+        {
+            "file": "content/kart/body_tex/BodyK_Gla_D_Alb.szs",
+            "hash": "A431B15298351C711985745BFE5ACBA99628EFA76B1148898435A969FDB80C32"
+        },
+        {
+            "file": "content/kart/body_tex/BodyK_Gla_E_Alb.szs",
+            "hash": "09A47A266154E6BA3A424B25C80C4F9AEF3C30810EC0A1ABD777BB492986269D"
+        },
+        {
+            "file": "content/kart/body_tex/BodyK_Gla_F_Alb.szs",
+            "hash": "695C900D7D75F7C279D47A4300B422BBE356ABA09B1E3E9416CFB57DE8DF027D"
+        },
+        {
+            "file": "content/kart/body_tex/BodyK_Gla_G_Alb.szs",
+            "hash": "11FAEA81DE9655FE499C62DDC755A6D457AF55756A71C263A2CCA293FF8B2CD9"
+        },
+        {
+            "file": "content/kart/body_tex/BodyK_Gla_H_Alb.szs",
+            "hash": "B2A6FCBF42328E6889263AA289390AABFA70B032CF0BA7E0BF24CB68F112BEA9"
+        },
+        {
+            "file": "content/kart/body_tex/BodyK_Gla_Hyh00_Alb.szs",
+            "hash": "473BC21C956D0B53B452E60BB586D14F9159AB1F53BBA3A66472E7FC2C932608"
+        },
+        {
+            "file": "content/kart/body_tex/BodyK_Gla_I_Alb.szs",
+            "hash": "45176287929D035BAACC0F8727362FB3618DEC35605FDFAB6B9153CE4A722543"
+        },
+        {
+            "file": "content/kart/body_tex/BodyK_Gla_Mii00_Alb.szs",
+            "hash": "95D010FB33A537C5F6BD9813199248564699AAD3B142023CFF22CD8F4FAD790C"
+        },
+        {
+            "file": "content/kart/body_tex/BodyK_Gla_Mii01_Alb.szs",
+            "hash": "6504245C120F8E4328056716E41ED74E49B9DCDFB174FB6DEB3FF669BD35C745"
+        },
+        {
+            "file": "content/kart/body_tex/BodyK_Gla_Mii02_Alb.szs",
+            "hash": "7AA75273B752753ADE72377D4B174EAE7EC64783492F8137F65644590E48F289"
+        },
+        {
+            "file": "content/kart/body_tex/BodyK_Gla_Mii03_Alb.szs",
+            "hash": "84F137C0F284BC57DB30DBCE93DA83BB5ACAD34D0611FD7A6DA110ACF1B5FB04"
+        },
+        {
+            "file": "content/kart/body_tex/BodyK_Gla_Mii04_Alb.szs",
+            "hash": "5A8D46C01ED8F3078B72F81DFDA3A8EBDEFFEF2D53CB1EFD037C7ED9C3A783A3"
+        },
+        {
+            "file": "content/kart/body_tex/BodyK_Gla_Mii05_Alb.szs",
+            "hash": "567243F53FE0DE3E8179536083CC227C0B2DDF226FC577E903B74693C78DFBCA"
+        },
+        {
+            "file": "content/kart/body_tex/BodyK_Gla_Mii06_Alb.szs",
+            "hash": "93C5FB8A21F92B5EA27085B0A849B41F3B349C648484434EE9073267E5FB04BF"
+        },
+        {
+            "file": "content/kart/body_tex/BodyK_Gla_Mii07_Alb.szs",
+            "hash": "4DAB8FD58666CEDC22D53DA4CE3EED892B4B6BF592C80D60B61FCD591CFD9DAF"
+        },
+        {
+            "file": "content/kart/body_tex/BodyK_Gla_Mii08_Alb.szs",
+            "hash": "F32DC2D2BF1DDDEECB757916A6AA562F4A3A9586A41E6925C392A21D72D8AC77"
+        },
+        {
+            "file": "content/kart/body_tex/BodyK_Gla_Mii09_Alb.szs",
+            "hash": "30BD6D2D0B1DD7E2B02BB9A3B6F3BB99D59B71896E9A0082C81248753C913F9E"
+        },
+        {
+            "file": "content/kart/body_tex/BodyK_Gla_Mii10_Alb.szs",
+            "hash": "95FEDF812272C0F21F1CC9146281CAFE7F1A398F9D244117358FE9E471EF4D3A"
+        },
+        {
+            "file": "content/kart/body_tex/BodyK_Gla_Mii11_Alb.szs",
+            "hash": "AB43F3A750F7E55E64C4A3051FD38E64010E12964382C363D07C56F6E096B075"
+        },
+        {
+            "file": "content/kart/body_tex/BodyK_Gla_Ysi00_Alb.szs",
+            "hash": "B40090458FD984F58DEEF3C24635AF40548D5AB4FA228265CA45CE6D4556C1BA"
+        },
+        {
+            "file": "content/kart/body_tex/BodyK_Skl_Hyh00_Alb.szs",
+            "hash": "C492FB01C5C81D61926E628CEA085B579F504C8B25F456414AB53447195EE52D"
+        },
+        {
+            "file": "content/kart/body_tex/BodyK_Skl_Ysi00_Alb.szs",
+            "hash": "710414DFC9F4724EB46A71EA2D48F081B36A4ED5C5F0C031DCC0C1BA001B3A9B"
+        },
+        {
+            "file": "content/kart/body_tex/BodyK_Snk_Hyh00_Alb.szs",
+            "hash": "0CE1390894102937B94B8D3C70B0341E46DA31C0D30AF4F6C7C4B0382813AE30"
+        },
+        {
+            "file": "content/kart/body_tex/BodyK_Snk_Hyh00_Spm.szs",
+            "hash": "0924727F6D4A1CAC5CFD4E2B95D50873E11318227CED5FCD2F1A7E6B3E02DFE0"
+        },
+        {
+            "file": "content/kart/body_tex/BodyK_Snk_Ysi00_Alb.szs",
+            "hash": "3CB509DBD24C729018F9BAE87FC35C53E6AAABFFB7618D2B5D460985360D6058"
+        },
+        {
+            "file": "content/kart/body_tex/BodyK_Snk_Ysi00_Spm.szs",
+            "hash": "C90E5B57FDE5CD36BEC41C5600A2D4039CA9DD64BA535774FE322F23F6611432"
+        },
+        {
+            "file": "content/kart/body_tex/BodyK_Std_KopB_Alb.szs",
+            "hash": "4C399E66E86751BD388F232D4FF262E3F5D4E640D194ABDF065F19B2624DD6AB"
+        },
+        {
+            "file": "content/kart/body_tex/BodyK_Std_Lnk_Alb.szs",
+            "hash": "EF466BC53795B52634D6CB7F87AEAEDED92D7A0E6D3D2BAF052B1EA92BA5187F"
+        },
+        {
+            "file": "content/kart/body_tex/BodyK_Std_Lnk_Spm.szs",
+            "hash": "E9A6213F2E2D64A70D078AFAD25A1FF053FDAA2510C343FED0A4ACDC26AA4C27"
+        },
+        {
+            "file": "content/kart/body_tex/BodyK_Std_Mrb_Alb.szs",
+            "hash": "42378B201540A6848887000695232D16C8DAD40E8150BF8AB1AD0241330F9064"
+        },
+        {
+            "file": "content/kart/body_tex/BodyK_Std_Mrg_Alb.szs",
+            "hash": "498C7C4D718B2D31202A5B798350A6205CCAC52906A337D69CA2CC65791CFB56"
+        },
+        {
+            "file": "content/kart/body_tex/BodyK_Std_Mrg_Spm.szs",
+            "hash": "FB1383AFFCB71323AFD48C3C77C5DD2056679499A784E0EE22C07FC96505823A"
+        },
+        {
+            "file": "content/kart/body_tex/BodyK_Std_MroT_Alb.szs",
+            "hash": "7041B22C846121351D501DEBC149BE2F1AF174BF623F25F1C7E5BA2AC8A6D6C3"
+        },
+        {
+            "file": "content/kart/body_tex/BodyK_Std_PchC_Alb.szs",
+            "hash": "086549E9742D47E1806105276BEF10C3B163AD3C187318D2163A808F5B65089B"
+        },
+        {
+            "file": "content/kart/body_tex/BodyK_Std_Shz_Alb.szs",
+            "hash": "9FEDFAA55E3145675E4558D1CA132168CC7A7AA0CF81167D65F0E7B686098172"
+        },
+        {
+            "file": "content/kart/body_tex/BodyK_Ten_Hyh00_Alb.szs",
+            "hash": "1641CFD87630A93DBECD05F3CC7BAB5536EC2540F0D70C8F41525F437D777017"
+        },
+        {
+            "file": "content/kart/body_tex/BodyK_Ten_Ysi00_Alb.szs",
+            "hash": "6FA4CB1B799F5EB9378CD1E119B9EAE4C7686B4BE0C5A9F71961922D8A0A5A6E"
+        },
+        {
+            "file": "content/kart/body_tex/BodyV_Atv_Hyh00_Alb.szs",
+            "hash": "AA2CA6AEF8230C931A64D6030ED29C43FA5434C3B0E262DFFE94D16C00B7BC45"
+        },
+        {
+            "file": "content/kart/body_tex/BodyV_Atv_KopB_Alb.szs",
+            "hash": "8A083D286225ED8B1986DDFA4BFD9E1BB7A9D207085DACE1C54ECFE190C169C0"
+        },
+        {
+            "file": "content/kart/body_tex/BodyV_Atv_Lnk_Alb.szs",
+            "hash": "4E22797B27DDF44FA1EE375DE946FD77C3E2C0E28A5FC38FBD60AFC913C30AFE"
+        },
+        {
+            "file": "content/kart/body_tex/BodyV_Atv_Lnk_Spm.szs",
+            "hash": "9AFD6E5549795BC2E1CB306D43126FEE6FAE7E5C4316E55BA6C473EF593CB856"
+        },
+        {
+            "file": "content/kart/body_tex/BodyV_Atv_Mrb_Alb.szs",
+            "hash": "8BCB6F861F199556ADAD9D6B4C37CD04C086DAA7A0B862F4C79C9DF0F773B728"
+        },
+        {
+            "file": "content/kart/body_tex/BodyV_Atv_Mrg_Alb.szs",
+            "hash": "6576E9682511634C411518E6D6ADCB67D972C6588651D66A4E9339DBDD368D64"
+        },
+        {
+            "file": "content/kart/body_tex/BodyV_Atv_Mrg_Spm.szs",
+            "hash": "B8F34F0B64BE33013B5E45D1ECF5F2B98789A494C917957A5E5314AD7A5992DA"
+        },
+        {
+            "file": "content/kart/body_tex/BodyV_Atv_MroT_Alb.szs",
+            "hash": "EB239305105A76AC722C8F63C251C1068D6943355ED2F0D7169881DC7566DFEE"
+        },
+        {
+            "file": "content/kart/body_tex/BodyV_Atv_PchC_Alb.szs",
+            "hash": "7CAA239150E5F5DF97EDA07304A2CE601A9BDFED98E9F0ACCC4482A609A6CFB9"
+        },
+        {
+            "file": "content/kart/body_tex/BodyV_Atv_Shz_Alb.szs",
+            "hash": "B6F0B41C154D00D8461D2A6AA327C2C93A990D30DB825BC8EA221DAB8E864645"
+        },
+        {
+            "file": "content/kart/body_tex/BodyV_Atv_Ysi00_Alb.szs",
+            "hash": "AF4EBC3FF012ADCEF099987FB547C4FAC388F4998724C1FD5A11C13C1FB915CB"
+        },
+        {
+            "file": "content/kart/emblem/Emblem_KopB.szs",
+            "hash": "A371B926495372B2761D7946B571A6B03C32621F97B97B2750B6799043FCCBBF"
+        },
+        {
+            "file": "content/kart/emblem/Emblem_Lnk.szs",
+            "hash": "F27E4A19E0109DB49AC56BDD35787296E1740FBC5D0D552892496729E4329931"
+        },
+        {
+            "file": "content/kart/emblem/Emblem_Mrb.szs",
+            "hash": "415978EE1D8D4A603EEFA6D7927ACFF52375E01D7ED5AEF946117FD9A7AA99A6"
+        },
+        {
+            "file": "content/kart/emblem/Emblem_Mrg.szs",
+            "hash": "7D6A9CD1B0A50C29A5E9DAD269AF31FB755A2E62B3A3560510FC5C4FD59FB5DD"
+        },
+        {
+            "file": "content/kart/emblem/Emblem_MroT.szs",
+            "hash": "6A7D45835F0BF95DBAA28C2EF9ECB4E1D7BA5A0BC568DE3CE34FBD57223EE32F"
+        },
+        {
+            "file": "content/kart/emblem/Emblem_PchC.szs",
+            "hash": "3E99A1EBFEACF202E977BF95E5267984D4C87D741EDD6704DD1B63CF96092ECA"
+        },
+        {
+            "file": "content/kart/emblem/Emblem_Shz.szs",
+            "hash": "3ABC377B71086B69C47217E813BE9D0544300A7866DD9DAD0ED179BFBF0B2F5E"
+        },
+        {
+            "file": "content/kart/emblem/Emblem_Ysi01.szs",
+            "hash": "54F3E1BFF71680114641B6D6286F660A5AF93F0ADE68921DC5D0705C91AF0E93"
+        },
+        {
+            "file": "content/kart/emblem/Emblem_Ysi02.szs",
+            "hash": "3C8B780489C91D98AA6BE3072475D8BEBA18F0329ABDC174F71A1B555D118EFA"
+        },
+        {
+            "file": "content/kart/emblem/Emblem_Ysi03.szs",
+            "hash": "D4F4D108E279E6C1AEDEBBA0904D9B59AB6B1441922D060C32B2FF15A5F2BB5F"
+        },
+        {
+            "file": "content/kart/emblem/Emblem_Ysi04.szs",
+            "hash": "E89E29769C4CEC66FFFFB58263BC0DB7E873E3FFFF25E66DB88A0EC069F486E7"
+        },
+        {
+            "file": "content/kart/emblem/Emblem_Ysi05.szs",
+            "hash": "1BF6E7DD9CDD11C1CABE4D867BEB72D4510D08DB971C39A247119C754105DC04"
+        },
+        {
+            "file": "content/kart/emblem/Emblem_Ysi06.szs",
+            "hash": "A9D43C24E2284411DA26861F436717037ED2F1C642805AEAD1A9611A4FB700A8"
+        },
+        {
+            "file": "content/kart/emblem/Emblem_Ysi07.szs",
+            "hash": "ECE6C9F382D7945A077D391829623076177B456C668DC192671E62C908BB793E"
+        },
+        {
+            "file": "content/kart/emblem/Emblem_Ysi08.szs",
+            "hash": "78156852BA05EC81B5773D505B74BF35E55C9A3DCBB0F74CAE56F42005534921"
+        },
+        {
+            "file": "content/kart/tire/TireB_Anm.szs",
+            "hash": "7E037C9E6F6680A3457CECEF9EFFCE21456A5DCDB9FE3BB93717960ACEEC6E4C"
+        },
+        {
+            "file": "content/kart/tire/TireB_Gla.szs",
+            "hash": "97C5FCD4CC055D7F582BAF96F02329353FD67C2A1765E57BF9460AE8F06EEA2C"
+        },
+        {
+            "file": "content/kart/tire/TireB_Tri.szs",
+            "hash": "48A53249B9CB7AE8BD7FB916D2F64D61BAEFC6C0F581CD0687F891F8C8768D27"
+        },
+        {
+            "file": "content/kart/tire/TireB_Wod.szs",
+            "hash": "309135DEFEC49047FC98ACC84142E3070AE4EE127339F451DD36AF8219A735B0"
+        },
+        {
+            "file": "content/kart/tire/TireK_Anm.szs",
+            "hash": "D231E05D62E488B2D4F25AD1B4441FC83F8F718198A074F7FC2908CC3BC3FD2D"
+        },
+        {
+            "file": "content/kart/tire/TireK_Gla.szs",
+            "hash": "E48AE64C4B143B6E60AFD849DFFE4211F6485047B0B5C6468AF71DE25648E206"
+        },
+        {
+            "file": "content/kart/tire/TireK_Rng.szs",
+            "hash": "8A4501706994ABF4159796DF76EB552CC7A955F7221A9ACFA7AABA9AB47B7C41"
+        },
+        {
+            "file": "content/kart/tire/TireK_Tri.szs",
+            "hash": "6E6EF87BCB7E9CAD77E5C46B6F8712DF4525658404D11C79D914B9996D41A3F7"
+        },
+        {
+            "file": "content/kart/tire/TireK_Wod.szs",
+            "hash": "53EB97C7AEC1C8D4CD25B88D302C8D9C1F52BAB06EF121EA67F77918D1DFCC49"
+        },
+        {
+            "file": "content/kart/tire/TireK_Zrn.szs",
+            "hash": "85EDD652B52EF03E8F6FEFE727698F7ECCD828774C4CC1A727B0148443712311"
+        },
+        {
+            "file": "content/kart/tire/TireT_Anm.szs",
+            "hash": "677E63BEAF74F8BA9DEF3E84ACC1952B90B0002F0C393517A8EDA4E2EF561AAA"
+        },
+        {
+            "file": "content/kart/tire/TireT_Gla.szs",
+            "hash": "7640589C8498FE46F61D4ADBB7F85CF8111075D815D16D4FDD5D4797537195AB"
+        },
+        {
+            "file": "content/kart/tire/TireT_Gld.szs",
+            "hash": "3F2F77DC3B318106994A46CBF5F6E8F2904D78795D37C5F7C7C2AB47D6412D4A"
+        },
+        {
+            "file": "content/kart/tire/TireT_Rng.szs",
+            "hash": "7A298BAA168541A28DDDFF60ACD1565E5297871F2E3BBFE76C12842950A6E04F"
+        },
+        {
+            "file": "content/kart/tire/TireT_Tri.szs",
+            "hash": "4D067503240ECCD6732F3AEBC93E9E7A5AB55866D217A9EA82F384A616EA2F44"
+        },
+        {
+            "file": "content/kart/tire/TireT_Wod.szs",
+            "hash": "BE3E81125CE300FA659DC4C00B25B6B160E982EC75B5B688FEA9704D1DB6EBFF"
+        },
+        {
+            "file": "content/kart/tire/TireT_Zrn.szs",
+            "hash": "52374A69EE5E2F24F0B8D2CDF10E82F1A37871F462115E66BEA66B46888BF757"
+        },
+        {
+            "file": "content/kart/wing/Wing_Hyr.szs",
+            "hash": "159072EB5E629561380AEF7496F607DD5F8AA55AE7740C4466078367A4206A73"
+        },
+        {
+            "file": "content/kart/wing/Wing_Pap.szs",
+            "hash": "9CBBFEE2089CB7F063F83923098F9588A099B45DD98C727393E25571193AB073"
+        },
+        {
+            "file": "content/kart/wing/Wing_Std.szs",
+            "hash": "FC1053E4AC2BBBD015D8E2E326010EA31BD647CD56177E2DAA00EC9FB1938806"
+        },
+        {
+            "file": "content/kart/wing_tex/Wing_Std_KopB_Alb.szs",
+            "hash": "DB1F611D2FFEB07D3366385A89E2079253B201AF03A952BE690DD4CBB9B55627"
+        },
+        {
+            "file": "content/kart/wing_tex/Wing_Std_Lnk_Alb.szs",
+            "hash": "0EE9EB55C151A47B30431385E21141C83E7BC0BD8BB9E8235B2BCCB61A56F42A"
+        },
+        {
+            "file": "content/kart/wing_tex/Wing_Std_Lnk_Spm.szs",
+            "hash": "D7E55D4966CE464F815FC98006C7AE7B2582AA5B55F7683107293A3211C778FA"
+        },
+        {
+            "file": "content/kart/wing_tex/Wing_Std_Mrb_Alb.szs",
+            "hash": "C93094B834D58BE2E15A0778D92DC9F5FFD3CB54AFAA051526BD3545E073DEAB"
+        },
+        {
+            "file": "content/kart/wing_tex/Wing_Std_Mrb_Spm.szs",
+            "hash": "983DE0FDD711F28F26F902E928D41BF456AF31D6597980A16148BCD9AC1201F7"
+        },
+        {
+            "file": "content/kart/wing_tex/Wing_Std_Mrg_Alb.szs",
+            "hash": "6204A485447FFEDD46232B4ADA86D198C6BD7C16470F5368879BEBA898D9C291"
+        },
+        {
+            "file": "content/kart/wing_tex/Wing_Std_Mrg_Spm.szs",
+            "hash": "0144616EE1CD15DD4F8DAF0CCB22263358B04EA099AD6932D8C136FF86E1604E"
+        },
+        {
+            "file": "content/kart/wing_tex/Wing_Std_MroM_Spm.szs",
+            "hash": "6CD9C63C273032B7981AB92E1B8053D07A5AA83D84526E3E692BD2FCDBF89A15"
+        },
+        {
+            "file": "content/kart/wing_tex/Wing_Std_MroT_Alb.szs",
+            "hash": "33BA444864192C1F84BE1A81C5999BE890175D9E8387B94BCBEBF3D8BC484EDA"
+        },
+        {
+            "file": "content/kart/wing_tex/Wing_Std_PchC_Alb.szs",
+            "hash": "188C88370B0824C7AF5B44C7AB75CAC56ABA618DF655A409ACD734BD875082BC"
+        },
+        {
+            "file": "content/kart/wing_tex/Wing_Std_PchG_Spm.szs",
+            "hash": "4F8CB8599DDFE3D1CAA9E1C724D253E61A1196E0499B04B93C86993C42E13769"
+        },
+        {
+            "file": "content/kart/wing_tex/Wing_Std_Shz_Alb.szs",
+            "hash": "7C8E57CF453A5DA1D97B5D1D34D1272E2BD6BB32894E26860B63DD7430BD2DCC"
+        },
+        {
+            "file": "content/race_common/JugemObj/JugemObj.bfres",
+            "hash": "524A35390B81BE6F1D5DC9A29305C0D6EA137366783E32666C6593FA8FD64659"
+        },
+        {
+            "file": "content/race_common/ai/AIConfuseTable.byaml",
+            "hash": "AE431DF298F3B31FA60A55D199507F51EB57CE09BF65A02D56BB425961D47FA8"
+        },
+        {
+            "file": "content/race_common/ai/AICourseTable_GP.byaml",
+            "hash": "6E11CC10D36342C82A3CFBBEDE2A0DF87C259E2500800AE8ECD0336297FDB80B"
+        },
+        {
+            "file": "content/race_common/ai/AICourseTable_VS.byaml",
+            "hash": "71DE8C220FFDD6463019369DF2F8C379DD59E302E5AE5FB175A055FA28C417E7"
+        },
+        {
+            "file": "content/race_common/ai/AIItemTable.byaml",
+            "hash": "17DFD3192619D7688374697D215B3D6FE1D53044DF9BD07135FBF213843EE954"
+        },
+        {
+            "file": "content/race_common/ai/AILevelTable.byaml",
+            "hash": "AB28841157B3D0585C8263BE7D0CDBD793C68F9798B8F1D5762FC7EC0A1E3046"
+        },
+        {
+            "file": "content/race_common/ai/AIParamTable.byaml",
+            "hash": "631B67A68C6D6002904F0D69CD1B34116DE459F2B0C5E66386FE7A4F6929B56A"
+        },
+        {
+            "file": "content/race_common/ai/AIProbability_Drift_Table.byaml",
+            "hash": "21E7C9F3246070254AABA08EE9C49F8097FA6FDB0CB79EC6A323165266D29579"
+        },
+        {
+            "file": "content/race_common/ai/AIProbability_JumpAction_Table.byaml",
+            "hash": "EB660C5C99735704ABBCE9D8224F02DAD05F134B095F8FC0FEEDF4E2369CD0B9"
+        },
+        {
+            "file": "content/race_common/ai/AIProbability_RocketStart_Table.byaml",
+            "hash": "7F6E64F21BE52BF41436ABD4D69E861F1D6306285808B7B86BF1AEC50617C8C7"
+        },
+        {
+            "file": "content/race_common/ai/AIProbability_WheelSpin_Table.byaml",
+            "hash": "5CC78D1FB997ACD1AC177A9283DF75601FF58256AC48CD4D357BB7D519E70BF2"
+        },
+        {
+            "file": "content/race_common/item/DL_ItemBell/DL_ItemBell.bfres",
+            "hash": "945D577737590517C474341C5114F6EDD263A4A9659EADF811392C0793F4DC2B"
+        },
+        {
+            "file": "content/race_common/item/DL_ItemRupee/DL_ItemRupee.bfres",
+            "hash": "BD2F7CE50A3C3206FE000DB3EC5FF198D716B416885E918DCAA3F18F5597545A"
+        },
+        {
+            "file": "content/race_common/item/ItemPowerKinoko/ItemPowerKinoko.bfres",
+            "hash": "7109166C6507E72BCF9BE865B2825EAF504557A086EB5DBA64A58A2722D8B42E"
+        },
+        {
+            "file": "content/resourcerev.dat",
+            "hash": "D94B2FB0D36F33F27E01B2A737CCA022F813D406A9E13BA1E5E0C4D4606D836E"
+        },
+        {
+            "file": "content/srcrev.dat",
+            "hash": "C41F4830D6B85FB0CF7CC78A85D1A982548337837D5A86E6A1C3D1636191496B"
+        },
+        {
+            "file": "content/trophy/Animal/Animal.szs",
+            "hash": "7B59E1C4772A559955E65F1D2674C094D3F774A81718D903C5CB151AFE067BAB"
+        },
+        {
+            "file": "content/trophy/Bell/Bell.szs",
+            "hash": "51F739D46C82A90E56202F862E2578891794E0943C6D2112F2F0285C324108BE"
+        },
+        {
+            "file": "content/trophy/Egg/Egg.szs",
+            "hash": "9F102746E9CA5D02A8CFCB135E3D9DC0D429F2BED973AD674738C351223CD8F2"
+        },
+        {
+            "file": "content/trophy/Zelda/Zelda.szs",
+            "hash": "E1530396C0E91F813AAC4B0EF0DED7C20DB6E856361B4EF1332C4EF976E45A37"
+        },
+        {
+            "file": "content/ui/cmn/a_ending/timg/ym_AwardBG_D3ds_NeoBowserCity_00^o.bflim",
+            "hash": "416DD6AFC1FAF09E4456127B9442A792A86DE165C77F25A80C324BA216579FB2"
+        },
+        {
+            "file": "content/ui/cmn/a_ending/timg/ym_AwardBG_Dagb_CheeseLand_00^o.bflim",
+            "hash": "C3C79B7DDF05814B24DBABEF631DD739D326FC42C5B214477B8BC185A0438FCA"
+        },
+        {
+            "file": "content/ui/cmn/a_ending/timg/ym_AwardBG_Dagb_RibbonRoad_00^o.bflim",
+            "hash": "3F86ECF7D55506336B81EADBF790A179797C6DD87A1F36A25468504B72E631F3"
+        },
+        {
+            "file": "content/ui/cmn/a_ending/timg/ym_AwardBG_Dgc_BabyPark_00^o.bflim",
+            "hash": "83E6625A9F1F69C7DE9AE3C3E1D573D7BE19783366FD2E3ACD6B2AE84AE2CCF8"
+        },
+        {
+            "file": "content/ui/cmn/a_ending/timg/ym_AwardBG_Dgc_YoshiCircuit_00^o.bflim",
+            "hash": "E85B31EA75CCB1DD5B081EF29ED2EC6E7A81576F6900C2C575BB70A7979EED88"
+        },
+        {
+            "file": "content/ui/cmn/a_ending/timg/ym_AwardBG_Dsfc_RainbowRoad_00^o.bflim",
+            "hash": "12F8C39A753A2639E135177E07D5B93716901979F6EE9079D548E1214C94BC6C"
+        },
+        {
+            "file": "content/ui/cmn/a_ending/timg/ym_AwardBG_Du_Animal_Autumn_00^o.bflim",
+            "hash": "428A717FBC9BB6C1904D8B9F05EA0F58610C9CB8A9599CB6CD05828AC20F11C2"
+        },
+        {
+            "file": "content/ui/cmn/a_ending/timg/ym_AwardBG_Du_Animal_Spring_00^o.bflim",
+            "hash": "D1678EED7418031695963879AF37250DA11B8D500D183B2067A58E6300AF8FC3"
+        },
+        {
+            "file": "content/ui/cmn/a_ending/timg/ym_AwardBG_Du_Animal_Summer_00^o.bflim",
+            "hash": "85AC0C36AA4E8B1672BE36334AB7717CF8C05C6E8800C0D904DD906ACA24589A"
+        },
+        {
+            "file": "content/ui/cmn/a_ending/timg/ym_AwardBG_Du_Animal_Winter_00^o.bflim",
+            "hash": "DFD192CAAAF40111E3BB644DB0782F0F609756BC167761AF0E581D521556ABB8"
+        },
+        {
+            "file": "content/ui/cmn/a_ending/timg/ym_AwardBG_Du_BigBlue_00^o.bflim",
+            "hash": "139D09087E884E6F5EDD61D23908C7591B1FB36CE9DAA00C55174559833C2E62"
+        },
+        {
+            "file": "content/ui/cmn/a_ending/timg/ym_AwardBG_Du_DragonRoad_00^o.bflim",
+            "hash": "F4EE1B8B879D9CCC1E5E0C5A469025B56A3D121B46FDD34E1E38E37BAB6003C7"
+        },
+        {
+            "file": "content/ui/cmn/a_ending/timg/ym_AwardBG_Du_ExciteBike_00^o.bflim",
+            "hash": "82680DDE01341BF8BF3E8C6DB40C8C0235A2EE86A37019C2A98F156741E7ABC2"
+        },
+        {
+            "file": "content/ui/cmn/a_ending/timg/ym_AwardBG_Du_Hyrule_00^o.bflim",
+            "hash": "4EC2D8DFA3A11B69C44FA3A23410BE96C92EA597A5302AEC823FD1BE17E3A1D2"
+        },
+        {
+            "file": "content/ui/cmn/a_ending/timg/ym_AwardBG_Du_IcePark_00^o.bflim",
+            "hash": "CD317D429F5BB0B6EDADE7FB07F84A9C4FF2CD03EC1718FEF9D640BF904F854D"
+        },
+        {
+            "file": "content/ui/cmn/a_ending/timg/ym_AwardBG_Du_Metro_00^o.bflim",
+            "hash": "2FFF6388312D68F336D9E80F8FA9DA4F61D5DE95CC26658D326C31659CFCC95C"
+        },
+        {
+            "file": "content/ui/cmn/a_ending/timg/ym_AwardBG_Du_MuteCity_00^o.bflim",
+            "hash": "A59E345FC48AE466A7ED8F38CE9F3B691990C07405ECD0E098765E994C16B4CC"
+        },
+        {
+            "file": "content/ui/cmn/a_ending/timg/ym_AwardBG_Du_Woods_00^o.bflim",
+            "hash": "B4C624BFBE3DD143C3DEACBF442362EEFD9851DDEC8B16EF29AB5A9F135412B3"
+        },
+        {
+            "file": "content/ui/cmn/a_ending/timg/ym_AwardBG_Dwii_WariosMine_00^o.bflim",
+            "hash": "C412265DCC9342703704CFC82F004DCE0541DB309E349C98B3E57B3AB0075AF3"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_Dlc0_00^l.bflim",
+            "hash": "B13BAEB06352ED409AC4B4A94544326188B73BB5B2960307783A00FE703E4F37"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_Dlc0_01^l.bflim",
+            "hash": "978B6AD0726758400DE3DFC19422E2D2E1C17EC52FC7C7625FFB0E167102A1DE"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_Dlc2_00^l.bflim",
+            "hash": "A10E23278FBEDB73A1A7BB558BA9940A7CDFECBCA3B668D829A60438A2A12630"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_Dlc2_01^l.bflim",
+            "hash": "8D39BEC1D1EB5E3C4EC3FDA196E75E623A22CE759D205C3643736365063088E0"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_Dlc3_00^l.bflim",
+            "hash": "56435057821AB0D8420CCD0E17C84A77B66A90AA354316BC488A6A16F0545CAC"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_Dlc3_01^l.bflim",
+            "hash": "729D69BDCA315918EABA86049F10D6F261D3E8DF5253A1838ECDA3D9DECFF20E"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_Dlc3_02^l.bflim",
+            "hash": "BAFE504AB9D603EE753387F13555AEC2E5176D293FF39C5EE3B6FC829A1A02EA"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_Dlc3_03^l.bflim",
+            "hash": "D8FC07DA4505C4C02AC21BCBDF0170A658C854A9C3FB88AFD8146B8E53A03A9F"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_Dlc3_04^l.bflim",
+            "hash": "544BAF60DEB8C130F43CF6AB2955613E872442A553AA9684E247B5C43AFA5CA2"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_KP_B_Sct_00^q.bflim",
+            "hash": "A040DD6F5AA7D7FEDE01F580FAB43773E6124C4DBD30A926747651401E8E21B2"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_KP_B_Sct_01^q.bflim",
+            "hash": "67596144F4126970E4F5EE55FBF35DFEB71A0E463C0CFDEF9A1AD0EC992167D2"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_KP_B_Sct_02^q.bflim",
+            "hash": "15ED83702A8E7B0FEE0F4A046EECC4B1121BE91FD9A0C557BDD6EF9705FAC606"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_KP_B_Sct_03^q.bflim",
+            "hash": "FF2411F4E5C9ABD57E5FF24D4760034E1166198BC0FF492B5375F1D59648FE1D"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_KP_B_Sct_04^q.bflim",
+            "hash": "3145A6D2ABC6BB6A8334179771371437076046FB4511C482BF504B7ABF24C5FC"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_KP_B_Sct_05^q.bflim",
+            "hash": "C7B87AB5B3415D330775C38C6A5F8B2E55C5F6ABF0529601A78BC4828F145630"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_KP_B_Sct_06^q.bflim",
+            "hash": "1391670D03EFD48ECB4C004A0AD486E4ABE24F6CA636A48941A74D2DAB1C6B51"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_KP_B_Sct_07^q.bflim",
+            "hash": "C860AF9CCF70AAC1DAAB8D91381A7F999B05F8B0B3A4D92BD6CC3D61E2CCB59F"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_KP_B_Sct_08^q.bflim",
+            "hash": "5947BDCA0100EFA5563869E9630F94DAE57EB9F457E386D28538FE230300BB1A"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_KP_B_Sct_09^q.bflim",
+            "hash": "5F5CDC44A6C948938B4384C4BD9869BD21B66C98F303104D7ECC93E2E546770C"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_KP_B_Sct_10^q.bflim",
+            "hash": "DFF83C82FC55040794223F2E57F9296152D23254472785EEE6503E1C92D12499"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_KP_B_Sct_11^q.bflim",
+            "hash": "516B09DD26C4009E9052C26ED94927E1E0A7B814D2C5E3A3BF44981648116943"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_KP_B_Std_BoyA^q.bflim",
+            "hash": "4311F5056D449E18077A81C2C31AD27CC0FADB92B18D397B0744E89EF6730717"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_KP_B_Std_KopH^q.bflim",
+            "hash": "E7D3A6F0B39F4738EEC8175CA5CBE85E839AE0AE32672D158BA847D2517B9204"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_KP_B_Std_Lnk^q.bflim",
+            "hash": "A8C4F8396F30E6E86654E6E9ED6EAF7512A6505763A29CA351D0B0BC36766185"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_KP_B_Std_Mrg^q.bflim",
+            "hash": "BF9A4B7C5108A689CAAC602F72B0A9F7A2B8839EF4715D7E32D92F93E56EEFA9"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_KP_B_Std_MroT^q.bflim",
+            "hash": "AEEDCE84B6F948A4C31973B6728DF85285FC8DCAA21DDD380D68A217358B4C1D"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_KP_B_Std_PchN^q.bflim",
+            "hash": "78C07A4625A258751B26FCEF3160490E1208DCB1508A8A1FBC1353AB5F6489AE"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_KP_B_Std_Sze^q.bflim",
+            "hash": "77CB03F7AE78FC4D03D82C2BB3B4B9AFE16E08678E5543BCB649E323088BF001"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_KP_G_Std_BoyA^q.bflim",
+            "hash": "B5ABFD4FDC56BB0C771BEA382A68B452B42F48418BBCFDBC8C1B0944FCA9273C"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_KP_G_Std_KopH^q.bflim",
+            "hash": "F774C5B0377D94A712544554A1968076037D298BCF7393D9437CC02A03DAF03E"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_KP_G_Std_Lnk^q.bflim",
+            "hash": "C5BE3029A0EB269DD48CD786131E20519BA60E0957DAA6026C50CF9EF3818631"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_KP_G_Std_Mrg^q.bflim",
+            "hash": "17EEA7C5F2F68743D5BA16962ED1440F4957A9B96D1106935CEB0449F5BDB1BE"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_KP_G_Std_MroT^q.bflim",
+            "hash": "E38B2C734F7F7600015DA630FD8B0325BE8BA2FEF4615494CFE664C62576A31E"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_KP_G_Std_PchN^q.bflim",
+            "hash": "E0AD5D81DE136018CB126DEEDCFFB9EB568E038AC25E07AA926E54D768824A46"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_KP_G_Std_Sze^q.bflim",
+            "hash": "5211B90610223DCF1E15CFC199A4564F9AD7233E4AEC4CDAD650139E28B7CA12"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_KP_K_Gla_00^q.bflim",
+            "hash": "8ABC803DAC4C6B200C25E4AD34621BABD0D56591363C36CC55F5880A6B00EE5D"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_KP_K_Gla_01^q.bflim",
+            "hash": "6B382EFC060BF0A6EB81E72B28598614FD9EDE77BC96C94F686069CE47AD24E2"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_KP_K_Gla_02^q.bflim",
+            "hash": "5DB7D893042C1E8AC2E8D3D1F21A5B53E035478BE0F82EF69465A36567636D49"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_KP_K_Gla_03^q.bflim",
+            "hash": "ADEB3DD3C3E5797921BB5B61CB6B99FD1BA4D66C7F58E1B339876955F256AEDD"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_KP_K_Gla_04^q.bflim",
+            "hash": "2B6A9B5605AC78EFA3C1A9145A80E41BD53E00A491E75983735A086CAB117219"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_KP_K_Gla_05^q.bflim",
+            "hash": "D42B4A3B504420FAD9315C857339FB551AF8C7E3FDA67A5E6883449AF2900A7A"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_KP_K_Gla_06^q.bflim",
+            "hash": "26BD5A1AC6A91E9173AFE98A0A66E8AF1ED06930CD8058AE88A869CADFEBF216"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_KP_K_Gla_07^q.bflim",
+            "hash": "D8274DEB3004401E3CC6107A51673CC5A06D6AC8AC16A77873B7056457586C86"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_KP_K_Gla_08^q.bflim",
+            "hash": "6B73F2759F11FBB6D31C6072FF7F4078194F8AB652FCE1C0EBCE1990E526542F"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_KP_K_Skl_BoyA^q.bflim",
+            "hash": "CDE70F87B124C909ED458BF63127F9A35CB99EB8E1F5B84234F10405355DBA17"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_KP_K_Skl_KopH^q.bflim",
+            "hash": "D557426FE550247F949A785ED40E4A42960939DF4E96D6675FDE9A61E13A5CB2"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_KP_K_Skl_Lnk^q.bflim",
+            "hash": "C5F5E15857A1B7BD836B86926113EF39E4CBFD158BBB5C380F2A85A25A941CA2"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_KP_K_Skl_Mrg^q.bflim",
+            "hash": "8FBFDCD117D7A0A82278EFF1BC178336422C37C12586F83C7C0159E55FF29E4A"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_KP_K_Skl_MroT^q.bflim",
+            "hash": "F424E72780739CA6782F418D2D59DF340972284A693951FF005B576D03E03179"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_KP_K_Skl_PchN^q.bflim",
+            "hash": "D1298A50B7F53534577952FC3ECA13021388683FE8FF01BC0817A2C88FE8E6D6"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_KP_K_Skl_Sze^q.bflim",
+            "hash": "AA4C9A77AD82E18FD25E4E1073500EDB515B05157D8810651ED74A66FFB0B7E6"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_KP_K_Std_BoyA^q.bflim",
+            "hash": "28A59B4D188AB6A0C1648DCD2B23535B9B8ECBF8080C15C47825B2725E8E20BE"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_KP_K_Std_KopH^q.bflim",
+            "hash": "DD2F61FB0624A5C449E528FBB2F275D6FCA1470D9E4178A11E53A71D4CC7776D"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_KP_K_Std_Lnk^q.bflim",
+            "hash": "94FE3F0F18CF0150F4CE321E154D530907398A0C7D1055559EFB12F213FE042B"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_KP_K_Std_Mrg^q.bflim",
+            "hash": "D7BB5E57D96C16C412C646B3C4FCCB5D7129CAA9258B075A5D2366AC53FC9053"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_KP_K_Std_MroT^q.bflim",
+            "hash": "F3218CE44F42D0C21297E2BEC825C0FADCA9000278DC0227144AF102479E2A07"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_KP_K_Std_PchN^q.bflim",
+            "hash": "889E3C7048B723CC7EB54243FA302CED09E6999841E8EEC8C7C20BB3DD5337A2"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_KP_K_Std_Sze^q.bflim",
+            "hash": "E6D185408AD58C029137F0E285A5CBE22B67747F18BA9068779D120A6FF56FAD"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_KP_V_Atv_BoyA^q.bflim",
+            "hash": "C11E39573B2CC2EA8628B399ED160BD4A64B8732B00C31656B8E892F97EFAAA3"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_KP_V_Atv_KopH^q.bflim",
+            "hash": "BDD5F066E6905C2B477A0C26C121A3652A356E04DBBCA42066C8ECD87ED9E68F"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_KP_V_Atv_Lnk^q.bflim",
+            "hash": "BC5FCA8E1297B8BE56159ACEF435C3EFB80013F251DFC2EA0E4A113620B16B67"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_KP_V_Atv_Mrg^q.bflim",
+            "hash": "1C15A16650AAF1EC3F828C30318E05D1AE9F45318BCB29FBA093742013E5E664"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_KP_V_Atv_MroT^q.bflim",
+            "hash": "498660018400ACE33DEDD2794E77DC08A1627B93CE08D8A97576B85EEC288A5B"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_KP_V_Atv_PchN^q.bflim",
+            "hash": "DDDA246C28E3DAE424BEFA9BCF81D66A49E7B625FA954982A31F1C6727CAAEDD"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_KP_V_Atv_Sze^q.bflim",
+            "hash": "40CFEBFC4A11C86CF8DEFF9EDD253BCE035A421467F99E349DA033D0ADB33DDA"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_ReDlc_00^l.bflim",
+            "hash": "CCBAC279D90EED789231E282C4FD14CDD1D67DAE9DE3893ACA6331A1A015D253"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_ReDlc_01^l.bflim",
+            "hash": "09876A2560ECD9BDA3E567C1C084C330D4BDBA2A7199C1E20A9DDA77290DC842"
+        },
+        {
+            "file": "content/ui/cmn/a_menu/timg/tc_ReDlc_01_ww^l.bflim",
+            "hash": "0B425EACCF834B4AFA680D7543166859707D432230E1631054C14539306B9957"
+        },
+        {
+            "file": "content/ui/cmn/a_race/timg/ym_ClassIconBG200_00^s.bflim",
+            "hash": "5136645010E47D587AE34FF195AD22C380D2749569D7F0AEB45303BC9A6D6611"
+        },
+        {
+            "file": "content/ui/cmn/a_race/timg/ym_CupIconDLC02_130x130^h.bflim",
+            "hash": "F20D38F5A10C87E4542FBE6E7A434303589056776625B8C9C9DEF54B19D76E33"
+        },
+        {
+            "file": "content/ui/cmn/a_race/timg/ym_CupIconDLC02_Line128x128^s.bflim",
+            "hash": "9843BD27E6374A272945443534C47B569073CDD93C69DB1360EB2A5A79859095"
+        },
+        {
+            "file": "content/ui/cmn/a_race/timg/ym_CupIconDLC02_Line^s.bflim",
+            "hash": "B2AFED30D1B341088503D26F76E062EEA93721608D6EF398C5A31CBE6A9A85C9"
+        },
+        {
+            "file": "content/ui/cmn/a_race/timg/ym_CupIconDLC02_Nml^l.bflim",
+            "hash": "695A6A64DB1E69DEAB3C283874BCE141FF4B63A3D04BCCBD59F25B40EF406253"
+        },
+        {
+            "file": "content/ui/cmn/a_race/timg/ym_CupIconDLC03_130x130^h.bflim",
+            "hash": "BF520E21C4006C3B5790D3E427DC81CEB1BA6DF941ABC741A51DF033EC1FE91C"
+        },
+        {
+            "file": "content/ui/cmn/a_race/timg/ym_CupIconDLC03_Line128x128^s.bflim",
+            "hash": "08B9E69EA3A2A35E8D66E7E614E499E91CB21EA80A5A6B28784D35A7AEE1ECDD"
+        },
+        {
+            "file": "content/ui/cmn/a_race/timg/ym_CupIconDLC03_Line^s.bflim",
+            "hash": "A36761A31208B4DEF18B7B2242EC612FBB5788D904AD13973DF60D95CADD984C"
+        },
+        {
+            "file": "content/ui/cmn/a_race/timg/ym_CupIconDLC03_Nml^l.bflim",
+            "hash": "6F35415FD44ECF433E511CF4AC02973DB660C1A023406C359BFF1F506283A6C6"
+        },
+        {
+            "file": "content/ui/cmn/a_race/timg/ym_CupIconDLC04_130x130^h.bflim",
+            "hash": "79BCF77E73D74B4D9FBF236B33938742371F9280BED50C61FD28845A626A3268"
+        },
+        {
+            "file": "content/ui/cmn/a_race/timg/ym_CupIconDLC04_Line128x128^s.bflim",
+            "hash": "5EA7E226DAADEFE33605B89FE7866DD102E516931277A811655BA9CF18F54C7E"
+        },
+        {
+            "file": "content/ui/cmn/a_race/timg/ym_CupIconDLC04_Line^s.bflim",
+            "hash": "AD97836BDDAD057F39CFBA1C9B05E22DD797DCB616C46020284E2E8844DADDB7"
+        },
+        {
+            "file": "content/ui/cmn/a_race/timg/ym_CupIconDLC04_Nml^l.bflim",
+            "hash": "BA958E81FEECD4667506EEB1AC25028F13ADF500952277D380375320C8190B48"
+        },
+        {
+            "file": "content/ui/cmn/a_race/timg/ym_CupIconDLC05_130x130^h.bflim",
+            "hash": "AB2D9250942CA34075E2F3760ED3654CC25DC87581C87D3A4E1014CBFAAE46FE"
+        },
+        {
+            "file": "content/ui/cmn/a_race/timg/ym_CupIconDLC05_Line128x128^s.bflim",
+            "hash": "8AB1F64B240291D2A2BB3DDA58A0D826AAA6810617A77A301F5512BBAB8BAB25"
+        },
+        {
+            "file": "content/ui/cmn/a_race/timg/ym_CupIconDLC05_Line^s.bflim",
+            "hash": "1DAED18630AFD92D6070A8585699A7BBDAB0E8FBECF1FD531C5F4A049AA3FA31"
+        },
+        {
+            "file": "content/ui/cmn/a_race/timg/ym_CupIconDLC05_Nml^l.bflim",
+            "hash": "F11F7F70034758A890F8C89CA600DA6A2421480407918299B30DB7FEBAA2F452"
+        },
+        {
+            "file": "content/ui/cmn/a_race/timg/ym_HornEmblemAnimalBoyA_00^h.bflim",
+            "hash": "6B3425C6C9F19E717DDD51DAF19891566708179AEBCCBAD51CC0A5FAD502B632"
+        },
+        {
+            "file": "content/ui/cmn/a_race/timg/ym_HornEmblemAnimalGirlA_00^h.bflim",
+            "hash": "9C57EFD41FDA711E3A9E3113A42B6B9F5B7CE76554B7120B2874CF94E9859DDC"
+        },
+        {
+            "file": "content/ui/cmn/a_race/timg/ym_HornEmblemCatPeach_00^h.bflim",
+            "hash": "CF972EDAB011146F684333037CA13D6873706309745B70425B0E1C0919F97CA4"
+        },
+        {
+            "file": "content/ui/cmn/a_race/timg/ym_HornEmblemHeyho_01^h.bflim",
+            "hash": "801692DB6380A1DB180F7156198CBFC5B506AADB7E7DDCA955E8AC18AF7AAAF8"
+        },
+        {
+            "file": "content/ui/cmn/a_race/timg/ym_HornEmblemHeyho_02^h.bflim",
+            "hash": "EC72AD262F17539C633A35EF2371B27AD066171C00126311BFE4475ABBDC3343"
+        },
+        {
+            "file": "content/ui/cmn/a_race/timg/ym_HornEmblemHeyho_03^h.bflim",
+            "hash": "D334DF8732E879178137AB119D62FB20D3F88C2DD61F73B190BAA27C9C83087F"
+        },
+        {
+            "file": "content/ui/cmn/a_race/timg/ym_HornEmblemHeyho_04^h.bflim",
+            "hash": "1AC1AFB8BDEB5E595F56F058E27CCD49599B339A41A12DA105A90E13BC66AAEF"
+        },
+        {
+            "file": "content/ui/cmn/a_race/timg/ym_HornEmblemHeyho_05^h.bflim",
+            "hash": "6BB3F49AAB6363BD242A1CB968094C91AEF5B88D2C75175328D36C0453735B48"
+        },
+        {
+            "file": "content/ui/cmn/a_race/timg/ym_HornEmblemHeyho_06^h.bflim",
+            "hash": "E65563CA45F3003ABDD57CE673918EC30E5B7CB0670A83B15DB62A76BC5CC5CA"
+        },
+        {
+            "file": "content/ui/cmn/a_race/timg/ym_HornEmblemHeyho_07^h.bflim",
+            "hash": "0013360C285D360D5F65003307B25F37085F0CC06F7FCB64917608A951DAFB38"
+        },
+        {
+            "file": "content/ui/cmn/a_race/timg/ym_HornEmblemHeyho_08^h.bflim",
+            "hash": "9B98223093E0C22FCDFA438A4FD753650610A440BD36C5CABE785826CE504E68"
+        },
+        {
+            "file": "content/ui/cmn/a_race/timg/ym_HornEmblemHoneKoopa_00^h.bflim",
+            "hash": "16DCCE9A6A9CBFDEA5EDC0B5F71F6FAAD2981C1032E8FB05BA13297653BA127C"
+        },
+        {
+            "file": "content/ui/cmn/a_race/timg/ym_HornEmblemLink_00^h.bflim",
+            "hash": "51045C8197BD6411157B3C404AF51710E9569F1BDF21E6E97CEC65A5D4DF52EF"
+        },
+        {
+            "file": "content/ui/cmn/a_race/timg/ym_HornEmblemShizue_00^h.bflim",
+            "hash": "148DAC1A7CD0A7A00443E7865B3AA69B7A47958DB21D5A13CE0E9B20EAFF9F8A"
+        },
+        {
+            "file": "content/ui/cmn/a_race/timg/ym_HornEmblemTanukiMario_00^h.bflim",
+            "hash": "3606E204AFB0D8CDDBEFD2C254417D07DE3059A18B317C5E5FFF18F86BCECC3A"
+        },
+        {
+            "file": "content/ui/cmn/a_race/timg/ym_HornEmblemYoshi_01^h.bflim",
+            "hash": "E1A0FE34B7313E3805977A48EF68F7763A52959E8724CE25DE6E171888490AAC"
+        },
+        {
+            "file": "content/ui/cmn/a_race/timg/ym_HornEmblemYoshi_02^h.bflim",
+            "hash": "7D41BC565A4BF9DC004711D3B7476577019E6B754421826673E6AED414124FCB"
+        },
+        {
+            "file": "content/ui/cmn/a_race/timg/ym_HornEmblemYoshi_03^h.bflim",
+            "hash": "4D947792BE944ABF34FBBF264C6568645F6AD6A8E906ADB5FD7BFD69D84A3B4A"
+        },
+        {
+            "file": "content/ui/cmn/a_race/timg/ym_HornEmblemYoshi_04^h.bflim",
+            "hash": "AC75FCB18D165F85E4D9E183BD6442B2051F2B7FB2F6BC6DCE5A1E43462B3FEB"
+        },
+        {
+            "file": "content/ui/cmn/a_race/timg/ym_HornEmblemYoshi_05^h.bflim",
+            "hash": "4D6D92B097CAEC1476FE3475F9464F60907D1F056065BDF3E3B2E69226DB8442"
+        },
+        {
+            "file": "content/ui/cmn/a_race/timg/ym_HornEmblemYoshi_06^h.bflim",
+            "hash": "585B14677B5544E83E048F9E9ABBA243AEC25A63123E6B17F74B5B3F17926838"
+        },
+        {
+            "file": "content/ui/cmn/a_race/timg/ym_HornEmblemYoshi_07^h.bflim",
+            "hash": "920BB2DA4F378DBB46F4323D899A84BDE4CCF0820C0D337C0A8162AE0BD0FFFA"
+        },
+        {
+            "file": "content/ui/cmn/a_race/timg/ym_HornEmblemYoshi_08^h.bflim",
+            "hash": "F771764D918EBBC46920BA788DC876AB8855CA8E4BBDD0A7AD3C7F07A4A12FE5"
+        },
+        {
+            "file": "content/ui/cmn/am.szs",
+            "hash": "EA8D4E4E97172D54AFBE35F07B19AACB8201A35DC76B7344CBE37112485009FF"
+        },
+        {
+            "file": "content/ui/cmn/common.szs",
+            "hash": "9F040DD29AD34A2B64A1E805E19C9263A4F7E8302258600395599A06A2B37641"
+        },
+        {
+            "file": "content/ui/cmn/compeIcon/tc_CI_Cl_200.tga",
+            "hash": "37C36F507955B5179B76B7C7942D04CDACDFC48DBB8B9226034E6D6266C414FD"
+        },
+        {
+            "file": "content/ui/cmn/dlc1.szs",
+            "hash": "4F659A2897BF598E0E40738E5E00E5F6791483B4CA07B63EA8709B316AD338B7"
+        },
+        {
+            "file": "content/ui/cmn/dlc2.szs",
+            "hash": "1CA1D2ED5566E3100991ADA1F481C46F16A310E442D08B7F2DB1D93EE4893579"
+        },
+        {
+            "file": "content/ui/cmn/ending.szs",
+            "hash": "4AE48051EF92689DDEE0F37DB1E13C1C0C6914755B076345E44A643D3319C70C"
+        },
+        {
+            "file": "content/ui/cmn/menu.szs",
+            "hash": "0E0B6020248EE784E0BD66A258619B0092512E0B810AD5A85F259DEFF673EF50"
+        },
+        {
+            "file": "content/ui/cmn/race.szs",
+            "hash": "C2E1E99EF7A05E7A238CABE070448CD669001A587D3262A994E56697CEDE24DE"
+        },
+        {
+            "file": "content/ui/cmn/tv.szs",
+            "hash": "65B0E3DA1FD9874C58484EF7877EC26D0FBDD37639312CAA8111DF67C346B2B0"
+        },
+        {
+            "file": "content/ui/ed/Common.msbt",
+            "hash": "D64444F1F05332FFD048D9E062A0486D70402B3FC015D44E1DC2E466F2AA7E6B"
+        },
+        {
+            "file": "content/ui/ed/DLC.msbt",
+            "hash": "3A57AAFDD6C3FDDE844D4411FDD81E9F3C96E62856E181EFB6AC80F43AFA65EA"
+        },
+        {
+            "file": "content/ui/ed/Menu.msbt",
+            "hash": "B5323961ED97F2159D1B7BBEF2BC04371196E811BCDA266C6BCCA11458536937"
+        },
+        {
+            "file": "content/ui/ed/MintU.msbt",
+            "hash": "8AB5BA0DA438A047BF78703157183A33CB176F1C730EBB77C70B886E9BCA6DFE"
+        },
+        {
+            "file": "content/ui/ed/Race.msbt",
+            "hash": "8EE73AE13F4E9AAD00E5AD66440AFF1BF6207F18F9A439A892E9CF1FCDE6DB24"
+        },
+        {
+            "file": "content/ui/ed/turbo_messageFontOutline_50.bffnt",
+            "hash": "53EFED44B1DB0D828A137E6B4EBA500C08AECD984DA53C6E2724111A43CED56E"
+        },
+        {
+            "file": "content/ui/ee/Common.msbt",
+            "hash": "7CFED729AD631D2BF7C86FB989CF6F41872B906F32757A7A99A2858C33A6B672"
+        },
+        {
+            "file": "content/ui/ee/DLC.msbt",
+            "hash": "770DD4C67AC906B45B3C2F995957C22AA572D5A67BCD3805BF4DB8E63E5490CB"
+        },
+        {
+            "file": "content/ui/ee/Menu.msbt",
+            "hash": "3995E64952927051272DDF98C882B08F17FAF0CA0DE311F87FD787793C2EED4B"
+        },
+        {
+            "file": "content/ui/ee/MintU.msbt",
+            "hash": "8AB5BA0DA438A047BF78703157183A33CB176F1C730EBB77C70B886E9BCA6DFE"
+        },
+        {
+            "file": "content/ui/ee/Race.msbt",
+            "hash": "52345E19D6DE981173B93B047D795C0E1F770E1E7C005110864FE6513533D649"
+        },
+        {
+            "file": "content/ui/ee/turbo_messageFontOutline_50.bffnt",
+            "hash": "5A83A5D9AA41B1F5681420B69FDEFEA46D2F64C43659DC0D6FDF7C74F90F81C9"
+        },
+        {
+            "file": "content/ui/ef/Common.msbt",
+            "hash": "5FFFEE18A7A2021126CB8AAC8FB702975F4C5DE82160FC42C0D0B6131B77DFFB"
+        },
+        {
+            "file": "content/ui/ef/DLC.msbt",
+            "hash": "C133C947E48A4FEB52E453A276BFC316E670CB4789F7112750826AE2BDA44E78"
+        },
+        {
+            "file": "content/ui/ef/Menu.msbt",
+            "hash": "04B9D0DE257953EB4410C0CB58249CA55ED9149D74E501B721D06740942359E0"
+        },
+        {
+            "file": "content/ui/ef/MintU.msbt",
+            "hash": "8AB5BA0DA438A047BF78703157183A33CB176F1C730EBB77C70B886E9BCA6DFE"
+        },
+        {
+            "file": "content/ui/ef/Race.msbt",
+            "hash": "14CAFF786C78F777546083D492C6423A1485954C4B64C97A1EE85F0EB1259E91"
+        },
+        {
+            "file": "content/ui/ef/turbo_messageFontOutline_50.bffnt",
+            "hash": "53EFED44B1DB0D828A137E6B4EBA500C08AECD984DA53C6E2724111A43CED56E"
+        },
+        {
+            "file": "content/ui/eg/Common.msbt",
+            "hash": "8F6F33AA3C17DECE7E0EFB8F76C8D844B5763C19CBFF2CE653399DF74238A376"
+        },
+        {
+            "file": "content/ui/eg/DLC.msbt",
+            "hash": "EBB2BCC6477EA446FC01989027C520A6A901B7EAE0360E8FF8BD992120FECA70"
+        },
+        {
+            "file": "content/ui/eg/Menu.msbt",
+            "hash": "BB30A55484B58B246A9CA54473F02DDE928FBF54074AB24F53A8B3F69F98714F"
+        },
+        {
+            "file": "content/ui/eg/MintU.msbt",
+            "hash": "8AB5BA0DA438A047BF78703157183A33CB176F1C730EBB77C70B886E9BCA6DFE"
+        },
+        {
+            "file": "content/ui/eg/Race.msbt",
+            "hash": "E5B18E99E146056C5F27FBC4B3D3BC0A072CD0C149343B485EDCDB31C7424290"
+        },
+        {
+            "file": "content/ui/eg/turbo_messageFontOutline_50.bffnt",
+            "hash": "53EFED44B1DB0D828A137E6B4EBA500C08AECD984DA53C6E2724111A43CED56E"
+        },
+        {
+            "file": "content/ui/ei/Common.msbt",
+            "hash": "DBC42B5E0ABB0068F00CF2ECD3157C76C979A49CA9FB945B9D56F815B443E9C8"
+        },
+        {
+            "file": "content/ui/ei/DLC.msbt",
+            "hash": "B08FA319294410CC45C63B1C46CEF2674AD55A6C7DC7E929419A21F520147769"
+        },
+        {
+            "file": "content/ui/ei/Menu.msbt",
+            "hash": "7980A4AF5E06B5EF2F7E27BDB89AFA12A6C7EC5081A7CC66430D57FDCDE545D2"
+        },
+        {
+            "file": "content/ui/ei/MintU.msbt",
+            "hash": "8AB5BA0DA438A047BF78703157183A33CB176F1C730EBB77C70B886E9BCA6DFE"
+        },
+        {
+            "file": "content/ui/ei/Race.msbt",
+            "hash": "8E0EE38978716D156B4FDFD209F97861455BE53EFFADF48E6A0F5F02FC1E61B1"
+        },
+        {
+            "file": "content/ui/ei/turbo_messageFontOutline_50.bffnt",
+            "hash": "53EFED44B1DB0D828A137E6B4EBA500C08AECD984DA53C6E2724111A43CED56E"
+        },
+        {
+            "file": "content/ui/ep/Common.msbt",
+            "hash": "D9FE6E3C152DAF6346B0682FD1E77EDF51CE1F69DCED5D840D3B0912113C3AA7"
+        },
+        {
+            "file": "content/ui/ep/DLC.msbt",
+            "hash": "C548DEF63202484E9BA30FC07430BAD17BAE45CFED231C89ECFDC6F0DAC44DA0"
+        },
+        {
+            "file": "content/ui/ep/Menu.msbt",
+            "hash": "274029B2F2AB9E36D0734FBE1097B46C972190348EBE13ACDBC73A6353245D68"
+        },
+        {
+            "file": "content/ui/ep/MintU.msbt",
+            "hash": "8AB5BA0DA438A047BF78703157183A33CB176F1C730EBB77C70B886E9BCA6DFE"
+        },
+        {
+            "file": "content/ui/ep/Race.msbt",
+            "hash": "433171172DF80E83AE22B61627D72C8FDC74E362741241B6CA756324AB4A37DF"
+        },
+        {
+            "file": "content/ui/ep/turbo_messageFontOutline_50.bffnt",
+            "hash": "53EFED44B1DB0D828A137E6B4EBA500C08AECD984DA53C6E2724111A43CED56E"
+        },
+        {
+            "file": "content/ui/er/Common.msbt",
+            "hash": "ECD040F1B92177C9FF922907B4B0A36C52DACE145E58FD5BECE81C35F0B4D513"
+        },
+        {
+            "file": "content/ui/er/DLC.msbt",
+            "hash": "0DC768E26E80586EC64B8458C8391FF83BCE10F98744BD671E34AB45463FA4CC"
+        },
+        {
+            "file": "content/ui/er/Menu.msbt",
+            "hash": "F70106F2788EB53B3D7D09905A8CEF66F3C5FD69A992950377E01DE3DAC9AA20"
+        },
+        {
+            "file": "content/ui/er/MintU.msbt",
+            "hash": "8AB5BA0DA438A047BF78703157183A33CB176F1C730EBB77C70B886E9BCA6DFE"
+        },
+        {
+            "file": "content/ui/er/Race.msbt",
+            "hash": "FD3E15F6281CF07608651A7CC10E72E3E4F03C5E428203A4FB96B6F1CC3ACEFE"
+        },
+        {
+            "file": "content/ui/er/turbo_messageFontOutline_50.bffnt",
+            "hash": "53EFED44B1DB0D828A137E6B4EBA500C08AECD984DA53C6E2724111A43CED56E"
+        },
+        {
+            "file": "content/ui/es/Common.msbt",
+            "hash": "870744601EE4CF12E06428578EEDB92FF2AC2F9E9E622A74F0FD4046D63447D3"
+        },
+        {
+            "file": "content/ui/es/DLC.msbt",
+            "hash": "97456E3B2FC3C75657125565BBC413D07182A5E1E449603862F3BD46F02F978F"
+        },
+        {
+            "file": "content/ui/es/Menu.msbt",
+            "hash": "DB05052BE5130C35416103832B52C5368F3EC12EB8CFF0810B05D6B99D637611"
+        },
+        {
+            "file": "content/ui/es/MintU.msbt",
+            "hash": "8AB5BA0DA438A047BF78703157183A33CB176F1C730EBB77C70B886E9BCA6DFE"
+        },
+        {
+            "file": "content/ui/es/Race.msbt",
+            "hash": "E9CE07F476EF8BF6A97F9290DD73C323584CCBD0B8E1D19E89D4BB3AED89B0DE"
+        },
+        {
+            "file": "content/ui/es/turbo_messageFontOutline_50.bffnt",
+            "hash": "53EFED44B1DB0D828A137E6B4EBA500C08AECD984DA53C6E2724111A43CED56E"
+        },
+        {
+            "file": "content/ui3d/BaseTable/BaseTable.bfres",
+            "hash": "B7FD108ECE64AC8FF14857E2F68CF6A1081964EB13B62D7F4C8EF33CEC26E2DB"
+        },
+        {
+            "file": "meta/CERO_ja.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/CGSRR_zh.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/COB_en.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/ESRB_en.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/ESRB_fr.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/GRB_ko.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/Manual.bfma",
+            "hash": "8628C67842201B1AFCBE96115CDDACC3D936C63EFAF32A81FD051DEF87659948"
+        },
+        {
+            "file": "meta/OFLC_en.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_BBFC_en.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_Portugal_pt.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_de.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_en.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_es.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_fr.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_it.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_nl.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_pt.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_ru.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/RAR_ru.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/USK_de.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/bootDrcTex.tga",
+            "hash": "524EB8E2A0CA18E3717E014CB2ED55904C73CB9524212496161D596F14B99460"
+        },
+        {
+            "file": "meta/bootLogoTex.tga",
+            "hash": "91B63D9C03F7F9153C8B9FC8179E1CCCB6F4AFC60204B988D91D1B5EFCEE4AA8"
+        },
+        {
+            "file": "meta/bootMovie.h264",
+            "hash": "069FD8C5713F4B23EA1098D2674BCC839E610BA844683BF532E1E6CB10642621"
+        },
+        {
+            "file": "meta/bootSound.btsnd",
+            "hash": "905CF83361CB95AE62AE05D5783C7F11826C8A2366555A5EC6BA9C0E86B14250"
+        },
+        {
+            "file": "meta/bootTvTex.tga",
+            "hash": "B3336CC7099898D319A5DE796E8E08C9934D1DE916471CF2F472D93FB81A031B"
+        },
+        {
+            "file": "meta/iconTex.tga",
+            "hash": "3F16C016BE2941C5D8E266CEB5E31E642CEF50167B3769323165B4F2C62F48D3"
+        },
+        {
+            "file": "meta/meta.xml",
+            "hash": "489FB45FA94AC9EDC30DC8410909924B6F1D272AEF858C01AC6A564EF31679FA"
+        }
+    ]
+}

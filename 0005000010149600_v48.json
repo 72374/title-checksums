@@ -1,0 +1,1591 @@
+{
+    "title_id": "0005000010149600",
+    "region": 4,
+    "version": 48,
+    "files": [
+        {
+            "file": "code/app.rpx",
+            "hash": "C5D2F051DA342943D0B9E5A0EFBE8381F987C4AAA5FBEDEDFD6C25DCEDC5B704"
+        },
+        {
+            "file": "code/app.xml",
+            "hash": "7D2F43D5ACC46EB96E2A60577B9E787CB1934C8C1EA0F19ED15FA8B1E6359699"
+        },
+        {
+            "file": "code/cos.xml",
+            "hash": "20EABA4725F967B13097BAED20EE753F572042E336C6C55919C48D3036F97806"
+        },
+        {
+            "file": "content/Drc/2d/de/skin_01/arc.splt",
+            "hash": "F5FA6267C9CEB34E6B958A3592EC60446A695291A6FE73822B883410CEE31ACD"
+        },
+        {
+            "file": "content/Drc/2d/de/skin_01/arc_0000.lzss",
+            "hash": "DCF136D943E900DF0D9E761D88F7BE7C8F130E1BFBCD7374AAFD7CA1E9875ABD"
+        },
+        {
+            "file": "content/Drc/2d/de/skin_01/arc_0001.lzss",
+            "hash": "24BE0DFD637542179DF2AD71F7DE7473D34F7F420B6F589DF943177156FF6C7C"
+        },
+        {
+            "file": "content/Drc/2d/de/skin_01/arc_0002.lzss",
+            "hash": "70828409A24227A0179FEEA71676CCB5A754247260FA8E7437522E6AF6E0ADDC"
+        },
+        {
+            "file": "content/Drc/2d/en/skin_01/arc.splt",
+            "hash": "F5FA6267C9CEB34E6B958A3592EC60446A695291A6FE73822B883410CEE31ACD"
+        },
+        {
+            "file": "content/Drc/2d/en/skin_01/arc_0000.lzss",
+            "hash": "D408DF15C58AFD415D15C2F824D185BF465674C9AF266E8CBC8E52EDFAD7BF54"
+        },
+        {
+            "file": "content/Drc/2d/en/skin_01/arc_0001.lzss",
+            "hash": "D485E138E6DD50CE488727D53BE98D0F173593BAC14B3E0380C3836F1A613C03"
+        },
+        {
+            "file": "content/Drc/2d/en/skin_01/arc_0002.lzss",
+            "hash": "9C3E40812D027BFD033374853092A5FC02311DE6D7DD039EF1C21AB30DFCFA8E"
+        },
+        {
+            "file": "content/Drc/2d/es/skin_01/arc.splt",
+            "hash": "F5FA6267C9CEB34E6B958A3592EC60446A695291A6FE73822B883410CEE31ACD"
+        },
+        {
+            "file": "content/Drc/2d/es/skin_01/arc_0000.lzss",
+            "hash": "8D5CF54DFACF0F671F8587242CE4DB591B9E485E3BAB44E8790435DDFF3240AF"
+        },
+        {
+            "file": "content/Drc/2d/es/skin_01/arc_0001.lzss",
+            "hash": "773CADBD5358849EB212E91481ACF943521E119D36F63C6910BD66543AA99402"
+        },
+        {
+            "file": "content/Drc/2d/es/skin_01/arc_0002.lzss",
+            "hash": "12E46065DD87B3BE834B098CF7F7C2108703CEEF8C752B225716F3A3993315A9"
+        },
+        {
+            "file": "content/Drc/2d/fr/skin_01/arc.splt",
+            "hash": "F5FA6267C9CEB34E6B958A3592EC60446A695291A6FE73822B883410CEE31ACD"
+        },
+        {
+            "file": "content/Drc/2d/fr/skin_01/arc_0000.lzss",
+            "hash": "975DC7D3A34800D8C1E23952D8462C3D6DEF8CEC8DFE4B4FF41CDC55611D0435"
+        },
+        {
+            "file": "content/Drc/2d/fr/skin_01/arc_0001.lzss",
+            "hash": "4E4EDEA0C037ABC45F4B8CD3B41E39465DB9E103B7FF6D061E928E3D6E5A1EBC"
+        },
+        {
+            "file": "content/Drc/2d/fr/skin_01/arc_0002.lzss",
+            "hash": "BA5F3270B5F109C3BDB88987F084F620A1D1C73BAFDBF5CE795DC2A7020C91DA"
+        },
+        {
+            "file": "content/Drc/2d/it/skin_01/arc.splt",
+            "hash": "F5FA6267C9CEB34E6B958A3592EC60446A695291A6FE73822B883410CEE31ACD"
+        },
+        {
+            "file": "content/Drc/2d/it/skin_01/arc_0000.lzss",
+            "hash": "C8117B0C7CD7AF3ECA0EC552EE7F72F534CFAE6C3DE90F4998E09A16331617D3"
+        },
+        {
+            "file": "content/Drc/2d/it/skin_01/arc_0001.lzss",
+            "hash": "AAF0521C7314137AC476DE8D240B5124F415EE483932ACCA44199DDFAA20C121"
+        },
+        {
+            "file": "content/Drc/2d/it/skin_01/arc_0002.lzss",
+            "hash": "2696880EF03D26412742F187A376560E6630271696F942E7C78117785C19DAC8"
+        },
+        {
+            "file": "content/Drc/3d/arc.splt",
+            "hash": "A989C1256420CF708F1C4F69A7032431C5C276B0339120A3F693EA178629D6D8"
+        },
+        {
+            "file": "content/Drc/3d/arc_0000.lzss",
+            "hash": "F91EFE9CDB30946A2A8E44C4789FDCD3848BA506C4828550FA26CB8335D1F0BA"
+        },
+        {
+            "file": "content/Drc_nc_skin/2d/de/skin_01/arc.splt",
+            "hash": "A989C1256420CF708F1C4F69A7032431C5C276B0339120A3F693EA178629D6D8"
+        },
+        {
+            "file": "content/Drc_nc_skin/2d/de/skin_01/arc_0000.lzss",
+            "hash": "026B4D3A75360E3FAB01E61D80B9DAEAAFCA659ABB06FA9D29352C8326EC7F5F"
+        },
+        {
+            "file": "content/Drc_nc_skin/2d/en/skin_01/arc.splt",
+            "hash": "A989C1256420CF708F1C4F69A7032431C5C276B0339120A3F693EA178629D6D8"
+        },
+        {
+            "file": "content/Drc_nc_skin/2d/en/skin_01/arc_0000.lzss",
+            "hash": "438ABACCF6213788DA1C8B5A664FF673B03EEA809938F2F2E41E08A5BCF34CC5"
+        },
+        {
+            "file": "content/Drc_nc_skin/2d/es/skin_01/arc.splt",
+            "hash": "A989C1256420CF708F1C4F69A7032431C5C276B0339120A3F693EA178629D6D8"
+        },
+        {
+            "file": "content/Drc_nc_skin/2d/es/skin_01/arc_0000.lzss",
+            "hash": "0BB3C449CDD1EDE0D2D41DA2A64C7167B535DBE480506FA8049B5BAAC9CB79A6"
+        },
+        {
+            "file": "content/Drc_nc_skin/2d/fr/skin_01/arc.splt",
+            "hash": "A989C1256420CF708F1C4F69A7032431C5C276B0339120A3F693EA178629D6D8"
+        },
+        {
+            "file": "content/Drc_nc_skin/2d/fr/skin_01/arc_0000.lzss",
+            "hash": "D91103C5AE0809D6AC76DB8F949D2B3467E7653DEB4B4DEBF5F13A22BD15D37F"
+        },
+        {
+            "file": "content/Drc_nc_skin/2d/it/skin_01/arc.splt",
+            "hash": "A989C1256420CF708F1C4F69A7032431C5C276B0339120A3F693EA178629D6D8"
+        },
+        {
+            "file": "content/Drc_nc_skin/2d/it/skin_01/arc_0000.lzss",
+            "hash": "1FFC4A35C365FB30C6C8F42E1C7193B26E2766DF39A4E3EA64B1FC101BC16447"
+        },
+        {
+            "file": "content/boot/2d/de/skin_01/arc.splt",
+            "hash": "A989C1256420CF708F1C4F69A7032431C5C276B0339120A3F693EA178629D6D8"
+        },
+        {
+            "file": "content/boot/2d/de/skin_01/arc_0000.lzss",
+            "hash": "52D12FB8572CD3A9C52857C0D8684A3918C61C5E0C49358C22D4668B31714BC5"
+        },
+        {
+            "file": "content/boot/2d/en/skin_01/arc.splt",
+            "hash": "A989C1256420CF708F1C4F69A7032431C5C276B0339120A3F693EA178629D6D8"
+        },
+        {
+            "file": "content/boot/2d/en/skin_01/arc_0000.lzss",
+            "hash": "6A3425063075E8C94F85D90218E233B2150D4166E619EA24F609F9DED9333007"
+        },
+        {
+            "file": "content/boot/2d/es/skin_01/arc.splt",
+            "hash": "A989C1256420CF708F1C4F69A7032431C5C276B0339120A3F693EA178629D6D8"
+        },
+        {
+            "file": "content/boot/2d/es/skin_01/arc_0000.lzss",
+            "hash": "6A5830A4EB148EAEC315685ACB77CD72B0F94C6F5F18E922BCC1CF0B4A32A2EA"
+        },
+        {
+            "file": "content/boot/2d/fr/skin_01/arc.splt",
+            "hash": "A989C1256420CF708F1C4F69A7032431C5C276B0339120A3F693EA178629D6D8"
+        },
+        {
+            "file": "content/boot/2d/fr/skin_01/arc_0000.lzss",
+            "hash": "D5D0112E548B843569405470DB5339C3C467A0709CCCAE7EF82C03A01CB0013C"
+        },
+        {
+            "file": "content/boot/2d/it/skin_01/arc.splt",
+            "hash": "A989C1256420CF708F1C4F69A7032431C5C276B0339120A3F693EA178629D6D8"
+        },
+        {
+            "file": "content/boot/2d/it/skin_01/arc_0000.lzss",
+            "hash": "4B55DE48F8D37FD094DD3AD6F7FFF10158E3EB4C69D648CE257C74D1EA3855B1"
+        },
+        {
+            "file": "content/boot/3d/arc.splt",
+            "hash": "A989C1256420CF708F1C4F69A7032431C5C276B0339120A3F693EA178629D6D8"
+        },
+        {
+            "file": "content/boot/3d/arc_0000.lzss",
+            "hash": "232550F7A11A13B5F15D1E85A9ABD43C073BABAD239CBCCC47B424AD997857DF"
+        },
+        {
+            "file": "content/char/mii_body/aloha_f/char_aloha_f.lzss",
+            "hash": "317552E69492BDDA5CBDC83FAEDFAF032D2AC6D9C869E14016DD8869C0A32F2D"
+        },
+        {
+            "file": "content/char/mii_body/aloha_m/char_aloha_m.lzss",
+            "hash": "FF8BFE0B437AB120308F3362AA139A6A963C2E675C05DACB1D61A2CDB61883A3"
+        },
+        {
+            "file": "content/char/mii_body/casual_f/char_casual_f.lzss",
+            "hash": "B1481896EB3F53FE8F920267601E3DC2D1177D35D551EFBDC1F446AA878F672F"
+        },
+        {
+            "file": "content/char/mii_body/casual_m/char_casual_m.lzss",
+            "hash": "F38731956792CC8B97A59D69AEADE318D0B7832291EF035D45034574FFDB4273"
+        },
+        {
+            "file": "content/char/mii_body/cyber/char_cyber.lzss",
+            "hash": "6BE52443F48E717BF38EBE61D4D9C25C0B50BDE1542184A89219186783A99739"
+        },
+        {
+            "file": "content/char/mii_body/force/char_force.lzss",
+            "hash": "5B299D19D04A320488C2ACCD83444865E8E1046DB6B2ADC276C652A41C80D2EA"
+        },
+        {
+            "file": "content/char/mii_body/formalsuit_m/char_formalsuit_m.lzss",
+            "hash": "F3F17E053319132B470082FD56E83EB442ADF340CA26839B430E53DCCD7B1617"
+        },
+        {
+            "file": "content/char/mii_body/hiphop_f/char_hiphop_f.lzss",
+            "hash": "931CAE99E57C068CF6AE41B4F5D3A9BDB6FDE6F1EB8E32AA7C9AAF7A359A24D1"
+        },
+        {
+            "file": "content/char/mii_body/hiphop_m/char_hiphop_m.lzss",
+            "hash": "2C0BB776AAB6816D39109C4BE54F2FB922B8488D7C3BB0559EDEA8BD428A3D79"
+        },
+        {
+            "file": "content/char/mii_body/idol_f/char_idol_f.lzss",
+            "hash": "76CEF8B2418D4211FE52FE483AA1D16DF4978B3A2E1102FDB6401A6DE093C067"
+        },
+        {
+            "file": "content/char/mii_body/idol_m/char_idol_m.lzss",
+            "hash": "11D771D20FEA51C4ACFE5C5D6F44F94CA66F0F61D6D96DF8D9FC9029FCEEC8EF"
+        },
+        {
+            "file": "content/char/mii_body/kigurumi/char_kigurumi.lzss",
+            "hash": "3FE1A29B7177953B43F0ACC7F446A0893D9306CFEE60267D0AEC4D17CFECDCAA"
+        },
+        {
+            "file": "content/char/mii_body/kimono_f/char_kimono_f.lzss",
+            "hash": "4442378ED5C64900C7CD66E2BC28138F7D02F11C1E22901141D87D429ACE49F3"
+        },
+        {
+            "file": "content/char/mii_body/kimono_m/char_kimono_m.lzss",
+            "hash": "CCA71DDDC219DF012E45D5EF55E7B8EFDB7C9C9F0AE164618D2B1EC779AFF455"
+        },
+        {
+            "file": "content/char/mii_body/partydress/char_partydress.lzss",
+            "hash": "48A552F0E1D263769EEE02F8DD9B454E1DC0EAAA8C024831E69C9F7CFF6B1F0B"
+        },
+        {
+            "file": "content/char/mii_body/popstar_f/char_popstar_f.lzss",
+            "hash": "AFFE21AC5EEBBD252FA924417C2EBF8B2C489D9429631CBC638ACA3524A6D971"
+        },
+        {
+            "file": "content/char/mii_body/popstar_m/char_popstar_m.lzss",
+            "hash": "2F37277F45F571F826E7C377276D5DE6705E673F81705FFCB76FCF453B83845C"
+        },
+        {
+            "file": "content/char/mii_body/randb_f/char_randb_f.lzss",
+            "hash": "D8A0B5C88A121540A8A9F339FB5098CBAB6D85C62B4754FB35CA3FE43F4FDD37"
+        },
+        {
+            "file": "content/char/mii_body/randb_m/char_randb_m.lzss",
+            "hash": "6910F898CE7DD98076E5E73A0F8EEF3B7172D04813766774938A773F9AE05673"
+        },
+        {
+            "file": "content/char/mii_body/rock/char_rock.lzss",
+            "hash": "D883F59A50E91ED8E89A19022372801AD91A96B53DB9593226856F23E98584F5"
+        },
+        {
+            "file": "content/char/mii_body/rockstar_f/char_rockstar_f.lzss",
+            "hash": "BC129E34C1DF407D1A033590495C8FFF8FB0C8D7C098F0AD0DBC0D0643F5C74C"
+        },
+        {
+            "file": "content/char/mii_body/rockstar_m/char_rockstar_m.lzss",
+            "hash": "F72243755A7BC76733AA1FFF4A37E1CA32996EBF2FD414877B001986CB99E09B"
+        },
+        {
+            "file": "content/char/mii_body/school_f/char_school_f.lzss",
+            "hash": "8AE91D21C85F8F7C82C4D48A0ED7D097E2B0C2697D000EAC55F50A9848090C2A"
+        },
+        {
+            "file": "content/char/mii_body/school_m/char_school_m.lzss",
+            "hash": "617B438F522C354CBA72DD43A4B293AA1668FCC9BCEEC3E80911E09125B9BF16"
+        },
+        {
+            "file": "content/char/mii_body/tuxedo/char_tuxedo.lzss",
+            "hash": "D0FE51D5150B9D9F01EDAE862668BC904A340C26755065F1301D1751D444EC3E"
+        },
+        {
+            "file": "content/char/mii_body/visual/char_visual.lzss",
+            "hash": "DA644F56755F5DFF6CA376C725EBCE3A0E16033998CE556776198C332E35F1E3"
+        },
+        {
+            "file": "content/common/2d/de/skin_01/arc.lzss",
+            "hash": "1F26B008CBCBDD6E9778EFD4527F35986078ECDA9FAE52E12BC6BDD72E2FB485"
+        },
+        {
+            "file": "content/common/2d/en/skin_01/arc.lzss",
+            "hash": "1F26B008CBCBDD6E9778EFD4527F35986078ECDA9FAE52E12BC6BDD72E2FB485"
+        },
+        {
+            "file": "content/common/2d/es/skin_01/arc.lzss",
+            "hash": "1F26B008CBCBDD6E9778EFD4527F35986078ECDA9FAE52E12BC6BDD72E2FB485"
+        },
+        {
+            "file": "content/common/2d/fr/skin_01/arc.lzss",
+            "hash": "1F26B008CBCBDD6E9778EFD4527F35986078ECDA9FAE52E12BC6BDD72E2FB485"
+        },
+        {
+            "file": "content/common/2d/it/skin_01/arc.lzss",
+            "hash": "1F26B008CBCBDD6E9778EFD4527F35986078ECDA9FAE52E12BC6BDD72E2FB485"
+        },
+        {
+            "file": "content/common/not_localize/arc.splt",
+            "hash": "F5FA6267C9CEB34E6B958A3592EC60446A695291A6FE73822B883410CEE31ACD"
+        },
+        {
+            "file": "content/common/not_localize/arc_0000.lzss",
+            "hash": "2109CB789FF9097F3C7038BE808D33B14A3FDD4F121DE9BBCD868C997BA5F4B7"
+        },
+        {
+            "file": "content/common/not_localize/arc_0001.lzss",
+            "hash": "6B2FD9861EA31B2EF479120755AB7AC51ADA0F442758C5D4EC78C8C1629B8EA4"
+        },
+        {
+            "file": "content/common/not_localize/arc_0002.lzss",
+            "hash": "2C76965A42128BFB30FA6D092700D98458F8F6F668EF790E869C4F96C01AED13"
+        },
+        {
+            "file": "content/eft/boot/arc.splt",
+            "hash": "A989C1256420CF708F1C4F69A7032431C5C276B0339120A3F693EA178629D6D8"
+        },
+        {
+            "file": "content/eft/boot/arc_0000.lzss",
+            "hash": "D72F1DBE8308D0D30CC7E3838B26B476EBDFAFF1C37A3B7671D002145386691F"
+        },
+        {
+            "file": "content/eft/skin_01/arc.splt",
+            "hash": "A989C1256420CF708F1C4F69A7032431C5C276B0339120A3F693EA178629D6D8"
+        },
+        {
+            "file": "content/eft/skin_01/arc_0000.lzss",
+            "hash": "1CA8CAC5870CA8B9D8AD127B5E8309C0B10CFEEE98FDFA0000D50F50E851035C"
+        },
+        {
+            "file": "content/eft/visualizer/arc.splt",
+            "hash": "B4960A50B52C9B761DE908BF05325E41A3BDA791CB08CD7C4A229B37A6A05D5F"
+        },
+        {
+            "file": "content/eft/visualizer/arc_0000.lzss",
+            "hash": "B4D542FF474EAA992EB459C413CF77E77DBE39B335AF55AA1B83FD8018F22C9E"
+        },
+        {
+            "file": "content/eft/visualizer/arc_0001.lzss",
+            "hash": "8523BE989FF2C5552AE4FACE26CCDF4C4DD1564E60C17C026F18697F082FE56D"
+        },
+        {
+            "file": "content/global/feature/de/2013061200_00_de.magazine",
+            "hash": "BD177856B76C729D97692D496AE78B08FA05B8D9CAC9211D7625287BA5204A9A"
+        },
+        {
+            "file": "content/global/feature/de/bannerbg.png",
+            "hash": "A9FEB58CF3C477945BE296563970A2235558FB5F8BD82672885DDE5DBB22C2D7"
+        },
+        {
+            "file": "content/global/feature/de/bannericon.png",
+            "hash": "53EA5AF8A3D2ABFD83C1A581EAF8254F77C1C054D8567E87C3EB8FB9DC6A883E"
+        },
+        {
+            "file": "content/global/feature/de/bannerlist.png",
+            "hash": "EEF59FE3DE727AA7AB0D78861DD466B222C97A9590C9285528E1456FC02614D5"
+        },
+        {
+            "file": "content/global/feature/en/2013061200_00_en.magazine",
+            "hash": "5745671D6D85A08349C8D91835A20302F41D1ACA9A602E4B7A40B6F2E8D80B26"
+        },
+        {
+            "file": "content/global/feature/en/bannerbg.png",
+            "hash": "A9FEB58CF3C477945BE296563970A2235558FB5F8BD82672885DDE5DBB22C2D7"
+        },
+        {
+            "file": "content/global/feature/en/bannericon.png",
+            "hash": "53EA5AF8A3D2ABFD83C1A581EAF8254F77C1C054D8567E87C3EB8FB9DC6A883E"
+        },
+        {
+            "file": "content/global/feature/en/bannerlist.png",
+            "hash": "EEF59FE3DE727AA7AB0D78861DD466B222C97A9590C9285528E1456FC02614D5"
+        },
+        {
+            "file": "content/global/feature/es/2013061200_00_es.magazine",
+            "hash": "B222021911A59FFCCBF9C0B7069CB70AEA6AF56B9B7DDBBA2970C4036916CF90"
+        },
+        {
+            "file": "content/global/feature/es/bannerbg.png",
+            "hash": "A9FEB58CF3C477945BE296563970A2235558FB5F8BD82672885DDE5DBB22C2D7"
+        },
+        {
+            "file": "content/global/feature/es/bannericon.png",
+            "hash": "53EA5AF8A3D2ABFD83C1A581EAF8254F77C1C054D8567E87C3EB8FB9DC6A883E"
+        },
+        {
+            "file": "content/global/feature/es/bannerlist.png",
+            "hash": "EEF59FE3DE727AA7AB0D78861DD466B222C97A9590C9285528E1456FC02614D5"
+        },
+        {
+            "file": "content/global/feature/fr/2013061200_00_fr.magazine",
+            "hash": "12900B459D4EE07B4FEE56350EB22C7F05D2E594288FEFC29A72C9997308BE83"
+        },
+        {
+            "file": "content/global/feature/fr/bannerbg.png",
+            "hash": "A9FEB58CF3C477945BE296563970A2235558FB5F8BD82672885DDE5DBB22C2D7"
+        },
+        {
+            "file": "content/global/feature/fr/bannericon.png",
+            "hash": "53EA5AF8A3D2ABFD83C1A581EAF8254F77C1C054D8567E87C3EB8FB9DC6A883E"
+        },
+        {
+            "file": "content/global/feature/fr/bannerlist.png",
+            "hash": "EEF59FE3DE727AA7AB0D78861DD466B222C97A9590C9285528E1456FC02614D5"
+        },
+        {
+            "file": "content/global/feature/it/2013061200_00_it.magazine",
+            "hash": "F714356C587EB519E84E444DE4ED15664B08BA660C03319DEF74179A2D6AAE9C"
+        },
+        {
+            "file": "content/global/feature/it/bannerbg.png",
+            "hash": "A9FEB58CF3C477945BE296563970A2235558FB5F8BD82672885DDE5DBB22C2D7"
+        },
+        {
+            "file": "content/global/feature/it/bannericon.png",
+            "hash": "53EA5AF8A3D2ABFD83C1A581EAF8254F77C1C054D8567E87C3EB8FB9DC6A883E"
+        },
+        {
+            "file": "content/global/feature/it/bannerlist.png",
+            "hash": "EEF59FE3DE727AA7AB0D78861DD466B222C97A9590C9285528E1456FC02614D5"
+        },
+        {
+            "file": "content/global/feature/ja/2013061200_00_ja.magazine",
+            "hash": "8C05AD1CBA0EC58C1BB62517935CF3A54888038B7FD6F573455A140C7127BA25"
+        },
+        {
+            "file": "content/global/feature/ja/bannerbg.png",
+            "hash": "A9FEB58CF3C477945BE296563970A2235558FB5F8BD82672885DDE5DBB22C2D7"
+        },
+        {
+            "file": "content/global/feature/ja/bannericon.png",
+            "hash": "53EA5AF8A3D2ABFD83C1A581EAF8254F77C1C054D8567E87C3EB8FB9DC6A883E"
+        },
+        {
+            "file": "content/global/feature/ja/bannerlist.png",
+            "hash": "EEF59FE3DE727AA7AB0D78861DD466B222C97A9590C9285528E1456FC02614D5"
+        },
+        {
+            "file": "content/global/magazine/de/2013061200_00_de.magazine",
+            "hash": "3DAAB56AB76E617B7CBF72117E5FFC478557D3E5DE70F8B68926D7963214223A"
+        },
+        {
+            "file": "content/global/magazine/de/bannerbg.png",
+            "hash": "A9FEB58CF3C477945BE296563970A2235558FB5F8BD82672885DDE5DBB22C2D7"
+        },
+        {
+            "file": "content/global/magazine/de/bannericon.png",
+            "hash": "53EA5AF8A3D2ABFD83C1A581EAF8254F77C1C054D8567E87C3EB8FB9DC6A883E"
+        },
+        {
+            "file": "content/global/magazine/de/bannerlist.png",
+            "hash": "EEF59FE3DE727AA7AB0D78861DD466B222C97A9590C9285528E1456FC02614D5"
+        },
+        {
+            "file": "content/global/magazine/defaultmask.png",
+            "hash": "1E9030B6A100C6C25EEE9C6B263A92E2A79FCD4C1D0A155CC065734D9BD29BCD"
+        },
+        {
+            "file": "content/global/magazine/en/2013061200_00_en.magazine",
+            "hash": "78FD87178A03191106742A6F91AB2B2BC53BE261329221D391416480D670997E"
+        },
+        {
+            "file": "content/global/magazine/en/bannerbg.png",
+            "hash": "A9FEB58CF3C477945BE296563970A2235558FB5F8BD82672885DDE5DBB22C2D7"
+        },
+        {
+            "file": "content/global/magazine/en/bannericon.png",
+            "hash": "53EA5AF8A3D2ABFD83C1A581EAF8254F77C1C054D8567E87C3EB8FB9DC6A883E"
+        },
+        {
+            "file": "content/global/magazine/en/bannerlist.png",
+            "hash": "EEF59FE3DE727AA7AB0D78861DD466B222C97A9590C9285528E1456FC02614D5"
+        },
+        {
+            "file": "content/global/magazine/es/2013061200_00_es.magazine",
+            "hash": "DA0C9A0340F3A8A0779F7C8F72E01A7C736FCC64C85147D17B68BC521F3E8CB6"
+        },
+        {
+            "file": "content/global/magazine/es/bannerbg.png",
+            "hash": "A9FEB58CF3C477945BE296563970A2235558FB5F8BD82672885DDE5DBB22C2D7"
+        },
+        {
+            "file": "content/global/magazine/es/bannericon.png",
+            "hash": "53EA5AF8A3D2ABFD83C1A581EAF8254F77C1C054D8567E87C3EB8FB9DC6A883E"
+        },
+        {
+            "file": "content/global/magazine/es/bannerlist.png",
+            "hash": "EEF59FE3DE727AA7AB0D78861DD466B222C97A9590C9285528E1456FC02614D5"
+        },
+        {
+            "file": "content/global/magazine/fr/2013061200_00_fr.magazine",
+            "hash": "C58EC1D0EFBBF2C8CA022A3BD8854CB958EEAF1153C677150E800F71DECF33D8"
+        },
+        {
+            "file": "content/global/magazine/fr/bannerbg.png",
+            "hash": "A9FEB58CF3C477945BE296563970A2235558FB5F8BD82672885DDE5DBB22C2D7"
+        },
+        {
+            "file": "content/global/magazine/fr/bannericon.png",
+            "hash": "53EA5AF8A3D2ABFD83C1A581EAF8254F77C1C054D8567E87C3EB8FB9DC6A883E"
+        },
+        {
+            "file": "content/global/magazine/fr/bannerlist.png",
+            "hash": "EEF59FE3DE727AA7AB0D78861DD466B222C97A9590C9285528E1456FC02614D5"
+        },
+        {
+            "file": "content/global/magazine/it/2013061200_00_it.magazine",
+            "hash": "64CCB6B6ACD79578416268DFD3F3EBC5872B1D052EE0EE9CC728B119C393F856"
+        },
+        {
+            "file": "content/global/magazine/it/bannerbg.png",
+            "hash": "A9FEB58CF3C477945BE296563970A2235558FB5F8BD82672885DDE5DBB22C2D7"
+        },
+        {
+            "file": "content/global/magazine/it/bannericon.png",
+            "hash": "53EA5AF8A3D2ABFD83C1A581EAF8254F77C1C054D8567E87C3EB8FB9DC6A883E"
+        },
+        {
+            "file": "content/global/magazine/it/bannerlist.png",
+            "hash": "EEF59FE3DE727AA7AB0D78861DD466B222C97A9590C9285528E1456FC02614D5"
+        },
+        {
+            "file": "content/global/magazine/ja/2013061200_00_ja.magazine",
+            "hash": "D58DEAD94634EAA499025CFD4AB5621AF3749EB1A7DF9670CDE3B0EB4A2A8704"
+        },
+        {
+            "file": "content/global/magazine/ja/bannerbg.png",
+            "hash": "A9FEB58CF3C477945BE296563970A2235558FB5F8BD82672885DDE5DBB22C2D7"
+        },
+        {
+            "file": "content/global/magazine/ja/bannericon.png",
+            "hash": "53EA5AF8A3D2ABFD83C1A581EAF8254F77C1C054D8567E87C3EB8FB9DC6A883E"
+        },
+        {
+            "file": "content/global/magazine/ja/bannerlist.png",
+            "hash": "EEF59FE3DE727AA7AB0D78861DD466B222C97A9590C9285528E1456FC02614D5"
+        },
+        {
+            "file": "content/global/miiphoto/mii_photo_bg_000.jpg",
+            "hash": "EEE3E7C31E1EF204B8CED41E155FA06920DF83C66EC76D41B5C73E479532FF2A"
+        },
+        {
+            "file": "content/global/miiphoto/mii_photo_bg_001.jpg",
+            "hash": "7EA12CD22303B654FF503EE76EDD3148CB6DE2C5BDE2FDB8DDA73A304E28DBA6"
+        },
+        {
+            "file": "content/global/miiphoto/mii_photo_bg_002.jpg",
+            "hash": "92BEF49E93BE3B0BFE621340C147679E97C0D7A7A634191D6072395719346E81"
+        },
+        {
+            "file": "content/global/miiphoto/mii_photo_bg_003.jpg",
+            "hash": "5A6DA18B888B309BE5126482B07E5BE6011C8BF0F0A9E793EE8A33CB0837CB2D"
+        },
+        {
+            "file": "content/global/miiphoto/mii_photo_bg_004.jpg",
+            "hash": "636403E4FCD87972961E0C6D8C36D5666FEFF7AB89C9F36AEC117D93844A84C1"
+        },
+        {
+            "file": "content/global/miiphoto/mii_photo_bg_005.jpg",
+            "hash": "CE24A93CCAE34AC81A22876B34F5E60D849BC0909E8893529CB1022876EE608C"
+        },
+        {
+            "file": "content/global/miiphoto/mii_photo_bg_006.jpg",
+            "hash": "BC5A4CAD57A197F82EB689BBB48C3528890FC6CCF02544EC77B7C85ECC1B74DF"
+        },
+        {
+            "file": "content/global/miiphoto/mii_photo_bg_007.jpg",
+            "hash": "27F9CD9F773FD24F5FC766E11EBC8AE6297A1EE0F374F657B968AB2AE98BD990"
+        },
+        {
+            "file": "content/global/miiphoto/mii_photo_bg_008.jpg",
+            "hash": "C065DC58679605CA0E36A1DA7F9C42C88496138032AC4F498D1395F33199F3A7"
+        },
+        {
+            "file": "content/global/miiphoto/mii_photo_bg_009.jpg",
+            "hash": "58A4968E820BA9D9EE850ADD036807CED4551F3A53D661033A7E45577D7F96DB"
+        },
+        {
+            "file": "content/global/miiphoto/mii_photo_bg_010.jpg",
+            "hash": "DD9118C33A941A3891BB73DB2ADC24FC3450FF7E02884FC8C53512FA09A527C1"
+        },
+        {
+            "file": "content/global/miiphoto/mii_photo_bg_011.jpg",
+            "hash": "F079F9A7E46D8339820D5511ED6EC49DE168C2F4FBEE33FB5898379BC5F38DA3"
+        },
+        {
+            "file": "content/global/miiphoto/mii_photo_bg_012.jpg",
+            "hash": "71E1A42944AF41CE0936452901B5B7118E3AEEADB169041AF70A43C6AF061928"
+        },
+        {
+            "file": "content/global/miiphoto/mii_photo_bg_013.jpg",
+            "hash": "E097CB307A31C5F0BE4303936478B55D068EDDEEA2F2F966CE82987AA6594A53"
+        },
+        {
+            "file": "content/global/miiphoto/mii_photo_bg_014.jpg",
+            "hash": "7A9BFA905D869A971219164E6599A05A2EF17D1B9D9EAE488AB5D2FA479FF6DE"
+        },
+        {
+            "file": "content/global/miiphoto/mii_photo_bg_015.jpg",
+            "hash": "BC74B67C96CEF2E06DDF0ECC217A25BEDEBB21AD4BFC21DFACA4F52FBECDD358"
+        },
+        {
+            "file": "content/global/miiphoto/mii_photo_bg_016.jpg",
+            "hash": "F61742EF89A38BB07FA05FDB91EA75AA3E3325C687BFE1BDA2593685486CE39A"
+        },
+        {
+            "file": "content/global/miiphoto/mii_photo_bg_017.jpg",
+            "hash": "E3DD6994F2484A784C3573A84212D0CF4E6333D1E8337BC8FCCF16DD8A9C9DF1"
+        },
+        {
+            "file": "content/global/miiphoto/mii_photo_bg_018.jpg",
+            "hash": "5E0872D5A9AD4A7C9DD9C086A0C82581DB4C22FE13845F4CDD98750BAB55F828"
+        },
+        {
+            "file": "content/global/miiphoto/mii_photo_bg_019.jpg",
+            "hash": "F87299026B9F82209327724CE791AC9DCCD34C212EB2B060839C8B419A6F9D9B"
+        },
+        {
+            "file": "content/global/miiphoto/mii_photo_bg_020.jpg",
+            "hash": "C0FA259F63A937D453CB7F4FEA0FD4E5A78C66FDAE5CA681742B07B31AE2569C"
+        },
+        {
+            "file": "content/global/miiphoto/mii_photo_bg_021.jpg",
+            "hash": "DDA0C690335D3202898EEF2E787E34E7BA2D32512153946B862E1D7B0910F39E"
+        },
+        {
+            "file": "content/global/miiphoto/mii_photo_bg_022.jpg",
+            "hash": "1B3ABE5FE20F08A28716666989327A7F9975BDC522EF281C6FD6E3611C5615D2"
+        },
+        {
+            "file": "content/global/miiphoto/mii_photo_bg_023.jpg",
+            "hash": "24831A9418BF94462BC5EE9E5B9BE52C78A131345C13C264DD02298638016E3C"
+        },
+        {
+            "file": "content/global/miiphoto/mii_photo_bg_024.jpg",
+            "hash": "B01899B386BEEFC6CEECF48262F2BCDA2749C7C614AF010BB0FD3007F2D2B1F7"
+        },
+        {
+            "file": "content/global/miiphoto/mii_photo_bg_025.jpg",
+            "hash": "DFCF93A0C19BEC4439A43DBC2290BE03F799423B4A9A4962817EF9994BBFBC65"
+        },
+        {
+            "file": "content/global/miiphoto/mii_photo_bg_026.jpg",
+            "hash": "9767E946F14B36CF7B1447373778FC1BFF90F6C5778630D7B5AF7CF4D390A3A8"
+        },
+        {
+            "file": "content/global/miiphoto/mii_photo_bg_027.jpg",
+            "hash": "44CF92BD2F50468AF810ABFCE8F61E96FF177F911381CC03E0A27F16D61291F7"
+        },
+        {
+            "file": "content/global/miiphoto/mii_photo_bg_028.jpg",
+            "hash": "C4ACAA6D0E7B0C5AAEA4F4AAF4DBE4EF7388EA6493128F1CC364444F7AF3833A"
+        },
+        {
+            "file": "content/global/miiphoto/mii_photo_bg_029.jpg",
+            "hash": "0E70FFEFD9974C78FDE319150E292636471AA0B733E8FE8B81D69023FABABA2C"
+        },
+        {
+            "file": "content/global/miiphoto/mii_photo_bg_030.jpg",
+            "hash": "96ABF5ED6104104D1B64A077A91A7690A0D6B89D3E15060AD857B8922D5572EC"
+        },
+        {
+            "file": "content/global/miiphoto/mii_photo_bg_031.jpg",
+            "hash": "B6088B1C6246536A86C616870DF2809AB22D179331D46F621FB8F90B79571606"
+        },
+        {
+            "file": "content/global/miiphoto/mii_photo_bg_032.jpg",
+            "hash": "3B1ABC756745650D31AF59626D019C6C2EE908A03FDB87DC0F35F63D4C446E8D"
+        },
+        {
+            "file": "content/global/miiphoto/mii_photo_bg_033.jpg",
+            "hash": "99004924223ADA968178759943D8AC0478C582FDF01F64B783662C38AEAD3B78"
+        },
+        {
+            "file": "content/global/miiphoto/mii_photo_bg_034.jpg",
+            "hash": "C44CE22D4F95E828FD6896AEA038832A0C735067218191CDB5D349574C633DA3"
+        },
+        {
+            "file": "content/global/miiphoto/mii_photo_bg_035.jpg",
+            "hash": "25E6031D0681C40D52205021F8CD1120EFAA7B7EF02405D7241ED63021DFBEF3"
+        },
+        {
+            "file": "content/global/miiphoto/mii_photo_bg_036.jpg",
+            "hash": "D114A15519C1B1FB43D00C6FC2C2B2EDBAF5D258A0F74A03C2DB17065D7E0935"
+        },
+        {
+            "file": "content/global/miiphoto/mii_photo_bg_037.jpg",
+            "hash": "1092CBE7D38BCD4E2D621AF25D33B05A9D8CB155FEFE150A25566D92E4D6FE84"
+        },
+        {
+            "file": "content/global/miiphoto/mii_photo_bg_038.jpg",
+            "hash": "91FCDC33FC75C29EA471F7C507B234DFC458234412739EEBE8B282F9A999EE66"
+        },
+        {
+            "file": "content/global/miiphoto/mii_photo_bg_039.jpg",
+            "hash": "9476214EC0406F6EC0E0DECC9E603C82B2BE24F9DAF70FA021B8541B854E7BCE"
+        },
+        {
+            "file": "content/global/miiphoto/mii_photo_bg_040.jpg",
+            "hash": "89112C3EA6178F14A19F6511DF4CE9F17A6C2B2A493084DDF91CC87E63722E8E"
+        },
+        {
+            "file": "content/global/miiphoto/mii_photo_bg_041.jpg",
+            "hash": "7F1D076295DFF2B5BA238B2F646A134655A6EEC56E9F1493587BF99CAC59EEC3"
+        },
+        {
+            "file": "content/global/miiphoto/mii_photo_bg_042.jpg",
+            "hash": "8F35B360CCED6389DC68B33CC7F1D04CECEC4B4895976CC3C6E4831CCA85515D"
+        },
+        {
+            "file": "content/global/miiphoto/mii_photo_bg_043.jpg",
+            "hash": "EE2ECA7C981602857E0E6B49EA7CBDAC8ACAFDDD9C0E111F696683BEDBD60DEF"
+        },
+        {
+            "file": "content/global/miiphoto/mii_photo_bg_044.jpg",
+            "hash": "DC2021061A18F9748BA5225681D42941085E711E6E151B1019861DAEAE614D42"
+        },
+        {
+            "file": "content/global/miiphoto/mii_photo_bg_045.jpg",
+            "hash": "C0F2F9D94A8E050412C06ECA94DE45C434E3729F2962B395751A0B16F856C10D"
+        },
+        {
+            "file": "content/global/miiphoto/mii_photo_bg_046.jpg",
+            "hash": "4333672058EBEAF29A6783A2B4308307ECDD2EC5D0D4BA7D7C3D6F9166AA6B40"
+        },
+        {
+            "file": "content/global/miiphoto/mii_photo_bg_047.jpg",
+            "hash": "9E93191B47ECBF4DCEB56EA227A16139EE3A98801E01F615C00F33D78EFDF068"
+        },
+        {
+            "file": "content/global/miiphoto/mii_photo_bg_048.jpg",
+            "hash": "AC8D69C65D008BF9ADA9D1FE7682529A68E5C9E16488686307D8138C0257F4DF"
+        },
+        {
+            "file": "content/global/miiphoto/mii_photo_bg_049.jpg",
+            "hash": "D73B7B887A670D78EC336F07019F1E29BBDE09D4E9A5F6E06F1D1726777B60D4"
+        },
+        {
+            "file": "content/global/miiphoto/mii_photo_bg_050.jpg",
+            "hash": "001A8AD3396BDA5AB64F7D40C5EFC75A5FC3540C2B38E33394902B7C73E1B10B"
+        },
+        {
+            "file": "content/global/miiverse/miiverse_cap01.jpg",
+            "hash": "1AE912C87C72F49C9E33B30CED45D35CC6C4ECCA95CE6C310BD8FE7B19C954EA"
+        },
+        {
+            "file": "content/global/miiverse/miiverse_default.dat",
+            "hash": "771BE44856A4EC65CFAEBAF704056B5AE37C1B255A1F92E26889DE2414F10503"
+        },
+        {
+            "file": "content/global/miiverse/miiverse_memo01_de.tga",
+            "hash": "1DB511B9617E0CCFE7EB834F79DEC07D4F2CEFB3CB23F05FBBBCC68ADE80983C"
+        },
+        {
+            "file": "content/global/miiverse/miiverse_memo01_en.tga",
+            "hash": "CD36FE8B46F43B3672ADB6F372E8DFC918CC10FBAA4C700490B1A4CE25819C31"
+        },
+        {
+            "file": "content/global/miiverse/miiverse_memo01_es.tga",
+            "hash": "DEB1C86234E1546AD7E0A7BE3C62D0C36FB59AE76A48367D787A59DDED23041C"
+        },
+        {
+            "file": "content/global/miiverse/miiverse_memo01_fr.tga",
+            "hash": "C300BD8507239EFFB306AB9BC760780FEA0C7DA0443091D3984DE60A32F2312E"
+        },
+        {
+            "file": "content/global/miiverse/miiverse_memo01_it.tga",
+            "hash": "F0AABC1E0606E6DE24A72559A6DFBDF01453D96338B083F1D01695CBF204902B"
+        },
+        {
+            "file": "content/global/miiverse/miiverse_memo01_ja.tga",
+            "hash": "20C720E1DD117AAFBFD3E2F9374E63DD11B309C2C45F16280372EF0188BF44D0"
+        },
+        {
+            "file": "content/global/movie/00000001.dat",
+            "hash": "760A7111FB9F549240BB10937FBF43AB2533E581E17D01DCF72BF50C19CB563D"
+        },
+        {
+            "file": "content/global/movie/00000002.dat",
+            "hash": "9D1C540F5157B9CF3198E4B1476DF26D65ED86F688925D65751E6ACB3CDD34B3"
+        },
+        {
+            "file": "content/global/movie/00000003.dat",
+            "hash": "2C6AAAB6B04823C75BF239E0FED206F9BB87B0C0C64344D7089B405A6EDAD331"
+        },
+        {
+            "file": "content/global/movie/00000004.dat",
+            "hash": "A4C7DBF67DF723F4A96E8D5C1848F8098226EE2687E169E89398005C075B2972"
+        },
+        {
+            "file": "content/global/movie/00000005.dat",
+            "hash": "52DFD4215587BC00208A5F20D0717995A8E91CF087591B7EE4DA47AFB17EA860"
+        },
+        {
+            "file": "content/global/movie/00000006.dat",
+            "hash": "A4893D7880FD6CD225C62EF59E3A97E46B5C3809DC7154F8A76E32D77CCC2FC5"
+        },
+        {
+            "file": "content/global/slideshow/slideshow_bg_001.jpg",
+            "hash": "ABD23FDCB187D04A21DB2768F7B50A779663FB8CEA4EEF7C9BD2C44ED69C3B12"
+        },
+        {
+            "file": "content/global/slideshow/slideshow_bg_002.jpg",
+            "hash": "C0EB26CB06CBCA0C1FA38B6E2279666C9B70856204751B32C5D3E6FE6F78908B"
+        },
+        {
+            "file": "content/global/slideshow/slideshow_bg_003.jpg",
+            "hash": "930E456FBCBA2DF4CF2D923A4FB1CAA9980689AA141309B0231BE18F8EF84AFA"
+        },
+        {
+            "file": "content/global/slideshow/slideshow_bg_004.jpg",
+            "hash": "6DF0F9D1CF4ED9FEDB67FF4E5383DECD129AD52AADFC9E7A78548865E15BD733"
+        },
+        {
+            "file": "content/global/slideshow/slideshow_bg_005.jpg",
+            "hash": "12C52FAF4C3D4251C3A04967E680527706EBEC0CF33E35361E308F293DA5015D"
+        },
+        {
+            "file": "content/global/slideshow/slideshow_bg_006.jpg",
+            "hash": "46FC5F13153B10EDF909BC4996A53D13499ED0C36D6CEA8C8CAC55C1290F430E"
+        },
+        {
+            "file": "content/global/slideshow/slideshow_bg_007.jpg",
+            "hash": "2CD2E1C058CAA3F19486B05E9C1125C34C148CC5F47B3DDD23A972730F66FD47"
+        },
+        {
+            "file": "content/global/slideshow/slideshow_bg_008.jpg",
+            "hash": "177C965EA8FE54F7675DB7E36751DF1D92279C6B95657999D7B8E40559335A59"
+        },
+        {
+            "file": "content/global/slideshow/slideshow_bg_009.jpg",
+            "hash": "D93C4A43E48F36D7E544B00EB2B553D3FDB00462EE4BD353835FE0081BCF4446"
+        },
+        {
+            "file": "content/global/slideshow/slideshow_bg_010.jpg",
+            "hash": "B4AB292DE51FF29083778ED7B421250ECFB596AD70E9E5124507F3F1DA133978"
+        },
+        {
+            "file": "content/global/tsv/de/song_begin_db.dat",
+            "hash": "CEC76989E399C73BD2177241E3BA01902C9DCEFFBBA529B522BC7F9736C02BD0"
+        },
+        {
+            "file": "content/global/tsv/de/wiiudb.dat",
+            "hash": "7DD60AEBB95C4B0FAB1AF8DD43D5DADF9831F32E5548ACBF28D2EB1DB9D91992"
+        },
+        {
+            "file": "content/global/tsv/en/song_begin_db.dat",
+            "hash": "4B35C4AA27BC887FB8C4FE60E4307C2DE4CFD4077CCED1BED8797E2C171AA3EE"
+        },
+        {
+            "file": "content/global/tsv/en/wiiudb.dat",
+            "hash": "82D9BFBAA08721764CD0AB7F5F908650E342310BF40FB6D96EE1846574D958A3"
+        },
+        {
+            "file": "content/global/tsv/es/song_begin_db.dat",
+            "hash": "CF71B93CAE497CFD817C681A80EF3EEED764CD718EE82C8F236676DEA6FE85F1"
+        },
+        {
+            "file": "content/global/tsv/es/wiiudb.dat",
+            "hash": "17AE04D2BEC41ECE00745A029A77E42AA55065967489DA5E182C21BA07F6CA70"
+        },
+        {
+            "file": "content/global/tsv/fr/song_begin_db.dat",
+            "hash": "0862B996E14D6F8C9F8DAB21B297748CF21C7A1E9E3875185A41F92EC316C1A5"
+        },
+        {
+            "file": "content/global/tsv/fr/wiiudb.dat",
+            "hash": "7D95184C5CC9C3DD64A472A2ED9119DA0D7E6B6651F892256F86BE9EFF43A434"
+        },
+        {
+            "file": "content/global/tsv/it/song_begin_db.dat",
+            "hash": "079D94D1B3C8B3654AB4CADB29755DFEB42A7993584063B50EB5AA07061860C5"
+        },
+        {
+            "file": "content/global/tsv/it/wiiudb.dat",
+            "hash": "ADEEEE86856961F17B7B007422036E34D25BA6AEA5FBB27889DCF521A9838266"
+        },
+        {
+            "file": "content/global/tsv/ja/song_begin_db.dat",
+            "hash": "376A8A9332734061B1A0727A9FC8975161D00742D18954A886FB67BD8FFF118D"
+        },
+        {
+            "file": "content/global/tsv/ja/wiiudb.dat",
+            "hash": "6A24810EF5A502B7ECED83F82C5D3BC69CD496C660AFFDC7ACD34734DB06A8AC"
+        },
+        {
+            "file": "content/global/ujk/error.ujk",
+            "hash": "639BA7FEEA0E36ACA4B2BC08488F294E67201245D1E0843D17F94A5EFB6F98C5"
+        },
+        {
+            "file": "content/info/2d/de/skin_01/arc.splt",
+            "hash": "B4960A50B52C9B761DE908BF05325E41A3BDA791CB08CD7C4A229B37A6A05D5F"
+        },
+        {
+            "file": "content/info/2d/de/skin_01/arc_0000.lzss",
+            "hash": "21660E146B93F4BF6E88528E717AA887E1AABE23BE8149E6C41F0CBA42343E11"
+        },
+        {
+            "file": "content/info/2d/de/skin_01/arc_0001.lzss",
+            "hash": "41010765FE4A197FA525607ADF06F1B4D62A282C50A6626D0F5758FE5D7EECA4"
+        },
+        {
+            "file": "content/info/2d/en/skin_01/arc.splt",
+            "hash": "B4960A50B52C9B761DE908BF05325E41A3BDA791CB08CD7C4A229B37A6A05D5F"
+        },
+        {
+            "file": "content/info/2d/en/skin_01/arc_0000.lzss",
+            "hash": "C32EDA638D4B3E54059D9937ED54E06A95FC3A1E1913BB5835DD77BF8E59AB7B"
+        },
+        {
+            "file": "content/info/2d/en/skin_01/arc_0001.lzss",
+            "hash": "9644A60918AF6030638581C56A5DB4374847F6D32B0A50227B648EC679CDADF4"
+        },
+        {
+            "file": "content/info/2d/es/skin_01/arc.splt",
+            "hash": "B4960A50B52C9B761DE908BF05325E41A3BDA791CB08CD7C4A229B37A6A05D5F"
+        },
+        {
+            "file": "content/info/2d/es/skin_01/arc_0000.lzss",
+            "hash": "8D688998972EAB38B314B277BD5DD7816751EB2622F6385161CEB7D9F714FC3B"
+        },
+        {
+            "file": "content/info/2d/es/skin_01/arc_0001.lzss",
+            "hash": "D8C669C2474E7DBA42698FF26AADAC115CC053AEB6F8854ACA7251AFA40422CC"
+        },
+        {
+            "file": "content/info/2d/fr/skin_01/arc.splt",
+            "hash": "B4960A50B52C9B761DE908BF05325E41A3BDA791CB08CD7C4A229B37A6A05D5F"
+        },
+        {
+            "file": "content/info/2d/fr/skin_01/arc_0000.lzss",
+            "hash": "5406D3C5BFFD26CCD4CF100E494B34BCA4D35F22371083D677DC1844C313B135"
+        },
+        {
+            "file": "content/info/2d/fr/skin_01/arc_0001.lzss",
+            "hash": "E04575B5EF98B3ABB7AE2474B4E8B9E10AC52CB874C1C5BC1AE16CD81F6B4EAF"
+        },
+        {
+            "file": "content/info/2d/it/skin_01/arc.splt",
+            "hash": "B4960A50B52C9B761DE908BF05325E41A3BDA791CB08CD7C4A229B37A6A05D5F"
+        },
+        {
+            "file": "content/info/2d/it/skin_01/arc_0000.lzss",
+            "hash": "3D26BBE1B60AD62592417A2FA4FA382B1E86550024A7CBAC1329C0E01F26ED70"
+        },
+        {
+            "file": "content/info/2d/it/skin_01/arc_0001.lzss",
+            "hash": "A5E64C06F7DA34278847FC1D55DF3B99A51E76E58C2D9E7F5326497551F71A3A"
+        },
+        {
+            "file": "content/info/3d/arc.splt",
+            "hash": "A989C1256420CF708F1C4F69A7032431C5C276B0339120A3F693EA178629D6D8"
+        },
+        {
+            "file": "content/info/3d/arc_0000.lzss",
+            "hash": "2D67EBCE53B03B90A01B71D83B6697B61E42212A44714B05A55CD7DE06461551"
+        },
+        {
+            "file": "content/karaoke/localize/de/arc.splt",
+            "hash": "B4960A50B52C9B761DE908BF05325E41A3BDA791CB08CD7C4A229B37A6A05D5F"
+        },
+        {
+            "file": "content/karaoke/localize/de/arc_0000.lzss",
+            "hash": "0E5F50743AF5F3DB7632436E12DED1600C91A374140DB572A604A270DB727E4E"
+        },
+        {
+            "file": "content/karaoke/localize/de/arc_0001.lzss",
+            "hash": "8B0B94F3241EC28B2DBC03FB3BA9B96245E0E3AE877A40A3C0D3A2D4839B9F97"
+        },
+        {
+            "file": "content/karaoke/localize/en/arc.splt",
+            "hash": "B4960A50B52C9B761DE908BF05325E41A3BDA791CB08CD7C4A229B37A6A05D5F"
+        },
+        {
+            "file": "content/karaoke/localize/en/arc_0000.lzss",
+            "hash": "2F778022D25478B981BAA017F42D218BAB19CD2F928F752CEBDA029C7DB775DA"
+        },
+        {
+            "file": "content/karaoke/localize/en/arc_0001.lzss",
+            "hash": "CC559384B19FA99F28BC9974B3CA8E7AF143AB8787FF74B65E905D51217E8187"
+        },
+        {
+            "file": "content/karaoke/localize/es/arc.splt",
+            "hash": "B4960A50B52C9B761DE908BF05325E41A3BDA791CB08CD7C4A229B37A6A05D5F"
+        },
+        {
+            "file": "content/karaoke/localize/es/arc_0000.lzss",
+            "hash": "4393ABD03B910D39919E3D6A447772B8149672E56C2216255D8787DFE158D444"
+        },
+        {
+            "file": "content/karaoke/localize/es/arc_0001.lzss",
+            "hash": "B7EE485DE89951F0DE92AC168396AE2898AB00FC622A1993BF571659E02C2625"
+        },
+        {
+            "file": "content/karaoke/localize/fr/arc.splt",
+            "hash": "B4960A50B52C9B761DE908BF05325E41A3BDA791CB08CD7C4A229B37A6A05D5F"
+        },
+        {
+            "file": "content/karaoke/localize/fr/arc_0000.lzss",
+            "hash": "69F74A2C3E4D32BAD5C32D017F86E2955B116C75A5BE372B293F728169898078"
+        },
+        {
+            "file": "content/karaoke/localize/fr/arc_0001.lzss",
+            "hash": "568A8181F2FF9D67C7409FBF3A01CD5B6414F9745D17A85F2429CC37400499EE"
+        },
+        {
+            "file": "content/karaoke/localize/it/arc.splt",
+            "hash": "B4960A50B52C9B761DE908BF05325E41A3BDA791CB08CD7C4A229B37A6A05D5F"
+        },
+        {
+            "file": "content/karaoke/localize/it/arc_0000.lzss",
+            "hash": "F808FA4E918D83DB3C6B257E9FFB09CD3EE5C2799796C15D08C8BB42B421C05D"
+        },
+        {
+            "file": "content/karaoke/localize/it/arc_0001.lzss",
+            "hash": "A24875F3155FD51A05AB1364A86085C71DECA6329534FFAC686149E11B98BACF"
+        },
+        {
+            "file": "content/karaoke/not_localize/arc.splt",
+            "hash": "A989C1256420CF708F1C4F69A7032431C5C276B0339120A3F693EA178629D6D8"
+        },
+        {
+            "file": "content/karaoke/not_localize/arc_0000.lzss",
+            "hash": "68D01FBF0BFB20D2F67268569AAE793D98A1DA438EB2CF442C630ABD0201412C"
+        },
+        {
+            "file": "content/language_select/arc.splt",
+            "hash": "A989C1256420CF708F1C4F69A7032431C5C276B0339120A3F693EA178629D6D8"
+        },
+        {
+            "file": "content/language_select/arc_0000.lzss",
+            "hash": "19D21C229B7571A1335031B689E5E5998A33D545182D2B6FC38B053019514168"
+        },
+        {
+            "file": "content/msg/ms/bin/de/arc.lzss",
+            "hash": "2290F40386CF4506D07414E480A6B926CC6954BA7C4BEC00270404A85A2BED8F"
+        },
+        {
+            "file": "content/msg/ms/bin/en/arc.lzss",
+            "hash": "9A9E8AF7843756221196E758D8BDA68DBED406C18063174449EDB88888319C4E"
+        },
+        {
+            "file": "content/msg/ms/bin/es/arc.lzss",
+            "hash": "7FF09CABE50E7F8D7CCFE6D580FEC5ABF2D5BCC212DEE7BE022DD2673BB71EC7"
+        },
+        {
+            "file": "content/msg/ms/bin/fr/arc.lzss",
+            "hash": "9EBB48177756D2251908AC5CDCD19C06909F47D7AA5F78830FD355947A82E9F4"
+        },
+        {
+            "file": "content/msg/ms/bin/it/arc.lzss",
+            "hash": "ED8D5D1C7386CAE04D90E0A3101F8F5C095E613853A9B3B15B77B1DE35BCC62F"
+        },
+        {
+            "file": "content/resident/main.lzss",
+            "hash": "D4D2F4BCD227A6EEAD5330F11A8D0C7C5E591F1AD512F362A361C23E12C268E6"
+        },
+        {
+            "file": "content/sound/Orchestra_Sound.bfsar",
+            "hash": "A0ABA2DED6CAD6E7B7B666438634EA83C1B69F16559B7D717B148FB0FBA066C7"
+        },
+        {
+            "file": "content/sound/stream/BGM_STAGE_EDIT.bfstm",
+            "hash": "91AD809788A88622B61A7FF39BB866C41F7D097FABAEBBE65D1208347E30665B"
+        },
+        {
+            "file": "content/sound/stream/BGM_VS.dspadpcm.bfstm",
+            "hash": "B30A57511CD6BAB1CE65D97AB4A5EFF41B1A1C5714C79377815842D908EBEA18"
+        },
+        {
+            "file": "content/sound/stream/BGM_VS_No_Intro.dspadpcm.bfstm",
+            "hash": "E9C7FFD3E73F2DE85CA28552D701E114A799F1CB7EF0C314AB62B9B0ADC1D418"
+        },
+        {
+            "file": "content/sound/stream/JGL_SCORE_HIGH.dspadpcm.bfstm",
+            "hash": "347B0642EBAE71F77913FF3E1EE93148B967A698C8A567DBDCCA4A566F0B4E65"
+        },
+        {
+            "file": "content/sound/stream/JGL_SCORE_HIGH_wait.dspadpcm.bfstm",
+            "hash": "7AAA6C8128AF2A546034E805DFBAEAA79491EA7430601C7A6E70DCE6B38B2754"
+        },
+        {
+            "file": "content/sound/stream/JGL_SCORE_LOW.dspadpcm.bfstm",
+            "hash": "829FD8D01659200295888B23380D9CB642DF0E64068F38477BDAC49B703A7134"
+        },
+        {
+            "file": "content/sound/stream/JGL_SCORE_LOW_wait.dspadpcm.bfstm",
+            "hash": "6E0AA10E2C31F6CFC9CB5F6719B0471D3DCEAB47B3BCCE6AC7AA7A77EC764299"
+        },
+        {
+            "file": "content/sound/stream/JGL_SCORE_MAX3.dspadpcm.bfstm",
+            "hash": "CB3C5C1FEE919824053E56130D88EF7A8321849834C1F9C3DB825736332AF40E"
+        },
+        {
+            "file": "content/sound/stream/JGL_SCORE_MAX_long.dspadpcm.bfstm",
+            "hash": "649DF3E1D0B9D3C4D5EDAE60F90F6ADF5BD150C643371AA1767A7C4EF26AAECA"
+        },
+        {
+            "file": "content/sound/stream/JGL_SCORE_MIN.dspadpcm.bfstm",
+            "hash": "F28F99D38D816ECD8D48BED15A701145FCF965825BE1BF48F031C412898E4E44"
+        },
+        {
+            "file": "content/sound/stream/JGL_SCORE_OTHER.dspadpcm.bfstm",
+            "hash": "E078BB35081934C7106ACFD862667521C31AC5AC6E1DD96A802145A750E56B60"
+        },
+        {
+            "file": "content/sound/stream/Orchestra_SoundLogo_To_MainBGM.dspadpcm.bfstm",
+            "hash": "AB0D5A9DD48F6294DF973DFE78B287FE146AAE1B646E3D2E235AE6F2466A0618"
+        },
+        {
+            "file": "content/sound/stream/Orchestra_Syokai.dspadpcm.bfstm",
+            "hash": "1096B3FF2C6C8B58D003FB489BE16956AF7935E8AB1F552587404953E8091B4C"
+        },
+        {
+            "file": "content/sound/stream/STRM_JIN01_UTA_c.dspadpcm.bfstm",
+            "hash": "298475363E8147D9481F454D7FD8C6E0191BEF293C246697C495538DE4362BF1"
+        },
+        {
+            "file": "content/sound/stream/STRM_JIN02_UTA_c.dspadpcm.bfstm",
+            "hash": "ED31C67D33960099A2C40D1B925C9AFD3E9237B11B416DFB4D4B5B602572AD60"
+        },
+        {
+            "file": "content/sound/stream/STRM_Orchestra_BGM.dspadpcm.bfstm",
+            "hash": "3F3F32338BE9B05A1251DBE927CA7BB9B45D043FC017970DA939D895445DD7DF"
+        },
+        {
+            "file": "content/sound/stream/STRM_SCORE_START.dspadpcm.bfstm",
+            "hash": "8249F4E5E3D850D9C098FE1B6C8F8741D9EBD10688FD142175643951244FD3BB"
+        },
+        {
+            "file": "content/sound/stream/STRM_TEN_JIN01.dspadpcm.bfstm",
+            "hash": "2A05BCBA8AE36419A98A824DCF7963AAC21A0314D6A089B39047AA4C67ACE2AE"
+        },
+        {
+            "file": "content/sound/stream/STRM_TEN_JIN02.dspadpcm.bfstm",
+            "hash": "E5514E048E7276DBC64FAFFFBD077B5F45C27ACE7A49CF94C20907FC20CDC0E7"
+        },
+        {
+            "file": "content/sound/stream/STRM_TEN_JIN03.dspadpcm.bfstm",
+            "hash": "1D71642BF82561C30006F5FEE37940C72A3760C8867D4338B8FC7B9CB0DCF36F"
+        },
+        {
+            "file": "content/sound/stream/STRM_TEN_JIN04.dspadpcm.bfstm",
+            "hash": "CF2D477BEE11DDBC63BFA1491CBED0A620AAE2BCD655C92FE2C219A0B7DCE386"
+        },
+        {
+            "file": "content/sound/stream/Start_Jingle01_Loop.dspadpcm.bfstm",
+            "hash": "B746D04E0F0BD791FF3AC9DF48946457863B553CF3B5ABE1219845F3D0442A45"
+        },
+        {
+            "file": "content/sound/stream/Start_Jingle02_Long.dspadpcm.bfstm",
+            "hash": "4637010069C5BC4BACCDC8829AFD8C8E2FD451BBF15E5819347B330F9F5DD4DF"
+        },
+        {
+            "file": "content/sound/stream/bgm00.dspadpcm.bfstm",
+            "hash": "B88C9564FBC0A13DEA07F96B887DC77BCB0A52EB76B3961E3740F39D8C6D3BE5"
+        },
+        {
+            "file": "content/sound/stream/bgm01.dspadpcm.bfstm",
+            "hash": "706AF377A2DEFF9064876EB54ECFD122375A4D8FE0234C75C0804C6613EDF959"
+        },
+        {
+            "file": "content/sound/stream/bgm05.dspadpcm.bfstm",
+            "hash": "B88C9564FBC0A13DEA07F96B887DC77BCB0A52EB76B3961E3740F39D8C6D3BE5"
+        },
+        {
+            "file": "content/stage/editpreview/Drc/2d/de/skin_01/arc.splt",
+            "hash": "A989C1256420CF708F1C4F69A7032431C5C276B0339120A3F693EA178629D6D8"
+        },
+        {
+            "file": "content/stage/editpreview/Drc/2d/de/skin_01/arc_0000.lzss",
+            "hash": "7644CFE6452B609FF81AAFB41AC6A69A329D26B73D51B7906FFA8604F3E49A42"
+        },
+        {
+            "file": "content/stage/editpreview/Drc/2d/en/skin_01/arc.splt",
+            "hash": "A989C1256420CF708F1C4F69A7032431C5C276B0339120A3F693EA178629D6D8"
+        },
+        {
+            "file": "content/stage/editpreview/Drc/2d/en/skin_01/arc_0000.lzss",
+            "hash": "C314ECD846F7003A08AABDF398B326CEA2B821EB4A585A9BA2409BE79F6DED6F"
+        },
+        {
+            "file": "content/stage/editpreview/Drc/2d/es/skin_01/arc.splt",
+            "hash": "A989C1256420CF708F1C4F69A7032431C5C276B0339120A3F693EA178629D6D8"
+        },
+        {
+            "file": "content/stage/editpreview/Drc/2d/es/skin_01/arc_0000.lzss",
+            "hash": "8F4DD4D29C819AAE865CDC97DC31128C4499CFF09DCDB6136458BA66C6A26CAA"
+        },
+        {
+            "file": "content/stage/editpreview/Drc/2d/fr/skin_01/arc.splt",
+            "hash": "A989C1256420CF708F1C4F69A7032431C5C276B0339120A3F693EA178629D6D8"
+        },
+        {
+            "file": "content/stage/editpreview/Drc/2d/fr/skin_01/arc_0000.lzss",
+            "hash": "48081292E65E6DD58A812C7A84D4AC4AEAD566DC3308E5BD14A42F3D88FBE4CF"
+        },
+        {
+            "file": "content/stage/editpreview/Drc/2d/it/skin_01/arc.splt",
+            "hash": "A989C1256420CF708F1C4F69A7032431C5C276B0339120A3F693EA178629D6D8"
+        },
+        {
+            "file": "content/stage/editpreview/Drc/2d/it/skin_01/arc_0000.lzss",
+            "hash": "E0C012715C5C85AE35FD881F454F45A60A53C63B976195B7BFDDBA57DF52B64F"
+        },
+        {
+            "file": "content/stage/editpreview/not_localize/arc.splt",
+            "hash": "A989C1256420CF708F1C4F69A7032431C5C276B0339120A3F693EA178629D6D8"
+        },
+        {
+            "file": "content/stage/editpreview/not_localize/arc_0000.lzss",
+            "hash": "CC1EDBBF75E4DCB4B8E6D0BB1E2559BFCAD70D6474F0EDA4A8940B17C2A4AF53"
+        },
+        {
+            "file": "content/stage/rec_studio/arc.splt",
+            "hash": "A989C1256420CF708F1C4F69A7032431C5C276B0339120A3F693EA178629D6D8"
+        },
+        {
+            "file": "content/stage/rec_studio/arc_0000.lzss",
+            "hash": "65FB4375465D7DD46BD82ECC6A5AFFAFB0502EC750D0DD03BBD766B4B8719AAB"
+        },
+        {
+            "file": "content/stage/song_battle/arc.splt",
+            "hash": "B4960A50B52C9B761DE908BF05325E41A3BDA791CB08CD7C4A229B37A6A05D5F"
+        },
+        {
+            "file": "content/stage/song_battle/arc_0000.lzss",
+            "hash": "933015AD5C97BA619D7C542C1743AF89D59399581805047D13FA94D136356B3F"
+        },
+        {
+            "file": "content/stage/song_battle/arc_0001.lzss",
+            "hash": "D06C24FCDB7361B608152C12A0B519A735661E04792283285EEAF4CEC2060ED9"
+        },
+        {
+            "file": "content/stage/stage01/arc.splt",
+            "hash": "B4960A50B52C9B761DE908BF05325E41A3BDA791CB08CD7C4A229B37A6A05D5F"
+        },
+        {
+            "file": "content/stage/stage01/arc_0000.lzss",
+            "hash": "002AB466374F0693EE039DACC0ACDAC7135605D4E232D7276864D40501C829F5"
+        },
+        {
+            "file": "content/stage/stage01/arc_0001.lzss",
+            "hash": "18A7E5C3D59CB6141942791E335181B98702DF218E986225D362876E7A8A4288"
+        },
+        {
+            "file": "content/stage/stage02/arc.splt",
+            "hash": "B4960A50B52C9B761DE908BF05325E41A3BDA791CB08CD7C4A229B37A6A05D5F"
+        },
+        {
+            "file": "content/stage/stage02/arc_0000.lzss",
+            "hash": "37B6406BEE641F0985AB7CAA955132C9C3B7B807A1D526C704A91E1F9B4E086C"
+        },
+        {
+            "file": "content/stage/stage02/arc_0001.lzss",
+            "hash": "B079E989B45BC01A0C3AF76530618FFD46296E130A7E80A084A34CDFEA64A50B"
+        },
+        {
+            "file": "content/stage/stage03/arc.splt",
+            "hash": "B4960A50B52C9B761DE908BF05325E41A3BDA791CB08CD7C4A229B37A6A05D5F"
+        },
+        {
+            "file": "content/stage/stage03/arc_0000.lzss",
+            "hash": "78374AAC28A31B213CC361105E4DD521B64C3126800CFF00470C5D73E998F67F"
+        },
+        {
+            "file": "content/stage/stage03/arc_0001.lzss",
+            "hash": "69A1FF7EF5379B54602EA985D30766729D5D15685EFF1F5D25E304C087BD05D9"
+        },
+        {
+            "file": "content/subtitle/analysis/2d/de/skin_01/arc.splt",
+            "hash": "A989C1256420CF708F1C4F69A7032431C5C276B0339120A3F693EA178629D6D8"
+        },
+        {
+            "file": "content/subtitle/analysis/2d/de/skin_01/arc_0000.lzss",
+            "hash": "4DCE7685336ADAF662E0D6DECD7D0FBBB3C4A042ACA271D9F57821E9B53B370C"
+        },
+        {
+            "file": "content/subtitle/analysis/2d/en/skin_01/arc.splt",
+            "hash": "A989C1256420CF708F1C4F69A7032431C5C276B0339120A3F693EA178629D6D8"
+        },
+        {
+            "file": "content/subtitle/analysis/2d/en/skin_01/arc_0000.lzss",
+            "hash": "B0C5EAA72F3E4EA24D68B0EA600C90582A7683973766CB2F25CD5078E9667081"
+        },
+        {
+            "file": "content/subtitle/analysis/2d/es/skin_01/arc.splt",
+            "hash": "A989C1256420CF708F1C4F69A7032431C5C276B0339120A3F693EA178629D6D8"
+        },
+        {
+            "file": "content/subtitle/analysis/2d/es/skin_01/arc_0000.lzss",
+            "hash": "EB982119B2A4EC5C48C5977425A71C610366BFBC52D24A9A52F8351B83F60AFD"
+        },
+        {
+            "file": "content/subtitle/analysis/2d/fr/skin_01/arc.splt",
+            "hash": "A989C1256420CF708F1C4F69A7032431C5C276B0339120A3F693EA178629D6D8"
+        },
+        {
+            "file": "content/subtitle/analysis/2d/fr/skin_01/arc_0000.lzss",
+            "hash": "044F7299F79ACF147F01E230DBFC7012083153287B8050A92787B8CF36A4D795"
+        },
+        {
+            "file": "content/subtitle/analysis/2d/it/skin_01/arc.splt",
+            "hash": "A989C1256420CF708F1C4F69A7032431C5C276B0339120A3F693EA178629D6D8"
+        },
+        {
+            "file": "content/subtitle/analysis/2d/it/skin_01/arc_0000.lzss",
+            "hash": "804F00D775655FAD930EBBD974B2A38A58F77326210C35B10D41E4BDBAF9B768"
+        },
+        {
+            "file": "content/subtitle/analysis/3d/arc.splt",
+            "hash": "A989C1256420CF708F1C4F69A7032431C5C276B0339120A3F693EA178629D6D8"
+        },
+        {
+            "file": "content/subtitle/analysis/3d/arc_0000.lzss",
+            "hash": "33885F859FFA441DE9230B02DDA29AC065717BB8BF989B5ECDBC20CF7B9FCA39"
+        },
+        {
+            "file": "content/subtitle/offline/2d/de/skin_01/arc.splt",
+            "hash": "A989C1256420CF708F1C4F69A7032431C5C276B0339120A3F693EA178629D6D8"
+        },
+        {
+            "file": "content/subtitle/offline/2d/de/skin_01/arc_0000.lzss",
+            "hash": "AC16F929422F17ECD661EC3DD5D9431313AE79ACA6E218227BB4D20F15116B83"
+        },
+        {
+            "file": "content/subtitle/offline/2d/en/skin_01/arc.splt",
+            "hash": "A989C1256420CF708F1C4F69A7032431C5C276B0339120A3F693EA178629D6D8"
+        },
+        {
+            "file": "content/subtitle/offline/2d/en/skin_01/arc_0000.lzss",
+            "hash": "9663613B2DB33D4039CDF74D2ED82820D9FA8F79B9E18EADD787D11567EF29DD"
+        },
+        {
+            "file": "content/subtitle/offline/2d/es/skin_01/arc.splt",
+            "hash": "A989C1256420CF708F1C4F69A7032431C5C276B0339120A3F693EA178629D6D8"
+        },
+        {
+            "file": "content/subtitle/offline/2d/es/skin_01/arc_0000.lzss",
+            "hash": "CFCD9803F8205D68CDBB95F424F0090F14A59F60733BBC45046523111ACCEF16"
+        },
+        {
+            "file": "content/subtitle/offline/2d/fr/skin_01/arc.splt",
+            "hash": "A989C1256420CF708F1C4F69A7032431C5C276B0339120A3F693EA178629D6D8"
+        },
+        {
+            "file": "content/subtitle/offline/2d/fr/skin_01/arc_0000.lzss",
+            "hash": "076DDA5A1CDDB92F6E33A4F4B85592C9BA20001492CDE02531DE1289FC214F78"
+        },
+        {
+            "file": "content/subtitle/offline/2d/it/skin_01/arc.splt",
+            "hash": "A989C1256420CF708F1C4F69A7032431C5C276B0339120A3F693EA178629D6D8"
+        },
+        {
+            "file": "content/subtitle/offline/2d/it/skin_01/arc_0000.lzss",
+            "hash": "F8EA87961137558ADE3528FB1BB030BDD714FCDB29839ECA4D3D3BB21387BE5E"
+        },
+        {
+            "file": "content/subtitle/offline/3d/arc.splt",
+            "hash": "A989C1256420CF708F1C4F69A7032431C5C276B0339120A3F693EA178629D6D8"
+        },
+        {
+            "file": "content/subtitle/offline/3d/arc_0000.lzss",
+            "hash": "DA3EB0F1855EB43F33B8E966DD86D8038A21B63E02449F071E9B3AA52A1328CA"
+        },
+        {
+            "file": "content/subtitle/online/2d/de/skin_01/arc.splt",
+            "hash": "A989C1256420CF708F1C4F69A7032431C5C276B0339120A3F693EA178629D6D8"
+        },
+        {
+            "file": "content/subtitle/online/2d/de/skin_01/arc_0000.lzss",
+            "hash": "282E04E86EB7F9BD3411B5FE1186E721C272DE45504A57C3DD11963553329359"
+        },
+        {
+            "file": "content/subtitle/online/2d/en/skin_01/arc.splt",
+            "hash": "A989C1256420CF708F1C4F69A7032431C5C276B0339120A3F693EA178629D6D8"
+        },
+        {
+            "file": "content/subtitle/online/2d/en/skin_01/arc_0000.lzss",
+            "hash": "5819886746975C539ECEA39D0DF1D39284C199714A981FBFFDAD475C33BC9115"
+        },
+        {
+            "file": "content/subtitle/online/2d/es/skin_01/arc.splt",
+            "hash": "A989C1256420CF708F1C4F69A7032431C5C276B0339120A3F693EA178629D6D8"
+        },
+        {
+            "file": "content/subtitle/online/2d/es/skin_01/arc_0000.lzss",
+            "hash": "97F37BECEC4C255C4D9719D65AE6810C3129D2EC50472CFBDC25BD6294BD0B60"
+        },
+        {
+            "file": "content/subtitle/online/2d/fr/skin_01/arc.splt",
+            "hash": "A989C1256420CF708F1C4F69A7032431C5C276B0339120A3F693EA178629D6D8"
+        },
+        {
+            "file": "content/subtitle/online/2d/fr/skin_01/arc_0000.lzss",
+            "hash": "8737C6B4E049DD86A905E8C9635BD6075112015D99F4E0D4955813FA29E7C351"
+        },
+        {
+            "file": "content/subtitle/online/2d/it/skin_01/arc.splt",
+            "hash": "A989C1256420CF708F1C4F69A7032431C5C276B0339120A3F693EA178629D6D8"
+        },
+        {
+            "file": "content/subtitle/online/2d/it/skin_01/arc_0000.lzss",
+            "hash": "23E516E46CB871D6041A91F213579FACF98114D690B6B5E7C5E37FFA47358C53"
+        },
+        {
+            "file": "content/subtitle/online/3d/arc.splt",
+            "hash": "A989C1256420CF708F1C4F69A7032431C5C276B0339120A3F693EA178629D6D8"
+        },
+        {
+            "file": "content/subtitle/online/3d/arc_0000.lzss",
+            "hash": "186A0AF5799A6D09AFE7AA2599AF817F534D18CE2F33188684ADD0E7B28137D1"
+        },
+        {
+            "file": "content/tutorial/2d/de/skin_01/arc.splt",
+            "hash": "A989C1256420CF708F1C4F69A7032431C5C276B0339120A3F693EA178629D6D8"
+        },
+        {
+            "file": "content/tutorial/2d/de/skin_01/arc_0000.lzss",
+            "hash": "6DCA30D9853CB7141BFCEDEDCA2A4F9923EA612F9A224AB452E162DF4594CD68"
+        },
+        {
+            "file": "content/tutorial/2d/en/skin_01/arc.splt",
+            "hash": "A989C1256420CF708F1C4F69A7032431C5C276B0339120A3F693EA178629D6D8"
+        },
+        {
+            "file": "content/tutorial/2d/en/skin_01/arc_0000.lzss",
+            "hash": "8CD4D1BD86B50007377F55BCC9ABB9D1CACF50144164E2A4B481DCF25A86586E"
+        },
+        {
+            "file": "content/tutorial/2d/es/skin_01/arc.splt",
+            "hash": "A989C1256420CF708F1C4F69A7032431C5C276B0339120A3F693EA178629D6D8"
+        },
+        {
+            "file": "content/tutorial/2d/es/skin_01/arc_0000.lzss",
+            "hash": "D86B2F77820453ADD99F9C37F0D5253304425EF8582186B41850920FE373D8A0"
+        },
+        {
+            "file": "content/tutorial/2d/fr/skin_01/arc.splt",
+            "hash": "A989C1256420CF708F1C4F69A7032431C5C276B0339120A3F693EA178629D6D8"
+        },
+        {
+            "file": "content/tutorial/2d/fr/skin_01/arc_0000.lzss",
+            "hash": "46BA96366E8A95B838120C50D908037B663C7D9F17FD9C3DE37C8A1D2F236AF3"
+        },
+        {
+            "file": "content/tutorial/2d/it/skin_01/arc.splt",
+            "hash": "A989C1256420CF708F1C4F69A7032431C5C276B0339120A3F693EA178629D6D8"
+        },
+        {
+            "file": "content/tutorial/2d/it/skin_01/arc_0000.lzss",
+            "hash": "D884EBD3E02F5039B7B485F5950FAF31224A3C6E6BC86738C1C9692AE4A8A805"
+        },
+        {
+            "file": "content/tutorial/3d/arc.splt",
+            "hash": "A989C1256420CF708F1C4F69A7032431C5C276B0339120A3F693EA178629D6D8"
+        },
+        {
+            "file": "content/tutorial/3d/arc_0000.lzss",
+            "hash": "E5976F58BDB7B09ACB72E2F19A4BBFDCC44E74A1BDD11E9C875607F51D5371A8"
+        },
+        {
+            "file": "meta/CERO_ja.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/CGSRR_zh.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/COB_en.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/ESRB_en.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/ESRB_fr.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/GRB_ko.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/Manual.bfma",
+            "hash": "EE280E4F471AAAFEEA1378111D1A264822CD920C3E1D458764A1D01364B22584"
+        },
+        {
+            "file": "meta/OFLC_en.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_BBFC_en.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_Portugal_pt.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_de.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_en.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_es.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_fr.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_it.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_nl.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_pt.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_ru.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/RAR_ru.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/USK_de.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/bootDrcTex.tga",
+            "hash": "CE919CF6A5A5E806AB5A38D4F1CC8AC56AAD4A1093703537313680B061B61913"
+        },
+        {
+            "file": "meta/bootLogoTex.tga",
+            "hash": "91B63D9C03F7F9153C8B9FC8179E1CCCB6F4AFC60204B988D91D1B5EFCEE4AA8"
+        },
+        {
+            "file": "meta/bootMovie.h264",
+            "hash": "069FD8C5713F4B23EA1098D2674BCC839E610BA844683BF532E1E6CB10642621"
+        },
+        {
+            "file": "meta/bootSound.btsnd",
+            "hash": "8BC469FAFFDF6FB05319432C8C778EBFD8188D74218F3996CB6F625FB874882E"
+        },
+        {
+            "file": "meta/bootTvTex.tga",
+            "hash": "CF27B6EE77E06AEF3CE2F976FDE04BB446892CED5B51EDF5472484E3889191CF"
+        },
+        {
+            "file": "meta/iconTex.tga",
+            "hash": "5F40EA798F882EA2C95678C5D80608B9AD8BF84648EA122A46C3A92825931076"
+        },
+        {
+            "file": "meta/meta.xml",
+            "hash": "B0E58BB90E02BDEB019CA4EE619B03F7D58197A3C6A34B21303376FA2F90006F"
+        }
+    ]
+}

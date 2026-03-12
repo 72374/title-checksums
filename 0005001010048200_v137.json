@@ -1,0 +1,143 @@
+{
+    "title_id": "0005001010048200",
+    "region": 4,
+    "version": 137,
+    "files": [
+        {
+            "file": "code/app.xml",
+            "hash": "91A6B5473666E407D8FD7CD4555B0AFBE9A9B641A842F4F18E6B328C539AEA6D"
+        },
+        {
+            "file": "code/cos.xml",
+            "hash": "90548CE7B2697A1B15D854B2159107A5A43630547185751079248F3192B582D6"
+        },
+        {
+            "file": "code/pcl.rpx",
+            "hash": "B3D8DB745214DF3232BD77AC2FEA45B1087213E8CC517C723630D80FA13A17CB"
+        },
+        {
+            "file": "code/preload.txt",
+            "hash": "03585611EE45A26766A107E5C3CE07E16F29E0F8D2B3EE29D687EA2403EA3270"
+        },
+        {
+            "file": "code/title.fst",
+            "hash": "078B96E687A70E351D5D18114A16A4EBD0F2A18A7D8ABFC42701A8AD0B29A589"
+        },
+        {
+            "file": "code/title.tmd",
+            "hash": "24160DE55412E55C61C55F1F49CF2CA2B66D2E5B6179CE248D9C8A9C6519C771"
+        },
+        {
+            "file": "content/Common/Layout/ParentalRating_eur_ukwii_En.szs",
+            "hash": "965AEC727119B7DF7D6EF33E6DEEDE6F1FF978645FE3B328525D26E0009041D1"
+        },
+        {
+            "file": "content/Common/Package/Pcl.pack",
+            "hash": "3E1BEA03546713A4FDBC6BDFD8582AFC35E06DDCA8E0E253EBF41CAA80A58416"
+        },
+        {
+            "file": "content/Common/Sound/Pcl/cafe_barista_pcl.bfsar",
+            "hash": "6CD48A77BEF84F614F50B414D88593656BD95A8DE83B9CE3F405763F73398AEA"
+        },
+        {
+            "file": "content/Common/Sound/Pcl/stream/BGM_PCL.bfstm",
+            "hash": "8D52FE4B892B1F138D0EBEC47599909B047B23033F307DEA5B4199744DA027F0"
+        },
+        {
+            "file": "content/Common/System/RegionLang.txt",
+            "hash": "029B9AE1CB01A93D95862392AB96885980091019D7DBD559A35F575CD5FFA7AF"
+        },
+        {
+            "file": "content/Common/System/revision.txt",
+            "hash": "8CA76B246D30B748C27235FADAB31C7A12F0CF563B70BF7FDE777E555174722E"
+        },
+        {
+            "file": "content/Common/System/timeStamp.txt",
+            "hash": "AADCA05158AA4534F6A1A5A4F9C914E90A9386A3B9627A2EB66FFFE609317014"
+        },
+        {
+            "file": "content/Eu/Layout/ParentalRatingWii_eur_aus_Eu.szs",
+            "hash": "6B0369078F0DD12018F63290ECD1EAE2353AD7CF49E51A33993C5559298D18D8"
+        },
+        {
+            "file": "content/Eu/Layout/ParentalRating_eur_aus_Eu.szs",
+            "hash": "C080A32C0D9DB794765B601E9877CD56E63F99873F56855D6D54AEA6E3DD4A70"
+        },
+        {
+            "file": "content/Eu/Layout/ParentalRating_eur_ger_Eu.szs",
+            "hash": "D3A65CFA9B25BCDC6DE95EBC19B04E1E9940BA017D31A557A8A347FE07CDC4DD"
+        },
+        {
+            "file": "content/Eu/Layout/ParentalRating_eur_new_Eu.szs",
+            "hash": "075F4F54B281E74DF74E7D808C2FE2274CD96A501A8251BD539B003E19028648"
+        },
+        {
+            "file": "content/Eu/Layout/ParentalRating_eur_others_Eu.szs",
+            "hash": "7EE367D53A29052F06C07CB66BAB13562D53BD1E78D9CA726AD69298605A6F49"
+        },
+        {
+            "file": "content/Eu/Layout/ParentalRating_eur_por_Eu.szs",
+            "hash": "37F42F017573AA8B22D16F2CED4E78845C68FA1BD63051C41E676532F64CDAF0"
+        },
+        {
+            "file": "content/Eu/Model/ParentalTvCap_Eu.szs",
+            "hash": "2B92086FFFF51F4531751D13F9F623A690AE49EEEC53B44F76B8B36FEF50FEF0"
+        },
+        {
+            "file": "content/EuDutch/Message/AllMessage.szs",
+            "hash": "11E8EFB9FE44D65CA06B7B254F01B701A2C02F3B0E6342776E05DA353E4A7DD8"
+        },
+        {
+            "file": "content/EuEnglish/Message/AllMessage.szs",
+            "hash": "E9A0BA40B3129183C8C6D28DE1F93D14DB60D7AEBEA457C5515AA8A2B1B777D5"
+        },
+        {
+            "file": "content/EuFrench/Message/AllMessage.szs",
+            "hash": "15DDC5A735C722E99160E18F7E5255292BBFF4F2B5600892BB47092E2FD31C88"
+        },
+        {
+            "file": "content/EuGerman/Message/AllMessage.szs",
+            "hash": "3CDE37FBBA727F9BCF3DE0B8C3A309C7C2001419DC740AB18D8626CE7FE4F0A7"
+        },
+        {
+            "file": "content/EuItalian/Message/AllMessage.szs",
+            "hash": "1D1DC0692EAB855B3AF1A3B52549E0E3263B7BDB6C541523BED2E17EC2D83393"
+        },
+        {
+            "file": "content/EuPortuguese/Message/AllMessage.szs",
+            "hash": "F9EF34324F91EA0BC7C2D456FDE3AD12C8754675EFBABD10CA4F146FB2BF313F"
+        },
+        {
+            "file": "content/EuRussian/Message/AllMessage.szs",
+            "hash": "13D9237D0FB193D39B163B0DA2145C520CBA70D73CA433907CD29065F8059462"
+        },
+        {
+            "file": "content/EuSpanish/Message/AllMessage.szs",
+            "hash": "671A3E0625383CDC0BCF1D874F89304B80FF087198DE313DDA2CDCF4D6D335C8"
+        },
+        {
+            "file": "meta/bootDrcTex.tga",
+            "hash": "9E02028B817F1C0DF90B2CE02C3F828E8E8711680FB6788580EBAE27251729D3"
+        },
+        {
+            "file": "meta/bootLogoTex.tga",
+            "hash": "91B63D9C03F7F9153C8B9FC8179E1CCCB6F4AFC60204B988D91D1B5EFCEE4AA8"
+        },
+        {
+            "file": "meta/bootMovie.h264",
+            "hash": "069FD8C5713F4B23EA1098D2674BCC839E610BA844683BF532E1E6CB10642621"
+        },
+        {
+            "file": "meta/bootTvTex.tga",
+            "hash": "ADDA05804635F8DD639CF70C97B3212BE5EA50C7D020C6BC4853BF82230FE9AF"
+        },
+        {
+            "file": "meta/iconTex.tga",
+            "hash": "A20986B5E9E5F27FC9655F85291644FBDE90198C69D8A4910C1A6B599951A819"
+        },
+        {
+            "file": "meta/meta.xml",
+            "hash": "2547CE4C895A6944E793BB80036846ED89A5BC2EC11CD34231C48097A3669F1B"
+        }
+    ]
+}

@@ -1,0 +1,219 @@
+{
+    "title_id": "000500301001220a",
+    "region": 4,
+    "version": 258,
+    "files": [
+        {
+            "file": "code/SQLite.rpl",
+            "hash": "15532C8E70636BD4F9E78CBC53F4519F071923CE0D85A121E11B0CA0EC40B1D9"
+        },
+        {
+            "file": "code/app.xml",
+            "hash": "BB8A828B4E3BDAF65AE665572A581276F857E66FB738560F7D8EB5DD9FFE0A12"
+        },
+        {
+            "file": "code/cos.xml",
+            "hash": "E3AB082E9C34794D0E213FC90F0E0226CE642C19BF9CAC11B0239E0CE3646950"
+        },
+        {
+            "file": "code/fdlibm.rpl",
+            "hash": "71BF4194861A0D1BB9655E8C29D680F6095412EBB4E1C70D6F59F49AA0FC8CA9"
+        },
+        {
+            "file": "code/libcairo.rpl",
+            "hash": "C4210483C598804466A40768C42ACBBAD94534DCF316D48C70911C39E64B2D1D"
+        },
+        {
+            "file": "code/libcurl.rpl",
+            "hash": "28979EAB337131A1B59431E39718348D98F0D487DB7AA699A321FFCB84CA9B3E"
+        },
+        {
+            "file": "code/libfont4_sdk20000.rpl",
+            "hash": "0EABFFE720C1245D9BD74D05385730956F9DECE4B03A2F4B95015B2D68B55FBC"
+        },
+        {
+            "file": "code/libicu4c.rpl",
+            "hash": "1E2D87346C22955E8C840480DCC149A684F3C1141DD2E8A0A88CE79A98EB2D47"
+        },
+        {
+            "file": "code/libjpeg-turbo.rpl",
+            "hash": "12ECB711C3AACD3A4B85B02D6B3F80D839898D8A8C2EFBEAF06C9CA403BFA71E"
+        },
+        {
+            "file": "code/libopenssl.rpl",
+            "hash": "E6A0616FFEB08BA28C4448C37D36A2AE4872344D5AB053FAD981FD69CBFEF408"
+        },
+        {
+            "file": "code/libpixman.rpl",
+            "hash": "0FB5704B182D9FF12B5854E81B829DD815DC57A3CEDAC5F409CC50240A06F229"
+        },
+        {
+            "file": "code/libpng.rpl",
+            "hash": "5A29127E9DB530D6857DB8E614CB379CC4C6E9F51CEE990A9BC60B99F80E71A6"
+        },
+        {
+            "file": "code/libwk_peer.rpl",
+            "hash": "10B90AF4D8E70385E02313D4632672979ACC609E571284F62461189DBB596153"
+        },
+        {
+            "file": "code/libwk_peer_access.rpl",
+            "hash": "5C66AE8721F1F6B9024F431919A996FC893B21FB7AD7EDC28F158005BA8C1D8E"
+        },
+        {
+            "file": "code/libwkc.rpl",
+            "hash": "D8F2A346525DE95FA8BB583E831D4B7F65E41090E8BB9435CD3185EBF46F7D2A"
+        },
+        {
+            "file": "code/libwkc_wiiu.rpl",
+            "hash": "A28D8005ACF5426036091A7956AC57E5A60BD3B6E98AC21180454C9685F1D860"
+        },
+        {
+            "file": "code/libxml2.rpl",
+            "hash": "7182B3A78F424D1DD7528C8523FE7D6EEB2FF68128997C2CCF683BAE57F56C51"
+        },
+        {
+            "file": "code/libzip.rpl",
+            "hash": "B0A7395D1C0EC0C11D4C723E04E39AECA911FB8A2A782AA54DD42415760808EA"
+        },
+        {
+            "file": "code/mvplayer.rpl",
+            "hash": "79F0948D8A6C45920FE47D829060C8ADD15B355F9DE69CB796420880EA0BC77E"
+        },
+        {
+            "file": "code/randgen.rpl",
+            "hash": "BED8D9C3CC4278C71456889ED5569A3D41F06436001DE4C2E818DE58652FEEDC"
+        },
+        {
+            "file": "code/surf.rpx",
+            "hash": "AB4A8BD91C9C73BF53BF476D759C41FC1D475AD1F2DF5F71E162DE02E94527B5"
+        },
+        {
+            "file": "code/title.fst",
+            "hash": "D7A3E9F1A77F6D6DC7BFDA38760082F2A0D61C5781987E5D492ADDBBE91CE602"
+        },
+        {
+            "file": "code/title.tmd",
+            "hash": "1CB1AB04A2D5911FE51C404C0C92CD14B96E19BC370B242A7D0FE2ECD53E38B4"
+        },
+        {
+            "file": "code/zlib.rpl",
+            "hash": "1D5B789213CA1EF37A4962CDAABD00AC970F485D44AB90E7114365C740FD1C31"
+        },
+        {
+            "file": "content/browser/Language.dat",
+            "hash": "4767A8574CBDAC190F78C5A8E82317FDC2CE2B0043F2DA79E55C46B2818CD075"
+        },
+        {
+            "file": "content/browser/MediaControls.css",
+            "hash": "6F8EB110761BDF0C3962C032DEA479F3D8A0433E3797DB5958FEA12825F52F91"
+        },
+        {
+            "file": "content/browser/Skin.dat",
+            "hash": "F0828817E279C15D53B1DF550DA77D18F5973FB696D71EF9E96B89ABFAC2C3F6"
+        },
+        {
+            "file": "content/browser/UserCss.dat",
+            "hash": "29464E3ACDEB801B53461313D9BA21BF8AFE8081C2308B5A23EABF361C90E609"
+        },
+        {
+            "file": "content/browser/effective_tld_names.dat",
+            "hash": "73E0D2ED3D43A67984A5A2D36281BE2331CD2ECD62DCC1ACD12E1F9FEA1F4876"
+        },
+        {
+            "file": "content/browser/error.html",
+            "hash": "CB6324744F6C28792B6CC6F08BCC2F2B705B8339E8ED36CF8C7583F8386B2F1D"
+        },
+        {
+            "file": "content/browser/rootca.pem",
+            "hash": "CEC1030E01AE47EED51A114722C8971CB5BF142D3B35F3B2F0F8ECA75B1E0E1C"
+        },
+        {
+            "file": "content/browser/youtube_hq.html",
+            "hash": "CBB5D49391B46DAB9598946EB7D12C1AF21C0D7664A54F892C5C3D4D79F8CB91"
+        },
+        {
+            "file": "content/favicon/0500.dat",
+            "hash": "37E39F34CDDD45251E87EC4D025823A9D3C5FF389240E25C8ACB2661C97507D8"
+        },
+        {
+            "file": "content/favicon/0600.dat",
+            "hash": "84893D635A1E8E9F2145AC8BF735F620DCD833BD78CBBB9D83E38D6016EC7EFA"
+        },
+        {
+            "file": "content/ffl/shaders/cafe/FFLDefaultShader.gsh",
+            "hash": "CFE9F782BCF6466221DD72B433AB085E0A27A9C9DBE5928BA77FF5B37719F349"
+        },
+        {
+            "file": "content/initial.oma",
+            "hash": "B355A655897670ACB9919A69E9CB21715C98DDFE840B952E203CC43812A81149"
+        },
+        {
+            "file": "content/layouts/bodies/HomeNixSign.arc",
+            "hash": "0F7DBCF61233A25E563AE9EA0E80D36B1AEFE8280D482ADD0FD710456EE58286"
+        },
+        {
+            "file": "content/layouts/parts/CanvasMpInline.arc",
+            "hash": "AB74985D2F69052D4D3A0B5173FC3141539DC187F88DA48A59A134A4F11A1DEE"
+        },
+        {
+            "file": "content/mediaplayer/AudioOnly.gtx",
+            "hash": "EF8E1A55FCD025D387EFB8300F9EC8E3417167E2EF68A23731A1B98A29CAFBB4"
+        },
+        {
+            "file": "content/pages/index.html",
+            "hash": "0B71BC45D6BD74F46317C8029D6222C0C1A3419557F9C8DAE8E3A1608D2A6006"
+        },
+        {
+            "file": "content/pages/webinspectorresources/inspectorPageIndex.html",
+            "hash": "83A27E50ED9872689C22F95784A6BA9E1E11906E459251C1A295E6756048E717"
+        },
+        {
+            "file": "content/preload.oma",
+            "hash": "EB1B4DD6C15FC908ACB0DB9F2DFD41EB9D8EB781D0CAB969AF0CABFEF2FB8749"
+        },
+        {
+            "file": "content/sound/Vo_Atype.bfwav",
+            "hash": "2C014C8DC5A697ADCF0C07C7FFC96DBBF1F421195F62515A58E515EA29EA17DD"
+        },
+        {
+            "file": "content/sound/Vo_Btype.bfwav",
+            "hash": "6B5DF251025071B0690B082A184061F129EBA1C4FFB9B2EB1FBCF79992191242"
+        },
+        {
+            "file": "content/sound/wiiu_surf.bfsar",
+            "hash": "D14F85B5520C53C0FAE9201A35159095FA1CA244043C507B894B6BF983FAB9B0"
+        },
+        {
+            "file": "meta/Manual.bfma",
+            "hash": "E6447BDF775BE08F51E673C48CED2A51CEDC4766EFBE8B1F7CADAE30800417BE"
+        },
+        {
+            "file": "meta/bootDrcTex.tga",
+            "hash": "9E02028B817F1C0DF90B2CE02C3F828E8E8711680FB6788580EBAE27251729D3"
+        },
+        {
+            "file": "meta/bootLogoTex.tga",
+            "hash": "91B63D9C03F7F9153C8B9FC8179E1CCCB6F4AFC60204B988D91D1B5EFCEE4AA8"
+        },
+        {
+            "file": "meta/bootMovie.h264",
+            "hash": "069FD8C5713F4B23EA1098D2674BCC839E610BA844683BF532E1E6CB10642621"
+        },
+        {
+            "file": "meta/bootSound.btsnd",
+            "hash": "646B01A4953CC1A4482AD691E6979A08513971BD1EED6E888CA4DE3C59CEEA92"
+        },
+        {
+            "file": "meta/bootTvTex.tga",
+            "hash": "ADDA05804635F8DD639CF70C97B3212BE5EA50C7D020C6BC4853BF82230FE9AF"
+        },
+        {
+            "file": "meta/iconTex.tga",
+            "hash": "EDD577274B59FCB0A743D7C9335AA30BE082A567F1DDBF36A133C0D623AD3036"
+        },
+        {
+            "file": "meta/meta.xml",
+            "hash": "179AA6B95CDF8297D08DE641F1D969D80E484B3DAEF16745E86A1EBAADD60495"
+        }
+    ]
+}

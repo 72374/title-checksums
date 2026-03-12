@@ -1,0 +1,1679 @@
+{
+    "title_id": "0005000c1010ed00",
+    "region": 4,
+    "version": 80,
+    "files": [
+        {
+            "file": "code/app.xml",
+            "hash": "9F4E85CD4A0370DB11DF3A46BB30516B9A04932645BC92F054C51E1A80F85B57"
+        },
+        {
+            "file": "code/cos.xml",
+            "hash": "C63B384C8D5963D68891BB8CDFD4172F61338000AE6C45252E7C16C2F2BA497C"
+        },
+        {
+            "file": "code/title.fst",
+            "hash": "9272B6B550F894C8051422B3B4B84367348B18E8E726AF31B71E840DB69F3CCC"
+        },
+        {
+            "file": "code/title.tik",
+            "hash": "C225A41761B23741202C3DE04C7541D4548653451278005D912FA1617D470EC2"
+        },
+        {
+            "file": "code/title.tmd",
+            "hash": "CA0ECB2FEE20E880B9295112516E9B17BCF1E700DC4B2148426204AC97EB7A1C"
+        },
+        {
+            "file": "content/0010/dl_permission.txt",
+            "hash": "CB43B240B5090CB33A22148E97811282F2BC58B98246315D885921F7A7A0ED1B"
+        },
+        {
+            "file": "content/0010/resourcerev.dat",
+            "hash": "7668282BC939DB68D3CD4F2F2C1056510AF45C456581F8AAF2202C62CA4C3E52"
+        },
+        {
+            "file": "content/0011/course_dummy.txt",
+            "hash": "EFB57F180A1202B7FAE89C10F2722451140F5BF0D46E598D3E5EB3DD76A9C579"
+        },
+        {
+            "file": "content/0011/course_permission.txt",
+            "hash": "BEA3B1E5F44D77AEFB95D6ED03CCA386D3CEA914335FD426CF0390E61A0AFB98"
+        },
+        {
+            "file": "content/0012/dl_permission.txt",
+            "hash": "CB43B240B5090CB33A22148E97811282F2BC58B98246315D885921F7A7A0ED1B"
+        },
+        {
+            "file": "content/0012/dl_reserve.txt",
+            "hash": "A90ED553F9FF634BF8982CD48C78584ADC414FB09DC52BE7A7D78A5D23A0DB9B"
+        },
+        {
+            "file": "content/0013/course/Dgc_YoshiCircuit/SNDG_Dgc_YoshiCircuit.bars",
+            "hash": "84FFB71A51C33F7C8D96F517BE17538673B4A38B61F86DD954136BE578E991E5"
+        },
+        {
+            "file": "content/0013/course/Dgc_YoshiCircuit/course.bgenv",
+            "hash": "3761835D86669CFB2827AC59D9B1CF456178AC6687AD8C80C9AB4E2FC6F43E4A"
+        },
+        {
+            "file": "content/0013/course/Dgc_YoshiCircuit/course.bglpbd",
+            "hash": "D46FF152E772DC36373243CEEDE26CB2C1906A19450C34BC44C4F56049AC65FB"
+        },
+        {
+            "file": "content/0013/course/Dgc_YoshiCircuit/course.kcl",
+            "hash": "9A5EEB6F82D1AF62DC89CE64661D05A65C21B4F8AB34B4582073D27675463164"
+        },
+        {
+            "file": "content/0013/course/Dgc_YoshiCircuit/course.ptcl",
+            "hash": "E0F25BCE9C04A52F55EFE394590596A17DBEB70D87BE0D33F0E64629AFB01914"
+        },
+        {
+            "file": "content/0013/course/Dgc_YoshiCircuit/course_mapcamera.bin",
+            "hash": "B3A1BE9747DB83C1733C2255D06C639DA1FA37B7A803A08439CB9E03D32FAD2D"
+        },
+        {
+            "file": "content/0013/course/Dgc_YoshiCircuit/course_maptexture.bflim",
+            "hash": "6792588FD03605960EC744E5D79F9B9A5B4BDA9BEDEEB739EE53B21E90B8D038"
+        },
+        {
+            "file": "content/0013/course/Dgc_YoshiCircuit/course_model.szs",
+            "hash": "605705C9BBD66FE9635BB328B59B66BF76649E1A3C7AB63801F0F0B5CB2EA515"
+        },
+        {
+            "file": "content/0013/course/Dgc_YoshiCircuit/course_muunt.byaml",
+            "hash": "944AB26C70E556942EDD83D21BE5E9B47BDA3F4A57A01FF8AC3BE767B2FFA1AA"
+        },
+        {
+            "file": "content/0013/course/Du_DragonRoad/SNDG_Du_DragonRoad.bars",
+            "hash": "EB75F0ABEB9449B78A8BA6C6AC31BEFA5CCE01613330D1CF77E543E03A639A00"
+        },
+        {
+            "file": "content/0013/course/Du_DragonRoad/course.bgenv",
+            "hash": "6398E4E1BB3961727858139A5C74995CB3D37B63C05520B78B33D172ED72D5D9"
+        },
+        {
+            "file": "content/0013/course/Du_DragonRoad/course.bglpbd",
+            "hash": "A7A56C83CE33E5C459C366A066420E934E139B80EE6311B1221C979AAB52EEC1"
+        },
+        {
+            "file": "content/0013/course/Du_DragonRoad/course.kcl",
+            "hash": "B6891FF870B0C224917CDF5298FB1F8D8DF2A6E2478778EC013A6919F4B2D8C3"
+        },
+        {
+            "file": "content/0013/course/Du_DragonRoad/course.ptcl",
+            "hash": "37ACD2749A56BAFF5B1FCCFB9E593226591A5055CCFA2451EA10B775B3186625"
+        },
+        {
+            "file": "content/0013/course/Du_DragonRoad/course_mapcamera.bin",
+            "hash": "FBED2681D27E6D99054B292BE1B33EFF6888DDB6E860611132C4C1FEB7F5EFC2"
+        },
+        {
+            "file": "content/0013/course/Du_DragonRoad/course_maptexture.bflim",
+            "hash": "912375BBEA7FFC34C171AE0E991B5B810D62838B77502EB5CF3E77AA1413AE3E"
+        },
+        {
+            "file": "content/0013/course/Du_DragonRoad/course_model.szs",
+            "hash": "40F4218D51C8E94B01DFCB5DB619958E28679E47C1D5C8ED5D27176ABE973E03"
+        },
+        {
+            "file": "content/0013/course/Du_DragonRoad/course_muunt.byaml",
+            "hash": "930E249C9FA1FF3BA38C5AA0FAB617AE9393BDDA4DF50BC6E2036274DF48D73B"
+        },
+        {
+            "file": "content/0013/course/Du_ExciteBike/SNDG_Du_ExciteBike.bars",
+            "hash": "7532127BB2E5BE89016DFB9EA081D85A8A1A85DE46D577A6CF34D379B51B771F"
+        },
+        {
+            "file": "content/0013/course/Du_ExciteBike/course.bgenv",
+            "hash": "F96FFCD67CE88275CFBB28BDEF23AD88DFECC9B09EEEC3712980C8C389B0A93F"
+        },
+        {
+            "file": "content/0013/course/Du_ExciteBike/course.bglpbd",
+            "hash": "1BCDDB05E72F68F10731D957FB6235DF5371E266E97BB44CF05C1F8849FD2ED7"
+        },
+        {
+            "file": "content/0013/course/Du_ExciteBike/course.kcl",
+            "hash": "408E70B058CC6D6DBD2529EE89B1D93EAC7BB1E82815F42EB9308F91B9389161"
+        },
+        {
+            "file": "content/0013/course/Du_ExciteBike/course.ptcl",
+            "hash": "1F01102F6A5109862F322EB2FFF0BE6058CFC5AE8E638CC28856D537DE77B9CE"
+        },
+        {
+            "file": "content/0013/course/Du_ExciteBike/course_mapcamera.bin",
+            "hash": "F3758334866143CC193B896385DEC3E8AA3F85483E84D86B589110D14EAC75D9"
+        },
+        {
+            "file": "content/0013/course/Du_ExciteBike/course_maptexture.bflim",
+            "hash": "01E9A9DBD655270E1BD628E32CAF4ADF1521CC9D8F8B03FE010137AF3757046E"
+        },
+        {
+            "file": "content/0013/course/Du_ExciteBike/course_model.szs",
+            "hash": "511782A5039082465EDABA0C49B96CAC8EF808C87B1D36F4B7ED3565CFF42976"
+        },
+        {
+            "file": "content/0013/course/Du_ExciteBike/course_muunt.byaml",
+            "hash": "DB982DC74F555CC4DC9768F1E5F1A1CD7D638AFEAFB252D828E779146CC247C4"
+        },
+        {
+            "file": "content/0013/course/Du_MuteCity/SNDG_Du_MuteCity.bars",
+            "hash": "41E311BE3F6A81FD1CA9990C258331F3F4D91E2F299B533184516F6AAA6226AB"
+        },
+        {
+            "file": "content/0013/course/Du_MuteCity/course.bgenv",
+            "hash": "D5E581934B8F04558382BB35CF4100452D4A96FF5910F28DCAC3B1D90DA06924"
+        },
+        {
+            "file": "content/0013/course/Du_MuteCity/course.bglpbd",
+            "hash": "526E4116C4CD05A634EDE0F6A358C246E750BCFD95C59BA1783A5CDC663B5327"
+        },
+        {
+            "file": "content/0013/course/Du_MuteCity/course.kcl",
+            "hash": "F24CFDE4B4F1BD13F0BA1EE5F2C4EDC7557DF0A90F5C7D47FC884E11F239021C"
+        },
+        {
+            "file": "content/0013/course/Du_MuteCity/course.ptcl",
+            "hash": "29E5A7C672F7AB6C7A8757A2F7DF65F74772098E2A2B37FFA3EE9906E61E1B41"
+        },
+        {
+            "file": "content/0013/course/Du_MuteCity/course_mapcamera.bin",
+            "hash": "C79443FB122E99EC13656D2A9D23DAC8C68C47CEA2296EC9F1F66D79ACD15D27"
+        },
+        {
+            "file": "content/0013/course/Du_MuteCity/course_maptexture.bflim",
+            "hash": "E5A5ED816B0441D52AC2C89E88A112434CB33BE0800A334740518F3BEF557F13"
+        },
+        {
+            "file": "content/0013/course/Du_MuteCity/course_model.szs",
+            "hash": "56412AFD4ACF9111CC70F7E644A9E5503E726A1B92340066AC462417D0BD8CDB"
+        },
+        {
+            "file": "content/0013/course/Du_MuteCity/course_muunt.byaml",
+            "hash": "875677B7E0BBAEB3BA2F7B741F85363CA2DDEACD329635EFAF01722F27F1A5FD"
+        },
+        {
+            "file": "content/0013/course_dummy.txt",
+            "hash": "EFB57F180A1202B7FAE89C10F2722451140F5BF0D46E598D3E5EB3DD76A9C579"
+        },
+        {
+            "file": "content/0013/course_permission.txt",
+            "hash": "BEA3B1E5F44D77AEFB95D6ED03CCA386D3CEA914335FD426CF0390E61A0AFB98"
+        },
+        {
+            "file": "content/0013/mapobj/DL_EbCheerCol/SNDG_KTOBJ_DL_EbCheerCol.bars",
+            "hash": "AEEBAD5CF9218BD78BA7118CF5F91179CCE92EACFA1F683193A6D64A7215B4F5"
+        },
+        {
+            "file": "content/0013/mapobj/DL_EbDirt/DL_EbDirt.bfres",
+            "hash": "285DF8C0EBA986FF836DE8FCD65D2901813CF26181A9BB6136361F9FFC17B86E"
+        },
+        {
+            "file": "content/0013/mapobj/DL_EbDirt/DL_EbDirt.kcl",
+            "hash": "2FFEF338EF6E7436E05125AD8E6C3CD854D8E2B8C6EC241BA55B20C6528F4377"
+        },
+        {
+            "file": "content/0013/mapobj/DL_EbDirtBig/DL_EbDirtBig.bfres",
+            "hash": "1474759C763B2D2100CB71E766B654EF0284F1B4DD7DA388F4DC4361E54E4A40"
+        },
+        {
+            "file": "content/0013/mapobj/DL_EbDirtBig/DL_EbDirtBig.kcl",
+            "hash": "F07E4734A9ABCC30582D5E08F1363F89EA0FE00F55BCB0852E6F7CFE250C6908"
+        },
+        {
+            "file": "content/0013/mapobj/DL_EbField/DL_EbField.bfres",
+            "hash": "92CA851158475B97E93DFCB3DDA1837DAD33B02CC3C6CD4F994BD599DB285AEE"
+        },
+        {
+            "file": "content/0013/mapobj/DL_EbField/DL_EbField1.kcl",
+            "hash": "5DD11112B625B73581D903219785B1A47730DC3ADA98591967EA1C06D05A40CE"
+        },
+        {
+            "file": "content/0013/mapobj/DL_EbField/DL_EbField2.kcl",
+            "hash": "928F38993BF16C8F0DA6CC60A265D13D7A11431CB888B693EFB2B9673C21B22F"
+        },
+        {
+            "file": "content/0013/mapobj/DL_EbField/DL_EbField3.kcl",
+            "hash": "AE826782DA1A908AE64A34EE07A6E470A44C8E467941D9A291471C4F9A29F7DA"
+        },
+        {
+            "file": "content/0013/mapobj/DL_EbField/DL_EbField4.kcl",
+            "hash": "E8B7F4A13A5A029D14F4C85FE2BFC24CDD572FA43BADE63AF72FC1C12DD7AFC4"
+        },
+        {
+            "file": "content/0013/mapobj/DL_EbField/DL_EbField5.kcl",
+            "hash": "B384593419564091B428886534FFECF2C7BD26159CCC9ECE14B23DA5BB08F898"
+        },
+        {
+            "file": "content/0013/mapobj/DL_EbGridGate/DL_EbGridGate.bfres",
+            "hash": "E3BFD3E718A20651D7C8FDC823BC91FE08CA10809F5C153121314F1DF14819C8"
+        },
+        {
+            "file": "content/0013/mapobj/DL_EbGridGate/DL_EbGridGate.kcl",
+            "hash": "65A28749A7D97C28D1B4B23FCBBAAE9F3D48ADB056AA4AFB9BF69885D4B65594"
+        },
+        {
+            "file": "content/0013/mapobj/DL_EbGridGate/SNDG_DL_EbGridGate.bars",
+            "hash": "563736AA32D89075D3B580D4CF5A8F3114BBF01CFD3E002A439CA2FC23594AA8"
+        },
+        {
+            "file": "content/0013/mapobj/DL_FlagDragon/DL_FlagDragon.bfres",
+            "hash": "54FAF43AE95117454F88CC90C813EE08B0194BC0812ADAE2EDED77A872A89291"
+        },
+        {
+            "file": "content/0013/mapobj/DL_FlagRopeYoshi/DL_FlagRopeYoshi.bfres",
+            "hash": "89A6D9223A29BC67EBCBDE29F22887EF7347AF0A3FE973E410D8C08718FD06C5"
+        },
+        {
+            "file": "content/0013/mapobj/DL_FlagStadiumEB/DL_FlagStadiumEB.bfres",
+            "hash": "05D9B6B8FF0D3BEF8B8B5C9AA18057513F6439EDD928BA5CF3BA257D69AF9D4B"
+        },
+        {
+            "file": "content/0013/mapobj/DL_FlagStartYoshi/DL_FlagStartYoshi.bfres",
+            "hash": "285DE4BA14D47144C84F2E44D974713F00B510D459BFA0ABA54DC98B55F4501B"
+        },
+        {
+            "file": "content/0013/mapobj/DL_FlagTriangle6/DL_FlagTriangle6.bfres",
+            "hash": "AB0401EC6A044493227D74741FA29564CE25F2E01E2594F0AE1981D2BDEFDB8C"
+        },
+        {
+            "file": "content/0013/mapobj/DL_MCAirship/DL_MCAirship.bfres",
+            "hash": "23C52B068C3BFFDB27D2985DB4EF5662B64DADD0ED85763D02D42F98101C3224"
+        },
+        {
+            "file": "content/0013/mapobj/DL_MCBldgParts/DL_MCBldgParts.bfres",
+            "hash": "245B34892DC517BB009F6058481007585A13E32AB96CC00D98F3DB9CB6F14269"
+        },
+        {
+            "file": "content/0013/mapobj/DL_MCCars/DL_MCCars.bfres",
+            "hash": "646DE49C8EF41AD94C72B32C13B30207CF09226054B809DBA968D63233A8B40E"
+        },
+        {
+            "file": "content/0013/mapobj/DL_MCDashSet/DL_MCDashSet.bfres",
+            "hash": "6BF1A37979338C2369C299D740BD98CB972F8B064C1FED1F4EF19D72F38FE367"
+        },
+        {
+            "file": "content/0013/mapobj/DL_MCDashSet/DL_MCDashSet1.kcl",
+            "hash": "A0977724BC5E27DD196F20FD332D834E8A539E761BF480BDB177778D7639289A"
+        },
+        {
+            "file": "content/0013/mapobj/DL_MCDashSet/DL_MCDashSet2.kcl",
+            "hash": "A1E07F31D3D071A61A77312B3DE66AF9AA3B58775C24166D7EDFB8DFA0EFAC1A"
+        },
+        {
+            "file": "content/0013/mapobj/DL_MCDashSet/DL_MCDashSet3.kcl",
+            "hash": "9CB86D3C89AD34405200C2B061381EA5145F606765AACA111BB909CC9C474C84"
+        },
+        {
+            "file": "content/0013/mapobj/DL_MCGoalLine/DL_MCGoalLine.bfres",
+            "hash": "846D60473E361308282AF4F62A530C804398B24E4D250FF878BA886D6ADFB90C"
+        },
+        {
+            "file": "content/0013/mapobj/DL_MCJets/DL_MCJets.bfres",
+            "hash": "6410E54DADDD9CA3E3DD2E820D33FEDCABB9F2D984129020B752C20D665FF6D4"
+        },
+        {
+            "file": "content/0013/mapobj/DL_MCPipeRing/DL_MCPipeRing.bfres",
+            "hash": "227C54C05BD25C680D29AF6EFC1C980CDBA0E7870AC67407391A0484C4016654"
+        },
+        {
+            "file": "content/0013/mapobj/DL_MCRotaryBoardA/DL_MCRotaryBoardA.bfres",
+            "hash": "E0338997987521C617480BD01D57C98B481B3890EDD6E728F4EF52C55B343255"
+        },
+        {
+            "file": "content/0013/mapobj/DL_MCRotaryBoardB/DL_MCRotaryBoardB.bfres",
+            "hash": "B6F2B61054B0647245B8021BF568062B33216CAEADB96CD1C1F6586B5DD426C0"
+        },
+        {
+            "file": "content/0013/mapobj/DL_MCRotaryBoardC/DL_MCRotaryBoardC.bfres",
+            "hash": "19A237C7CC47B21ADECB35199DB8B347AEC7683056085981F558EB5DF3726862"
+        },
+        {
+            "file": "content/0013/mapobj/DL_MCTriangleBoard/DL_MCTriangleBoard.bfres",
+            "hash": "7E8D3A7E05AEC54A8C48EB369DDB61410B4568E124C7B3AE4EE21486C4109BFF"
+        },
+        {
+            "file": "content/0013/mapobj/DL_ShyguyPickaxY/DL_ShyguyPickaxY.bfres",
+            "hash": "DC1F95BED26C5B488AB67B69D20462A6B1738D7DB632C253459C34024D77AFBE"
+        },
+        {
+            "file": "content/0013/mapobj/DL_SpinTurboBar_DR/DL_SpinTurboBar_DR.bfres",
+            "hash": "3580298C2BF969B9C77DB47776ECB53063B7B125B7E539ADB1778FAE3AD3E023"
+        },
+        {
+            "file": "content/0013/mapobj/DL_SpinTurboBar_DR/SNDG_DL_SpinTurboBar_DR.bars",
+            "hash": "C6C27ADD1807A9E71F8F85DB9A657BD09E24CED83616DDDF0A2233F5962AB323"
+        },
+        {
+            "file": "content/0013/mapobj/DL_SpinTurboBar_MC/DL_SpinTurboBar_MC.bfres",
+            "hash": "C3DEDDCC1EFEBC7DBA02551A78BE0E5CAAB82142BB4CA6E484737E38FA4C74FE"
+        },
+        {
+            "file": "content/0013/mapobj/DL_TreePineA/DL_TreePineA.bfres",
+            "hash": "B00A421CBE564261AE34203239288DEB2AF7AD4D6125DD78E029A5B32F86B8D1"
+        },
+        {
+            "file": "content/0013/mapobj/DL_TreePineB/DL_TreePineB.bfres",
+            "hash": "AA51129BD819956A6F1DC51A7997731D19C346580A5DCAD8A98678B36D102B9D"
+        },
+        {
+            "file": "content/0013/mapobj/DL_TreeSphYoshi/DL_TreeSphYoshi.bfres",
+            "hash": "A769379FD93FD3944208D3F4AB41EB7E31B1BC2A9562609F000CB1BE065D7BE7"
+        },
+        {
+            "file": "content/0013/mapobj/DL_VRDragon/DL_VRDragon.bfres",
+            "hash": "3DBEC8507FCFB4BFD61A74DCEDA685FDF50E73F0F503AC92EEC83C5B8B475647"
+        },
+        {
+            "file": "content/0013/mapobj/DL_VRExciteBike/DL_VRExciteBike.bfres",
+            "hash": "F810DD9C46E1229E93601ED370D4B3B0E39F41E8F6CC4F23AF9055F79E189DB4"
+        },
+        {
+            "file": "content/0013/mapobj/DL_VRMuteCity/DL_VRMuteCity.bfres",
+            "hash": "48A7C3D0A2CA148D730BCB0696030E1A8CF171B93A3E1693EA3E017C41016B55"
+        },
+        {
+            "file": "content/0013/mapobj/DL_VRYoshiCircuit/DL_VRYoshiCircuit.bfres",
+            "hash": "B10C71E960D12170F3D05899D58E209FE9780FEBD63C643F22035037A6CA827E"
+        },
+        {
+            "file": "content/0013/mapobj/DL_WeathercockYoshi/DL_WeathercockYoshi.bfres",
+            "hash": "9E114293651665AA23E83BD525BD1AE911A3669F878887AAE71DA53826EFDFAF"
+        },
+        {
+            "file": "content/0013/mapobj/DL_YcHelicopter/DL_YcHelicopter.bfres",
+            "hash": "8D35CE454E91F065B2D392786F8EE9201710ED19DE72B7F65E6C60688BC90EB2"
+        },
+        {
+            "file": "content/0013/mapobj/DL_YcHelicopter/SNDG_DL_YcHelicopter.bars",
+            "hash": "AAA8AD3E2E2AAACAF73B133202E337683E9D7865ED2CC14B7D8CCEA213EF4DA9"
+        },
+        {
+            "file": "content/0013/mapobj/DL_YcYacht/DL_YcYacht.bfres",
+            "hash": "B25D65922E951247F84C13DE4F30C1694FF4FB5CD4F11B730E64B43EA70673AA"
+        },
+        {
+            "file": "content/0013/mapobj/DL_YoshiWaterCurrent/SNDG_DL_YoshiWaterCurrent.bars",
+            "hash": "E6DF42474084B863D562DE592897333854748A05DF75C5951214E301AA8EB4F1"
+        },
+        {
+            "file": "content/0014/dl_permission.txt",
+            "hash": "CB43B240B5090CB33A22148E97811282F2BC58B98246315D885921F7A7A0ED1B"
+        },
+        {
+            "file": "content/0014/dl_reserve.txt",
+            "hash": "A90ED553F9FF634BF8982CD48C78584ADC414FB09DC52BE7A7D78A5D23A0DB9B"
+        },
+        {
+            "file": "content/0015/course/Dsfc_RainbowRoad/SNDG_Dsfc_RainbowRoad.bars",
+            "hash": "B44790FDAEAD2A474240E09765AF6A85BA4DB804A684BB5D622EBECC936441F3"
+        },
+        {
+            "file": "content/0015/course/Dsfc_RainbowRoad/course.bgenv",
+            "hash": "AFCBEC4F6F4F16962E51AB78DD713F2A319481894189DE659347954E1EC7F5DD"
+        },
+        {
+            "file": "content/0015/course/Dsfc_RainbowRoad/course.bglpbd",
+            "hash": "FB1960F032D128B08B177DB866A22787E6792359F6D2AEE7AF357D7BE1563BB2"
+        },
+        {
+            "file": "content/0015/course/Dsfc_RainbowRoad/course.kcl",
+            "hash": "D60038DB9023D8A932F250A152D9C02C4AF5CFA5A26E4AD375E1851C3A671A26"
+        },
+        {
+            "file": "content/0015/course/Dsfc_RainbowRoad/course.ptcl",
+            "hash": "FC06AA43A6DA411817446361B7D58796B93407FB6E9F9BB97CCBD39C6DA7CE74"
+        },
+        {
+            "file": "content/0015/course/Dsfc_RainbowRoad/course_mapcamera.bin",
+            "hash": "4DAC6B99AD72BA92303AEF7919C1BB8C30121D89AC28DE3AFD5BC89A8E3AC2D5"
+        },
+        {
+            "file": "content/0015/course/Dsfc_RainbowRoad/course_maptexture.bflim",
+            "hash": "65F6381902B8765DC656B94EEC2A9FFEA653F768FC46E206200D52311A99D7F9"
+        },
+        {
+            "file": "content/0015/course/Dsfc_RainbowRoad/course_model.szs",
+            "hash": "04A94CC1A73D144F10EEF8B5D71D79C98E6E024653774FAA0779F3EE1750B0CA"
+        },
+        {
+            "file": "content/0015/course/Dsfc_RainbowRoad/course_muunt.byaml",
+            "hash": "3D48DF117DA87C8CF93329D7C547B4ED94617AB735592BCD6473BFD2C962C6D4"
+        },
+        {
+            "file": "content/0015/course/Du_Hyrule/SNDG_Du_Hyrule.bars",
+            "hash": "5BD7B689A2CC16E6A42E24D6120E7135987D7C0B73E05E4A69FEA0E680F9D09B"
+        },
+        {
+            "file": "content/0015/course/Du_Hyrule/course.bgenv",
+            "hash": "5262E26AF536502EDF35D0FBA2F50951F70F6E75AB021215BB5233B21242F319"
+        },
+        {
+            "file": "content/0015/course/Du_Hyrule/course.bglpbd",
+            "hash": "25C8B04917C9F9361FC2BE6F5DFFA4B6600A6C4B6802B04F34D0B93B00F8B843"
+        },
+        {
+            "file": "content/0015/course/Du_Hyrule/course.kcl",
+            "hash": "B35F74F5C1BBA2CDFE52FE09B7C35A793B1AA795F95C9EE843F2A3219615EFE5"
+        },
+        {
+            "file": "content/0015/course/Du_Hyrule/course.ptcl",
+            "hash": "D1EA7B179887E0B422D8A6FBE3B116DEF93775D5DD2169DF4ACDC567681BBE2E"
+        },
+        {
+            "file": "content/0015/course/Du_Hyrule/course_mapcamera.bin",
+            "hash": "B75DD1391F410F9610BECC03EAFC51E617AB9E0096BC3B75CF8BB7455CFA743B"
+        },
+        {
+            "file": "content/0015/course/Du_Hyrule/course_maptexture.bflim",
+            "hash": "741B5F5A909EFC04B5A7DC18AF536841E01042932DC220788ACE61EEDE91834E"
+        },
+        {
+            "file": "content/0015/course/Du_Hyrule/course_model.szs",
+            "hash": "36DE32D4C18139CA21D556C039C9CE418D034473B6252F2A26C0BB90C327E24E"
+        },
+        {
+            "file": "content/0015/course/Du_Hyrule/course_muunt.byaml",
+            "hash": "A4A365450C7CE1CE399E51B253311AE2FEAEC151A7D8D85F46D9C1A583EE39BD"
+        },
+        {
+            "file": "content/0015/course/Du_IcePark/SNDG_Du_IcePark.bars",
+            "hash": "99AAFCA082AC7A968CEECCD48FC4007D095788407CE5C0B6F08B1E2B4E7F8B04"
+        },
+        {
+            "file": "content/0015/course/Du_IcePark/course.bgenv",
+            "hash": "1F85C6E0ED19A9D9F853D512DD96FCE6E6F5A93F1C5CB47CA9A0BCA5A664A89C"
+        },
+        {
+            "file": "content/0015/course/Du_IcePark/course.bglpbd",
+            "hash": "693F7280F5883BB301217B764823BF4B3ABC5F60D3EDB17AEB2B7BCBD8B92816"
+        },
+        {
+            "file": "content/0015/course/Du_IcePark/course.kcl",
+            "hash": "531A8E4A8BE1A8D29A0F7887732DCED454EEB446FAB443BEAAF65B30E1041B0E"
+        },
+        {
+            "file": "content/0015/course/Du_IcePark/course.ptcl",
+            "hash": "F6FDD3D8A1DEC46F917F56EADBD415E8FD08D2699434D9A49035295D998CFABB"
+        },
+        {
+            "file": "content/0015/course/Du_IcePark/course_mapcamera.bin",
+            "hash": "37A55C248D5C330366F5BF649B41D23228142E81E9BE592C2A2200B7DA26BD40"
+        },
+        {
+            "file": "content/0015/course/Du_IcePark/course_maptexture.bflim",
+            "hash": "D43918E7490FD22740267EDE238D6ADB77D296F1D62C02FCD3B754F8E0FF8B81"
+        },
+        {
+            "file": "content/0015/course/Du_IcePark/course_model.szs",
+            "hash": "249A4A494A57BD247013F7BF0C196FB7939CD5B06585B0593885A280ECE622DA"
+        },
+        {
+            "file": "content/0015/course/Du_IcePark/course_muunt.byaml",
+            "hash": "3894D8C89646448783E792C6DF126ED0896572A26B69E4A440EE24C14C70258B"
+        },
+        {
+            "file": "content/0015/course/Dwii_WariosMine/SNDG_Dwii_WariosMine.bars",
+            "hash": "29750C6D18478BCF725D3E9AEC622FFF70D29B48DBE5C21611F6F668CE31313A"
+        },
+        {
+            "file": "content/0015/course/Dwii_WariosMine/course.bgenv",
+            "hash": "F6FEF53185B89FACAD5336DED3470DFFC79A3B60271EBBB2727E6C5F9681FF3C"
+        },
+        {
+            "file": "content/0015/course/Dwii_WariosMine/course.bglpbd",
+            "hash": "89092A7EC33B83FC7E865C58FA9DE5A459FA872B6590EFF843F89FFB4E8653D9"
+        },
+        {
+            "file": "content/0015/course/Dwii_WariosMine/course.kcl",
+            "hash": "AFBF0831428BE49A4EF9F1DF619A60A500B98345085AB6B7388F4371BCF2B076"
+        },
+        {
+            "file": "content/0015/course/Dwii_WariosMine/course.ptcl",
+            "hash": "4D6769F57C2C8DC2127FC82EB4A5A1C97E4E9D1FDE1D5130A62BD1BD8F773F2B"
+        },
+        {
+            "file": "content/0015/course/Dwii_WariosMine/course_mapcamera.bin",
+            "hash": "4BAFFBF8272A6C3E232329901F918DDD62A5EF60D587E285CA09E80C1C8255F6"
+        },
+        {
+            "file": "content/0015/course/Dwii_WariosMine/course_maptexture.bflim",
+            "hash": "939AB687AC695D70E3C874F74A57C31FCD596ED002A11DA95114DCC0229EBAE1"
+        },
+        {
+            "file": "content/0015/course/Dwii_WariosMine/course_model.szs",
+            "hash": "3C267906CB5E571C993FE8C2760C985AD23DB3D713FC9F12F8437F01872AC73B"
+        },
+        {
+            "file": "content/0015/course/Dwii_WariosMine/course_muunt.byaml",
+            "hash": "F18C0AFC2F9DE6400C0107ED015FAAC18A95354BE6A9A0639A058CFA30CD4441"
+        },
+        {
+            "file": "content/0015/course_dummy.txt",
+            "hash": "EFB57F180A1202B7FAE89C10F2722451140F5BF0D46E598D3E5EB3DD76A9C579"
+        },
+        {
+            "file": "content/0015/course_permission.txt",
+            "hash": "BEA3B1E5F44D77AEFB95D6ED03CCA386D3CEA914335FD426CF0390E61A0AFB98"
+        },
+        {
+            "file": "content/0015/mapobj/DL_CmnSoldier/DL_CmnSoldier.bfres",
+            "hash": "27249C8C7AB72F461E61A59A1E7055E919298757C0525C978E464FEA4F2BE70E"
+        },
+        {
+            "file": "content/0015/mapobj/DL_Dekubaba/DL_Dekubaba.bfres",
+            "hash": "33E0DCB55A201D571B6266FC35D2F788C1F7F9C0C29176ED9B7F89FBBF83EAC7"
+        },
+        {
+            "file": "content/0015/mapobj/DL_Dekubaba/SNDG_DL_Dekubaba.bars",
+            "hash": "6E41E55994BFD3467BE84C72B84892B18355D3F425AECE1DA5A5F50BA3B6E226"
+        },
+        {
+            "file": "content/0015/mapobj/DL_FlagStartIce/DL_FlagStartIce.bfres",
+            "hash": "94AF168DFF34E8F11987A6EAE396E5495874E06B068020A07BF7DF1EE1879CF8"
+        },
+        {
+            "file": "content/0015/mapobj/DL_HyFlagSquare/DL_HyFlagSquare.bfres",
+            "hash": "35665BE21AE080CD4BCCE30C0C2A5B8045BB7DF3BABB10F5A897E05A00ADF7DF"
+        },
+        {
+            "file": "content/0015/mapobj/DL_HyJump/DL_HyJump.bfres",
+            "hash": "4F50F74218351089B1936F1BB0222E8185994811BE3EF01F4621F910414FB8BD"
+        },
+        {
+            "file": "content/0015/mapobj/DL_HyJump/DL_HyJump.kcl",
+            "hash": "CA228EC155F123497D04295B556F4FF7117A07FCEDEAA0E18582A249B37C205F"
+        },
+        {
+            "file": "content/0015/mapobj/DL_HyJump/DL_HyJump_NoDash.kcl",
+            "hash": "D489CA99EEDB668C6280B980A8AF51B2737833330216ECFDE3E2FAB855CB2CA9"
+        },
+        {
+            "file": "content/0015/mapobj/DL_HyJump/SNDG_DL_HyJump.bars",
+            "hash": "61E50B5148BA3E88FD4AB728489601702A1B5B73265CA9155CE1A68DD728177D"
+        },
+        {
+            "file": "content/0015/mapobj/DL_HySalute/SNDG_DL_HySalute.bars",
+            "hash": "F2D551C2F4E0A7ABF7E051F6825B912A7DFBC2A0466067CB53370D66E7E79C3D"
+        },
+        {
+            "file": "content/0015/mapobj/DL_HySwitch/DL_HySwitch.bfres",
+            "hash": "6669BF4AFBEAE89E4E6D97CA7606B2C66EE122FB7D32B5B6044499A72E84C0C0"
+        },
+        {
+            "file": "content/0015/mapobj/DL_HySwitch/SNDG_DL_HySwitch.bars",
+            "hash": "97957FDEBDBBD752BA968D2E9503DF03E61B27E8C830831532FC0EBA98A27AE2"
+        },
+        {
+            "file": "content/0015/mapobj/DL_IceFlagSquare/DL_IceFlagSquare.bfres",
+            "hash": "D4BBE58043D827E71804805BA566E629EA0A09041BC6F6A5574CABFE6D29E034"
+        },
+        {
+            "file": "content/0015/mapobj/DL_IceHelicopter/DL_IceHelicopter.bfres",
+            "hash": "C4498A6EA149D0126EA2E719C80A8D212825C882C5DA775A06CCE2575143F2E1"
+        },
+        {
+            "file": "content/0015/mapobj/DL_IceHelicopter/SNDG_DL_IceHelicopter.bars",
+            "hash": "A50BA917230573B5AF28925778F1E738E6BCD58AFC3ECF6C997376EC06BF1800"
+        },
+        {
+            "file": "content/0015/mapobj/DL_IceToad/DL_IceToad.bfres",
+            "hash": "A08833C6A4800B3C0D40368F796AE707A23AC81360125424D8DF02044F41DF8F"
+        },
+        {
+            "file": "content/0015/mapobj/DL_Iceberg/DL_Iceberg.bfres",
+            "hash": "DCD30532F4CD924B8379C1297BCCA9FD58AC3074253EF12A4E74CAD9797E828D"
+        },
+        {
+            "file": "content/0015/mapobj/DL_Iceberg/SNDG_DL_Iceberg.bars",
+            "hash": "549327BCCD3C6A5CF95998D783A5C1DEBAD7E791BB99BFF591A4AF59DA7B0E7D"
+        },
+        {
+            "file": "content/0015/mapobj/DL_IcebergA/DL_IcebergA.bfres",
+            "hash": "5E2F4427F6B77477FBA28491ECCB0780A7064C3C57F7F51E9E2A1B9D6921629A"
+        },
+        {
+            "file": "content/0015/mapobj/DL_IcebergB/DL_IcebergB.bfres",
+            "hash": "0C14BDF5299DEF2358DE35F7E419D142946710FD0C7F37B6CA746887FEB5A2F3"
+        },
+        {
+            "file": "content/0015/mapobj/DL_Keith/DL_Keith.bfres",
+            "hash": "4FADC141C2BE9E9EAE9C66B8EFBB22C329797B499B3083824C76FC8B00656979"
+        },
+        {
+            "file": "content/0015/mapobj/DL_Keith/SNDG_DL_Keith.bars",
+            "hash": "DFA1D80885420121709AACB347D5EB2D0CEA1931997A2B25BA119412FC5D5595"
+        },
+        {
+            "file": "content/0015/mapobj/DL_MasterSword/DL_MasterSword.bfres",
+            "hash": "BDBC91823D4BF637566F7BFB36458EBC83F38099F1AF970C2FF85E9F3CE8034A"
+        },
+        {
+            "file": "content/0015/mapobj/DL_MasterSword/SNDG_DL_MasterSword.bars",
+            "hash": "93505C3F25DA77708EE817FEDBBC040522A40572F9D19CBDB8660A28DB399EE3"
+        },
+        {
+            "file": "content/0015/mapobj/DL_MasterSwordBase/DL_MasterSwordBase.bfres",
+            "hash": "11F5FB332F35D61CF0690D51FD44D09165D3C1A7BBA58BA7345319DBEA734212"
+        },
+        {
+            "file": "content/0015/mapobj/DL_RainbowArrow/DL_RainbowArrow.bfres",
+            "hash": "35CDD20AEAFB57BB54D970863D46486404A0370A37B976ADF0DBC3DB61052400"
+        },
+        {
+            "file": "content/0015/mapobj/DL_RainbowLightA/DL_RainbowLightA.bfres",
+            "hash": "2286619D23027E77A339E7223F2AFFA8A0886A729F14113A1CFF949286F6E308"
+        },
+        {
+            "file": "content/0015/mapobj/DL_RainbowLightB/DL_RainbowLightB.bfres",
+            "hash": "EF5DB5336F2CC2BA9EB53D28680F1C316F012D1F4CF05E1EAF636A5235313D35"
+        },
+        {
+            "file": "content/0015/mapobj/DL_Rupee/DL_Rupee.bfres",
+            "hash": "069DC41090246DA398F682651129D1CAE85DBF4BD161773718AA21DE82EB01B7"
+        },
+        {
+            "file": "content/0015/mapobj/DL_Rupee/SNDG_KTOBJ_DL_Rupee.bars",
+            "hash": "BDB892BC5A0F98BF974A5800D0C0F277F74C548A17888566317B253161CE9E84"
+        },
+        {
+            "file": "content/0015/mapobj/DL_SfcRRoad/DL_SfcRRoad.bfres",
+            "hash": "BE736BB775FBE89C1FC2BD0129A9CB7BD8CF178CD876E9250B196C09D620A13E"
+        },
+        {
+            "file": "content/0015/mapobj/DL_SfcRRoad/DL_SfcRRoad4.kcl",
+            "hash": "FF6AC5B891B1F94D8BD8BC6301FF926DFBBD566D19D5F972053852492E2918E0"
+        },
+        {
+            "file": "content/0015/mapobj/DL_ShyguyPickaxY/DL_ShyguyPickaxY.bfres",
+            "hash": "DC1F95BED26C5B488AB67B69D20462A6B1738D7DB632C253459C34024D77AFBE"
+        },
+        {
+            "file": "content/0015/mapobj/DL_SpinTurboBar_IP/DL_SpinTurboBar_IP.bfres",
+            "hash": "A19A0A0143919133D8E89F6E119C9CFCC2996B9D2D708A59A6F09C022FE2797A"
+        },
+        {
+            "file": "content/0015/mapobj/DL_StarDossun/DL_StarDossun.bfres",
+            "hash": "9D7CFB6ED2A7F34D613C001FA12C9B0C9F75999C1DA25FCE512D3A9610E39B35"
+        },
+        {
+            "file": "content/0015/mapobj/DL_StarDossun/SNDG_DL_StarDossun.bars",
+            "hash": "14DE981C8A378BB536B4F4DDA4F99E5483F1DCCEC4165FDEC54C9B469F8865C4"
+        },
+        {
+            "file": "content/0015/mapobj/DL_TreeSphYoshi/DL_TreeSphYoshi.bfres",
+            "hash": "364630A3AB14938B15CAF7C17A734A2483E83242C61E7331B647304F359A2041"
+        },
+        {
+            "file": "content/0015/mapobj/DL_TreeTri/DL_TreeTri.bfres",
+            "hash": "10402CE8E5CEA7AED39FC5E431D6E7AE8741370DAE0509ED1885A06B04A25E68"
+        },
+        {
+            "file": "content/0015/mapobj/DL_VRHyrule/DL_VRHyrule.bfres",
+            "hash": "18D1DE5ABD895341253A8969A28088008C727340CECF213C52CBED7C7AF35A2C"
+        },
+        {
+            "file": "content/0015/mapobj/DL_VRIcePark/DL_VRIcePark.bfres",
+            "hash": "ED8911FD208D41EBFC8964D40090BC2325D09509D16495158E32837DFBD32FC4"
+        },
+        {
+            "file": "content/0015/mapobj/DL_VRSfcRainbow/DL_VRSfcRainbow.bfres",
+            "hash": "F4107C9FF72F533D740135AD3C52A6EE0CFE5A3A5B257663408C04FAF5009CBC"
+        },
+        {
+            "file": "content/0015/mapobj/DL_WarioTram/DL_WarioTram.bfres",
+            "hash": "658D8F50CF968EF0ADEB8EB69396B7965A1E39D66A1312B65877C218904140B8"
+        },
+        {
+            "file": "content/0015/mapobj/DL_WarioTram/SNDG_DL_WarioTram.bars",
+            "hash": "CCF6242508918369EB9C9981159C0AE4F19F39AFAEA5199E7994D18D1DC79AD9"
+        },
+        {
+            "file": "content/0015/mapobj/DL_WgExcavator/DL_WgExcavator.bfres",
+            "hash": "769EB808626CFA47170332DA05D23B0F9E1ED22D2C72E72F4FBBCA24E179E08F"
+        },
+        {
+            "file": "content/0015/mapobj/DL_WgFlagSquare/DL_WgFlagSquare.bfres",
+            "hash": "8C12AE95F45614727693D00BC526274A9D9C80024F95305B6A0D73D9A878F077"
+        },
+        {
+            "file": "content/0015/mapobj/DL_WgGear/DL_WgGear.bfres",
+            "hash": "A9341767624CB681858FCDD31E6BC9A6F2D8780D41C66A0705CF6BBD2DCD4FFB"
+        },
+        {
+            "file": "content/0016/dl_permission.txt",
+            "hash": "CB43B240B5090CB33A22148E97811282F2BC58B98246315D885921F7A7A0ED1B"
+        },
+        {
+            "file": "content/0016/dl_reserve.txt",
+            "hash": "A90ED553F9FF634BF8982CD48C78584ADC414FB09DC52BE7A7D78A5D23A0DB9B"
+        },
+        {
+            "file": "content/0017/course/Dagb_CheeseLand/SNDG_Dagb_CheeseLand.bars",
+            "hash": "E6A0E7A5FA325128153D887644ABF1DB49730E19728F66707EDC8970AA761340"
+        },
+        {
+            "file": "content/0017/course/Dagb_CheeseLand/course.bgenv",
+            "hash": "23F5D2782AE1FB2A71E8F3D5A4B1A977B41FB625C4A808ABB15662FD226E6323"
+        },
+        {
+            "file": "content/0017/course/Dagb_CheeseLand/course.bglpbd",
+            "hash": "AA320E09CE394D0DFEAEA792DC37571C68B25B91C77F1DDB9DFF4477A4D0BB05"
+        },
+        {
+            "file": "content/0017/course/Dagb_CheeseLand/course.kcl",
+            "hash": "E69E42DA865C0817030E3ABFDCC48036E4AC66D407E7680F4B0D206F3DB9BEEC"
+        },
+        {
+            "file": "content/0017/course/Dagb_CheeseLand/course.ptcl",
+            "hash": "9BD7670D0E87203945584E74C9F4B7B6D93D6396B327407991EA9B1FC3FD3B45"
+        },
+        {
+            "file": "content/0017/course/Dagb_CheeseLand/course_mapcamera.bin",
+            "hash": "37DD64648B0BA2964F6B2C5E56234211EBE834B61745C89752E967E8608001A7"
+        },
+        {
+            "file": "content/0017/course/Dagb_CheeseLand/course_maptexture.bflim",
+            "hash": "262F82C99FFBA9D0F73031C94048164D9A97619A616972C1EA450DAA11038ECA"
+        },
+        {
+            "file": "content/0017/course/Dagb_CheeseLand/course_model.szs",
+            "hash": "3F53542A76557B8CDB0FD4C6031F62500ECCA9CFF7470AF4F945AAA6E1D78743"
+        },
+        {
+            "file": "content/0017/course/Dagb_CheeseLand/course_muunt.byaml",
+            "hash": "511252E757AFA6B4B31B0A6151FEF503E1D4C9DF3906229694B28B4BC6D9235F"
+        },
+        {
+            "file": "content/0017/course/Dgc_BabyPark/SNDG_Dgc_BabyPark.bars",
+            "hash": "CEAD968A493A3CB5A29E516A2D06E16D8798052D244C93298A00098280D1E6D1"
+        },
+        {
+            "file": "content/0017/course/Dgc_BabyPark/course.bgenv",
+            "hash": "D3F521DFDEDB9F4DE30BA79A5D9C97C7EB8C5983A8F51BA273B2D703CF231231"
+        },
+        {
+            "file": "content/0017/course/Dgc_BabyPark/course.bglpbd",
+            "hash": "B1DE1DBDBC230C7C414619331231BFF6482175FC4A3E572170BFE159D101916B"
+        },
+        {
+            "file": "content/0017/course/Dgc_BabyPark/course.kcl",
+            "hash": "7A1C3BC66DB7329FA728ABBA464D3F34766D04C4702955BD5D54178535077207"
+        },
+        {
+            "file": "content/0017/course/Dgc_BabyPark/course.ptcl",
+            "hash": "9A2F8B8C6B956F30C06D5583F03027D8A844E74FC432CAF797CAF98DBE68861F"
+        },
+        {
+            "file": "content/0017/course/Dgc_BabyPark/course_mapcamera.bin",
+            "hash": "CC47234D03639506A5CF56BB551A59B521093E0A3CD65673F7651554A875C6DA"
+        },
+        {
+            "file": "content/0017/course/Dgc_BabyPark/course_maptexture.bflim",
+            "hash": "7ACDBF87A291EC02D82ADE554AFE5175EF0F1A4033B95F343D4685EF58522572"
+        },
+        {
+            "file": "content/0017/course/Dgc_BabyPark/course_model.szs",
+            "hash": "5715BC604218BC95F8EF443884B7D2430AFDC293AF005FF6378059402DBAE7C4"
+        },
+        {
+            "file": "content/0017/course/Dgc_BabyPark/course_muunt.byaml",
+            "hash": "57A0004DBF0767670C2E0F1BDB325BC1ADB03BCF4CD7DBD33718FE5E6E42A14C"
+        },
+        {
+            "file": "content/0017/course/Du_Animal_Autumn/SNDG_Du_Animal_Autumn.bars",
+            "hash": "D2BB9D05371E84048DCE21DCC534257F785C55DBE267817F24DD2D9C525708A8"
+        },
+        {
+            "file": "content/0017/course/Du_Animal_Autumn/course.bgenv",
+            "hash": "24FA3638C0EFDCE1E6A5DEDE8CE57A119450D9F9437A2EB99B06D02E0848046C"
+        },
+        {
+            "file": "content/0017/course/Du_Animal_Autumn/course.bglpbd",
+            "hash": "2E1546996B6982ED2C436927AE0565E3A4FA51853ABCC8DB0682EA62F67251D8"
+        },
+        {
+            "file": "content/0017/course/Du_Animal_Autumn/course.kcl",
+            "hash": "D8DB795A398B4EAB5090B5622173935B02BF5C55301552E25F55EA6E1A0C0372"
+        },
+        {
+            "file": "content/0017/course/Du_Animal_Autumn/course.ptcl",
+            "hash": "23B47C546E05E1C014ACCDD969B5D7F8CED42A633A450441FF54ACFA8C12C48A"
+        },
+        {
+            "file": "content/0017/course/Du_Animal_Autumn/course_mapcamera.bin",
+            "hash": "06E3E134E43D62C186CCEFDCDC0AC2C0DBDFCA57F68882DCFE81FE5B98E4AB45"
+        },
+        {
+            "file": "content/0017/course/Du_Animal_Autumn/course_maptexture.bflim",
+            "hash": "B12438623D38FB5E687EAB464D1EE70C7AD2E24FC7AD6A5448F881EE30E76EFC"
+        },
+        {
+            "file": "content/0017/course/Du_Animal_Autumn/course_model.szs",
+            "hash": "B24022E0F436CA24D2BB8BB9CB3A6A56B9819F3BEE24DA05CBE9389AE0CD417C"
+        },
+        {
+            "file": "content/0017/course/Du_Animal_Autumn/course_muunt.byaml",
+            "hash": "24138EDEB1C9F7C05065E8154108FA0C593D104428A66A81ACFF393F969B08B3"
+        },
+        {
+            "file": "content/0017/course/Du_Animal_Spring/SNDG_Du_Animal_Spring.bars",
+            "hash": "9D68E4EB71B5DCFDAF2F651AEED8667022FB07C617F858824A3DFC6792606E7A"
+        },
+        {
+            "file": "content/0017/course/Du_Animal_Spring/course.bgenv",
+            "hash": "844F4AC16B7762B977B6B02058243D62A4385A46DD4F7ADE6D1CB106E87A5625"
+        },
+        {
+            "file": "content/0017/course/Du_Animal_Spring/course.bglpbd",
+            "hash": "9A4F1D98B7B79AD8170EBB951C24237D5DCC61C4869C55AE628BD8617D8E428B"
+        },
+        {
+            "file": "content/0017/course/Du_Animal_Spring/course.kcl",
+            "hash": "045CD580F1314827BECA58D295E0F05F592626B5E07D412A9E7E2B8653A4D263"
+        },
+        {
+            "file": "content/0017/course/Du_Animal_Spring/course.ptcl",
+            "hash": "299ED2D634960112507A3ADE593910CC7B9857257CE2980926FB9BB9B8AEA487"
+        },
+        {
+            "file": "content/0017/course/Du_Animal_Spring/course_mapcamera.bin",
+            "hash": "06E3E134E43D62C186CCEFDCDC0AC2C0DBDFCA57F68882DCFE81FE5B98E4AB45"
+        },
+        {
+            "file": "content/0017/course/Du_Animal_Spring/course_maptexture.bflim",
+            "hash": "5B41B2E661C1C0E84859E15B97644883D650200982C41415BDE1DB03B3BA756C"
+        },
+        {
+            "file": "content/0017/course/Du_Animal_Spring/course_model.szs",
+            "hash": "9B83C6EA77AE50AB9E19B987B8A500A68A823FAE8ED36422589EC76549D8EF53"
+        },
+        {
+            "file": "content/0017/course/Du_Animal_Spring/course_muunt.byaml",
+            "hash": "6A864FA6984561556D43D600340B365BA73E774CD0F16F6B28073F5CF67056E4"
+        },
+        {
+            "file": "content/0017/course/Du_Animal_Summer/SNDG_Du_Animal_Summer.bars",
+            "hash": "AFBB1068FBE4F8D9952D56C20B63D60FD1350EFB0CE7586C84455E68D46E74BD"
+        },
+        {
+            "file": "content/0017/course/Du_Animal_Summer/course.bgenv",
+            "hash": "60EB6EB3BDD23557C582F82F7DBC6E15EB843BAD626431D8BC0F757EEDF040CF"
+        },
+        {
+            "file": "content/0017/course/Du_Animal_Summer/course.bglpbd",
+            "hash": "F9829F244C44D1BBDBDB7BA332F0C4CA271B7CA892FE78756314D066DFDD1069"
+        },
+        {
+            "file": "content/0017/course/Du_Animal_Summer/course.kcl",
+            "hash": "C51FF70EE2FCC108E636DB670079E0A28EEBB80D6869A9A95DF03D30B0562712"
+        },
+        {
+            "file": "content/0017/course/Du_Animal_Summer/course.ptcl",
+            "hash": "716508CFC774A44B7FC5E6308AD07B202FA685DABD2893C852B0311B56E3674E"
+        },
+        {
+            "file": "content/0017/course/Du_Animal_Summer/course_mapcamera.bin",
+            "hash": "06E3E134E43D62C186CCEFDCDC0AC2C0DBDFCA57F68882DCFE81FE5B98E4AB45"
+        },
+        {
+            "file": "content/0017/course/Du_Animal_Summer/course_maptexture.bflim",
+            "hash": "CF3ECE5C94689CAA77657A6EC041F38853750E25891F5651013989748F33DF4A"
+        },
+        {
+            "file": "content/0017/course/Du_Animal_Summer/course_model.szs",
+            "hash": "3E3D12E12969269D6D6B3A52B4809DD61A643738A30F6F9CDBF6F9812D66789E"
+        },
+        {
+            "file": "content/0017/course/Du_Animal_Summer/course_muunt.byaml",
+            "hash": "0BFF2E6D670D79E86A752FB82ACC5D7CDFCCB3F400C08040FAF06D8B9BD08337"
+        },
+        {
+            "file": "content/0017/course/Du_Animal_Winter/SNDG_Du_Animal_Winter.bars",
+            "hash": "FC77ABBFACA842F96A7853132B3B248766018B217F6BA47DFFD1CE7EB1EC5550"
+        },
+        {
+            "file": "content/0017/course/Du_Animal_Winter/course.bgenv",
+            "hash": "EE439DFA60341EF69517E86F07A37C610F8F273C42CFF38DCFEB54C77E5357FA"
+        },
+        {
+            "file": "content/0017/course/Du_Animal_Winter/course.bglpbd",
+            "hash": "964B468C3078F43F12E1E2B446145251890E7C01C762D304DF65B5FCABD36E4F"
+        },
+        {
+            "file": "content/0017/course/Du_Animal_Winter/course.kcl",
+            "hash": "D8DB795A398B4EAB5090B5622173935B02BF5C55301552E25F55EA6E1A0C0372"
+        },
+        {
+            "file": "content/0017/course/Du_Animal_Winter/course.ptcl",
+            "hash": "D9559022754AED3172C96A28083C2F5A88ED66D940BC21682C06E26B3AD4B22B"
+        },
+        {
+            "file": "content/0017/course/Du_Animal_Winter/course_mapcamera.bin",
+            "hash": "06E3E134E43D62C186CCEFDCDC0AC2C0DBDFCA57F68882DCFE81FE5B98E4AB45"
+        },
+        {
+            "file": "content/0017/course/Du_Animal_Winter/course_maptexture.bflim",
+            "hash": "CF3ECE5C94689CAA77657A6EC041F38853750E25891F5651013989748F33DF4A"
+        },
+        {
+            "file": "content/0017/course/Du_Animal_Winter/course_model.szs",
+            "hash": "4892DA95411346A0255D01F8F3FCEDEFA1FD0D87154B9D562C5294819113FC8B"
+        },
+        {
+            "file": "content/0017/course/Du_Animal_Winter/course_muunt.byaml",
+            "hash": "0CFD3962475E0687315A69F53C942AFC0C1F23D6E3AEBD3DA789A85EAE7BFEB3"
+        },
+        {
+            "file": "content/0017/course/Du_Woods/SNDG_Du_Woods.bars",
+            "hash": "4EAC3F4B00724988F45E7B10E73F4AD29E22071513576B896B7B258F8427B5C5"
+        },
+        {
+            "file": "content/0017/course/Du_Woods/course.bgenv",
+            "hash": "4FDE3C7EEFE2BA3A2A1233A4817AF92A27594D94CCAEFDCC8B53E16F89F245EA"
+        },
+        {
+            "file": "content/0017/course/Du_Woods/course.bglpbd",
+            "hash": "0B964F88BA5162F77B036B9EA4561A3277172C862FCC63B094FA7486E7550B26"
+        },
+        {
+            "file": "content/0017/course/Du_Woods/course.kcl",
+            "hash": "ECD5A2C25448DDBE5CC80FACCB20F287DD7B410E8FE465689A8D05E4E555D656"
+        },
+        {
+            "file": "content/0017/course/Du_Woods/course.ptcl",
+            "hash": "28F476AD4D7921D34AFC39156A56D806965F3A1F83C8CA76AA596827EF09729A"
+        },
+        {
+            "file": "content/0017/course/Du_Woods/course_mapcamera.bin",
+            "hash": "82F4B05F85FC2D493F03757B4D7DC6F9065F15049DF6CB11B6594CCA23CC9B0F"
+        },
+        {
+            "file": "content/0017/course/Du_Woods/course_maptexture.bflim",
+            "hash": "3C05668A12B2132D9FC49881B1A82550EBF0A5C9CBA4489E217B5B5CCCE021F5"
+        },
+        {
+            "file": "content/0017/course/Du_Woods/course_model.szs",
+            "hash": "495B2E9BF406C1C6114DD1DD9DE61A5F633D61D433BC1CB71F31A26F423531D9"
+        },
+        {
+            "file": "content/0017/course/Du_Woods/course_muunt.byaml",
+            "hash": "E3A979C81028F555B012A63441DAC00D57B930E9FD3540D8F95B288461FBA414"
+        },
+        {
+            "file": "content/0017/course_dummy.txt",
+            "hash": "EFB57F180A1202B7FAE89C10F2722451140F5BF0D46E598D3E5EB3DD76A9C579"
+        },
+        {
+            "file": "content/0017/course_permission.txt",
+            "hash": "BEA3B1E5F44D77AEFB95D6ED03CCA386D3CEA914335FD426CF0390E61A0AFB98"
+        },
+        {
+            "file": "content/0017/mapobj/DL_AnimalApple/DL_AnimalApple.bfres",
+            "hash": "2655F9EE2D1B7C998C183F8141646B8CB2E2A89539AF95C091CC4C953495D7EF"
+        },
+        {
+            "file": "content/0017/mapobj/DL_AnimalBalloon/DL_AnimalBalloon.bfres",
+            "hash": "F4BEDF099E70E0816DB3B8CAD1F2970D8BB7F85615D3680A5F85536F6027ABCB"
+        },
+        {
+            "file": "content/0017/mapobj/DL_AnimalBalloon/SNDG_DL_AnimalBalloon.bars",
+            "hash": "96778BBB3B08F37D101B08F9C325EDAF440A5C09F707DCD7D3D9088A287B68E7"
+        },
+        {
+            "file": "content/0017/mapobj/DL_AnimalFlag/DL_AnimalFlag.bfres",
+            "hash": "AECC34027A0A01A3D582A25898D7444939BC3403C6EC79545402D48416FD27BF"
+        },
+        {
+            "file": "content/0017/mapobj/DL_AnimalFuta/DL_AnimalFuta.bfres",
+            "hash": "70D39834FD2FD33B664BA175779C1349CF74EE63167BF1F82C7DF0BB130EB09C"
+        },
+        {
+            "file": "content/0017/mapobj/DL_AnimalKaizo/DL_AnimalKaizo.bfres",
+            "hash": "BC340F8D4FE074B1FC57D0FEB21C8C0202505BA72EAB3C1FD72EC63E5AD120D6"
+        },
+        {
+            "file": "content/0017/mapobj/DL_AnimalKinuyo/DL_AnimalKinuyo.bfres",
+            "hash": "5033A5DAAF65E3488E75865FC5792B550007D753EB16DF7A675E23EE3E8B6CCB"
+        },
+        {
+            "file": "content/0017/mapobj/DL_AnimalLemon/DL_AnimalLemon.bfres",
+            "hash": "931E25794483E9ED33E953175FA98E7AAE215FB8A27CAB6D1EE47CCEBB0F18C9"
+        },
+        {
+            "file": "content/0017/mapobj/DL_AnimalOrange/DL_AnimalOrange.bfres",
+            "hash": "E52686BFD3618D14335B8FFCEBFB3BDB0DC859A18906AA6F7DD250AECBEA026E"
+        },
+        {
+            "file": "content/0017/mapobj/DL_AnimalRisa/DL_AnimalRisa.bfres",
+            "hash": "56CC26E5121EEEA39E4B1AD13F6F1000A1411977FC5797B6BF3CB170F93EA186"
+        },
+        {
+            "file": "content/0017/mapobj/DL_AnimalShell/DL_AnimalShell.bfres",
+            "hash": "08D20D3C4324C6251F5E94D7C7A2DE46F98AE74FDBE1BACC8C2EEBE7F4DA3B04"
+        },
+        {
+            "file": "content/0017/mapobj/DL_AnimalShell/SNDG_DL_AnimalShell.bars",
+            "hash": "C91CC856ED994A801F36F35D44C89750568A97A65AB35CDC2C056F4F2C4A2600"
+        },
+        {
+            "file": "content/0017/mapobj/DL_AnimalSnowman/DL_AnimalSnowman.bfres",
+            "hash": "B9DD3F96A3C962C6D6DEE82468C728DE33D93AA44E5B3D6C561FE83FF014ECE0"
+        },
+        {
+            "file": "content/0017/mapobj/DL_AnimalSnowman/SNDG_DL_AnimalSnowman.bars",
+            "hash": "9B312967FBE3D783205EA99E18FE7C6D09A6D724E115640D50A29FD5BFC9565D"
+        },
+        {
+            "file": "content/0017/mapobj/DL_AnimalSnowman_FX/DL_AnimalSnowman_FX.bfres",
+            "hash": "EAFF1AD8EF4EDA47A8F91239C821CD75A34A3398DBD9AA28C514DAFA30B17623"
+        },
+        {
+            "file": "content/0017/mapobj/DL_AnimalTanukichi/DL_AnimalTanukichi.bfres",
+            "hash": "F0DAA6C4003558B562094106622F63A25D1001C22A5466C25E139FFEE0447110"
+        },
+        {
+            "file": "content/0017/mapobj/DL_AnimalTotakeke/DL_AnimalTotakeke.bfres",
+            "hash": "9ED8AA1542B09BE0F818DF7AE9565169A7AF3CDD429E06A740BB0A2F6B95360C"
+        },
+        {
+            "file": "content/0017/mapobj/DL_AnimalTrain/DL_AnimalTrain.bfres",
+            "hash": "C72DB88B25747F22C38014EE628CF3B5DDC4345A16A95232D67ACD37B2D5ED4B"
+        },
+        {
+            "file": "content/0017/mapobj/DL_AnimalTrain/SNDG_DL_AnimalTrain.bars",
+            "hash": "C3532E226FAA2FE824A0556E440C499287D1608867B69B8B6811C2C4A59F22BD"
+        },
+        {
+            "file": "content/0017/mapobj/DL_Bell/DL_Bell.bfres",
+            "hash": "6011845752E670DDFBB513D1002F033C9BDCE99967C265B04A6FA809CEDCF041"
+        },
+        {
+            "file": "content/0017/mapobj/DL_Bell/SNDG_KTOBJ_DL_Bell.bars",
+            "hash": "7B7458948576163B28E038C2D0A01B6B6152EC1570193923EEB0F00AEAF4159F"
+        },
+        {
+            "file": "content/0017/mapobj/DL_BpCoaster/DL_BpCoaster.bfres",
+            "hash": "8D121E1687794C7255A11F6E9FDA068C78320A9258AA71B8CFF0331BB0C26469"
+        },
+        {
+            "file": "content/0017/mapobj/DL_BpCoaster/SNDG_DL_BpCoaster.bars",
+            "hash": "123EA3C7AE7587E71EFDDE491D47518C35C4B2743BBC08A0D800FA9BECCBB4E7"
+        },
+        {
+            "file": "content/0017/mapobj/DL_BpGear/DL_BpGear.bfres",
+            "hash": "81D7F5DBBC4B30B7E392B0E9C8D4462FA72CF7AB7B0C96C887E06BD720BC90FE"
+        },
+        {
+            "file": "content/0017/mapobj/DL_BpGear/SNDG_DL_BpGear.bars",
+            "hash": "4B044C604AFF40D305F565FA8D520778ECEB0DFE2C495AFC88FBD725E0F36289"
+        },
+        {
+            "file": "content/0017/mapobj/DL_BpKanransya/DL_BpKanransya.bfres",
+            "hash": "96C5BEBD644D6ED0F1D9CF788C61549FEB0D68909F7382337963E8A01912D38C"
+        },
+        {
+            "file": "content/0017/mapobj/DL_BpParatroopa/DL_BpParatroopa.bfres",
+            "hash": "BD4EBB4BCB831A44BD2B7DAC225D5420C0AED6974D634B5EF80859F2F8F33C20"
+        },
+        {
+            "file": "content/0017/mapobj/DL_BpPirate/DL_BpPirate.bfres",
+            "hash": "3F0DC622ED26770882374CB3F310451C2261C0289AE66221DD887F476DD0B41A"
+        },
+        {
+            "file": "content/0017/mapobj/DL_BpPirate/SNDG_DL_BpPirate.bars",
+            "hash": "5E823E216BED7BAF91154206F486B489016E6A56ED0B615196711EF6E0EF52E3"
+        },
+        {
+            "file": "content/0017/mapobj/DL_BpStartGate/DL_BpStartGate.bfres",
+            "hash": "0237ED1B961DA1B93DB1611F2E5EFD6EF5D6AAA2EADBA681EB94B9FA5192C7C3"
+        },
+        {
+            "file": "content/0017/mapobj/DL_BpSwingride/DL_BpSwingride.bfres",
+            "hash": "97AD7D308B399CDDA1831BE634B85342C49FF1090238FD03A3653AE6C023D3C9"
+        },
+        {
+            "file": "content/0017/mapobj/DL_BpSwingride/SNDG_DL_BpSwingride.bars",
+            "hash": "CC1BB5F503B3844D8E9E732C396F22F25D4996CA9EE7BC4A9F83372F7FC435AE"
+        },
+        {
+            "file": "content/0017/mapobj/DL_BpWing/DL_BpWing.bfres",
+            "hash": "0F3B3BEEF35B134861D1BB3EBE5C6409A84556E46813D127D82323E1E9BB583B"
+        },
+        {
+            "file": "content/0017/mapobj/DL_CheeseBox/DL_CheeseBox.bfres",
+            "hash": "C98926D935E8A9F3FDBF947961A710A110CE76D4E30517180CE3EAE277E65C03"
+        },
+        {
+            "file": "content/0017/mapobj/DL_CheeseBox/SNDG_DL_CheeseBox.bars",
+            "hash": "47CD50227064975ADA6616777641730C0322ABC5255528A29FD3D622D4F7AC3D"
+        },
+        {
+            "file": "content/0017/mapobj/DL_CheeseBox_FX/DL_CheeseBox_FX.bfres",
+            "hash": "4FD18B944616352B85FF9B47FED25E3542BCBFEF56BC6605EF5C711BD4363679"
+        },
+        {
+            "file": "content/0017/mapobj/DL_CmnAnimalA/DL_CmnAnimalA.bfres",
+            "hash": "E130014F41B664FFFF656DD7FDB236322C301164A21B811DCF948D0B169AA8A4"
+        },
+        {
+            "file": "content/0017/mapobj/DL_CmnAnimalB/DL_CmnAnimalB.bfres",
+            "hash": "3D21881E9E624A455C5F45ED1DC7D00479422F5D253345FBDB40C758DDB5EEAD"
+        },
+        {
+            "file": "content/0017/mapobj/DL_CmnAnimalC/DL_CmnAnimalC.bfres",
+            "hash": "E9D36795AE1F8C13DA3E8B6C00228C89D0837D76D96B262864E0637A885707A6"
+        },
+        {
+            "file": "content/0017/mapobj/DL_CmnAnimalD/DL_CmnAnimalD.bfres",
+            "hash": "22D306454D39D25D59CC8FAED819267C1BBBC6711C89EC52209FB73A25A5E308"
+        },
+        {
+            "file": "content/0017/mapobj/DL_CoinStone/DL_CoinStone.bfres",
+            "hash": "D7E25751B0059BA93C9D771E229E520CDC1786B1C70EFC49BD95DCB81BF01D75"
+        },
+        {
+            "file": "content/0017/mapobj/DL_CoinStone/SNDG_DL_CoinStone.bars",
+            "hash": "D703ED584A3AFCE7382E14A493BCB11B57A4415665E01BC0B8FD1FDDE82D5325"
+        },
+        {
+            "file": "content/0017/mapobj/DL_CoinStoneSnow/DL_CoinStoneSnow.bfres",
+            "hash": "CCFA3968EB180EFA024006AF971E2E99C3D9EF6F2235091348796C9789570434"
+        },
+        {
+            "file": "content/0017/mapobj/DL_CoinStoneSnow/SNDG_DL_CoinStoneSnow.bars",
+            "hash": "3573B73AF0FCE71D576F590A28A0A85D1B5D2D6967426C757DA3910A54BC6414"
+        },
+        {
+            "file": "content/0017/mapobj/DL_FallenLeaf/DL_FallenLeaf.bfres",
+            "hash": "7D0174657B4C7F3008FFAA65DD159B478E78CFCBEC6FFEB8100A0F8D744FA3FF"
+        },
+        {
+            "file": "content/0017/mapobj/DL_FlagStartWoods/DL_FlagStartWoods.bfres",
+            "hash": "55494A56D31A52A5E1A751916F054016D3B06F9448D5EF8CECC00CBEDF65BFB5"
+        },
+        {
+            "file": "content/0017/mapobj/DL_FlagTriangle7/DL_FlagTriangle7.bfres",
+            "hash": "C1010E52150F3BAE741BFBE6764C2922BC8C5CDDD33898C168B789E7FFF9EB4A"
+        },
+        {
+            "file": "content/0017/mapobj/DL_LotusLeaf/DL_LotusLeaf.bfres",
+            "hash": "B1F63E03C2975625E7EB64018246379FAF96C1BF51A8B7C4FAB4CF41EB52DB07"
+        },
+        {
+            "file": "content/0017/mapobj/DL_LotusLeaf/DL_LotusLeaf.kcl",
+            "hash": "E46DA5490C69C3678B5BD3FF0154301C2725972DE08ADD24A7F76C2E1B14224C"
+        },
+        {
+            "file": "content/0017/mapobj/DL_Reset/DL_Reset.bfres",
+            "hash": "C39ACD9E70BB81E77309ED6D081E1D9C08910FA04912602191DAF59BE1BDE7C9"
+        },
+        {
+            "file": "content/0017/mapobj/DL_Reset/SNDG_DL_Reset.bars",
+            "hash": "3342C34228278ED1F43A4A599ED7E16BB1DA4BB61FFC696DDDD9C60831FE8EAC"
+        },
+        {
+            "file": "content/0017/mapobj/DL_Reset_FX/DL_Reset_FX.bfres",
+            "hash": "BC12F80EF6A2665CC81F96738E004070F75C42606601540235315EAC17BCFEA5"
+        },
+        {
+            "file": "content/0017/mapobj/DL_SpinTurboBar_Cl/DL_SpinTurboBar_Cl.bfres",
+            "hash": "BE3A6E7259D2E10DD05FD3C27FDF669A83D95FC53623A174BCDE05EC75E1391A"
+        },
+        {
+            "file": "content/0017/mapobj/DL_TreeApple/DL_TreeApple.bfres",
+            "hash": "C36C529A676FE05D07503785D314C1AC94E7B6924E02789DFED838D5B197C480"
+        },
+        {
+            "file": "content/0017/mapobj/DL_TreeAutumn/DL_TreeAutumn.bfres",
+            "hash": "B970407EDE86F03D61B82F7918E732C0E21FECB3F2491615AA901E187AEE154E"
+        },
+        {
+            "file": "content/0017/mapobj/DL_TreeBushAutumn/DL_TreeBushAutumn.bfres",
+            "hash": "663B03E440C2A953C088AB27D2E56D38C2BB35394F4F37B6552755A3EB21832A"
+        },
+        {
+            "file": "content/0017/mapobj/DL_TreeBushWinter/DL_TreeBushWinter.bfres",
+            "hash": "BE595A16B20A3365CB17BC0EFB782505632E6F84DF547710B44A0761512EF7FB"
+        },
+        {
+            "file": "content/0017/mapobj/DL_TreeSakura/DL_TreeSakura.bfres",
+            "hash": "2475A065ED859D6474DA73ADF0851B29FBE06471F385D27C428A6059B02BFD6A"
+        },
+        {
+            "file": "content/0017/mapobj/DL_TreeWinter/DL_TreeWinter.bfres",
+            "hash": "21B43B0D3C2824885C18EC96F0E6983FA0E3912ADAD01ABE2BB7FB75B951BDC6"
+        },
+        {
+            "file": "content/0017/mapobj/DL_VRAnimalAutumn/DL_VRAnimalAutumn.bfres",
+            "hash": "349C3C87B416B74008E351B6973B68FFF71BA6E29045B3BF15656A2B4CCF58FD"
+        },
+        {
+            "file": "content/0017/mapobj/DL_VRAnimalSummer/DL_VRAnimalSummer.bfres",
+            "hash": "BF60A419C83DAB17880110FCF364F27EFFD1930DE6E7A756C0D1A354C7A13ED6"
+        },
+        {
+            "file": "content/0017/mapobj/DL_VRBabyPark/DL_VRBabyPark.bfres",
+            "hash": "458709D1C3C9203959E542BAF6F8DDDEB13F502554FC38FD6CF3388F22066ED9"
+        },
+        {
+            "file": "content/0017/mapobj/DL_VRCheeseLand/DL_VRCheeseLand.bfres",
+            "hash": "662C5FFED4E4A17B5A675F634CC787AE014808DED448025B1059AB466D6200D0"
+        },
+        {
+            "file": "content/0017/mapobj/DL_VRWoods/DL_VRWoods.bfres",
+            "hash": "807233E9666536EB15D96BFBA8C21EFB2F05A1FE0DE43F35ACF021AF341E8A41"
+        },
+        {
+            "file": "content/0017/mapobj/DL_Wanwan/DL_Wanwan.bfres",
+            "hash": "76BAD3A064DED79E9754AC9657ED49EB0BC75BA7D06E9AD1F1440265B5FC4880"
+        },
+        {
+            "file": "content/0017/mapobj/DL_Wanwan/SNDG_DL_Wanwan.bars",
+            "hash": "79050A8AC7A9860099D49FC3C0A0F2281BAB70658019D9FD55DEF652752DB9ED"
+        },
+        {
+            "file": "content/0017/mapobj/DL_WdBarrel/DL_WdBarrel.bfres",
+            "hash": "253FA251208901C02BA33BAAEC19807E472431A14E2DCB6167A6D5147983E5DA"
+        },
+        {
+            "file": "content/0017/mapobj/DL_WdBarrel_FX/DL_WdBarrel_FX.bfres",
+            "hash": "9617B3FEFF60A456ED43A1948D38BF38A214C46248A0C0BC13EF810479A71E3E"
+        },
+        {
+            "file": "content/0017/mapobj/DL_WoElevator/DL_WoElevator.bfres",
+            "hash": "10DD86A81B642A95C912E7635678A7F3355BABE6DD6423EF6D1E52A90E30C855"
+        },
+        {
+            "file": "content/0017/mapobj/DL_WoPulleyShyguy/DL_WoPulleyShyguy.bfres",
+            "hash": "40ABECB27680296548CC5AAADDF33A9E64D9902ECC79D45469AF106C36E1161C"
+        },
+        {
+            "file": "content/0017/mapobj/DL_WoPulleyShyguy/SNDG_DL_WoPulleyShyguy.bars",
+            "hash": "B143508DA1B40D1BD6B88D5BE696D8B1C1D5E2CD13BF0D7825C218A1A36942BE"
+        },
+        {
+            "file": "content/0017/mapobj/DL_WoWaterWheel/DL_WoWaterWheel.bfres",
+            "hash": "C4A5C474BC29C6863178704842D0192257E8E80F029285F785D83DBE782FB53A"
+        },
+        {
+            "file": "content/0018/dl_permission.txt",
+            "hash": "CB43B240B5090CB33A22148E97811282F2BC58B98246315D885921F7A7A0ED1B"
+        },
+        {
+            "file": "content/0018/dl_reserve.txt",
+            "hash": "A90ED553F9FF634BF8982CD48C78584ADC414FB09DC52BE7A7D78A5D23A0DB9B"
+        },
+        {
+            "file": "content/0019/course/D3ds_NeoBowserCity/SNDG_D3ds_NeoBowserCity.bars",
+            "hash": "4C808609FE684EFAB389DC6D2D6B510D21D6934069CE5CFC91A764A65015B398"
+        },
+        {
+            "file": "content/0019/course/D3ds_NeoBowserCity/course.bgenv",
+            "hash": "70370BD3A9F630EF8B51C3322950D331D420EACD048542FF25481F299936634E"
+        },
+        {
+            "file": "content/0019/course/D3ds_NeoBowserCity/course.bglpbd",
+            "hash": "4B45BF93B57194CC594BEB439C5D20B499A9CAD51121F07994369560C1044C05"
+        },
+        {
+            "file": "content/0019/course/D3ds_NeoBowserCity/course.kcl",
+            "hash": "7A9C8F0C0C2064AF2041D1345B7D61BC6E1C99C0E4674BE23CADC6CEF897E5C1"
+        },
+        {
+            "file": "content/0019/course/D3ds_NeoBowserCity/course.ptcl",
+            "hash": "F0D0AEF1D1D381C74F365152972FAC361849008630FD0FBB7F1D93A2A1C89111"
+        },
+        {
+            "file": "content/0019/course/D3ds_NeoBowserCity/course_mapcamera.bin",
+            "hash": "67550CCCBD856C8F5CB61437C635F8A597F2CDA2565B3EE0F229B50CECFF204C"
+        },
+        {
+            "file": "content/0019/course/D3ds_NeoBowserCity/course_maptexture.bflim",
+            "hash": "F1375E7D471A811183A1CDFC521D80DE874132393F350FD30D47597A01F42868"
+        },
+        {
+            "file": "content/0019/course/D3ds_NeoBowserCity/course_model.szs",
+            "hash": "9BFA08B463F13138871F68913B03CACFA91261FDAC8AE2C80EE300FA46B568E8"
+        },
+        {
+            "file": "content/0019/course/D3ds_NeoBowserCity/course_muunt.byaml",
+            "hash": "E1D769923356D063243C58414F5D0576455AB406EE0ACE215BDF1A388CE3C8BD"
+        },
+        {
+            "file": "content/0019/course/Dagb_RibbonRoad/SNDG_Dagb_RibbonRoad.bars",
+            "hash": "D523BF74C1F99F9F6432957ACA10C6F35D6AAA36D892F6714AF2311E27E44D6D"
+        },
+        {
+            "file": "content/0019/course/Dagb_RibbonRoad/course.bgenv",
+            "hash": "3B4B372FD2460601E21D9C42F6A555589CB3163AD9FAB2C0D12B4D1489E99257"
+        },
+        {
+            "file": "content/0019/course/Dagb_RibbonRoad/course.bglpbd",
+            "hash": "56D517F6DD7C9399C4DFC1CC4716F235B8D790CD165AE80CA4E7E7E5B880877F"
+        },
+        {
+            "file": "content/0019/course/Dagb_RibbonRoad/course.kcl",
+            "hash": "783B85157773AE14D92C00B53190D325C88EFB3624A55CAEA26438D1456464A4"
+        },
+        {
+            "file": "content/0019/course/Dagb_RibbonRoad/course.ptcl",
+            "hash": "415742DC254665701D0466270E9B61D763EE46B64C4AC4D78339B89D7CBA1A19"
+        },
+        {
+            "file": "content/0019/course/Dagb_RibbonRoad/course_mapcamera.bin",
+            "hash": "97C482937667BAE2A89D04C2DBD368418D1FEF131153B285DA2D0037A2F81C5D"
+        },
+        {
+            "file": "content/0019/course/Dagb_RibbonRoad/course_maptexture.bflim",
+            "hash": "A0F722C3E3366F9FCD247F71828237FF7570351408708A1E98CF8B064144AB3F"
+        },
+        {
+            "file": "content/0019/course/Dagb_RibbonRoad/course_model.szs",
+            "hash": "D5A5FAE4D84626780124A7609FC2006A874E11F13826678E20B88133F608E2A8"
+        },
+        {
+            "file": "content/0019/course/Dagb_RibbonRoad/course_muunt.byaml",
+            "hash": "2055B80AEABE6EA400162EC6B81EA9DDC4E8AD60D22DC7154855271E53573DCD"
+        },
+        {
+            "file": "content/0019/course/Du_BigBlue/SNDG_Du_BigBlue.bars",
+            "hash": "494099B56248A360886E9EC52E3383EC8AA9A0BBFABBBC67BF84BD132EF7F567"
+        },
+        {
+            "file": "content/0019/course/Du_BigBlue/course.bgenv",
+            "hash": "537C6E46BA617070A40798E82278C50D1FCDCB9CDF49C25C279B9E8EEAE40458"
+        },
+        {
+            "file": "content/0019/course/Du_BigBlue/course.bglpbd",
+            "hash": "5DE6C0B3BF79DF954246C92B77883E3EF59EF38453E887293A8E01B2E8F8DF77"
+        },
+        {
+            "file": "content/0019/course/Du_BigBlue/course.kcl",
+            "hash": "FAC8522B15A7853CCD276A823A8A5D25DF46FDB62F303E0B7E3F74ED52E0B16B"
+        },
+        {
+            "file": "content/0019/course/Du_BigBlue/course.ptcl",
+            "hash": "DF3807F0D0652DAF973EFF9EFA0B94B687CFF2F8108C213628040FDCD35A7139"
+        },
+        {
+            "file": "content/0019/course/Du_BigBlue/course_mapcamera.bin",
+            "hash": "95713548F3A22D4637FA7F8A46C9ADF2278123D99C1AC77131D394DBC214461F"
+        },
+        {
+            "file": "content/0019/course/Du_BigBlue/course_maptexture.bflim",
+            "hash": "08598B160C23F5AA70C628E0D598A8181802C1B1CDA5DADAE3EFB3373F31E476"
+        },
+        {
+            "file": "content/0019/course/Du_BigBlue/course_model.szs",
+            "hash": "699379B3599B2FB740A980B024E43D4AD1051AC6146DA26D10C455A6D74E7F95"
+        },
+        {
+            "file": "content/0019/course/Du_BigBlue/course_muunt.byaml",
+            "hash": "BECF961DEEBCECFF2C423D7FB02C19DF58481CE1A086575960F1973179CCE13D"
+        },
+        {
+            "file": "content/0019/course/Du_Metro/SNDG_Du_Metro.bars",
+            "hash": "6C31CC72444B32D7B0F909FB6F45C49E97771DBAEB4FBDFE26289785BD403406"
+        },
+        {
+            "file": "content/0019/course/Du_Metro/course.bgenv",
+            "hash": "202F8E72785925E55A6279B10B181C779FB48BBCDDBA6119F5D14F9F3F4C0DD0"
+        },
+        {
+            "file": "content/0019/course/Du_Metro/course.bglpbd",
+            "hash": "157829D829B57A4577E7A4CBAED863F52778AA537AD1BEB14E67F0015D4765D4"
+        },
+        {
+            "file": "content/0019/course/Du_Metro/course.kcl",
+            "hash": "2EB790455DBF65FB7AC25AAF7F60803F9455C89AD33217EB47E60EFE79A7E0FA"
+        },
+        {
+            "file": "content/0019/course/Du_Metro/course.ptcl",
+            "hash": "CF547665B89BC3232EF066C8E68FE05B2EB11D6F732DF7AB0474E9DC6ECC1229"
+        },
+        {
+            "file": "content/0019/course/Du_Metro/course_mapcamera.bin",
+            "hash": "65BDC1291E1B19D83DFF2415E689C4D5202347259BACFBB704E0E74DF9C58277"
+        },
+        {
+            "file": "content/0019/course/Du_Metro/course_maptexture.bflim",
+            "hash": "717B1008B1658849453B2A9DA33851005E9325EA3D18E53335770C5B3A0722FF"
+        },
+        {
+            "file": "content/0019/course/Du_Metro/course_model.szs",
+            "hash": "F9861F415BEE12418420F5F329E34F25785AFF4540E545A560E2C350B3250A11"
+        },
+        {
+            "file": "content/0019/course/Du_Metro/course_muunt.byaml",
+            "hash": "BFA20F64977CC2657BECDB58A0CFE2BEF906ACE5C67E5E0B6D13CCFFC8BFEE7A"
+        },
+        {
+            "file": "content/0019/course_dummy.txt",
+            "hash": "EFB57F180A1202B7FAE89C10F2722451140F5BF0D46E598D3E5EB3DD76A9C579"
+        },
+        {
+            "file": "content/0019/course_permission.txt",
+            "hash": "BEA3B1E5F44D77AEFB95D6ED03CCA386D3CEA914335FD426CF0390E61A0AFB98"
+        },
+        {
+            "file": "content/0019/mapobj/DL_BbAccelRing/DL_BbAccelRing.bfres",
+            "hash": "668A8B99DC8019355DF5EC7CA57AB9D27EB5AC49C76AEEB9340B80CF803B71E9"
+        },
+        {
+            "file": "content/0019/mapobj/DL_BbAccelRing/SNDG_KTOBJ_DL_BbAccelRing.bars",
+            "hash": "AC4BC24E047B78AD001E58845297DD0BCFDF13B21D4A751794E7449AAF54F4A9"
+        },
+        {
+            "file": "content/0019/mapobj/DL_BbAirship/DL_BbAirship.bfres",
+            "hash": "FC764B50675F5C3284D5E55AEDE59A434D959D8220A076E5B253785A66BF6123"
+        },
+        {
+            "file": "content/0019/mapobj/DL_BbBoardPart/DL_BbBoardPart.bfres",
+            "hash": "54FAFDAE68FB5CD66CC64EED2C708CED50D559F6E78E65F2C4DCA3595AEBEBC9"
+        },
+        {
+            "file": "content/0019/mapobj/DL_BbBuildA/DL_BbBuildA.bfres",
+            "hash": "541B801AAC27D5D4AAA0693F75E0113898121B359940C7CE5722F71E0FE0DFCD"
+        },
+        {
+            "file": "content/0019/mapobj/DL_BbCannon/DL_BbCannon.bfres",
+            "hash": "C175A73F4C06DE343DF2A40351C950726E3C7CA5FB37FFA84654AA7C1A06D37F"
+        },
+        {
+            "file": "content/0019/mapobj/DL_BbCars/DL_BbCars.bfres",
+            "hash": "CA5C5B897B0206DC44C1E7CC3F17D2EF73B77D5F98A056B192D431AF7C7DBEE1"
+        },
+        {
+            "file": "content/0019/mapobj/DL_BbCarsB/DL_BbCarsB.bfres",
+            "hash": "FB561DD168520CB7A24AF2CB04778AA4CE3CFA66B2087442A919A234CA51D4CC"
+        },
+        {
+            "file": "content/0019/mapobj/DL_BbDash/DL_BbDash.bfres",
+            "hash": "1FB80DF54293C552E36CFB0837077C36FCA523B6D7ECE632D57761C667855E1A"
+        },
+        {
+            "file": "content/0019/mapobj/DL_BbDash/DL_BbDash.kcl",
+            "hash": "F1C2A532CF67FE2361C495F72EB8C1BBCE37D309340EC99A71E70EF48F423A90"
+        },
+        {
+            "file": "content/0019/mapobj/DL_BbJets/DL_BbJets.bfres",
+            "hash": "16148EB9E52642E8DA2E0BC95E97A835068505693288A1BEA4DD83D0E81058F5"
+        },
+        {
+            "file": "content/0019/mapobj/DL_BbPipeRing/DL_BbPipeRing.bfres",
+            "hash": "F93F96550763E0D348571C0CB47B8B922B45E185B1C5C69B590B4C35252A1ADE"
+        },
+        {
+            "file": "content/0019/mapobj/DL_BbRotaryBoardA/DL_BbRotaryBoardA.bfres",
+            "hash": "CC41E0DBEFE03C3CFF2C3E13F64FCF8C053C585BAA2E28D466C5384CB3AF9F45"
+        },
+        {
+            "file": "content/0019/mapobj/DL_Bbguide/DL_Bbguide.bfres",
+            "hash": "F7FB9E4B0376A442F631BAEEB48847C7873D3CF04B8E9D3B243B26AA4BFB8018"
+        },
+        {
+            "file": "content/0019/mapobj/DL_MechaKoopa/DL_MechaKoopa.bfres",
+            "hash": "28CF09F0371CA1CC9D98B125778DF03C21824E5BF8194F3D11868775FED4CCA0"
+        },
+        {
+            "file": "content/0019/mapobj/DL_MechaKoopa/SNDG_DL_MechaKoopa.bars",
+            "hash": "2C98F256822293DBC8CD55D6B60FB62C9897292108546702F2700BA2F007C122"
+        },
+        {
+            "file": "content/0019/mapobj/DL_Metro/DL_Metro.bfres",
+            "hash": "042274593C9724EB75C31769A1D172498F67B23B88D4F7627A079F8ADE7C7F85"
+        },
+        {
+            "file": "content/0019/mapobj/DL_Metro/DL_Metro.kcl",
+            "hash": "4C5AD51D58597ED6AFB593DF90A1D2A54D6946D673D5E26585FE1FE2B9DB6A76"
+        },
+        {
+            "file": "content/0019/mapobj/DL_Metro/DL_Metro_Middle.kcl",
+            "hash": "37A6EAE1DD33D51EF036A38DF280744E85C1FD36696DBF84BDD0E91F03B77167"
+        },
+        {
+            "file": "content/0019/mapobj/DL_Metro/DL_Metro_Rear.kcl",
+            "hash": "EC2494BF4A4CE16AB3D6CAD06BFC662532437D924064590D3B93D0CA2D9B11FD"
+        },
+        {
+            "file": "content/0019/mapobj/DL_Metro/SNDG_DL_Metro.bars",
+            "hash": "887899D8637679660A04AB57BBBF5AD8CE4E74983CC50056F375CB819CF2CE48"
+        },
+        {
+            "file": "content/0019/mapobj/DL_MetroDash/DL_MetroDash.bfres",
+            "hash": "789362C43E5177B640B1BABF4FBE4A52221D121ECB7F5911F5507C1C250C6158"
+        },
+        {
+            "file": "content/0019/mapobj/DL_MetroDash/DL_MetroDash.kcl",
+            "hash": "546F92861105DD1EEEDC989CBDDAB6BA5CFDDAEB47C4DD70FA2C46C94BF753C1"
+        },
+        {
+            "file": "content/0019/mapobj/DL_MetroTollBar/DL_MetroTollBar.bfres",
+            "hash": "2FFE22A2F983AF3384D760CD173F8E577DE664134A4BCA89912F78A5B2D93B33"
+        },
+        {
+            "file": "content/0019/mapobj/DL_NkArrowArea_A/DL_NkArrowArea_A.bfres",
+            "hash": "3BF882633D4FC656A9A82BEF8567D75A7FBDF0DA2986D2085959A6657E08C390"
+        },
+        {
+            "file": "content/0019/mapobj/DL_NkArrowArea_B/DL_NkArrowArea_B.bfres",
+            "hash": "08ACB95DF5DCCE5D05E42DE2A39DF68C163D2414A0EACC1EB320974BB8ED5524"
+        },
+        {
+            "file": "content/0019/mapobj/DL_NkArrowArea_C/DL_NkArrowArea_C.bfres",
+            "hash": "C452286F624C1EA6AC424CB96DC2F9B847233EA34D331A022EE5A141B5450D1F"
+        },
+        {
+            "file": "content/0019/mapobj/DL_NkArrowArea_D/DL_NkArrowArea_D.bfres",
+            "hash": "FF52CEAA0B74D76D4656B6E042D6362E5E7961370DAE9F082442AD4D64D8A9DE"
+        },
+        {
+            "file": "content/0019/mapobj/DL_NkArrowArea_E/DL_NkArrowArea_E.bfres",
+            "hash": "93D3AD7C764CEFD79936C65EC804165E1B7E71BA69B386AE2B61BAD1C4297F9D"
+        },
+        {
+            "file": "content/0019/mapobj/DL_NkCars_A/DL_NkCars_A.bfres",
+            "hash": "5DDEDAD4182772E04F81F805B027518FE5A86566396A10CFD4F10C15A193D45C"
+        },
+        {
+            "file": "content/0019/mapobj/DL_NkClown/DL_NkClown.bfres",
+            "hash": "4A8E3DA70EAE1A112AF01A52EA75AC84053285B7618C9B85D3E18227DF871537"
+        },
+        {
+            "file": "content/0019/mapobj/DL_NkClownW/DL_NkClownW.bfres",
+            "hash": "92DE1AA0EAE9E8E6FFE0B4AC70C0362C5791B1B371CA1AE857323597692B39A2"
+        },
+        {
+            "file": "content/0019/mapobj/DL_NkClownW/SNDG_DL_NkClownW.bars",
+            "hash": "18A97DC29EDB056C88655029E6D363E9302AF6D248474D3F42DBA810AC165CF3"
+        },
+        {
+            "file": "content/0019/mapobj/DL_NkElevator/DL_NkElevator.bfres",
+            "hash": "E3137ECAB4723E699FD0E32AA81EF608527742C7167E13954EC332B3006103C0"
+        },
+        {
+            "file": "content/0019/mapobj/DL_NkGate/DL_NkGate.bfres",
+            "hash": "C8566349B46F34101FFC16A2AA35BA7CEE9C2D876C3AF581FAB23160B539A5AC"
+        },
+        {
+            "file": "content/0019/mapobj/DL_NkGate/SNDG_DL_NkGate.bars",
+            "hash": "C2E4FA1BF188136F9B90F06F80D4A7DF38EBB62573E550A7E38A44111FA21FC1"
+        },
+        {
+            "file": "content/0019/mapobj/DL_NkRotaryBoard_A/DL_NkRotaryBoard_A.bfres",
+            "hash": "45DF46E97DDB79322A861B554FFE74738866A890B7F3332C227C2696813EB268"
+        },
+        {
+            "file": "content/0019/mapobj/DL_NkSearchLight/DL_NkSearchLight.bfres",
+            "hash": "BC921002775B163058F499D411CF6B237350462ED133B03DA3267AD72B7DD28E"
+        },
+        {
+            "file": "content/0019/mapobj/DL_RibbonBox/DL_RibbonBox.bfres",
+            "hash": "E3BFD876BBABA33F0310D51A2BEDE2AC1CFDE6F23B2942010162008C14B34323"
+        },
+        {
+            "file": "content/0019/mapobj/DL_RibbonBox/SNDG_DL_RibbonBox.bars",
+            "hash": "E937E9B949BB3BE99F9DBF67F0EB5E81A4D96EB804A8A215A388BC78EF645210"
+        },
+        {
+            "file": "content/0019/mapobj/DL_RibbonRoad/DL_RibbonRoad.bfres",
+            "hash": "FA45F5619EB85497A802C12AA9BDFAEAE6EF4369791CC0F79F84CEBC25E3A11B"
+        },
+        {
+            "file": "content/0019/mapobj/DL_RibbonToad/DL_RibbonToad.bfres",
+            "hash": "A545ECCD2565249E7839F8294F9FF559BED6D78DA3680074DFAF5F5B8EBEBE65"
+        },
+        {
+            "file": "content/0019/mapobj/DL_SpinTurboBar_Bb/DL_SpinTurboBar_Bb.bfres",
+            "hash": "AC6168086A8DA31E427310D0973DD45E9522EC7A67874725245D61EAED6AE7C1"
+        },
+        {
+            "file": "content/0019/mapobj/DL_SpinTurboBar_Nk/DL_SpinTurboBar_Nk.bfres",
+            "hash": "B2B2A8AD2437E17B7CC1512E631F81E9E540CB6EDA08013B0B3BFE73B2465D9A"
+        },
+        {
+            "file": "content/0019/mapobj/DL_StationAlarm/DL_StationAlarm.bfres",
+            "hash": "361B73E1ADC71AF99F111E893B6DF6D1F2C13CCE521DADB1138C5612975C9514"
+        },
+        {
+            "file": "content/0019/mapobj/DL_StationAlarm/SNDG_DL_StationAlarm.bars",
+            "hash": "773D8DC03104B3FD5F6583072BADBAC11557284F0FF5BBC6B9E654CAE15C4525"
+        },
+        {
+            "file": "content/0019/mapobj/DL_TicketGate/DL_TicketGate.bfres",
+            "hash": "1946DEBC6961D22CAD85E8D46CB9B6B69D446FEA3272437353E6760CA76A218A"
+        },
+        {
+            "file": "content/0019/mapobj/DL_TicketGate/SNDG_DL_TicketGate.bars",
+            "hash": "DAC1C30DEDFCF35488DBD5CF1A14E3F53E29E8D88C8D3AD700194CD4B7252189"
+        },
+        {
+            "file": "content/0019/mapobj/DL_VRAnimalSummer/DL_VRAnimalSummer.bfres",
+            "hash": "940FE6F6E02F4D3B3839B917FB5022433CC1477FB6ACE4D07DB3DDB7DC910BBF"
+        },
+        {
+            "file": "content/0019/mapobj/DL_VRBigBlue/DL_VRBigBlue.bfres",
+            "hash": "7752ADFBCD754BEA69E6EB4F63989F3D12226669F76E4E8FC7FC751B54582604"
+        },
+        {
+            "file": "content/0019/mapobj/DL_VRNeoBowserCity/DL_VRNeoBowserCity.bfres",
+            "hash": "3C8BD023E37E3DC21268A323A1A8E20A3E3ED1D19C15193F33CFAC84FBD678F3"
+        },
+        {
+            "file": "content/0019/mapobj/DL_VRRibbon/DL_VRRibbon.bfres",
+            "hash": "AD8BD16B55F119742BD5AF33BAA9E3AFDFF0DFF873524DE3E8A9E95D2C63AD6F"
+        },
+        {
+            "file": "content/0019/mapobj/DL_VRSfcRainbow/DL_VRSfcRainbow.bfres",
+            "hash": "293A52CFA00CDC00A34BC1A9308316CE496E0623E61893455F5DE833F64B97D0"
+        },
+        {
+            "file": "meta/iconTex.tga",
+            "hash": "3F16C016BE2941C5D8E266CEB5E31E642CEF50167B3769323165B4F2C62F48D3"
+        },
+        {
+            "file": "meta/meta.xml",
+            "hash": "127F0E302B9A359EE3723E8FDAA99C3D24923E0E59E00A0B71B8330A7E2C484E"
+        }
+    ]
+}

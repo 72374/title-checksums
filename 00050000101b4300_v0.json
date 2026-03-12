@@ -1,0 +1,379 @@
+{
+    "title_id": "00050000101b4300",
+    "region": 4,
+    "version": 0,
+    "files": [
+        {
+            "file": "code/Family.rpx",
+            "hash": "F83F658A3C21A0764147F48E260332A1A0BF13A4EA145AFB39E8F3237956C8D8"
+        },
+        {
+            "file": "code/app.xml",
+            "hash": "790A7A5A4AF047A48DF4033DB4D914AB042F6C1E56222AA7E5E896364595D5CE"
+        },
+        {
+            "file": "code/cos.xml",
+            "hash": "F9BCBAEAEE2C794A1877C82999038C7A2875BB7E231E811F2839D109A04F4D91"
+        },
+        {
+            "file": "content/EffectData/EffectData.szs",
+            "hash": "1660B062BB9A25E5F3624B2F096D76DEDBAC94BEE27B7845E2E2D39B603F3B3D"
+        },
+        {
+            "file": "content/LayoutData/ButtonBackParts.szs",
+            "hash": "C43448AB429916DF401FD1BAE9A303D3075310AD51E7D4C04621C6B42575E806"
+        },
+        {
+            "file": "content/LayoutData/ButtonIconParts.szs",
+            "hash": "9C723D449F26500B96018B0499E724DF50C1366853F341B06D7A74F0319C6BBA"
+        },
+        {
+            "file": "content/LayoutData/ButtonIconSquareParts.szs",
+            "hash": "BEFFD8EA74DBD0DF7AAFA4F1F6CDCA2AB1EABE24CA6FE7BE534CB9DC0BB6CC74"
+        },
+        {
+            "file": "content/LayoutData/ButtonPlayGuideParts.szs",
+            "hash": "97BE62B72F19D579FC7F426ACA350A14B8CAF4C23409C9F84CA14258F9413200"
+        },
+        {
+            "file": "content/LayoutData/ButtonRectangleParts.szs",
+            "hash": "0DB57C868F32FFB265F177DD39A661176BA51FCABA551AABAC6AF23E1E66D611"
+        },
+        {
+            "file": "content/LayoutData/FadeBlack.szs",
+            "hash": "6D1D65D05599B10C40FB859FACC00832A4C4D4C31F066CC145624ACB1D0E6E89"
+        },
+        {
+            "file": "content/LayoutData/GameOpen.szs",
+            "hash": "455BCE2622F27AEE2236B11F8051E7CFBDC71B82234DD26BEA5182ACA10B87D2"
+        },
+        {
+            "file": "content/LayoutData/GuideWindowParts.szs",
+            "hash": "EFBD53B44C4E3AA495EB64394BA11058027D623ED43304259307F362C8A448F0"
+        },
+        {
+            "file": "content/LayoutData/OwnerInfoParts.szs",
+            "hash": "B88D25902D1109F254E0CC5E00E3EC80763147F0DB8C79F3109C908802E2A417"
+        },
+        {
+            "file": "content/LayoutData/PauseScreen.szs",
+            "hash": "F565E19587B0D3423B6AA9C3AD99BD0600CC6B84B435E358A3336E245655E762"
+        },
+        {
+            "file": "content/LayoutData/TitleMenu.szs",
+            "hash": "5693C165969912DE1E28FB04994DB3F25A347A1F6766529B6FF1D3ED9212A719"
+        },
+        {
+            "file": "content/LayoutData/TitleScreen.szs",
+            "hash": "5EC1FF454AD44ED4AD32BEDF6D0B7D461FB4D5E1E12ADC7C1AF210CD39D1A499"
+        },
+        {
+            "file": "content/LayoutData/VcListParts.szs",
+            "hash": "94AF8E215736EE34EC3337FE7E6A46D639C4A02DD41342BD22A58E6FB1F7C3B0"
+        },
+        {
+            "file": "content/LayoutData/VcScreen.szs",
+            "hash": "BB7ECAB689BC6995ABCF0F8C18BF08181568C8035AE5655BA85514F964671DFF"
+        },
+        {
+            "file": "content/LayoutData/VcTexture.szs",
+            "hash": "036EE743BAF1A61AE7D437253CBAC72653C96CF7F240590249FD9128583926CE"
+        },
+        {
+            "file": "content/LayoutData/WindowAmiiboTouch.szs",
+            "hash": "5BF8E74D04EB0932BAE2DEF7C149684716D853D3D79D3DB1CC07E8298B1D13EA"
+        },
+        {
+            "file": "content/LayoutData/WindowConfirmAmiibo.szs",
+            "hash": "E61BF038259F21C4C23E64A9030500041F148F82B6383876FC3BBE53B1A928E3"
+        },
+        {
+            "file": "content/LayoutData/WindowConfirmDouble.szs",
+            "hash": "A54CFC0A728CB283A4CB94E74624DDD2EF4FCB11EE8A51A436E0060728C86F15"
+        },
+        {
+            "file": "content/LayoutData/WindowConfirmPlayGuide.szs",
+            "hash": "D50D18ED7473FF120DE107705F8BC3E2677B2BB0A9D59BA28EBE49D12C2F1662"
+        },
+        {
+            "file": "content/LayoutData/WindowConfirmReport.szs",
+            "hash": "7A30808D7B38701F0941733B02F9E0D3AA8DB01F2717B2629FEF88F3D0402527"
+        },
+        {
+            "file": "content/LayoutData/WindowConfirmSingle.szs",
+            "hash": "86520EF53843EB1EDF9C17E2BAFF2B34E9D6752C6BE60AD27CD336B88D174598"
+        },
+        {
+            "file": "content/LayoutData/WindowMessage.szs",
+            "hash": "15A2289D89925E62AC542C7B7A84518A01B718AD282878F713EEF87FD852E4D6"
+        },
+        {
+            "file": "content/LayoutData/WipeGameOpen.szs",
+            "hash": "421E10B138C61A8EA089C0FF2F7022BA55549D2A701BFC3312555A63380507A4"
+        },
+        {
+            "file": "content/LocalizedData/Common/ProjectData.szs",
+            "hash": "32DE8179DBFAC7B52F6EE9749343E06DB48F7B4B0D3245F3A9AD9B0BF778C494"
+        },
+        {
+            "file": "content/LocalizedData/EUde/LayoutData/FontData.szs",
+            "hash": "B1399BD36FFF9FDEF4BBB53A4B80ECC3B3C50FE2E78D43D1443F31E5B9EEFA73"
+        },
+        {
+            "file": "content/LocalizedData/EUde/MessageData/LayoutMessage.szs",
+            "hash": "B428F708536361159B017B92691F89827A6F13C82D74D79F8C3A94800EF53D60"
+        },
+        {
+            "file": "content/LocalizedData/EUde/MessageData/SystemMessage.szs",
+            "hash": "AE8C39AA62C38A3DEA650C7770C8150F951703FE7A81A8E2B9A79946FF05E7CC"
+        },
+        {
+            "file": "content/LocalizedData/EUen/LayoutData/FontData.szs",
+            "hash": "B06906B8451655748AC53E87564AD9EB6DF03D5F70877309C56E7444C3524085"
+        },
+        {
+            "file": "content/LocalizedData/EUen/MessageData/LayoutMessage.szs",
+            "hash": "D5724598BD48780C98A059AF035F1D9A201F1E857DDD2FA65C66493F950E9D16"
+        },
+        {
+            "file": "content/LocalizedData/EUen/MessageData/SystemMessage.szs",
+            "hash": "E41C7EB3BD1C30AD14B164B121EB97A2DE260CAE6F16B8EA64AADD175D299517"
+        },
+        {
+            "file": "content/LocalizedData/EUes/LayoutData/FontData.szs",
+            "hash": "AD30DDA2285B48EF856F98BBFBA67F855206F37292DC567DBE8FB18BBC61ED00"
+        },
+        {
+            "file": "content/LocalizedData/EUes/MessageData/LayoutMessage.szs",
+            "hash": "28355DC9B93F51E60B0E34369A7CE7B0EE4D02C149AF6BDBB72E54F525C22D90"
+        },
+        {
+            "file": "content/LocalizedData/EUes/MessageData/SystemMessage.szs",
+            "hash": "CE5A7E7071D40FDE0F9EE33DAC7E0C1EA8ECBA629CD8B718CFB8F920A6454333"
+        },
+        {
+            "file": "content/LocalizedData/EUfr/LayoutData/FontData.szs",
+            "hash": "A5FAB04EB03864480E8D099698139FD27A5D4B8BAA6DE36B4BA4141DF1E9D97F"
+        },
+        {
+            "file": "content/LocalizedData/EUfr/MessageData/LayoutMessage.szs",
+            "hash": "72B72C25D0D886252DAA81BCDB5655F07B2167DE28C78502F673DFC64D64FE02"
+        },
+        {
+            "file": "content/LocalizedData/EUfr/MessageData/SystemMessage.szs",
+            "hash": "21DF1E59BEBE636066F83977A132C47E13447534019950332D440F013FFD3359"
+        },
+        {
+            "file": "content/LocalizedData/EUit/LayoutData/FontData.szs",
+            "hash": "0213C67FC4BCB268B1CF41229F7BB56059A2203CCC5DC8C2D68C7119E2E89088"
+        },
+        {
+            "file": "content/LocalizedData/EUit/MessageData/LayoutMessage.szs",
+            "hash": "134EBE31CBF9222C6C1D72E0BC1B9AA6E9734C8E07FD5F65FF089AC0949D7A54"
+        },
+        {
+            "file": "content/LocalizedData/EUit/MessageData/SystemMessage.szs",
+            "hash": "D43CE0B149013E9A51F6071448018C9B80E06753692578EC8720018A5C29896C"
+        },
+        {
+            "file": "content/LocalizedData/EUnl/LayoutData/FontData.szs",
+            "hash": "0902176E16BD7307BB8091353D117331D82F2E4C1400EB5783AF3AE35F9D5CAF"
+        },
+        {
+            "file": "content/LocalizedData/EUnl/MessageData/LayoutMessage.szs",
+            "hash": "46F36ED74D9D11F4C1D47F30186177E6F808513F763DE8D01638072519251CA7"
+        },
+        {
+            "file": "content/LocalizedData/EUnl/MessageData/SystemMessage.szs",
+            "hash": "344CF0B4221525B3DE03372ED0CDBA6FA92151F75256DC5E4AF834A9F5746858"
+        },
+        {
+            "file": "content/LocalizedData/EUpt/LayoutData/FontData.szs",
+            "hash": "B06906B8451655748AC53E87564AD9EB6DF03D5F70877309C56E7444C3524085"
+        },
+        {
+            "file": "content/LocalizedData/EUpt/MessageData/LayoutMessage.szs",
+            "hash": "E7008F03F19271ACD3B5954CD2C434B36FC09174801E468987F629EAD52758EB"
+        },
+        {
+            "file": "content/LocalizedData/EUpt/MessageData/SystemMessage.szs",
+            "hash": "2DD7923583A1543B779F593D6D665F56B8F597924560285983703B178854A487"
+        },
+        {
+            "file": "content/LocalizedData/EUru/LayoutData/FontData.szs",
+            "hash": "73F244BB1EDC7D4C2F05C867E727595BE277547AD663F80EAC446D098730A605"
+        },
+        {
+            "file": "content/LocalizedData/EUru/MessageData/LayoutMessage.szs",
+            "hash": "65B9B5E2609A35FE1F6E89179F6ACE40C061DE8489269D7D430B1318E001A9A2"
+        },
+        {
+            "file": "content/LocalizedData/EUru/MessageData/SystemMessage.szs",
+            "hash": "E9413286CED4AFAA5782A0D3C8A606DA22EAD6360BBC46DC97411D6AD72913DE"
+        },
+        {
+            "file": "content/SoundData/BgmData.bfsar",
+            "hash": "13A4BEA563E261364CD0792EB50B311194C50A0CDEB7F65B7576480ED310D782"
+        },
+        {
+            "file": "content/SoundData/BgmDataBase.szs",
+            "hash": "E7468881080ABC479FB45CADA053C3D2293B40F61E28853B33AF74F6A06FFE41"
+        },
+        {
+            "file": "content/SoundData/SeData.bfsar",
+            "hash": "0125B584DD9127305AFB11C880607160D2BCE6E0C29CCDFB177ECD67FED8132F"
+        },
+        {
+            "file": "content/SoundData/SeDataBase.szs",
+            "hash": "90D81E1B1FF93777E60318CDA18A2D34AB51329837F27A46D5C4B8798D094903"
+        },
+        {
+            "file": "content/SoundData/SeResourceStdSystem.sarc",
+            "hash": "C7D94BDCAD7842345949D6334E3BF6251FBF25C9A578164DEF6001A45BFFC8E4"
+        },
+        {
+            "file": "content/SoundData/stream/DummyBlank.dspadpcm.bfstm",
+            "hash": "79B64DF2BBC98D07878EB60D349B2BF986E56999F9DB712CD757E8710FB6752C"
+        },
+        {
+            "file": "content/SoundData/stream/Family_Title_BGM.my.32.dspadpcm.bfstm",
+            "hash": "7C57FD048386913313F909E37D61B1210162CF1AE9B64173F81951644CC98F8E"
+        },
+        {
+            "file": "content/SystemData/BackupData.szs",
+            "hash": "57A8AE8716CD09D1449DC6DB0E09D54977575C4E8F9DE04B2487174748B3428B"
+        },
+        {
+            "file": "content/SystemData/BrowserJumpUrl.szs",
+            "hash": "B8A27201ED206E8EAF7226DBFA4CD825E562AF5571D4C33006395E9ED913DDEC"
+        },
+        {
+            "file": "content/SystemData/LayoutShader.szs",
+            "hash": "10303A2FB2443E953572FE463AB499FD4B8C46F9BBA65CE7E083E7339F0ACE4E"
+        },
+        {
+            "file": "content/SystemData/MiiSystem.szs",
+            "hash": "4E602FE770A58AEF075C47929446BEDB5868157CE1FD386E62064B218FBFD6C9"
+        },
+        {
+            "file": "content/SystemData/ResourceSystem.szs",
+            "hash": "9250AE474A85C3098212CA408DC4E45C8E12B5E085351254976364F2294024F1"
+        },
+        {
+            "file": "content/SystemData/VcRomDataUs.szs",
+            "hash": "C3FB962548578F5A6E6545795E3D140F8FCF5C702D0F84D965D74B65372AD05F"
+        },
+        {
+            "file": "content/SystemData/primitive_renderer_cafe.gsh",
+            "hash": "27C12959A068F6DCA780D52AD39EA81B8683CD2C74DA703A224855A29EE190E6"
+        },
+        {
+            "file": "meta/CERO_ja.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/CGSRR_zh.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/COB_en.jpg",
+            "hash": "2DE14722E55FDD5A04A0F399D145D1BDAA65394E3CC7C1B1EC199192DAA74ABB"
+        },
+        {
+            "file": "meta/ESRB_en.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/ESRB_fr.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/GRB_ko.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/Manual.bfma",
+            "hash": "E45228A3B2329E348DB4E1E1F787B847CB609F8818172E42A6322F907734C182"
+        },
+        {
+            "file": "meta/OFLC_en.jpg",
+            "hash": "7DB3FA7961ED5D73F5A1AE3B098C2756E7C6BC4B9D0E79EE2E603FA7566B4BB8"
+        },
+        {
+            "file": "meta/PEGI_BBFC_en.jpg",
+            "hash": "CDAF65EE962D64C9F6EF7B7A023F9D81E4D7BB819D19258C75F502F5BCF0D25F"
+        },
+        {
+            "file": "meta/PEGI_Portugal_pt.jpg",
+            "hash": "756B18031453FEAF8E3BB1813A8BC89187A97245F758A4913949B16B73F80392"
+        },
+        {
+            "file": "meta/PEGI_de.jpg",
+            "hash": "1366BF9F6E7386E75F160E002B8567CE4C589BD6F526AE3E73A6348BA6B865C6"
+        },
+        {
+            "file": "meta/PEGI_en.jpg",
+            "hash": "CDAF65EE962D64C9F6EF7B7A023F9D81E4D7BB819D19258C75F502F5BCF0D25F"
+        },
+        {
+            "file": "meta/PEGI_es.jpg",
+            "hash": "05F3F319FF6EB7C7A1F3A1F0D850EC44F6F85E4B302694912566682E6EE74268"
+        },
+        {
+            "file": "meta/PEGI_fr.jpg",
+            "hash": "0FB716EF7FF43141503AE35DEF4807763E3DDB639872E1BAA3BA5ED78165CA47"
+        },
+        {
+            "file": "meta/PEGI_it.jpg",
+            "hash": "B298B5C6EA4C78E2243C1C3154CD40768B505AB292A0B64EC958315B7EF4D425"
+        },
+        {
+            "file": "meta/PEGI_nl.jpg",
+            "hash": "406C8CB9111C56E6D11C413A13165A977926F29F6E151182B0CE90C52FCF84F8"
+        },
+        {
+            "file": "meta/PEGI_pt.jpg",
+            "hash": "93184870D6261E377C8F609E83A91BBF4ED0ED7386BDE9219FDD8034C50171D7"
+        },
+        {
+            "file": "meta/PEGI_ru.jpg",
+            "hash": "A1974F857718D094D4A8DE0D7A0B599AC3730A822FA4F89C6EA233186478C4F5"
+        },
+        {
+            "file": "meta/RAR_ru.jpg",
+            "hash": "DB9D2E04572A77692A9FCEF25CD012B0F42728774B0484F4A93A9C6BCD16D8AE"
+        },
+        {
+            "file": "meta/USK_de.jpg",
+            "hash": "B86065D6D96101273C1C30024646328E639620D2E8DEC937F0EF1AE66803FFC0"
+        },
+        {
+            "file": "meta/bootDrcTex.tga",
+            "hash": "BE9A077EF6551ED6B543F7D68FAE3E434DD41EBE236432BBB91DB68DF5671354"
+        },
+        {
+            "file": "meta/bootLogoTex.tga",
+            "hash": "91B63D9C03F7F9153C8B9FC8179E1CCCB6F4AFC60204B988D91D1B5EFCEE4AA8"
+        },
+        {
+            "file": "meta/bootMovie.h264",
+            "hash": "069FD8C5713F4B23EA1098D2674BCC839E610BA844683BF532E1E6CB10642621"
+        },
+        {
+            "file": "meta/bootSound.btsnd",
+            "hash": "C6568BA28A109C0FD56FDF470F403E50A8D25940F6BAB863C0990E5C4E1F2207"
+        },
+        {
+            "file": "meta/bootTvTex.tga",
+            "hash": "994CBE931C990F6B97314A55438586A28D1EA9A463B1D0918464B497CC124AEA"
+        },
+        {
+            "file": "meta/iconTex.tga",
+            "hash": "C40B4ADD6782443EC8757FAA942C91CD2CD3E91F776138FE7779E09AD73173C3"
+        },
+        {
+            "file": "meta/meta.xml",
+            "hash": "1CD091BC7FF0963CDDD42FC7C163191771FB7011847665C0F4ED8399F90D67E3"
+        }
+    ]
+}

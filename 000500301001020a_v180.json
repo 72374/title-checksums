@@ -1,0 +1,87 @@
+{
+    "title_id": "000500301001020a",
+    "region": 4,
+    "version": 180,
+    "files": [
+        {
+            "file": "code/app.xml",
+            "hash": "51CE8F9B5663767E17F031491492BC17EAD45D8BC6B42F0E89CD5DF3D664B843"
+        },
+        {
+            "file": "code/cos.xml",
+            "hash": "AE379EDB5FA1989042137E92D3503C3CC3530B49454C654C5571B9BACDC1F5F7"
+        },
+        {
+            "file": "code/hbm.rpx",
+            "hash": "D60335CFE5959F08D7822B2C00DB07307FD491F47BAFC38F5AD4E349F952790E"
+        },
+        {
+            "file": "code/preload.txt",
+            "hash": "F9BA9D5065EDCE4014556C13EAD43A42699CB96401E90122E788383C22D04B36"
+        },
+        {
+            "file": "code/title.fst",
+            "hash": "B13D7786935EF00FD81481F39B7615B0935CCA6C9B3EA88FE84677EB4FE4E74B"
+        },
+        {
+            "file": "code/title.tmd",
+            "hash": "6C1440EFB845220D24892C2B158EA4F42928610F3B7D12D746027A91E310718D"
+        },
+        {
+            "file": "content/Common/Package/Hbm.pack",
+            "hash": "B7EE2C7F0B6E9258BA46430644C5EC3BF070E0AD8B9F32EDEA7223847939AE5E"
+        },
+        {
+            "file": "content/Common/Package/Hbm2-1.pack",
+            "hash": "AC6C1372CA800B5F87B16D588FDAF39E421A38B98311E17FA6BFD165F91CB423"
+        },
+        {
+            "file": "content/Common/Package/Hbm2-2.pack",
+            "hash": "7A923B0AA7D12B8FF4838E135AF6BDBC800A70C1FE4C8221BF29CE6D198897ED"
+        },
+        {
+            "file": "content/Common/Package/Inf2.pack",
+            "hash": "E08D0C097D1B1671DD6CDC4B4EAF3624CDB3EA413CBE8FF37E09F37EB10710D5"
+        },
+        {
+            "file": "content/Common/System/RegionLang.txt",
+            "hash": "029B9AE1CB01A93D95862392AB96885980091019D7DBD559A35F575CD5FFA7AF"
+        },
+        {
+            "file": "content/Common/System/revision.txt",
+            "hash": "46831674BA44EF6F98A60B3F02D16C70FBACD87D522101791D480DE65736EDB8"
+        },
+        {
+            "file": "content/Common/System/timeStamp.txt",
+            "hash": "606231669803CE639013B7649469756769C5647D3B5B8C58F69459BD3AF5E65C"
+        },
+        {
+            "file": "content/Common/System/timeStampV.txt",
+            "hash": "8E5126E8B67B75EA8B4195E1A7A4805FB29000E5799D5BCD17F3F77D130255B5"
+        },
+        {
+            "file": "meta/bootDrcTex.tga",
+            "hash": "9E02028B817F1C0DF90B2CE02C3F828E8E8711680FB6788580EBAE27251729D3"
+        },
+        {
+            "file": "meta/bootLogoTex.tga",
+            "hash": "91B63D9C03F7F9153C8B9FC8179E1CCCB6F4AFC60204B988D91D1B5EFCEE4AA8"
+        },
+        {
+            "file": "meta/bootMovie.h264",
+            "hash": "069FD8C5713F4B23EA1098D2674BCC839E610BA844683BF532E1E6CB10642621"
+        },
+        {
+            "file": "meta/bootTvTex.tga",
+            "hash": "ADDA05804635F8DD639CF70C97B3212BE5EA50C7D020C6BC4853BF82230FE9AF"
+        },
+        {
+            "file": "meta/iconTex.tga",
+            "hash": "D1BF94116650B11A0ABBDB15CA653E8401476424F6B38CC6781FB6C60D09B00C"
+        },
+        {
+            "file": "meta/meta.xml",
+            "hash": "3F9D32BE69FFAAE927A61D9CEC914613FF83000051BC684702D646A0B2DAC181"
+        }
+    ]
+}
