@@ -1,0 +1,467 @@
+{
+    "title_id": "00050000101bca00",
+    "region": 4,
+    "version": 0,
+    "files": [
+        {
+            "file": "code/WiiULauncher.rpx",
+            "hash": "CB56DC45E044C74838419C3F0AA0E87BE417F80B6FBF414824F215604F6AB35D"
+        },
+        {
+            "file": "code/app.xml",
+            "hash": "43207CAF7BF271A36FB66AE464237FAB53865F9A84BA97FCEA80C86976311E44"
+        },
+        {
+            "file": "code/cos.xml",
+            "hash": "4567C499B24A621038807664EAE767D7AFCA377EF761028E5EED8C899EA3F673"
+        },
+        {
+            "file": "code/jsextension_ext-accounts.rpl",
+            "hash": "B53A08BC197102B67B2A03FB18E45F740FA3DE80B9DE99E6742FBFD5BEBECCAE"
+        },
+        {
+            "file": "code/jsextension_ext-core.rpl",
+            "hash": "0CF7DC6E1EC9755CA1B1269C672CB9BC7C6BCECD63EC6004012E17DDDABDBDBA"
+        },
+        {
+            "file": "code/jsextension_ext-fileio.rpl",
+            "hash": "2295A938251325E0EF255A6AD10A3FB5661BA397B0F32133EB8D82FC27940326"
+        },
+        {
+            "file": "code/jsextension_ext-input.rpl",
+            "hash": "9C25DCFB2B854863094D71E34BD7AA23A0239D4BEAFC73A22408D001A3A6E325"
+        },
+        {
+            "file": "code/jsextension_ext-network.rpl",
+            "hash": "951CA2DDBB04127A3281F9F926BB290AD1EEBAE906513D7AADF951DBFF99B2B4"
+        },
+        {
+            "file": "code/libJavaScriptCore_rpl.rpl",
+            "hash": "98B1FF4B6119A49668C93A66081399585D6D3F4168D31A90D697971CA18F143E"
+        },
+        {
+            "file": "code/libMIPluginDecoderOggVorbis_rpl.rpl",
+            "hash": "210E965197323217D9A4AC096FBB09D4374BCAD1D59928E05DFA430D596CD1AE"
+        },
+        {
+            "file": "code/libMIPluginDecoderWAV_rpl.rpl",
+            "hash": "90F51C9A37393BC3DFC928D61A8758904F05A0BAD76F27D763DEE73B03BB0150"
+        },
+        {
+            "file": "code/libMIPluginPlayerAudio_rpl.rpl",
+            "hash": "756004447303E8F8CDAE9DB3EF09E8BE3DC86DFB4A82A79D3741B22FC631924E"
+        },
+        {
+            "file": "code/libMIPluginTransport_rpl.rpl",
+            "hash": "49F129A0A79CDFA294273C225CBC889D1422C4A711B576ACB7CA4335571B334E"
+        },
+        {
+            "file": "code/libMIRegistry_rpl.rpl",
+            "hash": "19DB2AC87839DF0EE7A3504ED98F53ECD980ED0F1C15B2C64566ABB4641B1595"
+        },
+        {
+            "file": "code/libMediaInterfaceCore_rpl.rpl",
+            "hash": "6171F5B0CBB8760496675F7343E033116E64802861809AF4A60D02289A525AED"
+        },
+        {
+            "file": "code/libMediaInterfaceRenderer_rpl.rpl",
+            "hash": "84CEFB4BBF399434409DCBA9E59063476AA9C05237B798D720B7E2844C5F4DF6"
+        },
+        {
+            "file": "code/libWTF_rpl.rpl",
+            "hash": "D238A210FADEE370C07C09EE82EFE344E9D60B6D42348ADEF3B9B4292284A0C1"
+        },
+        {
+            "file": "code/libWebCore_rpl.rpl",
+            "hash": "B7E2915BBAF145F00E25785D1AE7C1DF0664C78A37C70A9895B2E7C61B2CC285"
+        },
+        {
+            "file": "code/libWebKit_rpl.rpl",
+            "hash": "96DFDBD0FCCFED035E846C2BEB390FE9B546A37B1A9FEF9CAEC2D14199338B45"
+        },
+        {
+            "file": "code/libcrypto_rpl.rpl",
+            "hash": "33498582D0CA13BFD96C671F3BA0C21108E00E8351F923A9F3CABAB6FA1B4370"
+        },
+        {
+            "file": "code/libcurl_rpl.rpl",
+            "hash": "C1EF7D1F40B0396D0056BC2BD2031A6418D8FEB42F69F071379DC6EEEF472F9E"
+        },
+        {
+            "file": "code/libffmpegfft_rpl.rpl",
+            "hash": "664B9EBB7FF8CBB8FA61094DA221CDBF1DF55DC3A906D27CE4155F4D76B0658D"
+        },
+        {
+            "file": "code/libicu_rpl.rpl",
+            "hash": "44CE0945670EC82A10AAF5229517980938AC803AF74E7DDB452DA873A3A24954"
+        },
+        {
+            "file": "code/libjpeg_rpl.rpl",
+            "hash": "C9F8A1D21AC9AEAD40973B137E878BFCA3086F5823E7A8A6946173950008BD6D"
+        },
+        {
+            "file": "code/libpixman_rpl.rpl",
+            "hash": "D2CFFB6BB3C1D2497E07E0FF00152ABB46D01DF253BBE9314115E6846CDB8325"
+        },
+        {
+            "file": "code/libplatform_rpl.rpl",
+            "hash": "F4BD8E6EB358DF9E39D3A14F7552E2245E088611338F8AA356676ED0932C403F"
+        },
+        {
+            "file": "code/libpng15_rpl.rpl",
+            "hash": "D42F0C64AD332A6D64A02375466C9D2D7F919E118F97432B0FD94E26839ECE70"
+        },
+        {
+            "file": "code/libshim_rpl.rpl",
+            "hash": "F9EE4249465BD34B212AAC5E5EE1F24B9CD8277121A6437D524266E55FBA8045"
+        },
+        {
+            "file": "code/libsqlite3_rpl.rpl",
+            "hash": "663655DD936AB50C89FEA91649F2F7E1FA435FC79C48EB0E871C464CBAF0B9A0"
+        },
+        {
+            "file": "code/libssl_rpl.rpl",
+            "hash": "905EEA0544B226CFD14161083358979D76BE1AF975D5D5688FA05D563CD227DC"
+        },
+        {
+            "file": "code/libwkaud_rpl.rpl",
+            "hash": "B8AEB384F33808C586EA09F7111780FAEBCEC49A87DA52C438D95CB48F116941"
+        },
+        {
+            "file": "code/libwksup_rpl.rpl",
+            "hash": "96C8A531ABDFD6B5257FECFB30D97389EB6E5985CA1FC3D01B9AB8026BCFD4FD"
+        },
+        {
+            "file": "code/libxml2_rpl.rpl",
+            "hash": "07ACDD9532BFD507FCFDD66ACC6E4802EA3A611153DEAC533FE4E372450F7280"
+        },
+        {
+            "file": "code/libxslt_rpl.rpl",
+            "hash": "8693327B23676D9CD6950A50EDCBBB8D437F252D6ACAE2F10D86F325D37F7A75"
+        },
+        {
+            "file": "code/libz_rpl.rpl",
+            "hash": "C429E1A6CB121436FCF1420049841868E8317951C313F2E8606F0DF6F6246232"
+        },
+        {
+            "file": "code/mvplayer.rpl",
+            "hash": "2AE1E7FD0D9778CA2A244BED35D70912EBCCD3AE66B3DECBE72FC6FA1DA87901"
+        },
+        {
+            "file": "code/preload.txt",
+            "hash": "297A760D97A9EB1B736447607E25C07B166AE1020F8DD81F227E32AFF505469D"
+        },
+        {
+            "file": "content/app/.DS_Store",
+            "hash": "BB82ACF381ADBA9DF69EB00FF6FBE81717BBD9A0898AEBEFD55935966C347E90"
+        },
+        {
+            "file": "content/app/SupportLibraries.js",
+            "hash": "6340A4B9E8EED8FAF90E9F1E697A715896E5F2F120187861D64628A627D4041B"
+        },
+        {
+            "file": "content/app/appinfo.xml",
+            "hash": "34BD603665A19DE9B486333D489EE67D6F819ACC5F7C1380DD7E6BA1B04D6D53"
+        },
+        {
+            "file": "content/app/certificates/ca-bundle.pem",
+            "hash": "326BA943D88759807893E505B5726663A0CFB6061B1D2F377602F0457803F721"
+        },
+        {
+            "file": "content/app/config.xml",
+            "hash": "B2F76D8AFF19FE14260152DE108BE35DB8BB0405E93068C4C9E629EEEDE002BB"
+        },
+        {
+            "file": "content/app/gamepad.html",
+            "hash": "CC381C245360F0CEC9CEBC7419CAAEC412923D0C6C5A9BE3C4E085DF624FCC4D"
+        },
+        {
+            "file": "content/app/keyremap/keys0.json",
+            "hash": "A143910F38530BDB9C4199C860923FC71B2EDC3A547BA8B67D90B59FEA8BDD7B"
+        },
+        {
+            "file": "content/app/tv.html",
+            "hash": "3D91201643A01DB51B3A68FA88EE0E6F43B59BF85A371350AF733C5A3FFF0CBC"
+        },
+        {
+            "file": "content/assets/layouts/bodies/DAuthentication.arc",
+            "hash": "E3F542EF7735B2EBA399026AB310C038608A14EA16FB622EF09DE37C3D962A8F"
+        },
+        {
+            "file": "content/assets/layouts/bodies/DPrompt.arc",
+            "hash": "7BA443C589C83F7C315F6F680289D5547E6BAAC12789D711DCC50B7B3EA4D275"
+        },
+        {
+            "file": "content/assets/layouts/bodies/DialogBase.arc",
+            "hash": "AE98AE9CD85D9897CE64DABA004267C442952285F0685DE3BE49F8379D51C141"
+        },
+        {
+            "file": "content/assets/layouts/bodies/DropdownList.arc",
+            "hash": "6BCC467686A6A2A4C1998816F45BD3CBDD11AAD89F90DC9DF453D509F45CF78C"
+        },
+        {
+            "file": "content/assets/layouts/bodies/DropdownList/DropdownList.arc",
+            "hash": "5A41F0A06F72E3BA4A0F1608C9E3424AC639464CB7614F615D2DEFCB5A8CA8C4"
+        },
+        {
+            "file": "content/assets/layouts/bodies/MaskBlack.arc",
+            "hash": "15D3ADB746A7329826249BF2780D9A527C317D66DB0CD281729F299E3C86E4A5"
+        },
+        {
+            "file": "content/assets/layouts/bodies/dialog/DAuthentication.arc",
+            "hash": "C69BE2A2F85C929DA80F964FD3C64EDBC2B1D96589E1E3092988DA7C79E51137"
+        },
+        {
+            "file": "content/assets/layouts/bodies/dialog/DPrompt.arc",
+            "hash": "2F70A9D5164BEFE80D7CD18A35E1AC84CA134A37D3959FCF913552A201563082"
+        },
+        {
+            "file": "content/assets/layouts/bodies/dialog/DialogBase.arc",
+            "hash": "305F2B57BE2BA380E736DB4D7B07C8EF67AEF200D0C55532B368F44E267AE6E1"
+        },
+        {
+            "file": "content/assets/layouts/bodies/dialog/DialogBase2.arc",
+            "hash": "61157D10BA983EA497EE8DF2CF1F2492301BDA211711A468E61E4C1F26A22D2C"
+        },
+        {
+            "file": "content/assets/layouts/parts/BtnDialog_00.arc",
+            "hash": "FD42A540C7706DFF29293E1B0D367FC217967911D2402346CE81C4E02439F095"
+        },
+        {
+            "file": "content/assets/layouts/parts/BtnDropdownList.arc",
+            "hash": "53A46B90CD3E10CF89A9ECEE2F4DDCBFBD57E9E2E53E37C4DA84752289A55C09"
+        },
+        {
+            "file": "content/assets/layouts/parts/BtnDropdownList/BtnDropdownList.arc",
+            "hash": "848A6AF9F10EFE9CE29BA84A113B58705AAE7AAF10F41A015C42457958940F93"
+        },
+        {
+            "file": "content/assets/layouts/parts/BtnOK.arc",
+            "hash": "1AA59592A51245C2F40CDDC465FE451E461A85728DE691A6F1A71586A7E6DDF5"
+        },
+        {
+            "file": "content/assets/layouts/parts/BtnOK/BtnOK.arc",
+            "hash": "AD34CC59700D6D93E4D838AF7470121F9B91B9364698E46EAB9B335366A9A9DA"
+        },
+        {
+            "file": "content/assets/layouts/parts/BtnScrollBar_00.arc",
+            "hash": "189E6C10F7B4657B2B4D0501311161E31C1C2CA37B81BC47F1F9365D33610246"
+        },
+        {
+            "file": "content/assets/layouts/parts/BtnScrollBar_00/BtnScrollBar_00.arc",
+            "hash": "66C8A314D8DFA2735AC58604BF0528CA2E24732C3A8D2835299F6C140C75D733"
+        },
+        {
+            "file": "content/assets/layouts/parts/DialogTitle.arc",
+            "hash": "876E43235D3AE9EFC06375BE4A97202D85A09DA3565EC654F199F584D44A4963"
+        },
+        {
+            "file": "content/assets/layouts/parts/SelectFrameDrc.arc",
+            "hash": "F9F402CD470B0347F5BE101E7C15C94550BA48361077E1AAC540077008374722"
+        },
+        {
+            "file": "content/assets/layouts/parts/SelectFrameDrc/SelectFrameDrc.arc",
+            "hash": "4873EE60B75BCF443365A35D43B5A20731FEC65E4C2C9C5B1C4F514264FAF3B0"
+        },
+        {
+            "file": "content/assets/layouts/parts/TouchEffectSDrc.arc",
+            "hash": "8264E05178BF1FF3576FDE555DDDB424D58F5EA8E4844FA21C612EF04D877BA1"
+        },
+        {
+            "file": "content/assets/layouts/parts/TouchMark.arc",
+            "hash": "05662D9A6E4C7C646560C08D8743F5D694B1E63AA008D2EBFBB6FC541F4DA67E"
+        },
+        {
+            "file": "content/assets/layouts/parts/WdwText1Line.arc",
+            "hash": "93CF92B8F57982FEEC43F3246050F4CA7ED555413A439EA5BD6F94B1480FE0B3"
+        },
+        {
+            "file": "content/assets/shaders/demo_gx2/cafe/tessellate/tessellateAdaptiveSO.gsh",
+            "hash": "E9B536A077BB4802B29033F834EF55A1BB82FF5B06A5FFF653E10D059DE2C25E"
+        },
+        {
+            "file": "content/assets/shaders/font_BuildinShader.gsh",
+            "hash": "B43C0EEF8C1BE9A52D316812BF3804AB72D268BF177629707EDA1B74DADFAB46"
+        },
+        {
+            "file": "content/assets/shaders/launcher/col-launcher.gsh",
+            "hash": "A010766685FA53417EA5E7840E5EF62F3F77CAC6936E3DEEC8D8114B5BC36222"
+        },
+        {
+            "file": "content/assets/shaders/launcher/cur-launcher.gsh",
+            "hash": "AE1FEFDF997D394E89BEFC7C8353D0B952231AF8ACACD2B56BB1B8042949F22C"
+        },
+        {
+            "file": "content/assets/shaders/launcher/tex-launcher.gsh",
+            "hash": "5610337BEDD495D57D980A75CE99A9FD436E8800B9B0774F5D99150959CCF668"
+        },
+        {
+            "file": "content/assets/shaders/launcher/yuv-launcher.gsh",
+            "hash": "E95D4F68B9ADBD3076C1E08B73A5ADFF453CB3482CC45A255A34B5AC5D2F0105"
+        },
+        {
+            "file": "content/assets/shaders/lyt_BuildinShader.gsh",
+            "hash": "633DC30D5B8E65C3C3B67624D0097194FEFD86387548347B73B3DEF47E0AAF1A"
+        },
+        {
+            "file": "content/assets/shaders/webkit/col-webkit.gsh",
+            "hash": "BADD7F7A984546F34422C97C560AE9477252A41A86F50F6568D749D05FA208D4"
+        },
+        {
+            "file": "content/assets/shaders/webkit/cpy-webkit.gsh",
+            "hash": "1BE9F76AE7AE3A872C472042342E6A9A7BDB697FDFB804A9167C5187B2AB213F"
+        },
+        {
+            "file": "content/assets/shaders/webkit/cpymul-webkit.gsh",
+            "hash": "4A01C9D24B3AFB8EBB99C2E63B3215544363FD525A4D461CC8639D7702F704D7"
+        },
+        {
+            "file": "content/assets/shaders/webkit/font-webkit.gsh",
+            "hash": "CC4C2EAA4102C65C08EB93CE1365083D9FB5AAA0D81A9ED0C2E01609B842B336"
+        },
+        {
+            "file": "content/assets/shaders/webkit/gaussian-blur-webkit.gsh",
+            "hash": "44B397D5966FC3F5495CEBB23CA1D188E9B5D014A8799D24BB92DB3B18D1EF7D"
+        },
+        {
+            "file": "content/assets/shaders/webkit/pat-webkit-no-premultiply.gsh",
+            "hash": "723DE28BF9936CF96EF64B8A3E4716F9EDFE5ED0743BBE9AC709294BC8F66DBE"
+        },
+        {
+            "file": "content/assets/shaders/webkit/pat-webkit.gsh",
+            "hash": "29CE36AB9DC86496EBBF140BF41D8B139C2C993190FA41F4AF18CB2838C4CBCF"
+        },
+        {
+            "file": "content/assets/shaders/webkit/patsmp-webkit-no-premultiply.gsh",
+            "hash": "A0F92B9DD9EA211FDF73BA497173D361F525AE232FB9B6756C4FC239C51979BD"
+        },
+        {
+            "file": "content/assets/shaders/webkit/patsmp-webkit.gsh",
+            "hash": "228D217A06DC8AB1FAAC19C5CCF99F33A40C8916F88C7EFD17188DC169A1C2CE"
+        },
+        {
+            "file": "content/assets/shaders/webkit/tex-calc-vtx-webkit-no-premultiply.gsh",
+            "hash": "4A9346FC9F0C4701FF448E55D248F1813AA8B62ECF3A8FD3FB6F6B8116E554F4"
+        },
+        {
+            "file": "content/assets/shaders/webkit/tex-calc-vtx-webkit.gsh",
+            "hash": "82D03839C0979CDC405DC7A545A901BD150D9AA57165B417504893643F9266E6"
+        },
+        {
+            "file": "content/assets/shaders/webkit/tex-webkit.gsh",
+            "hash": "A05DF417EDE2B3A9CBD83F4C652D0589A7F0FDF67BF12B2EAFAA464E3B0537C3"
+        },
+        {
+            "file": "content/assets/shaders/webkit/yuv-webkit.gsh",
+            "hash": "17C33A76AA4D7F13B6D7A425BC7B19176C3B323BB7F9E2C91C1C1BC978397D96"
+        },
+        {
+            "file": "meta/CERO_ja.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/CGSRR_zh.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/COB_en.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/ESRB_en.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/ESRB_fr.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/GRB_ko.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/Manual.bfma",
+            "hash": "19DE5A4C6C3CCBDD21EFD57DAEB6F6335765A79D5A424CD20CDC7B1FA8721F90"
+        },
+        {
+            "file": "meta/OFLC_en.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_BBFC_en.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_Portugal_pt.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_de.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_en.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_es.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_fr.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_it.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_nl.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_pt.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_ru.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/RAR_ru.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/USK_de.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/bootDrcTex.tga",
+            "hash": "650B675D50465B67BC91DB651876BB29CBE2ED9FF313CB8602FD0D134055F8F0"
+        },
+        {
+            "file": "meta/bootLogoTex.tga",
+            "hash": "91B63D9C03F7F9153C8B9FC8179E1CCCB6F4AFC60204B988D91D1B5EFCEE4AA8"
+        },
+        {
+            "file": "meta/bootMovie.h264",
+            "hash": "069FD8C5713F4B23EA1098D2674BCC839E610BA844683BF532E1E6CB10642621"
+        },
+        {
+            "file": "meta/bootSound.btsnd",
+            "hash": "646B01A4953CC1A4482AD691E6979A08513971BD1EED6E888CA4DE3C59CEEA92"
+        },
+        {
+            "file": "meta/bootTvTex.tga",
+            "hash": "E3183CAB31A24B5909A4AE5CB15B10ADB4AE9E3593B487F27F3AF1FF753220D7"
+        },
+        {
+            "file": "meta/iconTex.tga",
+            "hash": "7C9405B694C4727097945DDDAA046FE548674CB1BDDA4307A1AB729026BB94C6"
+        },
+        {
+            "file": "meta/meta.xml",
+            "hash": "77CDAFA853D3CFF5876AB34FA0F5FC6EC50E7BA564B05183FE774F88497A2479"
+        }
+    ]
+}

@@ -1,0 +1,3935 @@
+{
+    "title_id": "0005000e10144e00",
+    "region": 4,
+    "version": 112,
+    "files": [
+        {
+            "file": "code/S_PLUS1.rpx",
+            "hash": "CBD39CDAA3DE06E20076F85EE91382A45ED1E9FC1B18072A514411B3A106423F"
+        },
+        {
+            "file": "code/app.xml",
+            "hash": "7D57031775CBD0059F62BD4AAFA9E322CA431ED4EE3DD91DBB3A356EE621F6AB"
+        },
+        {
+            "file": "code/cos.xml",
+            "hash": "F8E2FB578CEF08E8D7F00E3A36854D854D687AE339C6E2AB50E7FD4682C342C7"
+        },
+        {
+            "file": "content/LayoutCommon/Static/SPL_BG.larc.z",
+            "hash": "64A1BC58046963DCA08582C02FAC74BCBE9193849AAB827850A3A10E86C78FF1"
+        },
+        {
+            "file": "content/LayoutCommon/Static/SPL_ButtonCommon.larc.z",
+            "hash": "E1E82E8781A12914EB766B2F9CCD9EB662BA837E2D3ABBEF4E7AB87ED347CA2C"
+        },
+        {
+            "file": "content/LayoutCommon/Static/SPL_Club.larc.z",
+            "hash": "899E93A6053A18E675BD0938409616822E90911D57E7D28C73DDE6CA8288AFD5"
+        },
+        {
+            "file": "content/LayoutCommon/Static/SPL_NetworkCommon.larc.z",
+            "hash": "267BE1EE224C8DA48602A4D43E361ABFFF35AA0C07EDB9119A208BCC816DEB25"
+        },
+        {
+            "file": "content/LayoutCommon/Static/SPL_OneSentence_Comment.larc.z",
+            "hash": "5261D614A2A03C7B33201B96FEF1763038D41B60921831FFC241F4177565A0E3"
+        },
+        {
+            "file": "content/LayoutCommon/Static/SPL_Rank.larc.z",
+            "hash": "757244DF43EBFF65C74213955FE16531136817DA6B613263D81475E489F7FF40"
+        },
+        {
+            "file": "content/LayoutCommon/Static/SPL_gameCommon.larc.z",
+            "hash": "901726F7185F5B6A8669968C97D9D31703F0459664F9B9FB5BC7046F8EFE31D8"
+        },
+        {
+            "file": "content/LayoutCommon/Static/SPL_generalAbtn.larc.z",
+            "hash": "E27DB777C5B15C31FD16224E8BE0B14B626A29728C9B6048825AE73368BC028C"
+        },
+        {
+            "file": "content/LayoutCommon/Static/SPL_generalBack_btn.larc.z",
+            "hash": "7782E56D119246823F6CFC3796FE9D6D3E3AED4446F14EAC32D17A61C044286B"
+        },
+        {
+            "file": "content/LayoutCommon/Static/SPL_messageWindow.larc.z",
+            "hash": "C860DFBFF73FA00566ED7492A0E4D9A3C44E0397FD5BEE64286D4511B82F26AE"
+        },
+        {
+            "file": "content/LayoutCommon/Static/SPL_mii_select.larc.z",
+            "hash": "2694D07E9F0D755DF8D80D39B9BC45BBB70BE7F7242EF5C3E46DFB0AF102A396"
+        },
+        {
+            "file": "content/LayoutCommon/Static/SPL_number_select.larc.z",
+            "hash": "2F5010CA7A942A8CF3230C2E19664FE5A99E666B644551F9F8D257B2683633E0"
+        },
+        {
+            "file": "content/LayoutCommon/Static/SPL_pause.larc.z",
+            "hash": "463C49B42459DA864B359A28823C54670CE5813CF92D9DD30933C92FE7EADF4D"
+        },
+        {
+            "file": "content/LayoutCommon/Static/SPL_play_advice.larc.z",
+            "hash": "B704F59B472DB9394C7923FEEA5B09D50217FDA3DB6D03F2A5DA4D72ABC8F9E7"
+        },
+        {
+            "file": "content/LayoutCommon/Static/SPL_play_type_select.larc.z",
+            "hash": "EDC5601312510E93FEA6D876FF5BD4F897602DF7728F5297A65801F5451F1554"
+        },
+        {
+            "file": "content/LayoutCommon/Static/SPL_startScene.larc.z",
+            "hash": "6BC7B2A9AE914E8AE9A06672BA3D0DFF5D3CA761539D45710CE1E937FE65ADBB"
+        },
+        {
+            "file": "content/LayoutCommon/Static/SPL_strap.larc.z",
+            "hash": "17B5C17881484BDCFBBCE508FBB3F7B56D579E449DB485D71A62F671C5D5BB4D"
+        },
+        {
+            "file": "content/LayoutCommon/Static/SPL_team_setting.larc.z",
+            "hash": "D7AB78BD9FC32150B0988EEF4AB9E6B19FD7CEB14E05C7679031F674AF703C79"
+        },
+        {
+            "file": "content/LayoutCommon/Static/WS2_gameCommon.larc.z",
+            "hash": "1C6F53479AAA483FFB3DBD38852E0BE045B4BC77A6204EFF50648D654346F024"
+        },
+        {
+            "file": "content/LayoutCommon/bbl/SPL_game_bbl.larc.z",
+            "hash": "F620C18CEACD4F01B67BF85FFE62E697246B6C0A4FB8A9F6B17189515F5F5A0F"
+        },
+        {
+            "file": "content/LayoutCommon/box/SPL_game_box.larc.z",
+            "hash": "8748E7AEC6A6D4DEB047A9779FBB2EE3FA2BD1EE699C1F143281A2930062BAFD"
+        },
+        {
+            "file": "content/LayoutCommon/bwl/SPL_game_bwl.larc.z",
+            "hash": "29521CF4302CAF6EA20B24A26D031A1987414A8C96D7417354619E6E4C22118C"
+        },
+        {
+            "file": "content/LayoutCommon/glf/SPL_game_glf.larc.z",
+            "hash": "98CBDFECDE0BF322358A8D9266A368967A97E44B2348B3E8C572A43B28E33411"
+        },
+        {
+            "file": "content/LayoutCommon/tns/SPL_game_tns.larc.z",
+            "hash": "529A928382C93A1A3D732897DAD911D17B2A610107AF76B57F71EE217646A0D5"
+        },
+        {
+            "file": "content/Message/DU/S-PLUS_BOX.msbt.z",
+            "hash": "817BE79B1E70EED8B46D5E185FD8C2922955CCC69C525A48F034BD43A365A4B8"
+        },
+        {
+            "file": "content/Message/DU/S-PLUS_BSB.msbt.z",
+            "hash": "3CDEBDAAC4FE5608E3A63E66EB3EFB80ADA32FE26BB5C7D8BFC1AD2D56B5C4AA"
+        },
+        {
+            "file": "content/Message/DU/S-PLUS_BWL.msbt.z",
+            "hash": "7DA2F5688A73941800C60F9396B719ADAEC492D0958C40A6187110F3687C75FD"
+        },
+        {
+            "file": "content/Message/DU/S-PLUS_GLF.msbt.z",
+            "hash": "7135C5FF8BA2776335F507C969529D15FBB75CFB37E5E1C648D12BE3D609C760"
+        },
+        {
+            "file": "content/Message/DU/S-PLUS_Main.msbt.z",
+            "hash": "9A9F69C525B96C05D32A12C5975DCB937E644CE4E79B9FFA0DEE9493B887CE8B"
+        },
+        {
+            "file": "content/Message/DU/S-PLUS_TNS.msbt.z",
+            "hash": "23E17E9EDB5E4A0AE33DABC24BDE33634A3E806ED7DDC8555FF89E3C123DCD9B"
+        },
+        {
+            "file": "content/Message/DU/ws2_Text.msbt.z",
+            "hash": "6000B75F00743A984E875B89B32654CC30D9D028569A74F835A6F9EE4ECA0E2C"
+        },
+        {
+            "file": "content/Message/EN/S-PLUS_BOX.msbt.z",
+            "hash": "0F1A0B8148F7E816FAAA5FC47DA532C5B13042FA970CF58F5537E8D3E543634C"
+        },
+        {
+            "file": "content/Message/EN/S-PLUS_BSB.msbt.z",
+            "hash": "B6F52CACE3F863EAF0F0D4316763CD2CC8DCFC7C9DDDCFA547A504C5D474D2EE"
+        },
+        {
+            "file": "content/Message/EN/S-PLUS_BWL.msbt.z",
+            "hash": "1599CC5722433EEDCDA23B05CA6EF75A2BE4BD9112319D01FA95910AAF7BB736"
+        },
+        {
+            "file": "content/Message/EN/S-PLUS_GLF.msbt.z",
+            "hash": "FFAEE9AF13987DB9B7D6C32D73C6A73F596BF6266F5EFE7F69F3CB7B468AC93E"
+        },
+        {
+            "file": "content/Message/EN/S-PLUS_Main.msbt.z",
+            "hash": "2EB8613096B364867B947DEE535445818FE404D4A3B8C9FC37E060FF94BF625E"
+        },
+        {
+            "file": "content/Message/EN/S-PLUS_TNS.msbt.z",
+            "hash": "C466B2A61B185B6E6FF66B19D559207BD9540ABE380ADF8249BEF9A919C7C2AE"
+        },
+        {
+            "file": "content/Message/EN/ws2_Text.msbt.z",
+            "hash": "DEED588EA06A7B889F66CA0A5504156D84A1D0CBE0BD358BE58E1767D97E3592"
+        },
+        {
+            "file": "content/Message/FR/S-PLUS_BOX.msbt.z",
+            "hash": "4F8DBF5A1BAA9EE7BCB331BB2BD9B4D62607AB706D036C3CC109B1F892EA82EE"
+        },
+        {
+            "file": "content/Message/FR/S-PLUS_BSB.msbt.z",
+            "hash": "74EDCBF310DD44E4391EF922211E96E3806E3B480B7E8226809AA76FF62328CC"
+        },
+        {
+            "file": "content/Message/FR/S-PLUS_BWL.msbt.z",
+            "hash": "CAF9AFE7545D10B5376D5F4ADD05F11EF75C15799A3F5823DC37D994AE896252"
+        },
+        {
+            "file": "content/Message/FR/S-PLUS_GLF.msbt.z",
+            "hash": "6D0669AAF47E1EF11B2C2440E47FE8865C5E7B827F08CBFFDB70CCBA4E576529"
+        },
+        {
+            "file": "content/Message/FR/S-PLUS_Main.msbt.z",
+            "hash": "08FC3AB0F8E93194FCC4959BF6E492B7DCE7FAA9200DFAFE7A89AAE73C40EBF5"
+        },
+        {
+            "file": "content/Message/FR/S-PLUS_TNS.msbt.z",
+            "hash": "107DB15EB3D94F6AF47297EB021F70B7DC2C9ACFDAFE99DE372D4C03E6DB1C8D"
+        },
+        {
+            "file": "content/Message/FR/ws2_Text.msbt.z",
+            "hash": "6FA2D3021AF052C68BAFF7CEB9B9659BD7EC9E2D9A037C4F7FB3CE64FEDDF196"
+        },
+        {
+            "file": "content/Message/FU/S-PLUS_BOX.msbt.z",
+            "hash": "685A74126B3C37F1DF705AFDABFB270AB5E1A800AADED7A44FD3EBDC03A1B195"
+        },
+        {
+            "file": "content/Message/FU/S-PLUS_BSB.msbt.z",
+            "hash": "A400757B19801E8268B8CA15CDA1F3B53BBD0347AAB404526CD92B031E7E1E34"
+        },
+        {
+            "file": "content/Message/FU/S-PLUS_BWL.msbt.z",
+            "hash": "1F0BEB9FF4CF3ECD3B312B56DA6075666D34BC0FB5C1E3CFCBD29F8EEB24A309"
+        },
+        {
+            "file": "content/Message/FU/S-PLUS_GLF.msbt.z",
+            "hash": "958B41ADF45F97C6AB61AE6CCCC236E21FE3ABC00B394E933FBC12ED4EBB253A"
+        },
+        {
+            "file": "content/Message/FU/S-PLUS_Main.msbt.z",
+            "hash": "FFD06746FC46B4DB97A7CDC3489A195454B5456D8197CF729354FF430EAB994D"
+        },
+        {
+            "file": "content/Message/FU/S-PLUS_TNS.msbt.z",
+            "hash": "C6EBB178407F071E25D7495D39E9E91BCF047E31E59411CE765812BC0AB62618"
+        },
+        {
+            "file": "content/Message/FU/ws2_Text.msbt.z",
+            "hash": "F6C01BD99AFDB92542B2B909D7B9E4E2AB3CCFA00188009B50AA337088E65309"
+        },
+        {
+            "file": "content/Message/GE/S-PLUS_BOX.msbt.z",
+            "hash": "D1B34F3FB3020184CBD88B2DF9CBDFC665F2C165375686ED373504A02908EC51"
+        },
+        {
+            "file": "content/Message/GE/S-PLUS_BSB.msbt.z",
+            "hash": "AE7FE9DEF33524E2D46DD4B3AF5EF8BB10D84C946EC2959A621B4263D09B10CB"
+        },
+        {
+            "file": "content/Message/GE/S-PLUS_BWL.msbt.z",
+            "hash": "D7CBEB61E3BA0800BEC625F5B860EE25AC6013BB89F970B668A585E4403A4A9F"
+        },
+        {
+            "file": "content/Message/GE/S-PLUS_GLF.msbt.z",
+            "hash": "0768ACD1F205249588316ED8753A0084D9678FB71C901F05DCE36358B4B94828"
+        },
+        {
+            "file": "content/Message/GE/S-PLUS_Main.msbt.z",
+            "hash": "D2766120E5D5BB456556634E06B2FE37AEB529462FF1C5DA5F6F69A946C86D58"
+        },
+        {
+            "file": "content/Message/GE/S-PLUS_TNS.msbt.z",
+            "hash": "47BCE92BC7340C1F3D6B51A1ABF5312FE27239D696FC36D22E97EC4982AF42F8"
+        },
+        {
+            "file": "content/Message/GE/ws2_Text.msbt.z",
+            "hash": "8D252587770D03499D173471CFC3969AB922C57AA222AA890CEA7946C85C4BF3"
+        },
+        {
+            "file": "content/Message/IT/S-PLUS_BOX.msbt.z",
+            "hash": "635053A060D3197731841741F13EC699F33F9864F58C1C9B2D96BFFF532F7426"
+        },
+        {
+            "file": "content/Message/IT/S-PLUS_BSB.msbt.z",
+            "hash": "AB4DAB5968CBFE7069CE3E492BC136B3CA13245CFB794742EE2C9351BF9FCE6E"
+        },
+        {
+            "file": "content/Message/IT/S-PLUS_BWL.msbt.z",
+            "hash": "BDB04723B482121545E6A3FD87F1735A76ABECB9843D81FBB03C26A7AE46B7AC"
+        },
+        {
+            "file": "content/Message/IT/S-PLUS_GLF.msbt.z",
+            "hash": "A262AB61FE092C72381BB5F911054AB28726B3E54942270ED62AB2DE59924FF2"
+        },
+        {
+            "file": "content/Message/IT/S-PLUS_Main.msbt.z",
+            "hash": "BD21EF6DF35BE81BEB867FEEA9F89701B5EC9786010BF7E601A117E5BD248448"
+        },
+        {
+            "file": "content/Message/IT/S-PLUS_TNS.msbt.z",
+            "hash": "74C848A368B624D71DD06F3A4B0E18F2E78F69BB0D97F216BE8B383FB1CAB0A4"
+        },
+        {
+            "file": "content/Message/IT/ws2_Text.msbt.z",
+            "hash": "EF294B0AE59C3D7E88076101B800CFC7F62BAA04C4409C203684D9D65F259EE1"
+        },
+        {
+            "file": "content/Message/JP/S-PLUS_BOX.msbt.z",
+            "hash": "3C4365309479B2E7F434EAD136B72FEA675894D46DB7EED0D4BBE2824B66A320"
+        },
+        {
+            "file": "content/Message/JP/S-PLUS_BSB.msbt.z",
+            "hash": "24E1C853B2207C96060197C05D8F4ABB8C3B7A5E25D4B682C3A6D675C969BFAB"
+        },
+        {
+            "file": "content/Message/JP/S-PLUS_BWL.msbt.z",
+            "hash": "122833F5393C244480021C0952D29CF05ACCACE5335A451E12420EA3A2A5DCFF"
+        },
+        {
+            "file": "content/Message/JP/S-PLUS_GLF.msbt.z",
+            "hash": "286C8F3A38FC12BF1D05DD3EF34AC6E26E33BD06778843263D9971F0A2ACBCE8"
+        },
+        {
+            "file": "content/Message/JP/S-PLUS_Main.msbt.z",
+            "hash": "1C90F63D2BACBA2762153E5B74367D8DA10813897DA801DB44A97D0986EE39F6"
+        },
+        {
+            "file": "content/Message/JP/S-PLUS_TNS.msbt.z",
+            "hash": "8204283EE09FF941DDAE74A000BEBC12E043D4FE3B3CA10992AFC486886B90B9"
+        },
+        {
+            "file": "content/Message/JP/sports_u.msbt.z",
+            "hash": "F0640AC7A98ADC376BB05EA98F2FCCD331E930AD85E1F9234FEAAE12B1807E4E"
+        },
+        {
+            "file": "content/Message/JP/ws2_Text.msbt.z",
+            "hash": "53A626CAAC28CDAFB4A4C8542C205E20D86F4BF325AEDD159CA8DFBCCF93BCE6"
+        },
+        {
+            "file": "content/Message/PT/S-PLUS_BOX.msbt.z",
+            "hash": "6BB203E65B148F091260FE2BC81FBDF50042B058AEDE1B1CE562BFC2BE6B7684"
+        },
+        {
+            "file": "content/Message/PT/S-PLUS_BSB.msbt.z",
+            "hash": "F147F25B0F885DD0BE95A345A103C3D2A5DD512015095C5A7615E065161E57DD"
+        },
+        {
+            "file": "content/Message/PT/S-PLUS_BWL.msbt.z",
+            "hash": "14F67A1B05A41203A29472F1A8176AB41FDB629B260AFFD301737DE343A1F1E9"
+        },
+        {
+            "file": "content/Message/PT/S-PLUS_GLF.msbt.z",
+            "hash": "5BA56D9B8C0AB557EF72F67580D3FF813DB46A1220042FC7F1AF9905EDCEE000"
+        },
+        {
+            "file": "content/Message/PT/S-PLUS_Main.msbt.z",
+            "hash": "62EBC2BD80CC452A0FD21DD9699C5554EAD291DC6F97536A9AAEFE664AC1A18E"
+        },
+        {
+            "file": "content/Message/PT/S-PLUS_TNS.msbt.z",
+            "hash": "51E1B5E1024DF6BD5227CA5D4285F43CA7AF578128FD48569D2B1F7CAE7768D3"
+        },
+        {
+            "file": "content/Message/PT/ws2_Text.msbt.z",
+            "hash": "6000B75F00743A984E875B89B32654CC30D9D028569A74F835A6F9EE4ECA0E2C"
+        },
+        {
+            "file": "content/Message/RU/S-PLUS_BOX.msbt.z",
+            "hash": "746F5776EE310D516F8121C5F3EAA90DA5654026CC84EB365A9E869EAA4FEB4C"
+        },
+        {
+            "file": "content/Message/RU/S-PLUS_BSB.msbt.z",
+            "hash": "ECBC20C0B71AC01B95EBDE4CE17C3A8A72D148FD3AD13D275109F01B19B74576"
+        },
+        {
+            "file": "content/Message/RU/S-PLUS_BWL.msbt.z",
+            "hash": "610DFDB49A1C01D5CA19B43A62150E54ED34926E2098B2B7433A3843591E282F"
+        },
+        {
+            "file": "content/Message/RU/S-PLUS_GLF.msbt.z",
+            "hash": "F42A67E02DA309A7D77AAC5BF0A96100403A47F3E562741A51F99C2224BC1858"
+        },
+        {
+            "file": "content/Message/RU/S-PLUS_Main.msbt.z",
+            "hash": "9E2EB9CA2CB97EE24AF9048C59E9B9D22C93190C2C7F5B4B881A31CEBB55BB71"
+        },
+        {
+            "file": "content/Message/RU/S-PLUS_TNS.msbt.z",
+            "hash": "51FEB576D76A4692FEA808D4A5862A6DCAD6C8EEBC2FC476A72A1D0F559490F1"
+        },
+        {
+            "file": "content/Message/RU/ws2_Text.msbt.z",
+            "hash": "6000B75F00743A984E875B89B32654CC30D9D028569A74F835A6F9EE4ECA0E2C"
+        },
+        {
+            "file": "content/Message/S-PLUS.msbp.z",
+            "hash": "8BAC7D6B6A3D4E43F7A83E441D03ADA20BC7AE5666578899460045A24C603346"
+        },
+        {
+            "file": "content/Message/SP/S-PLUS_BOX.msbt.z",
+            "hash": "B84A749945A8B09F3033BB0FBF60245FD691533639BC4279B9BB3FB9624B676F"
+        },
+        {
+            "file": "content/Message/SP/S-PLUS_BSB.msbt.z",
+            "hash": "5EDD11734512B36BBE32AA9D612CA7F97EBC1FA97435B3E0BC8B91AA989051BF"
+        },
+        {
+            "file": "content/Message/SP/S-PLUS_BWL.msbt.z",
+            "hash": "8B77474881E0CC1134FD90E0340F21BAA5E0374C824D667826CF3804E8F0D33B"
+        },
+        {
+            "file": "content/Message/SP/S-PLUS_GLF.msbt.z",
+            "hash": "077585E9B524CAEE4E2F9E5B419F9246598576F4C46697D486F3038600B600DA"
+        },
+        {
+            "file": "content/Message/SP/S-PLUS_Main.msbt.z",
+            "hash": "323FD4C9C8F0E078BED9B1CAC2CA057170704BB5DE676317F774A08DE1DBE5FB"
+        },
+        {
+            "file": "content/Message/SP/S-PLUS_TNS.msbt.z",
+            "hash": "6F5AA10AA1736AACE7BB22E9731EE4D00ED8C3A9B5B0F8BA6120C8B7530BCEB2"
+        },
+        {
+            "file": "content/Message/SP/ws2_Text.msbt.z",
+            "hash": "0E0C6B16645B6C6584EBC8DEAA15E0BF3E36808EE2FB1C63143DE0C295E1FC65"
+        },
+        {
+            "file": "content/Message/SU/S-PLUS_BOX.msbt.z",
+            "hash": "26B19E503CAA4DF6349B9586D7FBC2C087E1958D51F0055D67C26FBABA2BA035"
+        },
+        {
+            "file": "content/Message/SU/S-PLUS_BSB.msbt.z",
+            "hash": "BECEA97E495584DED461376A1173C1DBA311F27F16BCB07185CF87035240F838"
+        },
+        {
+            "file": "content/Message/SU/S-PLUS_BWL.msbt.z",
+            "hash": "8917B9F44E0FADC4C001C153CED68C272C7DD70ACCE7720225133CBB7EBFE325"
+        },
+        {
+            "file": "content/Message/SU/S-PLUS_GLF.msbt.z",
+            "hash": "462669022B0DACF1CC9B05265596018655E214CFA0678B7C6D8D9232A5FB45BE"
+        },
+        {
+            "file": "content/Message/SU/S-PLUS_Main.msbt.z",
+            "hash": "7D6AC507A58E03B177D18034B7DF5336754C055B3BCC25969367494EF241C050"
+        },
+        {
+            "file": "content/Message/SU/S-PLUS_TNS.msbt.z",
+            "hash": "F5AC4A24A42BC8D90A20E71E8ED311E88C2742B30B2C3813C3807565CA588403"
+        },
+        {
+            "file": "content/Message/SU/ws2_Text.msbt.z",
+            "hash": "D9188D9C97D36AA42F8570295E3A02576FD0A58C31220E4B7453F3F5CDEBA231"
+        },
+        {
+            "file": "content/Message/US/S-PLUS_BOX.msbt.z",
+            "hash": "B5F2583C94BA5BF9D543A6AC5330CE99AE1436A3326D06E0C1B39F19781E3BEC"
+        },
+        {
+            "file": "content/Message/US/S-PLUS_BSB.msbt.z",
+            "hash": "03B379949FCAA753DF0DF9D3CB07F3EE621131AD25CCDB566FBAAE1DF0D9C789"
+        },
+        {
+            "file": "content/Message/US/S-PLUS_BWL.msbt.z",
+            "hash": "999BBE223DCE3EA5031F5042323C0169345A85E820241510D57FBB65E88E006F"
+        },
+        {
+            "file": "content/Message/US/S-PLUS_GLF.msbt.z",
+            "hash": "67AA4BA05804F418C76B4163D87AB3F44883CDB8195F80760612AA937C442E7B"
+        },
+        {
+            "file": "content/Message/US/S-PLUS_Main.msbt.z",
+            "hash": "17F6AB422E5666C308EE896432EEE19996EF95D7CE0E7842BED56046EFE5AC6B"
+        },
+        {
+            "file": "content/Message/US/S-PLUS_TNS.msbt.z",
+            "hash": "483D42A87FD6C4663D2E8223210EE915902172902A2A790FFEA0EB3DF084B876"
+        },
+        {
+            "file": "content/Message/US/ws2_Text.msbt.z",
+            "hash": "2F2327BE0B699DCEEA4149714A5EBC27684D875CDFC154E9BB0D1A69B47662D1"
+        },
+        {
+            "file": "content/Sound/Static/SplSnd.bfsar",
+            "hash": "09EFDDC08E995B517D79B2BDD18376EFEA947C115EAD74DFCB0B044BE924BD17"
+        },
+        {
+            "file": "content/Sound/Static/TrackFade.dat",
+            "hash": "652D0F13B75C6CF44BD34A008996F8059FAE7EE3B5B9AD105A2B2D48267B36D4"
+        },
+        {
+            "file": "content/Sound/Static/stream/Jingle_VS01_2mix_32k.pcm16.bfstm",
+            "hash": "B9FCB2C6621275CCFCA6CBC83E588B6173CDD1E720FB4D988C124BC02B9A6DF8"
+        },
+        {
+            "file": "content/Sound/Static/stream/Jingle_hyousyou_fan01_2mix_32k.pcm16.bfstm",
+            "hash": "223E3A566D6EC1E2F9E202B395A175B85A428FE2B6869CC18FFFA455C79BDCAA"
+        },
+        {
+            "file": "content/Sound/Static/stream/Jingle_tns_lose_2mix_32k.pcm16.bfstm",
+            "hash": "385E6D7C040522A4D4101A71E173C0E3A7DA64386948D7E43E68CDAD00332A2E"
+        },
+        {
+            "file": "content/Sound/Static/stream/Jingle_tns_win_2mix_32k.pcm16.bfstm",
+            "hash": "BB63FCF5CC4B27C8341D0836460D1B88A39ACD1468F5A8F5C47BF6F9CDE0F772"
+        },
+        {
+            "file": "content/Sound/Static/stream/MU_SELECT01.bfstm",
+            "hash": "D963492573B5346F19814E8DF7DC99141253E5EB3690F7DDEF6B9B12A2E59A3A"
+        },
+        {
+            "file": "content/Sound/Static/stream/MU_TITLE01.bfstm",
+            "hash": "16BC4F0AEB5A47D903610A0D31F55F83C3C730D12192F8F7AE90428E730A2C6F"
+        },
+        {
+            "file": "content/Sound/Static/stream/MU_TITLE02.bfstm",
+            "hash": "E7CC0308F5989420496B502F0869B91D3FDC68AFD64D6E69B5C1F0132219B443"
+        },
+        {
+            "file": "content/Sound/Static/stream/jingle_gyro01_32k.pcm16.bfstm",
+            "hash": "A9085D4159D4539538086F74E774A424689D091608AD0DC9FCD9478D160B5299"
+        },
+        {
+            "file": "content/Sound/Static/stream/se_box_roomtone_loop_rs.pcm16.bfstm",
+            "hash": "86F6AB7DE348874F3826670C5A5AC98294013E6B4A02D699F36655D8738A4ED3"
+        },
+        {
+            "file": "content/Sound/Static/stream/spl_NetSetting_32k_loop.pcm16.bfstm",
+            "hash": "3A0A447B7B59029A096DEE203A90F5E07E2B1CB20A3ABFD2840EF445E0E349A4"
+        },
+        {
+            "file": "content/Sound/Static/stream/spl_box_interval_2mix_32k.pcm16.bfstm",
+            "hash": "17C17862088DDA744225AD6562CAB3ED523F76111A16F01E881F468629F21F8C"
+        },
+        {
+            "file": "content/Sound/Static/stream/spl_box_op_32k_loop.pcm16.bfstm",
+            "hash": "FE0D2E82FD2CD014DAC856C5F641D34E51BADA41A5B2F437F89E790A3002AD17"
+        },
+        {
+            "file": "content/Sound/Static/stream/spl_box_replay_32k_loop.pcm16.bfstm",
+            "hash": "553887DF2389BE8B21E50DB952EA1C26940088C881BED8A72DEBFBA6A8C50B47"
+        },
+        {
+            "file": "content/Sound/Static/stream/spl_box_result_32k_loop.pcm16.bfstm",
+            "hash": "DD4A2F43372A50B2E677A6F1B1337F4AEF55E07BB04AA8CCE97E5891FFCF31FE"
+        },
+        {
+            "file": "content/Sound/Static/stream/spl_box_training02_32k_loop.pcm16.bfstm",
+            "hash": "E23E601EC1298C224977291F43C1FF1FABE826382EF3C786D11778DB5516514C"
+        },
+        {
+            "file": "content/Sound/Static/stream/spl_box_training_32k_loop.pcm16.bfstm",
+            "hash": "40FE1BD227CDB1CF9FE86918E6F6652476F572120BF3C7BFEDF7F5CA0E363D6C"
+        },
+        {
+            "file": "content/Sound/Static/stream/spl_box_vs_2mix_32k.pcm16.bfstm",
+            "hash": "B562E15A94A59FC225E75A1CB9EDFA52750D24968B3FB758CD38666266246400"
+        },
+        {
+            "file": "content/Sound/Static/stream/spl_bsb_result_32k_loop.pcm16.bfstm",
+            "hash": "6D984D23566A5362258A86CAC18C0EC23989DE094F7B0385869259C521D01445"
+        },
+        {
+            "file": "content/Sound/Static/stream/spl_bsb_training01_32k_loop.pcm16.bfstm",
+            "hash": "769717C005FFB58B535D811856E60780EB27486FCFC6A536B68AAE16CC9FC0D8"
+        },
+        {
+            "file": "content/Sound/Static/stream/spl_bsb_training02_32k_loop.pcm16.bfstm",
+            "hash": "83372ED331564915A950B0AD5D33E746476A7CA119DE2F6C5D46D6411D1A607A"
+        },
+        {
+            "file": "content/Sound/Static/stream/spl_bsb_training03_32k_loop.pcm16.bfstm",
+            "hash": "3BADC4B8DC00164C3FF28F3CEF8A37BB9C60DCAA1DB1EAB5BCD0833D6DEAD270"
+        },
+        {
+            "file": "content/Sound/Static/stream/spl_bwl_CamDemo_32k_loop.pcm16.bfstm",
+            "hash": "F7CAE45C2D191FF0B259D11C3104976E68E518799E10B5E1D84075164719CBB4"
+        },
+        {
+            "file": "content/Sound/Static/stream/spl_bwl_bgm01_32k_loop.pcm16.bfstm",
+            "hash": "1B097C801BA051C62352A36AABD19A6A2A23964BEE548AC91420BF5BA9BE30EE"
+        },
+        {
+            "file": "content/Sound/Static/stream/spl_bwl_bgm02_32k_loop.pcm16.bfstm",
+            "hash": "30806E6D2FE254F79F2903C86703A7DDFEF495B1A5D321DEC3F3FBFDF36A070B"
+        },
+        {
+            "file": "content/Sound/Static/stream/spl_bwl_bgm04_32k_loop.pcm16.bfstm",
+            "hash": "161ABFCE3BA2FECE0D0A7EF9DEFE76A86D586FF34C28F6F79C57049F93B75367"
+        },
+        {
+            "file": "content/Sound/Static/stream/spl_bwl_result_32k_loop.pcm16.bfstm",
+            "hash": "5E81F3195A4D04617D30B6EAA487B8411C2E0A3FB2B71FDC2B52AD675A6603C2"
+        },
+        {
+            "file": "content/Sound/Static/stream/spl_club_matching_32k_loop.pcm16.bfstm",
+            "hash": "52DC9712127EF09AA656DFAF5ED1E6FA53D1B3446F1E47593CC16C9E8A5FB6CE"
+        },
+        {
+            "file": "content/Sound/Static/stream/spl_club_ranking_32k_loop.pcm16.bfstm",
+            "hash": "6330DB6855C46A2F339E2D029170673FCD3FDE2FAAFC749B6B3E24BE5E358C39"
+        },
+        {
+            "file": "content/Sound/Static/stream/spl_club_report_32k_loop.pcm16.bfstm",
+            "hash": "4BBE8D5FF14F84892CF400B0FC6BAF19079162490A9D81A039BECC45B263CE89"
+        },
+        {
+            "file": "content/Sound/Static/stream/spl_clubhouse_32k_loop.pcm16.bfstm",
+            "hash": "454045E8C37D669C0A797FAFB435EE692774853526AD9EE0D9AC00706DE70D49"
+        },
+        {
+            "file": "content/Sound/Static/stream/spl_glf_CamDemo01_32k_loop.pcm16.bfstm",
+            "hash": "8D180B03C785F290DBBA9FB96BFC955500BFB6A6AB89F2F6307855B84FD407E7"
+        },
+        {
+            "file": "content/Sound/Static/stream/spl_glf_CamDemo02_32k_loop.pcm16.bfstm",
+            "hash": "63DABA74F41DBE7378363B7D854B1C38E6420456680D173D551F6D5CEC50CE66"
+        },
+        {
+            "file": "content/Sound/Static/stream/spl_glf_CamDemo03_32k_loop.pcm16.bfstm",
+            "hash": "AAAC02EAAB3F4D2B1ED151A8EB6DAAFDBFEC9B64BE697A631E2EA8C8CEC2E634"
+        },
+        {
+            "file": "content/Sound/Static/stream/spl_glf_result_32k_loop.pcm16.bfstm",
+            "hash": "BBD82603821CE6FFEB6C16F731315DC94E45F3F9E9FA1133CCFBB76A4A7947F8"
+        },
+        {
+            "file": "content/Sound/Static/stream/spl_glf_training01_32k_loop.pcm16.bfstm",
+            "hash": "5F490285044620D1ECCA90F509A670192F94225ECC666BDBE0E4C8D156205604"
+        },
+        {
+            "file": "content/Sound/Static/stream/spl_glf_training02_32k_loop.pcm16.bfstm",
+            "hash": "C5D155F5791FCA129CFEFE4A9A357429047BB79DDCC6DD9A2205A397BABAC828"
+        },
+        {
+            "file": "content/Sound/Static/stream/spl_glf_training03_32k_loop.pcm16.bfstm",
+            "hash": "7A472C6B456BB124AA3327E650ABFB1C12D0EE9B1B16AC675F33F2C564F2808A"
+        },
+        {
+            "file": "content/Sound/Static/stream/spl_tns_replay_32k_loop.pcm16.bfstm",
+            "hash": "1CF31D8094416E464A7D60C06776D3543E0E6767EFB8E6D3D49231137000A8F4"
+        },
+        {
+            "file": "content/Sound/Static/stream/spl_tns_result01_32k_loop.pcm16.bfstm",
+            "hash": "B5AD4780BCAC2FA72851DEE34331C47B27943488737E564C5E4C11B79841A9F6"
+        },
+        {
+            "file": "content/Sound/Static/stream/spl_tns_result02_32k_loop.pcm16.bfstm",
+            "hash": "93C9DF89DE561C8ABF87D081BBE77E5E1E05A7181016DCB20E0A9C4390CE2FF1"
+        },
+        {
+            "file": "content/Sound/Static/stream/spl_tns_select_32k_loop.pcm16.bfstm",
+            "hash": "6587F9303A54BDFA4AE045E676D4DB615EA10E30D948A86892E509A7CF1CE82E"
+        },
+        {
+            "file": "content/Sound/Static/stream/spl_tns_training_32k_loop.pcm16.bfstm",
+            "hash": "CADF0CB53DD206F6B32874184136C6C05C5EDBAD0108E5B4E866D17D0B8C7CA7"
+        },
+        {
+            "file": "content/box/SPL_box_AudienceA.bfres.z",
+            "hash": "25142FEA28BA2D9BFC37081E5C65A19973B5351012C02B1BC90A683514BDBFB9"
+        },
+        {
+            "file": "content/box/SPL_box_Cam_Monitor_game_00.bfres.z",
+            "hash": "36565B8DE54C7A54AA1CFF2ACFAF97225E1B28AD7B3D213CB16D9CD52A9E20CC"
+        },
+        {
+            "file": "content/box/SPL_box_Cam_Monitor_game_01.bfres.z",
+            "hash": "FEBF0D08DA523D229FEBCEC9711CE5A3C6AC4818D0BF3AE8D33CC12517061AC5"
+        },
+        {
+            "file": "content/box/SPL_box_Cam_Monitor_game_02.bfres.z",
+            "hash": "8910FD62142851A4BDB8FAB540D7A729995E0A3222EB75E2D503FD620D025789"
+        },
+        {
+            "file": "content/box/SPL_box_Cam_Monitor_interval_c01.bfres.z",
+            "hash": "121631F47CBBD9E5D7C54DE73CD49153868C2506C759FEED80162684E8BAFE7D"
+        },
+        {
+            "file": "content/box/SPL_box_Cam_Monitor_interval_c02.bfres.z",
+            "hash": "7AED8C47618DA98E5312EB439E3B1A8BEE525D0BCA5C3E0DABA740ED5A028A3D"
+        },
+        {
+            "file": "content/box/SPL_box_Cam_Monitor_interval_c03.bfres.z",
+            "hash": "92CA7E74778E99030712B3BD17E7F404C936BEF9EFC7FE3C623D699C02CAE91D"
+        },
+        {
+            "file": "content/box/SPL_box_Cam_Monitor_opening_00.bfres.z",
+            "hash": "26B7436AB22F0E5933FF505800E0948C941E1722B62696F948A747C4A7514C1C"
+        },
+        {
+            "file": "content/box/SPL_box_Cam_Monitor_result_00.bfres.z",
+            "hash": "4A94E6C261100D1D11F7FA0E91DFC711C43FD375020665A48017F69FA5F95F4E"
+        },
+        {
+            "file": "content/box/SPL_box_Cam_Monitor_round_00.bfres.z",
+            "hash": "519C1E71B32DF1639EE8C716707BB23EE949668FC38D3D0483CB8D0047ED6441"
+        },
+        {
+            "file": "content/box/SPL_box_Cam_interval_c01_p00.bfres.z",
+            "hash": "F77E84DB8FAE03E4A609EAFCF04916092C4FE27F4D8C5CF91891494DDF1D7422"
+        },
+        {
+            "file": "content/box/SPL_box_Cam_interval_c01_p01.bfres.z",
+            "hash": "8E8429BBFCFE1D5C3A03491628C65C050895CEDB84B9426BFBE95346DBCE9F4B"
+        },
+        {
+            "file": "content/box/SPL_box_Cam_interval_c01_p02.bfres.z",
+            "hash": "7126209007D027D0DF7D861B6ADE284FB9197CA0890F09FA3F394D36DB571CE3"
+        },
+        {
+            "file": "content/box/SPL_box_Cam_interval_c02_p00.bfres.z",
+            "hash": "A81C02A957F7B8BE937832558E1BF4B2589D91D6E4D4C3705F3530FFD6303B5D"
+        },
+        {
+            "file": "content/box/SPL_box_Cam_interval_c02_p01.bfres.z",
+            "hash": "0BF6261A309D30E1D8F9EC29BEC4EB5CBE0E47F0EB57E43C4F78B5BADD3E0D19"
+        },
+        {
+            "file": "content/box/SPL_box_Cam_interval_c02_p02.bfres.z",
+            "hash": "B7D947101AC6DE047C5EA68790BBAD0A545A9BE0BB56DD3A829914D6DC956739"
+        },
+        {
+            "file": "content/box/SPL_box_Cam_interval_c03.bfres.z",
+            "hash": "F5FE6DE242C093D022A94634182F750A3AF83C2B5359BF91C1ED30E4A97DE65C"
+        },
+        {
+            "file": "content/box/SPL_box_Cam_openingA_c01.bfres.z",
+            "hash": "AE0981BA646572AB982CF930E84B0C3AEB5FBD6C2363C0F0086415C1856418EF"
+        },
+        {
+            "file": "content/box/SPL_box_Cam_openingB_c01.bfres.z",
+            "hash": "CB73F51F0AF602118CBFD501C8D7735E655822D5669A28BDDC5D02A90CB8B993"
+        },
+        {
+            "file": "content/box/SPL_box_Cam_openingC_c01.bfres.z",
+            "hash": "BC84976A6332A91915A1437CF6B0760D7B9AB9BBB07129010EFD8B3FFC395612"
+        },
+        {
+            "file": "content/box/SPL_box_Cam_opening_c01.bfres.z",
+            "hash": "012357FDBF576CD8451D47F4A8087775A03DC0A98813633F432D466FE10987BA"
+        },
+        {
+            "file": "content/box/SPL_box_Cam_opening_c02.bfres.z",
+            "hash": "9711DA1F60AEB06DD2605228B55458FA26DF1AF12CB689B8904094111A50AB14"
+        },
+        {
+            "file": "content/box/SPL_box_Cam_opening_c03.bfres.z",
+            "hash": "BB2BF0B937808737C8E0B3822628C7E705F23E216019912F8D89105E863317E2"
+        },
+        {
+            "file": "content/box/SPL_box_Cam_remotecontrol_c01.bfres.z",
+            "hash": "4E34EFF1B4285783942C17407482D8FFD909930CC1FBD291818635A0A5C3A5C4"
+        },
+        {
+            "file": "content/box/SPL_box_Cam_resultA_c01.bfres.z",
+            "hash": "9C17D0D6E2877AAA1915D42B083DE94ED789D2FB3BC27A9644C83E545D57F8E2"
+        },
+        {
+            "file": "content/box/SPL_box_Cam_resultA_c02.bfres.z",
+            "hash": "76E2F5D9FEEDF0D533052C6E8E1AEBBE87E3692964D34DB2A7BD41EDD8327284"
+        },
+        {
+            "file": "content/box/SPL_box_Cam_resultA_c03.bfres.z",
+            "hash": "BBC0CCD7617DE04981F2CAFAFC5C775D97FB874471CFB05F51D945B94CD225F9"
+        },
+        {
+            "file": "content/box/SPL_box_Cam_resultA_c04.bfres.z",
+            "hash": "4DB60EF45FA1E71876F50E6EFA7E32F4E97912F9C29116DA30CE6C0AEB5BBB5F"
+        },
+        {
+            "file": "content/box/SPL_box_Cam_resultB_c01.bfres.z",
+            "hash": "FF8D718310A6C9B2C49E12CC0165529C6066C6817712CFE1E0C018FC3F4BE1EE"
+        },
+        {
+            "file": "content/box/SPL_box_Cam_resultB_c02.bfres.z",
+            "hash": "9762885841DCBD43BDAD539F61F0A9CE1CFD674D375476EA9798BBEFB02AD6B2"
+        },
+        {
+            "file": "content/box/SPL_box_Cam_resultB_c03.bfres.z",
+            "hash": "ACD2EA019488DBCD8DDEAF9733308067B64FD2D626AAE61D8A8F89D3300B6189"
+        },
+        {
+            "file": "content/box/SPL_box_Cam_resultB_c04.bfres.z",
+            "hash": "C955EBBC6C0CE12D1E0ABA0BC3DFCE374B5AB26AA3AD44D23D56E95006DF94A0"
+        },
+        {
+            "file": "content/box/SPL_box_Cam_resultC_c01.bfres.z",
+            "hash": "E47FA44DC06BFC9A2939DD4AAF0BB2F5AEF2EFD93DCC061C83B8AAB10EAF667A"
+        },
+        {
+            "file": "content/box/SPL_box_Cam_resultC_c02.bfres.z",
+            "hash": "EB07A21AA0C19B2461ABBFD3374B7C55B13538A54EEFF06CA3DCCB1ED73B0BC9"
+        },
+        {
+            "file": "content/box/SPL_box_Cam_resultC_c03.bfres.z",
+            "hash": "747F99BC35FCA4CA1764DC20DDE8F726048E02EB6651B8AF2EDB574B5D435F4B"
+        },
+        {
+            "file": "content/box/SPL_box_Cam_resultC_c04.bfres.z",
+            "hash": "7A8DC71779EFFA854BBCBFC26C92E0EF54446EF218593DC80CA5FA0A7758B838"
+        },
+        {
+            "file": "content/box/SPL_box_Cam_result_c01.bfres.z",
+            "hash": "1F9C4EC948266713803CC00BE07DF1B31960F03818D2677B7302E3E9329F5589"
+        },
+        {
+            "file": "content/box/SPL_box_Cam_result_c02.bfres.z",
+            "hash": "FA29A2A403842183EAA2E3853A699C2C2A5C8B5B1F59CF306C52BE5A6E9428D7"
+        },
+        {
+            "file": "content/box/SPL_box_Cam_result_c03.bfres.z",
+            "hash": "BFB78628F329B205A0FBDC0D964F28E3EE73A761BBA261948B435902613E15F9"
+        },
+        {
+            "file": "content/box/SPL_box_Cam_result_c04.bfres.z",
+            "hash": "516E05300A7EB5F3894FA8E243F1A49D5916783393DDBD407E818BDBF0C0C9E7"
+        },
+        {
+            "file": "content/box/SPL_box_Cam_round_c01.bfres.z",
+            "hash": "6401D6D845B037F99BA5E13DC610AE745A7B91720A3162A82E00E130D32928C7"
+        },
+        {
+            "file": "content/box/SPL_box_Cam_round_c02.bfres.z",
+            "hash": "CD6E5DA2DA1017662FA34B6B0203AA0B360536F99582713B27944E0C3156C25D"
+        },
+        {
+            "file": "content/box/SPL_box_Screen.bfres.z",
+            "hash": "C613A9BACDB24E82D0AC610613654A6520AA14B4B18FFEEBE502EEE06B0283D4"
+        },
+        {
+            "file": "content/box/SPL_box_atomizer.bfres.z",
+            "hash": "D757BEDD192DF6847DD22C5FCE93F6B6C386AB50C749EFEFFD42FD6751BFA38F"
+        },
+        {
+            "file": "content/box/SPL_box_ava_m_body_00.bfres.z",
+            "hash": "382913C0799D326E0D0A9B29DF0630E534C870202EA4EB2C955F9E9E99E02B8E"
+        },
+        {
+            "file": "content/box/SPL_box_ava_m_body_10.bfres.z",
+            "hash": "202EBB3283B0B34620DFE3742843FF97A47D7AE14BDF0000812A389F47892D6B"
+        },
+        {
+            "file": "content/box/SPL_box_ava_m_body_11.bfres.z",
+            "hash": "9558A7CD082FDBC958D79A813D8DC431012EA49B4B3D3DD6E51AB216AAA1A3AF"
+        },
+        {
+            "file": "content/box/SPL_box_ava_w_body_00.bfres.z",
+            "hash": "3A8EF49C8AEBAC85A2E9B83D17871FBB00BC35E68C28AEB07BAA9154D30001E1"
+        },
+        {
+            "file": "content/box/SPL_box_bucket.bfres.z",
+            "hash": "D67DFF0419E62B61BB09DDCBF8C891D68A265F6C65D64B2C209DB2DD91034D1F"
+        },
+        {
+            "file": "content/box/SPL_box_corner_post_01.bfres.z",
+            "hash": "B003757D40A18D31ED60A70433F219BF0AE3E365A6D5E9321FFD27CD271F44F6"
+        },
+        {
+            "file": "content/box/SPL_box_corner_post_02.bfres.z",
+            "hash": "E49F15D2291F0455ABDD790AFE749E4B419FC07876517917DACA0F10A0A515DF"
+        },
+        {
+            "file": "content/box/SPL_box_corner_post_03.bfres.z",
+            "hash": "B4957412E3B124E0E8600DD848B3B92C858D848F7732C271104AD8FB46A2C734"
+        },
+        {
+            "file": "content/box/SPL_box_corner_post_04.bfres.z",
+            "hash": "C51AE6A057F1333916F0834490B7FFD13766AEFBE6248A83199237046220C319"
+        },
+        {
+            "file": "content/box/SPL_box_duck.bfres.z",
+            "hash": "61C972E9E06C7FB063FC58EA19EA8FC148712EC929E813163CFF95600E535CDF"
+        },
+        {
+            "file": "content/box/SPL_box_effectLight.bfres.z",
+            "hash": "552081F3929218E751B63F67295FACF9C420E1ED051E1194EEBF723F978BE1D8"
+        },
+        {
+            "file": "content/box/SPL_box_glove_L.bfres.z",
+            "hash": "5973207045D401E969745E6B7474493BE7F6608775C467E69E2ED7E80E85852E"
+        },
+        {
+            "file": "content/box/SPL_box_glove_R.bfres.z",
+            "hash": "5940863B7AFBC0072C6F5983E5470CD9DAE50FF1262CE05799B83A4A12BB4561"
+        },
+        {
+            "file": "content/box/SPL_box_glove_SP_L.bfres.z",
+            "hash": "DD62FA61A606CF9F4A95518BC96A6F5A12C5E8BC108C88D8CA46EA0ECD58120D"
+        },
+        {
+            "file": "content/box/SPL_box_glove_SP_R.bfres.z",
+            "hash": "53EA378B392524D5A611341EF334A44078DC9EEF66BEF5FE1BE14E200BA3E1AE"
+        },
+        {
+            "file": "content/box/SPL_box_gym.bfres.z",
+            "hash": "BCC1F0215D121DE1604A0D60E4DF820FA188C574E19BDB7DA34630A61D0D2842"
+        },
+        {
+            "file": "content/box/SPL_box_gym_T3.kcl.z",
+            "hash": "CA8A218127418FF5345881A5515184BDB6F3798354E8B9A82B054C36BAEBACDD"
+        },
+        {
+            "file": "content/box/SPL_box_gym_light01.bfres.z",
+            "hash": "5840E0E6F94508BDA72918E1B19E12ACD61431A769A8C71434A434904D16C121"
+        },
+        {
+            "file": "content/box/SPL_box_gym_light02.bfres.z",
+            "hash": "84DFA1822F4D5A72B656564620D2CC5384F7FA2FB57CF7B29E6741F321AD7529"
+        },
+        {
+            "file": "content/box/SPL_box_gym_light03.bfres.z",
+            "hash": "03EB15D6EB1DB5F81063A63FD02E979A70CE9127143EC0FF88911E38BAC4201F"
+        },
+        {
+            "file": "content/box/SPL_box_gym_light04.bfres.z",
+            "hash": "C9CCA21CB4852160B29F66D7D7F7EAF37BB9978FCAF58BF65094ED06FD256524"
+        },
+        {
+            "file": "content/box/SPL_box_hall.bfres.z",
+            "hash": "8DB54101013240164EDCA8538456A9C5931D4AEB97535BB8818F9CB847C1109D"
+        },
+        {
+            "file": "content/box/SPL_box_hall_LightModel.bfres.z",
+            "hash": "1BF7D9ACFE3548F88AA1280DAD54CD1A83E385FB8A06336A93C36C1DB96682C0"
+        },
+        {
+            "file": "content/box/SPL_box_hall_light.bfres.z",
+            "hash": "1D33A0E0D6A822B918C0A7A4271A55B6097C43563E7875A81F8F95BCA3C17183"
+        },
+        {
+            "file": "content/box/SPL_box_hall_monitor.bfres.z",
+            "hash": "E03161A8EC81FC5343ABDF294066F1344998B01641193EDAC9D4EEFA7197DF90"
+        },
+        {
+            "file": "content/box/SPL_box_life_1P.bfres.z",
+            "hash": "7FEBFE5DEDBFCC3C859C695A74F2928DFFF0B364106BC19EAE863A58EEF1FF21"
+        },
+        {
+            "file": "content/box/SPL_box_life_2P.bfres.z",
+            "hash": "CD3E50F9DC716FA54E6AF79398BDBAB6FB28894D9A14F748F04BA9054BADE8CB"
+        },
+        {
+            "file": "content/box/SPL_box_lockerDoor.bfres.z",
+            "hash": "9BCF8248069CE82D71FC41C1DA9FC8C773F1D631628FC90AEE8FECFFBEF2054A"
+        },
+        {
+            "file": "content/box/SPL_box_panchingball.bfres.z",
+            "hash": "CD2B9CF5814FA1060020498277D6B5ED8C4621464579F5AA807575DD9BFF1468"
+        },
+        {
+            "file": "content/box/SPL_box_panchingballL.bfres.z",
+            "hash": "BBA59626664F6A589B9E2B829D75A2B8E661FEFB0E8631459842D5851497A531"
+        },
+        {
+            "file": "content/box/SPL_box_panchingballLR.bfres.z",
+            "hash": "E856E9064F99CD5C629F5AFD309DEA01F21C2E670408549428D9FBBB78F60BC4"
+        },
+        {
+            "file": "content/box/SPL_box_panchingballN.bfres.z",
+            "hash": "667D93E34E129B7F5E974C2A9F5059877A0A822488111D78693BEB89808C92AA"
+        },
+        {
+            "file": "content/box/SPL_box_panchingballR.bfres.z",
+            "hash": "D1BE9F26C3833DB48F2F4A92E66828E7FD5C61C8B2DBDAF6A5388B6AF5FDBE57"
+        },
+        {
+            "file": "content/box/SPL_box_panchingballRL.bfres.z",
+            "hash": "E59DC5679204D468FC774D651810DF0A56B5578429685F22BC17F0951FFC6E19"
+        },
+        {
+            "file": "content/box/SPL_box_panelALL_in.bfres.z",
+            "hash": "AF3BC9CBF167509A675B8E402B382C7E78D6BD6434AC1E98A550C9A11E2704A7"
+        },
+        {
+            "file": "content/box/SPL_box_panelA_v01.bfres.z",
+            "hash": "E044FD5F91A0DA8B31932AD963F12319FF424AADB35CD0C5B710A44E28AED139"
+        },
+        {
+            "file": "content/box/SPL_box_panelA_v02.bfres.z",
+            "hash": "C1E80491A6A2890E7837027AD00F070B5E302B9E09AF9942633B0A09DE4B6A5A"
+        },
+        {
+            "file": "content/box/SPL_box_panelA_v03.bfres.z",
+            "hash": "DFBC6A696CF3C3EA30D582A94569A1D5CFDF952D364B63B6A51034A779B153CE"
+        },
+        {
+            "file": "content/box/SPL_box_panelB_v01.bfres.z",
+            "hash": "AD063ED7B426712792F027F50E07BA9E403742EAE63480EA299B9A6D1202DEDD"
+        },
+        {
+            "file": "content/box/SPL_box_panelB_v02.bfres.z",
+            "hash": "3C603F7F2406498E86BFFEFCE6FE332269DCF209FFDB91E142DE8176F6F0B671"
+        },
+        {
+            "file": "content/box/SPL_box_panelC_v01.bfres.z",
+            "hash": "92BC19B43AD3CB9DBCB82B2B37C04A1041F493BC42D6703737A64BD39AA2A80E"
+        },
+        {
+            "file": "content/box/SPL_box_petbottle.bfres.z",
+            "hash": "EE473EBE213F872B6C81E5D6A40ED5F85E02BAD193900EE3F74E1BC8AB265559"
+        },
+        {
+            "file": "content/box/SPL_box_pipestool.bfres.z",
+            "hash": "576D9B09E2DF29D596C4998ACD08C6F9E2D701C1CABBBF8D83342D5146735044"
+        },
+        {
+            "file": "content/box/SPL_box_plate.bfres.z",
+            "hash": "314876D6622B6329BF5654160DFD82E6A48B1B4C9B04CCA5F026CF699347BDC4"
+        },
+        {
+            "file": "content/box/SPL_box_rail.bfres.z",
+            "hash": "07CCCA8DEB82E78B015A986C270D624ACDB96C8B5BAA6BCE4C671635A4A5D5A6"
+        },
+        {
+            "file": "content/box/SPL_box_rope.bfres.z",
+            "hash": "A49DE187D52327C4A9F26D5711A8ED788DAF8B6CC6F08A26EA2DA6C0AE5DD425"
+        },
+        {
+            "file": "content/box/SPL_box_shadow.bfres.z",
+            "hash": "21B4C0665EEFB6E012EF8C0E4D51AFE5BEB318603BF22BBD35A300F8884E37C5"
+        },
+        {
+            "file": "content/box/SPL_box_switch.bfres.z",
+            "hash": "566AEDF7E01EF142942A65E8FF36784773CC43E35CA8E195FCBE69FFCEC0E9A3"
+        },
+        {
+            "file": "content/box/SPL_box_switchmax.bfres.z",
+            "hash": "2418D0B28D7E5EF5EA34D1D9BB2CCE2ABCFF513A332AA53D214E980511C3B73A"
+        },
+        {
+            "file": "content/box/SPL_cmn_shadow.bfres.z",
+            "hash": "A0C7179A51492CDE6DB168A7BF70D0E873CF7A11802F1CC634886FE13B6C60EC"
+        },
+        {
+            "file": "content/box/WS2_omk_wii_remote.bfres.z",
+            "hash": "75CB23A111DCEA22FB6B069C1C9F50F09886225F5391C9505D4A3800A6D0394E"
+        },
+        {
+            "file": "content/box/ava_bodyC0.bfres.z",
+            "hash": "2AFBA49B2F9824C53EF480EE7456562C80D90FDD8604E1F0DBECBEFF7673ED4C"
+        },
+        {
+            "file": "content/box/bin/BoxerData.bin.z",
+            "hash": "F559F161659D682D01887544748EC53F8CE9B3888A7D8FA7D2B244A0E524158D"
+        },
+        {
+            "file": "content/box/bin/CPUData.bin.z",
+            "hash": "00D65884126BD7F1DF442C1397A36CAE491F6BDED64B26918D77E100D6C06F85"
+        },
+        {
+            "file": "content/box/bin/MiniGame1_GameData.bin.z",
+            "hash": "811D049751CDFC2B12A93114592C41BCF922FB8DEB37A151015811C5915CA381"
+        },
+        {
+            "file": "content/box/bin/MiniGame2_TimeTable.bin.z",
+            "hash": "83B8E3BD79343B7D5C4112865F0B0495DBA05BD02C6C8713DD7FD922C4D14F2C"
+        },
+        {
+            "file": "content/box/bin/MiniGame3_GameData.bin.z",
+            "hash": "B0EFABE22FF19F3D20679845CBBA4653FB0DC2C5C8F00A592E976E646CA90338"
+        },
+        {
+            "file": "content/box/bin/PunchData.bin.z",
+            "hash": "0740B4A45AB3498850476360D84A6E8D327DE27B2681E35DB61C4FA943D1105E"
+        },
+        {
+            "file": "content/box/box_avatarA.bfres.z",
+            "hash": "13AFD2DCD41C032CBC1BA28873288AD19D43517CA11E3C3B278EF648F05FFDEF"
+        },
+        {
+            "file": "content/box/box_avatarB.bfres.z",
+            "hash": "C55EA236EB180EA2A4FB8E604EF640853EB79AB972753E0212CD5BB22A64A141"
+        },
+        {
+            "file": "content/box/box_avatarC.bfres.z",
+            "hash": "22F9C2941FE318C56F8B2CCF75EB00F3C5886637A901DFC54052D4419C37797B"
+        },
+        {
+            "file": "content/box/box_field/box_corner_B.bfres.z",
+            "hash": "95471166DAB87D21E2677B8BC0A38E3277DE2D0A376A8F96F24DAA8573BD100B"
+        },
+        {
+            "file": "content/box/box_field/box_corner_R.bfres.z",
+            "hash": "4B9B581FBF438FA4A11997EED8944032332A3853F6AD3BB3CACBD34BAD590C87"
+        },
+        {
+            "file": "content/box/box_field/box_corner_W1.bfres.z",
+            "hash": "E6CE541C9AE6FC6E0963ACD0809FF428B605F525B2580F66E8047FDDF43D1739"
+        },
+        {
+            "file": "content/box/box_field/box_corner_W2.bfres.z",
+            "hash": "D2459C0D031BDEB2CAAA50D584638E3BCFB480EDB0EE8DDAE0AA389B733E196D"
+        },
+        {
+            "file": "content/box/box_field/box_gym.bfres.z",
+            "hash": "93BFD8585B1DF04FF275CDCCB16A25E8F050A80949AFEB53D5F91C705D879385"
+        },
+        {
+            "file": "content/box/box_field/box_hall.bfres.z",
+            "hash": "59597A9E957E5F2BD9145627BC035F3509451D5944B74B06632825F7AB69D7C1"
+        },
+        {
+            "file": "content/box/box_field/box_hall_light.bfres.z",
+            "hash": "E2A6329499E6BF7E00A087D088785F0EC404184335C19136A162A19F26470044"
+        },
+        {
+            "file": "content/box/box_field/box_kage.bfres.z",
+            "hash": "B47106822EB509E1F3D1C030D025DF94755082B6856114CB18975C5F59E01B36"
+        },
+        {
+            "file": "content/box/box_field/box_light.bfres.z",
+            "hash": "874040DBFD6D5CB43FB1EEA740F27AE1FD9B88D001C8561F1AE84315C3003881"
+        },
+        {
+            "file": "content/box/box_field/box_ring.bfres.z",
+            "hash": "A9D9B60F2BAB1B51D3F7D3E2E3B24BDC0B23BA47EFA16B38DBA35803A9497E0D"
+        },
+        {
+            "file": "content/box/box_field/box_rope.bfres.z",
+            "hash": "A1404260DA774635CEEA50F97E957D08F49925AF804AEE5757FC363ADF0E588C"
+        },
+        {
+            "file": "content/box/box_object/box_ball_shadow.bfres.z",
+            "hash": "50024DC921EA2F971FA8E9930216EFA1F12D618CB9449E7314912A0F36205211"
+        },
+        {
+            "file": "content/box/box_object/box_ball_tns.bfres.z",
+            "hash": "8222D7430C1A5178C2D2AB0EAECB32D229DA9358273BA357D3F34E37FECE1C20"
+        },
+        {
+            "file": "content/box/box_object/box_glove_L.bfres.z",
+            "hash": "EB7CB735168CDEF2C19C13EA3805435220DD39EEA0B02C84707B40D266C0B798"
+        },
+        {
+            "file": "content/box/box_object/box_glove_R.bfres.z",
+            "hash": "B3655B9E723A7EF517A6D767CEBBD181881F69F519DADAF2A8A063E73C7D0666"
+        },
+        {
+            "file": "content/box/box_object/box_mitt_L.bfres.z",
+            "hash": "5E9EBE6C1F29BE654700F18D4B64028B48C6FCF0C231534DD53678427D1E828A"
+        },
+        {
+            "file": "content/box/box_object/box_mitt_R.bfres.z",
+            "hash": "CF02C0E01A01955201C3E9BADA735BAEF380E4895003C7925C03CFDAD991D3AE"
+        },
+        {
+            "file": "content/box/box_object/box_sandbagA.bfres.z",
+            "hash": "7D796C9C13CF345C649B35F9D925EE4A51F6E562123A06A075B71243328A9E6B"
+        },
+        {
+            "file": "content/box/box_object/box_sandbagA_a.bfres.z",
+            "hash": "2BB40639CBEC9CED7BA0FD4651A16ED75F7357A667F5D89185F9FD7E0FD84369"
+        },
+        {
+            "file": "content/box/box_object/box_sandbagB.bfres.z",
+            "hash": "EF62D874E694F0860CFF2F59A301F01714FA396C164B8174DDA2C08F8EABC423"
+        },
+        {
+            "file": "content/box/box_object/box_sandbagB_a.bfres.z",
+            "hash": "A3EC21F3884C1FD5653735A3DA68C1BB42A74F76D5F50772E6EB7C3CEB3C5219"
+        },
+        {
+            "file": "content/box/box_object/box_sandbagC.bfres.z",
+            "hash": "4E3D86EE14A32B54D9B562D4CC5E10C1A96F55EB78D0B278D4A73DC30B9EFEF8"
+        },
+        {
+            "file": "content/box/box_object/box_sandbagC_a.bfres.z",
+            "hash": "B3D86D1050AD13152C9859A1EFB7F0ACB36E240A056DB17F3EDFB27193BDD4BC"
+        },
+        {
+            "file": "content/box/effect/SPL_box_effect.ptcl.z",
+            "hash": "0B341701E96DCE5D1FD57CEDB2B8E17C38460805D7AA720571C89B34A013FBE8"
+        },
+        {
+            "file": "content/box/effect/SPL_box_hit00_effect.ptcl.z",
+            "hash": "A1BD5BCF73C516BC60386C79AA1EF8D4FCD2C33EC52F7E50D1F4F8F9262E3FAA"
+        },
+        {
+            "file": "content/box/effect/SPL_box_life_effect.ptcl.z",
+            "hash": "2A0E1969E1C7D5E6C4E39B49399678203E1339D300F7A92BB8E6326CD0A847BA"
+        },
+        {
+            "file": "content/box/effect/SPL_box_other_effect.ptcl.z",
+            "hash": "9F8E6DE9AD387F73C25063FA563E8332DB6BCB42089B5A58E06EF0DB05B617BA"
+        },
+        {
+            "file": "content/box/effect/SPL_box_training_effect.ptcl.z",
+            "hash": "BDB00D18B8AD37506A66B0B3D425C8AFC68EA83EF03E5F489B90D6B1253D1D38"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_Airship.bfres.z",
+            "hash": "C37E1B28DF3ADF6A9759B43BCEA488BF1A7522C35D1FCD2878B1EFF8ADE55D2A"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_AudienceA.bfres.z",
+            "hash": "85D243E92C74EFAEC2CD45BE2A2C18E61016A2EA2848903302E79A79A1F994AB"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_AudienceA_LOD.bfres.z",
+            "hash": "9878DC9911A041E792D8DDFDAE20EACA1A49F31D8DFAF2082AA81A1306AD9708"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_Ball.bfres.z",
+            "hash": "D099FD318ECA4DEB53D8CB75D79BBCC0DDD4466E89D4565A50486A7A8906AAE2"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_Bat.bfres.z",
+            "hash": "BF38B252952F4835CB95542E0E8B906A2E2DC8DB08A63FF1E6D15037B3254C27"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_Batblur.bfres.z",
+            "hash": "B98CF4C25840BB01C81491AA8C040DB8635D8742F876874E996CCAF7D0418157"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_Cam_opening_0.bfres.z",
+            "hash": "E29BAAFA2CB5415089AA24D41F0E32682031C52971CD543CB5BACA22F106DA59"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_Cam_result_0.bfres.z",
+            "hash": "D109B9E26795F44F987F9F1DE7A881A53A0046C3BDF48BE20C264B6DBA138FEA"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_Cam_result_1.bfres.z",
+            "hash": "E0D799FE5122B2C3EB8A091068F08FC4695C7FD80AD838B12046E944EAF1BDBB"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_Cam_result_2.bfres.z",
+            "hash": "735DE296E9F01461604318F09092BED8DA98467CDDB0AB585243613E7ABB9DB3"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_Cam_result_3.bfres.z",
+            "hash": "06B752552611F9E4DE50989AFC8443FBB2DFC2AB9DD4F8AAEE91234D95F400FA"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_Field_a.bfres.z",
+            "hash": "7FCF4642A85557065E2247631765107D1E069A89B9A16EED231F35731BB00190"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_Field_a.kcl.z",
+            "hash": "C4649E8D0785B777472EDFF620B01D91D6E0BD1BC7AAFD6F942D9C2EF141945B"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_Field_a_LOD.bfres.z",
+            "hash": "9B3A66DAEF68A88755297DFFEFD1B8BE415BB762DC29948C2D2E13DD7C3D4ABC"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_Field_a_light.bfres.z",
+            "hash": "2DE2BD8F08B3DF2C2A3DAB4736A72024C8A7E7DFE5BC40042EAD35C541B65002"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_Glove_L.bfres.z",
+            "hash": "6AA75A3D40FEAF593B9117C20D464BA8F6ECAB015CB3CBE3A784621FA133E85A"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_Glove_R.bfres.z",
+            "hash": "F8D49E9CE0F34FA79F23BF743BC39AD57D8A67E8109AAEF8EB783E244B566357"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_ItemA1.bfres.z",
+            "hash": "0F40F007460EBF47B21435A223582AE1C8680CAE883CB965DDAE1528A17AD0B7"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_ItemA2.bfres.z",
+            "hash": "A0AAC53823DBA00248F519882AFE4470D0C9D352D7F8CB8DD27F7AD69CCB6905"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_ItemA3.bfres.z",
+            "hash": "BF75363DDDD66D5DAE8AA8E05FA2B25EBE5850EEFAF825B1FAD1AE76E57AB873"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_ItemA4.bfres.z",
+            "hash": "88B24829540DC7B043766A801F31BFC42C1ACD4A38E06DCD3D9E943ADCAEEBDE"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_ItemA5.bfres.z",
+            "hash": "AA0B456CED6E8EDDA15C64D9CD92B20DE61F91D3FA47E70C4D1FF99C22096876"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_ItemA6.bfres.z",
+            "hash": "78604A97092BB7BD69B9B661DA6C943C3CB334F17636807AD0048C4B4BC90D4D"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_ItemA7.bfres.z",
+            "hash": "D4DAAE1AE693177419B8A509DFCF12C4019C6640694A0821CBE0B21FB568A255"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_ItemA8.bfres.z",
+            "hash": "72A29892A0B6C68E92CFF7A3C48DDE14FE18A421AA6711907DE3C1E6DE3DD498"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_ItemA9.bfres.z",
+            "hash": "EBE4FCB337930FDEA0FE077ED00C120457819A2127EAE8EEA3B96B19DBA47E80"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_ItemB1.bfres.z",
+            "hash": "93B662C512BDF949A53803316D04D334FF4240D7F601FD83B99AEB5783B6E926"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_ItemB2.bfres.z",
+            "hash": "CC2B4B3C5D0BCAC52089AA3C8026CC7099AE0914F83DF0AA604403F6895C7C5B"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_ItemB3.bfres.z",
+            "hash": "6FF9D845BE59227F123BCA4B72141F99A19B1A41228635FEF33F285A38DAADC7"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_ItemB4.bfres.z",
+            "hash": "2AC3F43448FDF25525574DA8E85AE1CD885D9094E493E618AFA1875E2A2D3796"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_ItemB5.bfres.z",
+            "hash": "66F881F6A9468C104F74C82115DE89ABD69AC5C9B6E21AD8D38A179BAF4BC2EE"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_ItemB6.bfres.z",
+            "hash": "8D9EE242E1DE377D7FB57C6A8B511A28BF3DCBFAA1A2E6A5D4B429754E81D98E"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_ItemB7.bfres.z",
+            "hash": "95E7CB206BD9D9A26E66EE9E4AD9BD3EA359CFF3E472311CCDB95F6C069A3FCD"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_ItemB8.bfres.z",
+            "hash": "D948EBA034A32E8FC7CEFED003650578FC410628B4272E7FC5CB20201F43B556"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_ItemB9.bfres.z",
+            "hash": "F2034ED5A70C5BE920BB5DF3EBC88BCCE7F2BB41E11943E8FC731A9A1CFE3C01"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_ItemC1.bfres.z",
+            "hash": "699872BC7BC04C7C42A88B9993C4AEF1465403B40C9A78D52FB054552DB03A4B"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_ItemC2.bfres.z",
+            "hash": "9CDE8DB85DC15CC3D9EFE8A1B427803AF61D9B12EF80E8641FA504D9190AA13D"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_ItemC3.bfres.z",
+            "hash": "80220D5902017839BDE260F8A0FEE1C9C5B4E80A4B11C415EB1EAD61610D64A6"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_ItemC4.bfres.z",
+            "hash": "935C5D25F2EBB6BC5BEAE5410D6CFC5CEFDA24A612B68A2C92DDC249C30BAFFB"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_ItemC5.bfres.z",
+            "hash": "04331E5BF5203DAD0E4C4615DF7E5F1E2490AC0DF2358BB9A97C604F39F9A3BC"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_ItemC6.bfres.z",
+            "hash": "63846D50A7D881F8A3B90B1B542E79EC4834AB1205AABE74FE28ACF9D5022668"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_ItemC7.bfres.z",
+            "hash": "74B600F37C8F8EFE5BC91B84F49613F2415B992B7E0E4B2CF32A8077E114C450"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_ItemC8.bfres.z",
+            "hash": "5223A3D6135FA4509CE4E7042F6341D50A22B511472AE8E046474307A482B459"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_ItemC9.bfres.z",
+            "hash": "3712200A75F842DA4D2A64E2B1F815D81EE3BD3F30D64E18B270F30D4DD0D211"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_Itembox.bfres.z",
+            "hash": "74712D51CA5E813F14197A6DCD701C2C6DC018D204CFA85084CB9F2DD563EE45"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_Score.bfres.z",
+            "hash": "5AF678F8066E5EC1D065006B510A4FFCED9E8629896FEAFC9D2FF7601984413F"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_Screen.bfres.z",
+            "hash": "2187C4B9B9B7C3B223BF1678830D1E0D5A79B8449A345746B66F8AECA0832158"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_ava_m_body_00.bfres.z",
+            "hash": "A159990B6736A4B1FFF844A9C0554C1709D206A01BD379504DD561B8CA683673"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_ava_m_body_01.bfres.z",
+            "hash": "4BE9809CE1751C3CF8632567E2F9430BF2C85009E7456B0AB8C76F3B1814AFF8"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_ava_m_body_20.bfres.z",
+            "hash": "CF97E74548D31C8260E8ED5CF97A5AC2DE43FB771D01E25A81DB14EBC2ADE2B9"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_ava_m_body_21.bfres.z",
+            "hash": "F32C0E0EC2E7117CAAFAAB91692A71B60BD01CFB2209CA98A53E1B3197618B87"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_ava_w_body_00.bfres.z",
+            "hash": "893AA0525A59CE71ADA8A6E405EA7314FBBEBDBB21679E1DE0485E5EA40D5226"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_ava_w_body_01.bfres.z",
+            "hash": "94E38F0C40975CCC3EDC299E5372FB490A6599F3DDB3B270D852667CD43B493D"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_c_glove.bfres.z",
+            "hash": "5F4C4FDC0E742B39A9F49071290608EAFBBB026DF8324F6513F81D6B51C020B4"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_c_mask.bfres.z",
+            "hash": "1438BFF5D23CAB49523B5B4D2DB54EE0F0F1CF4D8BED76139F8C166CF514E571"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_c_pl.bfres.z",
+            "hash": "EA91793CEBB65D19EDEA912DD57BCD92D5B2EBB06CCF9062CFD275A4CADF59CB"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_effect.ptcl.z",
+            "hash": "D4D7DD4AB195752DCDB30C7BBC98C7F4113453735BC5CFCBDAE8A48F25DDF6EB"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_metalrod.bfres.z",
+            "hash": "E53652D5B92B31F161EA6CF96BDEEF0166E72F2C178198C75D4D753ABF8600F9"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_metalrodblur.bfres.z",
+            "hash": "D9989D6A0EB42E86B3E4E227A7C842451C5AB69376FA18F46DB15E75850ED220"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_strike_zone.bfres.z",
+            "hash": "A45A1EDE5706D8EA2D6F68A532F867A5043B42EE05B8500CFDED0AD9C6969F52"
+        },
+        {
+            "file": "content/bsb/SPL_bbl_training_effect.ptcl.z",
+            "hash": "3C7CB433C54AB71B145AAC2D763D1834CD3EA043533FAF72CE26E631D14E0055"
+        },
+        {
+            "file": "content/bsb/SPL_cmn_shadow.bfres.z",
+            "hash": "A0C7179A51492CDE6DB168A7BF70D0E873CF7A11802F1CC634886FE13B6C60EC"
+        },
+        {
+            "file": "content/bsb/bbl_arrow_A.bfres.z",
+            "hash": "77CBA7AD54A87E2252F021643C7AE88FA060DC430E71EFF090C8813DEB55AF9F"
+        },
+        {
+            "file": "content/bsb/bbl_arrow_B.bfres.z",
+            "hash": "9510DBE410F5E990EDBACF1D1A7485653555E98CA6F671D868597213289F32DB"
+        },
+        {
+            "file": "content/bsb/bbl_field_a_org.bfres.z",
+            "hash": "2760917254F0D4BE1DC9E3A2822C911CB71854AA16E94FA5F1D78384CF1A1528"
+        },
+        {
+            "file": "content/bsb/bbl_range_board_A.bfres.z",
+            "hash": "D6F6FE47950E4ADAF549F0C111E1170675E09075F6E2DC69C689B4AEBEEA76C9"
+        },
+        {
+            "file": "content/bsb/bbl_range_board_B.bfres.z",
+            "hash": "1A5D38F12A201B510BF44454EED12F204F6A66B1247FEFA0F761EB5D2670BB95"
+        },
+        {
+            "file": "content/bsb/bbl_range_board_C.bfres.z",
+            "hash": "A2FA65B4972E0650F48E6D04CBB0F0C8801D3BDE10BE3A0861B7956F4D7F28BA"
+        },
+        {
+            "file": "content/bsb/bsb_NetworkDelayParam.bin.z",
+            "hash": "C9FE7E38F1CAF7CBE2626524AAE1C6A48A9678B284B50CAD70417D08FE753ED5"
+        },
+        {
+            "file": "content/bwl/SPL_100PinSet.bin.z",
+            "hash": "468A7A5CCF936C1CE26158C7D75822355FD48E0D504827659DAAB7F95263E09E"
+        },
+        {
+            "file": "content/bwl/SPL_10PinSet.bin.z",
+            "hash": "77B913C7422D880C1BA04C03136B2ABFD7C9E1D60F073DD48196878354C49500"
+        },
+        {
+            "file": "content/bwl/SPL_ExcelGlobal.bin.z",
+            "hash": "BE16970515A268311D82A6F419FA76FA67E4DB48C0C79DB612A2264D9F3F76E7"
+        },
+        {
+            "file": "content/bwl/SPL_GateStageData.bin.z",
+            "hash": "D5B236084C817BC5ED6FE22ED621BAF184241AA4157B55815A334C2A7C9BA579"
+        },
+        {
+            "file": "content/bwl/SPL_SkillData.bin.z",
+            "hash": "147952EAF80A84E526C3F45C479FFB233FCAC4AD89281015FF7F67210CCB55CE"
+        },
+        {
+            "file": "content/bwl/SPL_SparePinData.bin.z",
+            "hash": "514AE51295B79B09BF3D6704A78FF2CAEAB30DA7D17F1AACDBE327ACE844E334"
+        },
+        {
+            "file": "content/bwl/SPL_SpareStartData.bin.z",
+            "hash": "15BCCD146B80CAA1D4B5D1887D1933E824A1C50852688A46B9F96C4485F22908"
+        },
+        {
+            "file": "content/bwl/SPL_ThrowData.bin.z",
+            "hash": "F873EF46E9AF60F758F022BD1E9468A1938C65B8F7C833EFAEF773A99669027B"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_00_field_00.kcl.z",
+            "hash": "37BBFCF0A3AC3BC25E2317B4138AB4DC7621324F73C27B1BD2F4EFB47AD085F5"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_00_field_00_light.bfres.z",
+            "hash": "EDE2958243F86C68DEB4DEFD6C0A730A094214908FD232E2D48FE0F1E2495FEF"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_00_field_00_non_ref.bfres.z",
+            "hash": "54DE55027697D3BF8AB4EC54B095C040F82E8EC638777189EE3AA954CD0E7C9B"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_00_field_00_static_ref.bfres.z",
+            "hash": "DC5F13BEC45DC38A8CD8990E9049AABE6FB16B3378896E7167411EEC61154737"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_00_field_01.kcl.z",
+            "hash": "82E78CDA30736260B043F265AD0D22201DDEFD99AD508094BFBC166AB909927C"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_00_field_01_light.bfres.z",
+            "hash": "EDE2958243F86C68DEB4DEFD6C0A730A094214908FD232E2D48FE0F1E2495FEF"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_00_field_01_non_ref.bfres.z",
+            "hash": "2705EF1AC067AFB211FFCD073BDA0E0080ABE42ACF6813C783BF1B4F55632929"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_00_field_01_static_ref.bfres.z",
+            "hash": "667775D7CFB7CDB9FEC7FFAA21DE83983BCB3D03901A3677EFCF326CCA5A2A41"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_00_field_02.bfres.z",
+            "hash": "F7E4191D31DE2E3A790CEC516EAC498E7B21A7C6972628968A2DA908CEDC8F68"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_00_field_02.kcl.z",
+            "hash": "CD9E25158A26F72351223E47F9344722E64CCB155C29AE1CF923B659E67C0A38"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_00_field_02_light.bfres.z",
+            "hash": "EDE2958243F86C68DEB4DEFD6C0A730A094214908FD232E2D48FE0F1E2495FEF"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_00_field_02_non_ref.bfres.z",
+            "hash": "655EBAB66947A6E806C4BC92474AA9E048AEB288037A567BECC237A2572CCDB7"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_00_field_02_static_ref.bfres.z",
+            "hash": "39FAB60D4D95F72FEA40A580254C33C118954DD78D8CEFE90E3AAB26BF72523F"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_00_field_pin.bfres.z",
+            "hash": "D33582D45E435D74C21E4DA40FB8E1861D2AE98E495949097442DD3D8C7B9398"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_00_star_00.bfres.z",
+            "hash": "331FC1050FD431D897ADE024638D8AE69005AFF46D429D4363E3859FB3E2531E"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_00_star_01.bfres.z",
+            "hash": "B291A8FB88778449451F1AAB18C8E8ADEE289F61FE84AF699B1AF92F8E13AF9B"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_00_star_02.bfres.z",
+            "hash": "00BE28D8B6515568066E53E9CC1047595382E2B91C1C22FF1500913863D2B8D8"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_00_star_03.bfres.z",
+            "hash": "1539AF3BA182C22E3E79B09FC471DDCDAD103997BF0C4801B4679013B1B11F78"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_00_throw_line_00.bfres.z",
+            "hash": "481D2DAE3FC05514AE121AEB19DCFD4B66B00D0DAA4977E68B52A1FC13CC42DE"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_00_throw_line_01.bfres.z",
+            "hash": "3036D1EB06EFD913D9D4DC71C7C9155918EF5119BF81740F30C9A5D753CB6766"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_00_throw_line_02.bfres.z",
+            "hash": "728A0AF5AE4C1904A1714C84588EC8B2F30F257369749AFCFD427ECF493303A5"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_00_throw_line_03.bfres.z",
+            "hash": "79A9659C4D30BDACCC7503CC6EF28665AB287C3E9F3D0F780E0D503A9233D5B6"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_01_field_00.bfres.z",
+            "hash": "ECFB62460F6E59ABB6F9343E56F9649852EA45321AB02F26E1FAB43CF87C1B74"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_01_field_00.kcl.z",
+            "hash": "0EB985F034D90AA76F791F1CA6A464A25366B8F5BB9ECE069BEB8DB66CD01C07"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_01_field_00_light.bfres.z",
+            "hash": "8961D817917A4E1D4C2DAC131AB114648F5BFBD731F8FE084BDBF92E1D899DFF"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_01_field_00_non_ref.bfres.z",
+            "hash": "C0CDA4E73B22F9ADF71FC82CE0AF869478E202C789485F040D054E9A473EBAA3"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_01_field_00_static_ref.bfres.z",
+            "hash": "1037B055173E3DCDAFF171949D9D0124CE70D8BD155A1260D5D5B5ECE32EECFB"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_100_bumper_L.bfres.z",
+            "hash": "D6AAB44367C5951A644C316EF6B6771937949D8BC101D7DF01EEF76B5D28F1B4"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_100_bumper_R.bfres.z",
+            "hash": "AC00921621D975B184A86B0DFE2A210A3A6C907C0D59DA50527DCF7B1DE548A4"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_FloorReflect_pass0_0.bfres.z",
+            "hash": "06BFF6824AF6531657CC03ADD8C2F91D8D537D069AF26C92D5066CBC7AA64746"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_FloorReflect_pass0_1.bfres.z",
+            "hash": "EE022E8727A97822C2206B3AA9B8E7DA1534D8BD459B68D36D385A5802A37961"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_FloorReflect_pass0_2.bfres.z",
+            "hash": "BB4D4EDF1C00B96D64E91AD4B950DBA91CBCA4F0EB95B2B3EF88D1442CCB9782"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_FloorReflect_pass0_3.bfres.z",
+            "hash": "3F30486C97A6F4516A81D3EAEF72CB47E045CB436BBC8441619AACA150002D7E"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_ava_m_body_00.bfres.z",
+            "hash": "3ACD47C5B190CF2B0025699ECFB4553F7B70505FBE25480F580F99933EC6B174"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_ava_m_body_10.bfres.z",
+            "hash": "261ACCB19FFE36D9BE9C09A5D6ADC74C2B0D48ACDD6824640FFE49120C3994BB"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_ava_m_body_11.bfres.z",
+            "hash": "2BE1E4C4894FB7A1637E3A20E28C26FEBE8877B5C08AEF4AE8A69F6284002AC6"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_ava_m_body_12.bfres.z",
+            "hash": "A3EFD46ED2053BEC89A87879E2234C950D0CFE2B4DE761B9E734B00CC392FD5B"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_ava_m_body_13.bfres.z",
+            "hash": "ED21AB49DB841CEE0BC7A9F694569C1A07596874B186291C00CE248097747ACE"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_ava_m_body_14.bfres.z",
+            "hash": "8B136112E22B709FF5A56B3CF17F1DBDC3B80B8503A940826B03DB69E263A7FA"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_ava_m_body_15.bfres.z",
+            "hash": "158F726120BD5222CF51A7E95FFD8D89029CA28C943A721EE1009FC2128319FF"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_ava_m_body_16.bfres.z",
+            "hash": "4A4C81B02010047D535633EFBB143B453D2353A1B563F63A76B2DE429FCDD347"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_ava_m_body_20.bfres.z",
+            "hash": "6ED6445709304B9B6E5BA94F4D691F2F2E54F00831108C4B1C488B879EF36BA0"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_ava_w_body_00.bfres.z",
+            "hash": "EE2D3299538BDCCEFFC737725D9DF7B7167EA0643DE360BA522AD23CDB069222"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_ava_w_body_20.bfres.z",
+            "hash": "5EBAFC7DD6ADDAEAF99A8BD4DD587BC813C42A32466D8F2A4F6EB34464E518E8"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_ball_100_blue.bfres.z",
+            "hash": "F4C195DDBC830C43D613762E37F9BE8354AA90EEB22CCF2F18EB60AF1DFE4710"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_ball_100_green.bfres.z",
+            "hash": "B8D5F5D43C7AFC4D4D58C0D616C35767D2737F468D9BA4D98EAF88F08479C03D"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_ball_100_red.bfres.z",
+            "hash": "7137A93A2EBD6D814B009D963C66E11CC38DD3C44DF8FAE1F40E8B3ABE1707D6"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_ball_100_yellow.bfres.z",
+            "hash": "EE00916A9F858A507451E86AC499440C200D60ED707769214F620A6FC647643B"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_ball_blue.bfres.z",
+            "hash": "B18D493F05904F80BD8CE1D66BC5FBCFEDAB1B08B23ACB609004CEC972109095"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_ball_green.bfres.z",
+            "hash": "226F750E31AA2590D935EECD79207CAB5E6FD9566BB4D113CBA8F848599F1F40"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_ball_pro_100_blue.bfres.z",
+            "hash": "73A70DA1D7116F01CEAAB9CAA41EE7498FC6F4FEB3A8B6A2217C0D26CAE83831"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_ball_pro_100_green.bfres.z",
+            "hash": "6517D51A66BE127DCAC978EF733F35D42D27794039A570C799920D06C27A6CA8"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_ball_pro_100_red.bfres.z",
+            "hash": "AB2288822C3A76B856519149E4E722EF560C83A14D7DD384F437D561D2D81807"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_ball_pro_100_yellow.bfres.z",
+            "hash": "4A4FE38260BD741D1A14219109988535E50353F0560665C2743FE8277BB16481"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_ball_pro_blue.bfres.z",
+            "hash": "233FA15864A127E1EE02AACD66951D2D1A2BF4971770330777291EE8A205BF88"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_ball_pro_green.bfres.z",
+            "hash": "C42DE2A75C7BD02E99A79962ACCF2939A9B862DA06B5483455124F3DB496098F"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_ball_pro_red.bfres.z",
+            "hash": "337563F5F5063098FD7D4EB6455EAD7CAACD0FA660EF3291953C252DDEC2A36E"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_ball_pro_yellow.bfres.z",
+            "hash": "A6AAC708328D93642EC3747AB0C06153CDAC16BCDBA8DA9AC5F3B165F7000660"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_ball_red.bfres.z",
+            "hash": "CB64085AC5AA251EEEE3B1ADC42DC2069B17983BEBE346F3F1F56B36ADDCE3D5"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_ball_yellow.bfres.z",
+            "hash": "07ADF2F2ACAD0BB770DF9730A5E90247B89DD5A6D897AAA4DD72E4E9F7D8C1B7"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_effect.ptcl.z",
+            "hash": "08C4EA49584608093E395D519CE4B5C0EBF11694C1377A758592EC151A514D48"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_pin_166.bfres.z",
+            "hash": "ED9B274FBD35A407A6B6FACCBBC5A7AE97971878CFB786AEB37733B3BF4B1314"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_pin_166_red.bfres.z",
+            "hash": "2ABD0590FAD4D3450DA3E8B8CBF19FA88428E5933BC0491D03EF86F6A6B0C054"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_pin_286.bfres.z",
+            "hash": "4B5D293CE813257D3DE2B016F8EFE444F77994CDFE91039947645C91871862CC"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_pin_286_red.bfres.z",
+            "hash": "206D345BEFF55839AF958F2AEBC4CF142BA48D4DAC07011FA1B614ECEC20D781"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_pin_340.bfres.z",
+            "hash": "E66D1C209C4447A80454813E295D75B02F0149A181BE56ED6DA8CBB997D599F6"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_pin_340_red.bfres.z",
+            "hash": "EBE318A204D15EEF62C67818506FBF8865BFA0FDB0F70C75AD0B5DCAB2CFDF68"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_pin_438.bfres.z",
+            "hash": "055F9240E7D02DC12DB74F0CC0070F2BA03818B43BDA0A1C9CF23B013A4EC936"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_pin_438_red.bfres.z",
+            "hash": "505B490C571D52C773370F9BB1C5BAA29C5C09125A38D06FBB16D8A615BA34CD"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_pin_866.bfres.z",
+            "hash": "06A1BB3273297763156261C1B7DBE6679E8484944147F9CDB91112F9DCE55E8E"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_pin_866_red.bfres.z",
+            "hash": "17207D0150132145461F3E5685AB374554EE40EEFACF374BB4F56D730C8CAC12"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_pinsetter.bfres.z",
+            "hash": "FB1487BB8C90CB338E9B75E7E188B184AC12CC719C2076E5F684B9BBD1BC8FFD"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_red_circle.bfres.z",
+            "hash": "CFDA7DB168F795F974CF0D17BDAAF96D62689BE9E526B426931743DDB98CF7BB"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_trick_bumper_L.bfres.z",
+            "hash": "F9F1A5E268234EC5678507B0FEE6158D7B31F87882F7295847B60F7E80E390D3"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_trick_bumper_R.bfres.z",
+            "hash": "1A6CB1371805959A95C3429798D99D7A437D6546323FF8F556DC538E7CB5E8D7"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_wall.bfres.z",
+            "hash": "E502ED02B7B5E7A97D22BD2EB5009BEB1FAFD0CC7DB9BD525CAD54E56BC484C2"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_wall_L.bfres.z",
+            "hash": "E67555F624C08E81532AD7FDB7735CA2D3C3417138C2100BF4DA17D969306B08"
+        },
+        {
+            "file": "content/bwl/SPL_bwl_wall_R.bfres.z",
+            "hash": "15BB60381D68C8FA048B4E803EBC0A27BD8D8989FE890CEAADF25E887D54743F"
+        },
+        {
+            "file": "content/common/all_cfsd.bin.z",
+            "hash": "C581160066324CB9534234293848E03B83D1E3495D92AB1FF0C2EE087040F371"
+        },
+        {
+            "file": "content/common/ava/SPL_ava_hand_00.bfres.z",
+            "hash": "640B286D9B79D4928F52843414A7349D602583A891239156FD23F89B98C5B621"
+        },
+        {
+            "file": "content/common/ava/SPL_ava_hand_01.bfres.z",
+            "hash": "51D64A277D968F46D7E402C216CF83BA9B38E214818612FB6D13BB80C739FBC4"
+        },
+        {
+            "file": "content/common/ava/SPL_ava_hand_30.bfres.z",
+            "hash": "775B10B0BF8F04B9FD9B9A5BB949606889E36A43F74E275446F4503903A018B7"
+        },
+        {
+            "file": "content/common/ava/SPL_ava_head_00.bfres.z",
+            "hash": "6BB3BA1FAD47FEC3F2D56A84ADEC756F0D60E34CFB6DECD28A717D86C008D610"
+        },
+        {
+            "file": "content/common/ava/SPL_ava_head_30.bfres.z",
+            "hash": "9D64C284A4BDCEBFE0F27A72FA91A49C233623650AE96D85DDC006F0EF06E9E5"
+        },
+        {
+            "file": "content/common/ava/SPL_cmn_ava_UI_light_00.bfres.z",
+            "hash": "3AB856ABC2417D5D8932B7AAA0D5FE6FB130E46DB0C99A75E690B3273EDFF17B"
+        },
+        {
+            "file": "content/common/ava/SPL_cmn_ava_m_body_00.bfres.z",
+            "hash": "C310172F8F8C49EC384BEFA9C3B1B2C5CA073AB18E52BE642387E95C6D3CFD40"
+        },
+        {
+            "file": "content/common/ava/ava_col_tex.bfres.z",
+            "hash": "D82F2CD3F91D1D8DF9E472548F747E7B31C846EACCA9E9C7567FBD07292DC43A"
+        },
+        {
+            "file": "content/common/ava/ava_skin_tex.bfres.z",
+            "hash": "21983CA21AFD83EAA7F05384C0E55CFADEECA315E8FEB8505B142028B7642033"
+        },
+        {
+            "file": "content/common/box_avatar_dummy01_nocomp.bfres.z",
+            "hash": "A393CB0EEBB227B7C4E4C8F3FE2A9DC873C87E4629D0E1C965B16EEB54F5F00C"
+        },
+        {
+            "file": "content/common/effect/SPL_cmn_cursor_effect.ptcl.z",
+            "hash": "283D20503D164DD9598D8D0F6B440F781C24D6EB96045CD78A759CCB555F0FC7"
+        },
+        {
+            "file": "content/common/effect/SPL_cmn_medal_effect.ptcl.z",
+            "hash": "459B088182BBF2DDBC6A9A0AE9361A29D0BD530CBDAD31216D70857A3997C9E0"
+        },
+        {
+            "file": "content/common/effect/SPL_cmn_nice_effect.ptcl.z",
+            "hash": "C0EC3D1E6654C8D8AEBDA4717EC02B69C554F11C9137017006628A088B7E4FE8"
+        },
+        {
+            "file": "content/common/effect/SPL_cmn_plyselect_effect.ptcl.z",
+            "hash": "71F7BC387ED730931BCBC4F805AE792E220CBDE5D66760264F2E4CAC2CAA8F8F"
+        },
+        {
+            "file": "content/common/effect/SPL_cmn_promotion_effect.ptcl.z",
+            "hash": "F924D8828FC0AF7822611F2D055942A234E19A00FDB15A8442FA48A4CFBBF32E"
+        },
+        {
+            "file": "content/common/effect/SPL_cmn_spark_effect.ptcl.z",
+            "hash": "1B28D2F490238F8B945757BA335E08279876D6E1F29155FD70EB6BFCE032BFEA"
+        },
+        {
+            "file": "content/common/effect/SPL_cmn_win_effect.ptcl.z",
+            "hash": "458E40A25662144CA6D0805D023F41CBA69FA482548C591D406CCC51FE0C0D27"
+        },
+        {
+            "file": "content/common/effect/SPL_cmn_window_effect.ptcl.z",
+            "hash": "7D08BF00B6B730D84E6E836B62DF8F3797DC362E38B2813E52B723CA6C0B7E58"
+        },
+        {
+            "file": "content/common/font/FOT_raguran_Std.bffnt.z",
+            "hash": "D8BB6E96DE930E392927A77B048BBA977D04BCD5044FC2FE67FEC287769CB297"
+        },
+        {
+            "file": "content/common/font/FOT_rodan_wanpaku_pro.bffnt.z",
+            "hash": "2C8DDB94A4D7DBE83DA3426EF6AE26D7209050E5608023FF890FB3AC71820668"
+        },
+        {
+            "file": "content/common/font/FOT_rodan_wanpaku_pro_80pt.bffnt.z",
+            "hash": "006B15FCE91D7F775A2D26A669E6BC04E8AC149FC62F5BAD901973A96027C2C3"
+        },
+        {
+            "file": "content/common/font/system_font.bffnt.z",
+            "hash": "F1D453368D438CAAE849F38C6E9568B33C33EEDBDCB0A346E8C3A61EDA936E1D"
+        },
+        {
+            "file": "content/common/font/system_font_32.bffnt.z",
+            "hash": "6EFA176D949BAF3993D8CB13E6A832C6072A3781AEDBE717947FC6BBA72E5C5A"
+        },
+        {
+            "file": "content/common/model/SPL_common_Comment_01.bfres.z",
+            "hash": "96575B74699637A241CC4C3194436A82E3C566E128A91BFDB46A5993F92CA04E"
+        },
+        {
+            "file": "content/common/model/SPL_common_sun_lensfx.bfres.z",
+            "hash": "35D53837E42C45DE7E54324104B1A08B07D1AB1EADF1142478FB334F165D7435"
+        },
+        {
+            "file": "content/common/model/SPL_common_sun_model.bfres.z",
+            "hash": "B99A3DB5C1B2742C41E3D4CEAA709E969B0A08DAFA4C2FE3A427E70549330C05"
+        },
+        {
+            "file": "content/common/model/SPL_common_sunshine.bfres.z",
+            "hash": "35C52FCF3FA43DFE99FB549C1AF9B2687661E0F266C76D6C2744221BB5865FA5"
+        },
+        {
+            "file": "content/common/shader/Compressor.gsh.z",
+            "hash": "12FB585EBCAB8B23AC83038CB948777B0CDC37E3E3860EF6C9A7A722E48CB0FD"
+        },
+        {
+            "file": "content/common/shader/FFLDefaultShader.gsh.z",
+            "hash": "2F9B44E585A7F2212E67EA8E2CC8DB91A90191B1373CD9295A97C9634F84D01C"
+        },
+        {
+            "file": "content/common/shader/boke_2x2_p3fc4fuv2f.gsh.z",
+            "hash": "371AD957F1EA1E16352D46DB1161DBD76EB9CBAC3A40BD8CB28CEB8C021B43FC"
+        },
+        {
+            "file": "content/common/shader/bwl_flr_pass1_p3fc4fuv2f.gsh.z",
+            "hash": "50F97D9CE872CD56C9157CB54E293613000E9BCFD63CE33CDC7EA8C54DD28655"
+        },
+        {
+            "file": "content/common/shader/color_fade_p3fc4f.gsh.z",
+            "hash": "67D050A398925F007EEB2F17B953C7873C46D54F27A6646B6F701CC408D442FF"
+        },
+        {
+            "file": "content/common/shader/copy_tex_p3fc4fuv2f.gsh.z",
+            "hash": "FCEBE887222970B164937B60E89230F21E19A4F27EFB7C2FBD5BEFFE93F781E6"
+        },
+        {
+            "file": "content/common/shader/depth_buffer_p3fc4fuv2f.gsh.z",
+            "hash": "C9ECA5FDF3528613ABA4A579BFDD84AD0A4DD69A698D3BC6CBFD4437961569E6"
+        },
+        {
+            "file": "content/common/shader/depth_fog_p3fc4fuv2f.gsh.z",
+            "hash": "4DB89616FA83631FDA27DD023B8B50C4A77CBDDCC252C9501BD5CDFA6B264E0C"
+        },
+        {
+            "file": "content/common/shader/dof_x16_p3fc4fuv2f.gsh.z",
+            "hash": "A5D09CF3007BE8CB2DA42E5DC7EA41C1FC94D22467CD8937FD06BBE9C4DDE86E"
+        },
+        {
+            "file": "content/common/shader/dof_x16_p3fc4fuv2f_2.gsh.z",
+            "hash": "BA8478A1CD17A939A1C22A44C7F0568736F9CCF3537BEB31584F55110F2CD748"
+        },
+        {
+            "file": "content/common/shader/dof_x16_p3fc4fuv2f_3.gsh.z",
+            "hash": "416A90A5C372983C30AF704F1E103396E52B417778FC88DED622448E89A93394"
+        },
+        {
+            "file": "content/common/shader/dof_y16_p3fc4fuv2f.gsh.z",
+            "hash": "64AD11327BDF01319B8E858C690587A04FDFFCDCE9B8E2D1D28A6EA2ECD3664E"
+        },
+        {
+            "file": "content/common/shader/dof_y16_p3fc4fuv2f_2.gsh.z",
+            "hash": "0EABD4FDE7B50ABD39C9043EF51919869506F7233AE698A582E54CE617A75C74"
+        },
+        {
+            "file": "content/common/shader/dof_y16_p3fc4fuv2f_3.gsh.z",
+            "hash": "E41629E97DF1BAA50157CC9C9F70D06B8B364FBAE15351C66BD0513E3D5B09E3"
+        },
+        {
+            "file": "content/common/shader/font_BuildinShader.gsh.z",
+            "hash": "F1BDAEA4B081EA3D5B8E4D79275290FCEBCED6686427CAA24FCC2502CCCE7482"
+        },
+        {
+            "file": "content/common/shader/gauss_filter_x16_p3fc4fuv2f.gsh.z",
+            "hash": "12D8E0456B5CF3BC7AEE4602D26926D1D3D159446304F078C3F74D18B9100C27"
+        },
+        {
+            "file": "content/common/shader/gauss_filter_x4_p3fc4fuv2f.gsh.z",
+            "hash": "50F97D9CE872CD56C9157CB54E293613000E9BCFD63CE33CDC7EA8C54DD28655"
+        },
+        {
+            "file": "content/common/shader/gauss_filter_x8_p3fc4fuv2f.gsh.z",
+            "hash": "11779D82712A511F3F5269A0BFB7FAD84ADE700158CD2114DDE7F6EC62CB8A4F"
+        },
+        {
+            "file": "content/common/shader/gauss_filter_y16_p3fc4fuv2f.gsh.z",
+            "hash": "8384281F962A396064F7C2799B4CF768280915B370AC8E97D6D22F2D815F347E"
+        },
+        {
+            "file": "content/common/shader/gauss_filter_y4_p3fc4fuv2f.gsh.z",
+            "hash": "2499B74C975508EE3C0879A7A6B418B5C38B20E2F268A9E990721406A3477FB8"
+        },
+        {
+            "file": "content/common/shader/gauss_filter_y8_p3fc4fuv2f.gsh.z",
+            "hash": "BD70AF7EF14EA89E4FB57F93A5E7D761932FF86105DDEB5828A3BAC2E446590B"
+        },
+        {
+            "file": "content/common/shader/glf_tree_xlu_p3fc4fuv2f.gsh.z",
+            "hash": "D7298E7999E26537E20297B73A01AA6B1EF17B6D7E90ECFE6A666AA04036814B"
+        },
+        {
+            "file": "content/common/shader/image_fade_p3fc4fuv2f.gsh.z",
+            "hash": "E280BD41874A24808AED5FD8B9AA952E7A082F38C57822F00C0138446ACDF3EC"
+        },
+        {
+            "file": "content/common/shader/lyt_BuildinShader.gsh.z",
+            "hash": "905686FB0E910262EE0B33B6C953503A9818F18016178B8C04483287A7A6A4CC"
+        },
+        {
+            "file": "content/common/shader/mii.gsh.z",
+            "hash": "FDE8222D96BD99C88FCDB1D7EB3916964FEAE1C60C004A66936EB21AF646A7AF"
+        },
+        {
+            "file": "content/common/shader/mii_box_shadow.gsh.z",
+            "hash": "27BD581AE8E7F6162B7030E45F075491CD63C4C9D14D4A0D00921B5913ACF5D3"
+        },
+        {
+            "file": "content/common/shader/mii_box_ub.gsh.z",
+            "hash": "BF23681A59C00DEDECFBDF4615845FA61C1B21697073A16179531A36A6AFAE37"
+        },
+        {
+            "file": "content/common/shader/mii_depth_only.gsh.z",
+            "hash": "B4D330A286CBF612F5F835C2309B996856DF0C89EE4CFB4A27354EE4E107EF3E"
+        },
+        {
+            "file": "content/common/shader/mii_glf.gsh.z",
+            "hash": "4D48232D58E71D81BB3AC98C3FE39F1E21C3762D579E378AC5F6CD6268459EC8"
+        },
+        {
+            "file": "content/common/shader/mii_ub.gsh.z",
+            "hash": "6BF0FFFFB117AA935746680503958B63729B8C7AEEA2B626991509DF81C4000D"
+        },
+        {
+            "file": "content/common/shader/no_texture.gsh.z",
+            "hash": "222749B728FB814A406DF45FC4ECB92DDCA9CAA4AB7F293F800969AD894B7B79"
+        },
+        {
+            "file": "content/common/shader/simple_p3fc4f.gsh.z",
+            "hash": "5F12D10996E6195AC143B745DF9E8DCB02A57976B387BD8469A82DE8B220A298"
+        },
+        {
+            "file": "content/common/shader/simple_p3fc4f_block.gsh.z",
+            "hash": "37AE103D99071D98FF45D9B43F16929E48A6F49DB4CC86714BAE0114B235B8A9"
+        },
+        {
+            "file": "content/common/shader/simple_p3fc4fuv2f.gsh.z",
+            "hash": "C610134C2731BA8C4126AFF5172DCB78593D12965D05067E49A94C26F114DE84"
+        },
+        {
+            "file": "content/common/shader/simple_p3fn3fc4f_block.gsh.z",
+            "hash": "37AE103D99071D98FF45D9B43F16929E48A6F49DB4CC86714BAE0114B235B8A9"
+        },
+        {
+            "file": "content/common/shader/sprite_2d_p3fc4fuv2f.gsh.z",
+            "hash": "F261B989AC66B73EB93C89890315D2B4ED45F7513B9EC29A76AE794A52FC63F2"
+        },
+        {
+            "file": "content/common/shader/stencil_buffer_p3fc4fuv2f.gsh.z",
+            "hash": "B181459AC5239615034DBE01669A2851FF1B80A598BBFEA9A713FE5E80C80FD5"
+        },
+        {
+            "file": "content/g3d/demo/env.bfres.z",
+            "hash": "9C24007A3B80467334C63B51192130F3DD9FA961F0DA07DDC2D2569D2AC48602"
+        },
+        {
+            "file": "content/g3d/demo/shader/demo.bfsha.z",
+            "hash": "0BC90AAA3042077948913E031FFA36E4F62609BEA0B6556E0593AA61C16F29D7"
+        },
+        {
+            "file": "content/g3d/demo/shader/demo.fsdb.z",
+            "hash": "A9C3FC5BDEF0CF4C7C3A254552FC2E72FA441348D5A2AE9CF388EE403ECF70C0"
+        },
+        {
+            "file": "content/g3d/shader/demo.bfsha.z",
+            "hash": "6F22CAFD676079B5960C086FA4F941D71C0D52319CC51480E60503F870E389D1"
+        },
+        {
+            "file": "content/g3d/shader/sp1_box.bfsha.z",
+            "hash": "211BE6D61C3844B60B6B61C3C1862CEA128E7EC4047EB60AD02BC6B0D3D5685E"
+        },
+        {
+            "file": "content/g3d/shader/sp1_box_common.bfsha.z",
+            "hash": "0E69ED470DA64D30D13DBB959175669939FCF75492B44F8A42C82BB6C5599D66"
+        },
+        {
+            "file": "content/g3d/shader/sp1_bwl.bfsha.z",
+            "hash": "13DFECEADB9B446D71B341A2ECF90ADCCC03C4C11AFF94751793EEA75E4469B0"
+        },
+        {
+            "file": "content/g3d/shader/sp1_cast_shadow.bfsha.z",
+            "hash": "852052A0BD1CCFB03C5AD56F2D18BDD07483E0B58F1D20C0EB5E38C5C7E3F0F2"
+        },
+        {
+            "file": "content/g3d/shader/sp1_common.bfsha.z",
+            "hash": "0D7394B7A109A71905B203AAD1EE872E51C49000F691D4C868675E857A47B866"
+        },
+        {
+            "file": "content/g3d/shader/sp1_glf.bfsha.z",
+            "hash": "5540F1957C337CD09DF34281BC3AC356EAB46C1A7EE9178CFFE6FD2981E14630"
+        },
+        {
+            "file": "content/g3d/sp1_env_common.bfres.z",
+            "hash": "4FA857E3CDBE6ACA24BA458E1D92BA54BDD706F1A5CA6061C1E4B48481589755"
+        },
+        {
+            "file": "content/g3d/sp1_light_default.bfres.z",
+            "hash": "2B8578DC366730BBEABA4E64B35F2688500F20ACFD427F980318499A83F8A2FC"
+        },
+        {
+            "file": "content/glf/GlfDataHole.bin.z",
+            "hash": "671989510F90BA12910B2B4002DB473E603AAD1D5273D9E2A13A013F230762DB"
+        },
+        {
+            "file": "content/glf/GlfDataT1.bin.z",
+            "hash": "1B926021CF8FC185714CAE79F731B04C272457BE7E41F0F6819EC7031184476C"
+        },
+        {
+            "file": "content/glf/GlfDataT2.bin.z",
+            "hash": "FBCD34D7F9EB2F647D202326B0A7B79EF501A3B8538A1786320311D72ABC3978"
+        },
+        {
+            "file": "content/glf/GlfDataT3.bin.z",
+            "hash": "CF34A2232D473FC8FF89A58171A3BA1B012327C45646DF722C6E27C40C629E74"
+        },
+        {
+            "file": "content/glf/SPL_common_sun_lensfx.bfres.z",
+            "hash": "3C51F3952F1FA4E365499CEAEBEC2B56308E4239779F416117BAD2949871A377"
+        },
+        {
+            "file": "content/glf/SPL_common_sun_model.bfres.z",
+            "hash": "0E786ECAE720E45FF8743393BA20DFA2CF1ACC2AE416328DF576DD0525BA04FD"
+        },
+        {
+            "file": "content/glf/SPL_common_sunshine.bfres.z",
+            "hash": "F6068AE54549FCCD363D80D481D693AAE557A1AA27CDFE78C93793DCC13146C0"
+        },
+        {
+            "file": "content/glf/SPL_glf_DRC_arrow.bfres.z",
+            "hash": "5EC5FE177E842DEE04D75C26EB6B3A2A6CB97128361ADA3E87F2554868E1D287"
+        },
+        {
+            "file": "content/glf/SPL_glf_DRCbunker00.bfres.z",
+            "hash": "ED912CB548B1BA196A6C732B34FA900DE7B3027F4FC2B4686864FA6DC8C66B88"
+        },
+        {
+            "file": "content/glf/SPL_glf_DRCbunker01.bfres.z",
+            "hash": "D4118622C0C7D07F1ECE1A2DC4D0D337B6EA833C5688C3799A05D13DA1A82751"
+        },
+        {
+            "file": "content/glf/SPL_glf_DRCbunker02.bfres.z",
+            "hash": "6D3C9C8617F70768478BFAE1846F6C4D9AAE6C249CFE0011B646BB63A51CCA37"
+        },
+        {
+            "file": "content/glf/SPL_glf_DRCcolor.bfres.z",
+            "hash": "6153A27F1F1A153656EF30CE385FA58B16C2AEA112A0AFECB4306FB5EACEAD46"
+        },
+        {
+            "file": "content/glf/SPL_glf_DRCfairway.bfres.z",
+            "hash": "C02D8F98B5C71989F41AD822F0858B08EDA24A96AE38966FF31C3F2D04329D79"
+        },
+        {
+            "file": "content/glf/SPL_glf_DRCgreen.bfres.z",
+            "hash": "48993F912BB6E7E2BB780E55E9E0BF0DD16C1C05A5798F1652C4BEF341F7A9DD"
+        },
+        {
+            "file": "content/glf/SPL_glf_DRCheavyrough.bfres.z",
+            "hash": "F1792FF2912C30E2FE4607E8BF5BE8882E28C7381F2A7C5BB37F77E7108A9E0B"
+        },
+        {
+            "file": "content/glf/SPL_glf_DRCrough.bfres.z",
+            "hash": "F0C5C1938064554646D3763CF17D9B26CEA55BD168F253686515B80B53F0302D"
+        },
+        {
+            "file": "content/glf/SPL_glf_DRCtee.bfres.z",
+            "hash": "5F6513547F698B11234278E977BE7CCD1D97C982F5B019E41F705FA122AAB48C"
+        },
+        {
+            "file": "content/glf/SPL_glf_DRCteeground.bfres.z",
+            "hash": "9896B4889779762D17243894DDEC91811B83123B1CDEB7F506218E589074539B"
+        },
+        {
+            "file": "content/glf/SPL_glf_HelpBall.bfres.z",
+            "hash": "6ABCA89AF7B259DA155EDA5670FE740E4E55FBDB5ED77A5DD65502E41FF37E09"
+        },
+        {
+            "file": "content/glf/SPL_glf_HelpSquare.bfres.z",
+            "hash": "8F43ABECDC301E5269E3725BA74445382C098591636A8220395BCB7EA19BA0DE"
+        },
+        {
+            "file": "content/glf/SPL_glf_ava_m_body_00.bfres.z",
+            "hash": "1A6B3BB214CBA0EAFE468566288713D86532930FFFD932C5146B7A5074FEBDEE"
+        },
+        {
+            "file": "content/glf/SPL_glf_ava_w_body_00.bfres.z",
+            "hash": "A7C9F12C90AC4F286506BBE5C47F12E1A97FD3BFF1750579AEF1851FFA100929"
+        },
+        {
+            "file": "content/glf/SPL_glf_ball.bfres.z",
+            "hash": "0CD2129491564DBB5CA894DBC840D6EC314B2075A49437F9490121971DB6557A"
+        },
+        {
+            "file": "content/glf/SPL_glf_bar.bfres.z",
+            "hash": "62DCCC67F9A99239F1978FDBDA2A9614A39FD5466907D5A14BDE509314524175"
+        },
+        {
+            "file": "content/glf/SPL_glf_bar2.bfres.z",
+            "hash": "05E561D19D7026613BD7A69CFF28CAF1362D02F06A250DDCB08791FFE9B3419E"
+        },
+        {
+            "file": "content/glf/SPL_glf_bar_dia.bfres.z",
+            "hash": "C5B6B06E7EF31BC284ECB1F163054F7339E5FF843CF1EA1CDC55FD71E36F6949"
+        },
+        {
+            "file": "content/glf/SPL_glf_bar_dot.bfres.z",
+            "hash": "A767340213168DAE19C17DA76CC268429810561C73A2D8A85B89560A77C2B481"
+        },
+        {
+            "file": "content/glf/SPL_glf_bound_effect.ptcl.z",
+            "hash": "4A8F1CA3049C1E932B2399D297A0FBEBD8FCECA3D97DCF04F862A81346C842F9"
+        },
+        {
+            "file": "content/glf/SPL_glf_camL1_fc1.bfres.z",
+            "hash": "38389DA5DDDB65AD779FF3C3B5825DABFEB7626B9345C6494078C78BC596D8F7"
+        },
+        {
+            "file": "content/glf/SPL_glf_camL1_fc12.bfres.z",
+            "hash": "CC9F3F1786D2094C4B4DCE89E40CC143ADC2CB27F61FD0FB08C992F7907B8CC4"
+        },
+        {
+            "file": "content/glf/SPL_glf_camL1_fc13.bfres.z",
+            "hash": "2FBE5B460060FA9E95AA70F0B0E45FBAE39E46099DF6A51256FEF393A267C763"
+        },
+        {
+            "file": "content/glf/SPL_glf_camL1_fc14.bfres.z",
+            "hash": "0ED5D091FCF62C91252BB01F0477E1C223BC25F251FF6FD606F74494A0B986BD"
+        },
+        {
+            "file": "content/glf/SPL_glf_camL1_fc16.bfres.z",
+            "hash": "A52DA8EB32534F248C493102F418E391463C4EF57848540636342AFA726AF031"
+        },
+        {
+            "file": "content/glf/SPL_glf_camL1_fc3.bfres.z",
+            "hash": "7E80D367638508C49FBAB6CAC85418D0899703B28E22748CB0E9C6EDE8FE8AE9"
+        },
+        {
+            "file": "content/glf/SPL_glf_camL1_fc5.bfres.z",
+            "hash": "19728E86E26773B736090CCF14B353B7BC52EC596CA425792B3893A7D3E22B32"
+        },
+        {
+            "file": "content/glf/SPL_glf_camL1_fc8.bfres.z",
+            "hash": "E48FAD75A2EF5B87B8CF5713198B71DB8B9E041AF1BBA69F91840733AB9AA6AD"
+        },
+        {
+            "file": "content/glf/SPL_glf_camL1_fc9.bfres.z",
+            "hash": "DE2F675578D92F5AA3814E80D5C45274009B80FC7CB2C9133260406EC3347AA7"
+        },
+        {
+            "file": "content/glf/SPL_glf_camL1_fcJP10.bfres.z",
+            "hash": "0B622B7BE21DF5350BA0E487A20278E41963BBE3DBC66F3443FFDCA8A9A1AA72"
+        },
+        {
+            "file": "content/glf/SPL_glf_camL1_fcJP11.bfres.z",
+            "hash": "1C28867E5784FA6382A519083291294C7A552F4891DDAE4CAC03327F7DC77766"
+        },
+        {
+            "file": "content/glf/SPL_glf_camL1_fcJP12.bfres.z",
+            "hash": "83DF1CA631B4BB99B92F07DE88968E039B9F425EEC448106B74108095913436A"
+        },
+        {
+            "file": "content/glf/SPL_glf_camL1_fcJP13.bfres.z",
+            "hash": "7521783CD59E41AD469DC1663EDA2761D7648FA80364E50F00F107CA616B3629"
+        },
+        {
+            "file": "content/glf/SPL_glf_camL1_fcJP16.bfres.z",
+            "hash": "1EEF3C27C3533B096A53CC39A528C1534E087C2C8F55383C3C6BB4BCD547DC67"
+        },
+        {
+            "file": "content/glf/SPL_glf_camL1_fcJP3.bfres.z",
+            "hash": "A376F0A859CA6E1F630F3E1D4293486AD81A3B108FF6948E896343F0E651CA65"
+        },
+        {
+            "file": "content/glf/SPL_glf_camL1_fcJP6.bfres.z",
+            "hash": "A9C2D865912086079268EE5AEF2F477D3E01E28BD7E53E499316DF3163C79392"
+        },
+        {
+            "file": "content/glf/SPL_glf_camL1_fcJP7.bfres.z",
+            "hash": "67353D658994DE39D97F77249ECFBA26453B74B1EAA88FEF8C7171C7A0716ED2"
+        },
+        {
+            "file": "content/glf/SPL_glf_camL1_fcJP9.bfres.z",
+            "hash": "E5F597F39863E5472EDE9FB1DE0E861937E5F9307DFF105E7C5287136E4EC87F"
+        },
+        {
+            "file": "content/glf/SPL_glf_camL1_fcUS1.bfres.z",
+            "hash": "92CD56A6291E13E3A85C20AE3D88374034568B147B4457EECED2932DD7D1F2CB"
+        },
+        {
+            "file": "content/glf/SPL_glf_camL1_fcUS11.bfres.z",
+            "hash": "96A026D215347E0D2DB4BA4742FCA3E996796FD090BBEC24BF1587ABC2635108"
+        },
+        {
+            "file": "content/glf/SPL_glf_camL1_fcUS12.bfres.z",
+            "hash": "0A26C90ACCFFD669073C0D0A31B4E62BC33E824EDEE75CF23FB13C11F664F72C"
+        },
+        {
+            "file": "content/glf/SPL_glf_camL1_fcUS16.bfres.z",
+            "hash": "FE4503ECF56A63E3FDA3E01593FC25A86E485354FFDD76FEB0B40E9367A3292F"
+        },
+        {
+            "file": "content/glf/SPL_glf_camL1_fcUS18.bfres.z",
+            "hash": "75C9A0CD42C6229C8DF468B07003F49942C4B82292F84A6FE530C268FF4A822E"
+        },
+        {
+            "file": "content/glf/SPL_glf_camL1_fcUS2.bfres.z",
+            "hash": "C7D6F3D5076B70CFEBAB11F16361839CD5E9D1E3D01BCABFED020203792EBAE0"
+        },
+        {
+            "file": "content/glf/SPL_glf_camL1_fcUS3.bfres.z",
+            "hash": "68F86DDC139E2117F1AB1218A41E54AE0369FF390C5F6E1339629E38465BE3AA"
+        },
+        {
+            "file": "content/glf/SPL_glf_camL1_fcUS7.bfres.z",
+            "hash": "6A9B7F15551A41E1F7539440620250158F7B902F3F6F41CE2063C343A1BD5AF4"
+        },
+        {
+            "file": "content/glf/SPL_glf_camL1_fcUS9.bfres.z",
+            "hash": "5FB11321C03C4D64C96111E4222A238BFD7B9DD057020EFBBF36029DF95AF951"
+        },
+        {
+            "file": "content/glf/SPL_glf_camL1_training00.bfres.z",
+            "hash": "C27EDE116623DD72BDACBE9D532951D1A1E645F22241DBB44B26AA1B6176A3EF"
+        },
+        {
+            "file": "content/glf/SPL_glf_camL2_fc1.bfres.z",
+            "hash": "8409074133D7CA525A2B653E473BE11E682DC9A1089EA39CC70FBCFD12852DE1"
+        },
+        {
+            "file": "content/glf/SPL_glf_camL2_fc12.bfres.z",
+            "hash": "B65AA5335B998757C06BB43A36E52AC4951410545D64BF476DF6D75FA0D5A6E9"
+        },
+        {
+            "file": "content/glf/SPL_glf_camL2_fc13.bfres.z",
+            "hash": "2432B3554B31DE7B61D432E540C2F57CF0ADFC509996AC4F5A7EC06E45273F83"
+        },
+        {
+            "file": "content/glf/SPL_glf_camL2_fc14.bfres.z",
+            "hash": "692A06B70A91BE6D424C81572E451B4DFD3CFCC0355E49E62E5B55A72C592D60"
+        },
+        {
+            "file": "content/glf/SPL_glf_camL2_fc16.bfres.z",
+            "hash": "8770BFF8EDECAB4DF6279FCDD66F13191DBDD7922EAFD28E95553B679A5E3C58"
+        },
+        {
+            "file": "content/glf/SPL_glf_camL2_fc3.bfres.z",
+            "hash": "729D4FA0F6DAC91953BF1CA2DBF6E888046CA86296569E40A98E7C267E8A8ABB"
+        },
+        {
+            "file": "content/glf/SPL_glf_camL2_fc5.bfres.z",
+            "hash": "0D54558C32D1115F7CF2B6B1220A86C98FA7E08508324823D89EB7983223D707"
+        },
+        {
+            "file": "content/glf/SPL_glf_camL2_fc8.bfres.z",
+            "hash": "5368A31F09DB02AC80B59032251E65948F18D6A87EC84922809D6927BEC390E4"
+        },
+        {
+            "file": "content/glf/SPL_glf_camL2_fc9.bfres.z",
+            "hash": "5E3F42807252DD44F51B73FCC7577DAC00D7CDAC108E83474974ED6016E6235E"
+        },
+        {
+            "file": "content/glf/SPL_glf_camL2_fcJP10.bfres.z",
+            "hash": "CD8B0E9005750FA092F53A7DEF9D3B1DEB3A0479244D07BCBBDC01C18A3A40EA"
+        },
+        {
+            "file": "content/glf/SPL_glf_camL2_fcJP11.bfres.z",
+            "hash": "E31AB91F0C89B8C153F4F74CE17F71EE3576761137E907673FFD67C4D252B115"
+        },
+        {
+            "file": "content/glf/SPL_glf_camL2_fcJP12.bfres.z",
+            "hash": "1105EB69E91399FA7FD1FD786C30ED07BF954E26CD14ACF5B679EB58DDC692A3"
+        },
+        {
+            "file": "content/glf/SPL_glf_camL2_fcJP13.bfres.z",
+            "hash": "A600A06A032560291FDB19AD8CD59457C777C6FCAED3A24B33717E5A833CABD8"
+        },
+        {
+            "file": "content/glf/SPL_glf_camL2_fcJP16.bfres.z",
+            "hash": "A17C9954C42AAFE7F62E419CB99947A1745793190922F27C3B5170D160334F8E"
+        },
+        {
+            "file": "content/glf/SPL_glf_camL2_fcJP3.bfres.z",
+            "hash": "FA2F272CAB41FAB0ABC26C287A8AD72615A405DEA5E0F7EE694C5AC3043AE982"
+        },
+        {
+            "file": "content/glf/SPL_glf_camL2_fcJP6.bfres.z",
+            "hash": "30A5120B6226BF8DEB6AF7BAC65830A5AAABFA1AF600C1486E28725E00081D83"
+        },
+        {
+            "file": "content/glf/SPL_glf_camL2_fcJP7.bfres.z",
+            "hash": "73253E25D5A79EF3884B10C2DDDCA41C0C8EFCCADFD31AD291DFFECD0BD20A07"
+        },
+        {
+            "file": "content/glf/SPL_glf_camL2_fcJP9.bfres.z",
+            "hash": "A22FE3EB7E399D9F9B7DFD245BB86295743B814941C3065891E448CD1247CBAF"
+        },
+        {
+            "file": "content/glf/SPL_glf_camL2_fcUS1.bfres.z",
+            "hash": "72201F6832EFFE730D8E8AEDF8660C2C94358AFE3662F35DF0CEA93DFB2FBB31"
+        },
+        {
+            "file": "content/glf/SPL_glf_camL2_fcUS11.bfres.z",
+            "hash": "FB00DE85E32EF94AEF25D980EF8FDE73C3FA366EF5B767AC49D7D64C8F0E8E3B"
+        },
+        {
+            "file": "content/glf/SPL_glf_camL2_fcUS12.bfres.z",
+            "hash": "A197B739A20B93E835BEAEE0528F73CDD93D096CBBE6AEBA3BBD26296609DCD6"
+        },
+        {
+            "file": "content/glf/SPL_glf_camL2_fcUS16.bfres.z",
+            "hash": "0E64A12FBD1B75B9CB6D3A38333B832DBB482D95B2FDCD53DA2B6278E6EE2FB5"
+        },
+        {
+            "file": "content/glf/SPL_glf_camL2_fcUS18.bfres.z",
+            "hash": "F3227CE4F839A6CAD85D180042CA0CBE5126C6769F5124D22B5AA776E19FBC12"
+        },
+        {
+            "file": "content/glf/SPL_glf_camL2_fcUS2.bfres.z",
+            "hash": "1BABC7863F60790FF867E5D216C636C670AB32C4A2C6FAEA6231B72EB8BA4B05"
+        },
+        {
+            "file": "content/glf/SPL_glf_camL2_fcUS3.bfres.z",
+            "hash": "B207C3867653D33310E35B9DF1FF4C36F752E6C7E130E68D178A2C0757BF1D99"
+        },
+        {
+            "file": "content/glf/SPL_glf_camL2_fcUS7.bfres.z",
+            "hash": "4FEE0DDBF9B72830FC5FFEBF2B8D152C1CC4968CFE449723D9596F3DDCA7E6AB"
+        },
+        {
+            "file": "content/glf/SPL_glf_camL2_fcUS9.bfres.z",
+            "hash": "C9537D3FB984ED5853EE1CCB0D7780AA56524373CCB6377EB3194F82817683E4"
+        },
+        {
+            "file": "content/glf/SPL_glf_camL2_training00.bfres.z",
+            "hash": "1D32E1AA4D0775C513B81C752E9A4934E8926AFEEAA8FA86B4B860D84267C30D"
+        },
+        {
+            "file": "content/glf/SPL_glf_camR_fc1.bfres.z",
+            "hash": "1FB499BBFC71468820B7FAF557EABDC18AD8C3A1BC83F34BE5546D6D1F253B50"
+        },
+        {
+            "file": "content/glf/SPL_glf_camR_fc12.bfres.z",
+            "hash": "FA173F5BA5DA5397A45C4C5406D4A575C5FD530397B281747D02B57B62B228E5"
+        },
+        {
+            "file": "content/glf/SPL_glf_camR_fc13.bfres.z",
+            "hash": "407D416E96B8DF0098078D0CFFD508384E0CD6D9ABDE5D34666408094DD5F0B4"
+        },
+        {
+            "file": "content/glf/SPL_glf_camR_fc14.bfres.z",
+            "hash": "4EB96C355C851F7D9CA1C525FCD6AA15D1324628CDA1CFD245E6C8E2623E38EF"
+        },
+        {
+            "file": "content/glf/SPL_glf_camR_fc16.bfres.z",
+            "hash": "AC72EDD7A2894E5AAAE131D245A39583CB2F6AD3193812687BC5C996C7D40E7F"
+        },
+        {
+            "file": "content/glf/SPL_glf_camR_fc3.bfres.z",
+            "hash": "1164BB15BD8ED481C38D19468F3DEE05145D2F0CC340BAF0C057E74E571F629B"
+        },
+        {
+            "file": "content/glf/SPL_glf_camR_fc5.bfres.z",
+            "hash": "34FC9D6FDDB6476429C4B34A89A58BC4AE4FC6B3703E0DE83066D769CE783397"
+        },
+        {
+            "file": "content/glf/SPL_glf_camR_fc8.bfres.z",
+            "hash": "CF8990227C1BDB00A422C1C0BFEB9B707931CB9DC4D53442425C33B3FAA9FB3F"
+        },
+        {
+            "file": "content/glf/SPL_glf_camR_fc9.bfres.z",
+            "hash": "1320F71B30E8CA517F08272C9100F510A1C759BA5792517CB18B70D7C57C926E"
+        },
+        {
+            "file": "content/glf/SPL_glf_camR_fcJP10.bfres.z",
+            "hash": "3497C661103EACBC794E52FDC1BAED4391545DF0C7EE50D172811D9A872E5303"
+        },
+        {
+            "file": "content/glf/SPL_glf_camR_fcJP11.bfres.z",
+            "hash": "B3E15F58868C1BF3D95E1C2D37DC18341172A6A4DB2B47838E5B795E12745193"
+        },
+        {
+            "file": "content/glf/SPL_glf_camR_fcJP12.bfres.z",
+            "hash": "7D62D0BB4BA270808A431AAC81A8C043924E726B10472BC46F6C18E477EC6472"
+        },
+        {
+            "file": "content/glf/SPL_glf_camR_fcJP13.bfres.z",
+            "hash": "3276E1FBC5D37A81CD8A1A5B6713689EDA38165D40B0F6B1DC121EF660D3E842"
+        },
+        {
+            "file": "content/glf/SPL_glf_camR_fcJP16.bfres.z",
+            "hash": "755A0E579A0B0C8BBE0433B82B9522C5A62420F5D2A8ED86E2C072998BE49C3C"
+        },
+        {
+            "file": "content/glf/SPL_glf_camR_fcJP3.bfres.z",
+            "hash": "0F63A309E5F6B790F71E83FC9680F461ABB916D5FDD6E26991F7950D0449220F"
+        },
+        {
+            "file": "content/glf/SPL_glf_camR_fcJP6.bfres.z",
+            "hash": "1B9B368BDDD82EC98FB4F4D98800CF87FDC17E6A662CFFEACF31BDE3B143A4AA"
+        },
+        {
+            "file": "content/glf/SPL_glf_camR_fcJP7.bfres.z",
+            "hash": "DF8F513ACF34AA88A713D5FF9A82411FA15BEB63E14E184905903DC27DAEF23B"
+        },
+        {
+            "file": "content/glf/SPL_glf_camR_fcJP9.bfres.z",
+            "hash": "E177C1C79FADE5E7A033919C6A26FAFD2A9DDF53FE2ADF392A3694D383E71D54"
+        },
+        {
+            "file": "content/glf/SPL_glf_camR_fcUS1.bfres.z",
+            "hash": "A99B76DBE44A47A5946EA3C4EF9CA34F00F7A9D23E39FD3489BF33A9E16F11B4"
+        },
+        {
+            "file": "content/glf/SPL_glf_camR_fcUS11.bfres.z",
+            "hash": "77710AC6F3EF9A461762D8882D8469C52CC543E6E9B0B42E626FA1A2013ABB6A"
+        },
+        {
+            "file": "content/glf/SPL_glf_camR_fcUS12.bfres.z",
+            "hash": "1DC041D6821FF09AB1B8431D5EE7858548C064464330E7671FF57DBC6EF35331"
+        },
+        {
+            "file": "content/glf/SPL_glf_camR_fcUS16.bfres.z",
+            "hash": "3DA4FFB80FA36CA8E9EBC34826193046A5BFC826C0164C387191C72771A0415D"
+        },
+        {
+            "file": "content/glf/SPL_glf_camR_fcUS18.bfres.z",
+            "hash": "D9E5F868AD111CD7393575705D633C38026D407166B6F1F0CA4331C4AAD3BE74"
+        },
+        {
+            "file": "content/glf/SPL_glf_camR_fcUS2.bfres.z",
+            "hash": "711941B7F7736690A797DB3B49C61091446687124C0512D120156D56CC1DFB0A"
+        },
+        {
+            "file": "content/glf/SPL_glf_camR_fcUS3.bfres.z",
+            "hash": "C46B71E5DA5FB87ADCA1C4FCFE758B623F0A5A515A38328939DF480D5D66D357"
+        },
+        {
+            "file": "content/glf/SPL_glf_camR_fcUS7.bfres.z",
+            "hash": "51A66A3104FB9234D1A0520306031352321710557B66391730A9A8B3C36927A3"
+        },
+        {
+            "file": "content/glf/SPL_glf_camR_fcUS9.bfres.z",
+            "hash": "B124CF592E85709B9D60BD526DC793EA3C46848367C8B8CAB943731D4619CEA4"
+        },
+        {
+            "file": "content/glf/SPL_glf_camR_training00.bfres.z",
+            "hash": "D9E5F868AD111CD7393575705D633C38026D407166B6F1F0CA4331C4AAD3BE74"
+        },
+        {
+            "file": "content/glf/SPL_glf_camT1_fcUS2.bfres.z",
+            "hash": "62348FADBE2B4B9F76B68D2149375BE863B0DF51C4EBC93882A1614CF1B79F45"
+        },
+        {
+            "file": "content/glf/SPL_glf_camT1_fcUS9.bfres.z",
+            "hash": "3A4866BEA3FF03A767B7A652E2909A572EB41290BEE1F63F20E94BE97CC36C33"
+        },
+        {
+            "file": "content/glf/SPL_glf_camT2_fcUS2.bfres.z",
+            "hash": "19ED4AA7ECDB52647FC33D3859327B08D5D89B8AB78A1B771B5D62A50B867419"
+        },
+        {
+            "file": "content/glf/SPL_glf_camT2_fcUS9.bfres.z",
+            "hash": "6024567E0466D1E70F9276F05EEF48A44F81AC63EEA5087721D71F059CD50290"
+        },
+        {
+            "file": "content/glf/SPL_glf_camT3_fcUS2.bfres.z",
+            "hash": "0639E7E74B6FC644DC9CEB05CB4F2A7B32E5B23D3A1908CA6099662E4DDBE17B"
+        },
+        {
+            "file": "content/glf/SPL_glf_camT3_fcUS9.bfres.z",
+            "hash": "0139ED5E2D0ECECCC4861D36F2E86C1EC8097FF14E9ADC3F0137EB33B936807E"
+        },
+        {
+            "file": "content/glf/SPL_glf_cam_fc1.bfres.z",
+            "hash": "96DE2A707F24E2BB36FBDC7D30693B083B192A4CBFCF2CEFCFC93C9D7F774AA2"
+        },
+        {
+            "file": "content/glf/SPL_glf_cam_fc12.bfres.z",
+            "hash": "86603400AAD72126ABB28A96B0E9EEDA399C3031246525DAF8208B9052367C3B"
+        },
+        {
+            "file": "content/glf/SPL_glf_cam_fc13.bfres.z",
+            "hash": "186BDCFADF59DE8979F06B6A94E19BEDA3A4E99D076FDF276987D8231AADF8CB"
+        },
+        {
+            "file": "content/glf/SPL_glf_cam_fc14.bfres.z",
+            "hash": "B6456D97E60323167F9BC90B72D92DDD94606E03918B62DA4BBC96B13AF372E0"
+        },
+        {
+            "file": "content/glf/SPL_glf_cam_fc16.bfres.z",
+            "hash": "2FCF173E9937A9D7C2250D3B32D5CB5A9225CA599FAA5491CB596C99268E2918"
+        },
+        {
+            "file": "content/glf/SPL_glf_cam_fc3.bfres.z",
+            "hash": "58B69CE6DFFA23A241827728B4EA07ABB06F5D78AE1568D3F0EAA3913504A202"
+        },
+        {
+            "file": "content/glf/SPL_glf_cam_fc5.bfres.z",
+            "hash": "4D220A73D6A0941749254014DE5D8ED6257A3C7C1F3BFD4AB973A079086245CE"
+        },
+        {
+            "file": "content/glf/SPL_glf_cam_fc8.bfres.z",
+            "hash": "EC186E8F2DD0163914CA54C85C78BE16A2B2AE46628C445EA237CC6997E9F851"
+        },
+        {
+            "file": "content/glf/SPL_glf_cam_fc9.bfres.z",
+            "hash": "566527425FDB0C9134B136E62B0BA3B43DCEF1438ABFA6F7199667738A78C3BF"
+        },
+        {
+            "file": "content/glf/SPL_glf_cam_fcJP10.bfres.z",
+            "hash": "6625A7F8F24223456144EF0CC27223E254691DF30A88CE3333578A693DB5398C"
+        },
+        {
+            "file": "content/glf/SPL_glf_cam_fcJP11.bfres.z",
+            "hash": "E7AFE5C4B448FBC48CFB52BF44D88D84E40AAA77CE854CA582EA86647CCE6814"
+        },
+        {
+            "file": "content/glf/SPL_glf_cam_fcJP12.bfres.z",
+            "hash": "8870F0928794D06B105B48BE6E8B64193163950A2F7C26F01B7DE2E6DF91312F"
+        },
+        {
+            "file": "content/glf/SPL_glf_cam_fcJP13.bfres.z",
+            "hash": "E8E1FDA02E17CC94363F1FDF6C50B6840568B4700EF84244AAB90627E6A6D5AF"
+        },
+        {
+            "file": "content/glf/SPL_glf_cam_fcJP16.bfres.z",
+            "hash": "D00C340154A322B5791993E7062984DE9C374B5D029359637A85A8EF12132052"
+        },
+        {
+            "file": "content/glf/SPL_glf_cam_fcJP3.bfres.z",
+            "hash": "B2FA73BBF05BAC0155CC73F957A5A99D841A4120FE6F03C3DD584EC26EDA21A3"
+        },
+        {
+            "file": "content/glf/SPL_glf_cam_fcJP6.bfres.z",
+            "hash": "6C63EA14D6B61BB6666ACC34DA02D2D7E319C41291C5113DD1141093B3AFB942"
+        },
+        {
+            "file": "content/glf/SPL_glf_cam_fcJP7.bfres.z",
+            "hash": "546288CC85FE52CD0B026067C4EE3AD942B6BC05D77196B09DFDB6B14E7442EE"
+        },
+        {
+            "file": "content/glf/SPL_glf_cam_fcJP9.bfres.z",
+            "hash": "0A44E3DF55A87619649A6CAFA795D74F96684781A031600B6F4E90B4D04C6FAE"
+        },
+        {
+            "file": "content/glf/SPL_glf_cam_fcUS1.bfres.z",
+            "hash": "74366011E2CADD338615AAC4FCBC35C76B3EB9DC7020E030F7E6469AC43FD6A5"
+        },
+        {
+            "file": "content/glf/SPL_glf_cam_fcUS11.bfres.z",
+            "hash": "7466A31B02A5567D7BA9CB2514C55CF85C8B96D79BB26189DB40AF5BCC06CBCC"
+        },
+        {
+            "file": "content/glf/SPL_glf_cam_fcUS12.bfres.z",
+            "hash": "960BBEE58F59F3032CA6365164EA8A97B36D017F030C5CEAF01B664DD59F379E"
+        },
+        {
+            "file": "content/glf/SPL_glf_cam_fcUS16.bfres.z",
+            "hash": "A21652D0C8814D02E71328E4A189FF865A2113CC4FFCDA3A81DB7A8EBF56405A"
+        },
+        {
+            "file": "content/glf/SPL_glf_cam_fcUS18.bfres.z",
+            "hash": "71B5FB169EC55D9A999DF9A018C62649CE53D2C9883AE5BBB240835A64DCE54E"
+        },
+        {
+            "file": "content/glf/SPL_glf_cam_fcUS2.bfres.z",
+            "hash": "E18312FC116EE08A76B5AE86EF04A64AFD68FEB100332A6D5AA06D1B43FB8130"
+        },
+        {
+            "file": "content/glf/SPL_glf_cam_fcUS3.bfres.z",
+            "hash": "5E1A6B267BB904B7A430C8FC83A55528AE55EFEA49BCAA0B678E83CF0D2DEFF4"
+        },
+        {
+            "file": "content/glf/SPL_glf_cam_fcUS7.bfres.z",
+            "hash": "036A88AF34A92CB9AEBA6C76E7E7713427F8FE33871FD8D8103647FE0CDC7071"
+        },
+        {
+            "file": "content/glf/SPL_glf_cam_fcUS9.bfres.z",
+            "hash": "79447AD4B2B0E1676F9C2DA7D8C3ABEE6FDA37658B6981DC37B4BBB7B9561812"
+        },
+        {
+            "file": "content/glf/SPL_glf_cam_training00.bfres.z",
+            "hash": "4216EDBED42EC8416CF9FBC4DD433C3BAC888DB7DC37D608CEE0C4690A3E0BCB"
+        },
+        {
+            "file": "content/glf/SPL_glf_club_IR3_L.bfres.z",
+            "hash": "1F074A9A37DAF756FB3B638F8A460106A35D8F3822633E6509501EE155FD6AC7"
+        },
+        {
+            "file": "content/glf/SPL_glf_club_IR3_R.bfres.z",
+            "hash": "335B74A9DBF1B091DB6F48BF31A97F61A6C2D82A0D1BE656B116BA657C1C3C99"
+        },
+        {
+            "file": "content/glf/SPL_glf_club_IR5_L.bfres.z",
+            "hash": "16E5FD4CDD7117E9BDE77610E3FB7EF8EA0032493022C76F67C6CB6F68F71A81"
+        },
+        {
+            "file": "content/glf/SPL_glf_club_IR5_R.bfres.z",
+            "hash": "94C19E90BDADD470A3AEA150BEE20E650603FE68D0DA865096D378002F0DC2FB"
+        },
+        {
+            "file": "content/glf/SPL_glf_club_IR7_L.bfres.z",
+            "hash": "C52E93B803FC4ADF2D45E1BE3845F1714EB30E4CA0A31EE2F19738A8B2613542"
+        },
+        {
+            "file": "content/glf/SPL_glf_club_IR7_R.bfres.z",
+            "hash": "89506E034195A49B014AE42D4647093453CFC9177A35F8D24DC767FF0252B4EF"
+        },
+        {
+            "file": "content/glf/SPL_glf_club_IR9_L.bfres.z",
+            "hash": "09C66E23464FF0CE5785BBD59EDD9CB85587A060A8B3D5AE2AB28E9D446BA007"
+        },
+        {
+            "file": "content/glf/SPL_glf_club_IR9_R.bfres.z",
+            "hash": "5AE116E67CAA5E785E741E2493AE0053AAC4F8DEAF8D7B32049E9997822B2E1D"
+        },
+        {
+            "file": "content/glf/SPL_glf_club_PT_L.bfres.z",
+            "hash": "18105B0FE4A56F47072C4D2197666329021683C74910268EF019C3479569450E"
+        },
+        {
+            "file": "content/glf/SPL_glf_club_PT_R.bfres.z",
+            "hash": "6FB4E4FB3B214A3CFEC2F096DD50327D21FC4260CD2EC77CBCF0ADE4758CCAA8"
+        },
+        {
+            "file": "content/glf/SPL_glf_club_SW_L.bfres.z",
+            "hash": "D88E8090AB7B26F3F81DB87E3DD5026CA46DF027BB2C069F6C7454929E144089"
+        },
+        {
+            "file": "content/glf/SPL_glf_club_SW_R.bfres.z",
+            "hash": "64904B317E19B062C0F63806750F414190F3FE7D454ED1CB0CCF15ED5BCDDC04"
+        },
+        {
+            "file": "content/glf/SPL_glf_club_WD1_L.bfres.z",
+            "hash": "847A76E9B82162EC91BFED72562E8759188ACEAD8F46CD910C9F788D6B4258D7"
+        },
+        {
+            "file": "content/glf/SPL_glf_club_WD1_R.bfres.z",
+            "hash": "521060B07C3DD001583D3EB42E7D292209415D6890B7BA26D3D602D0F9017403"
+        },
+        {
+            "file": "content/glf/SPL_glf_club_WD3_L.bfres.z",
+            "hash": "FF8DE74D9F0B2A4689FAA79D8CBAC7CBDAB1006CCA173F57DE9D6847EAE81E31"
+        },
+        {
+            "file": "content/glf/SPL_glf_club_WD3_R.bfres.z",
+            "hash": "64B275DE1D61D38D913C57F1227FC63859E202CDBCC1244B609F97277340FF95"
+        },
+        {
+            "file": "content/glf/SPL_glf_cup.bfres.z",
+            "hash": "B622439E02643567052854C2DE44E5DF37E6C6F7CC17D9829DBFF5619F498FC1"
+        },
+        {
+            "file": "content/glf/SPL_glf_cup_side.bfres.z",
+            "hash": "2379107FEA8C15E92F4BC87083F02ACFD755DF1946D401C01C5D22E98BB71EBB"
+        },
+        {
+            "file": "content/glf/SPL_glf_fin1.bfres.z",
+            "hash": "08563EC06D284FCFB3B30F8A18C2E2D089E5E9D6227B83116089343C0FD6404C"
+        },
+        {
+            "file": "content/glf/SPL_glf_fin1_env.bfres.z",
+            "hash": "CF6EE5DEC15162749ACD794E7EE659BED456EB13E2A84CFCA53A9DD21CBE80ED"
+        },
+        {
+            "file": "content/glf/SPL_glf_fukidasi.bfres.z",
+            "hash": "4D8AA5FA6FF1D71CA5804019F4F9D54B0A15771C7DDDFA3EAE26A577790D0DCA"
+        },
+        {
+            "file": "content/glf/SPL_glf_fukidasiPair.bfres.z",
+            "hash": "D112789AFCD05FFDDBC8428D2CB987C846EFB4431FE0FD188091A6C9688B8759"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fc1.bfres.z",
+            "hash": "49E2E74D09EB4928DAE712DCAA1FB9DE5504B62E324240D97E48626ACD7B2AAE"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fc1.kcl.z",
+            "hash": "BF5EF92FAABF7DFDB7534B882645382FEE026F2A91B323C5DDF6BBC81450512A"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fc12.bfres.z",
+            "hash": "98B031613B777A093A2FCCD79F864ABDF7484308C0EB6FB8C9EC51F7930EF2DD"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fc12.kcl.z",
+            "hash": "C7B7ABCEA29E47B7DEDF9C54A5B498B8A5E731BFDDBA3A982E015CCC8FAC5F7C"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fc12_light.bfres.z",
+            "hash": "B6FA21CD7ADBC943E4CC72A86DCFDAECB7EA26126B0A95DE079F2011CAA15D05"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fc13.bfres.z",
+            "hash": "61DA216252A8494548781811A45561AFD927D7303BB2434DB9AE09F18134FEA6"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fc13.kcl.z",
+            "hash": "C2E10860CD4DEB5497DEB95FE3FCCBB3127E7D768041AF89DBF507DBE20C2043"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fc13_light.bfres.z",
+            "hash": "133A51709F6ED231796BDE5134EB4002A84C49354EB1622CF5E2C98D25CC696F"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fc14.bfres.z",
+            "hash": "B2401119B29DEC263CD36B0F623791F9D67F1D8B2D828F00773820F1E5DF66A7"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fc14.kcl.z",
+            "hash": "4035351F7837CC5168C2916F19339CF998A57FEEEF66B0105BD9B7C5D20323D7"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fc14_light.bfres.z",
+            "hash": "4C45BE4502D025CBC8B25321106CAD990216F1BEE817B808FA07C0F7FA09F130"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fc16.bfres.z",
+            "hash": "6FD5CF1299DF382EEA1F882DF754A87322A11D9C7F11AAD968876DA490E687F0"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fc16.kcl.z",
+            "hash": "3C8A0157D96182BA9B5677FC3F75E4C4D53FE46606CE3BA14A0A63375B4E35A0"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fc16_light.bfres.z",
+            "hash": "400F87A6BAF4636B4CDD835692CB2982B167882C6A088E3512840DE94389D056"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fc1_light.bfres.z",
+            "hash": "8F4E65D05D7A8D28D252F4775436AF62AB0563E7993808D39446AA397CD363E5"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fc3.bfres.z",
+            "hash": "F90E18193E36A9AF1824E5F5385FAAF9E2166BF2E7B60E85B470CF0A5C76D360"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fc3.kcl.z",
+            "hash": "5ED88F44294AB965DBA54C638869EBD0D0EDFE57E7E585690BCEECC38CC97643"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fc3_light.bfres.z",
+            "hash": "70F8054E0BE1A9B7246E89348249F03495BC9153C52224704C0B5BBD6BC985FA"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fc5.bfres.z",
+            "hash": "7AD4D4239703E0D84C5401C536DE57CF28FA049CA57FA95011B2A178D44AC4EF"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fc5.kcl.z",
+            "hash": "78EF5A60BD9BCB40E69072450956B6795589599C2248BF3F065523CA6D418F17"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fc5_light.bfres.z",
+            "hash": "8449BF0C6B45B7B257431A6C23FA2A8C50A6098D0102D81B2FFDAFF8602BA008"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fc8.bfres.z",
+            "hash": "F2DDE7AEBE7612F2D3DEAF5B54B41084CE4EAFFCA3FDBA543F882F0606EA1BD1"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fc8.kcl.z",
+            "hash": "6FC3C8921F3FD74B739632D0CB1D7B7C6C20238137A48E9A817D4FBD44AF1C38"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fc8_light.bfres.z",
+            "hash": "6FA5ECF4EF5D8CEDC034BD69E070788F8F6FB347F6CF018A26E16CB2ABFF6C2D"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fc9.bfres.z",
+            "hash": "107A23278E75ACB7A1871FE76399EAF9789888248D73AB8207F068BCFB408E8E"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fc9.kcl.z",
+            "hash": "A61AFB65E1D20DB6FE29A94425749EA4557DF6520C5A98AE5196A19329BC870B"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fc9_light.bfres.z",
+            "hash": "0B5EE94E58C83F9E0BCD12DDD33DE6AB196B617A2423E39715A5FF29D1C05B89"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fcJP10.bfres.z",
+            "hash": "5D8A611F8AE7DF8E9CB86B908CD3DD9DF323C48C59072D5A5E28DFCB07C04F49"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fcJP10.kcl.z",
+            "hash": "2083526C430F9259CF1626994E95C29A36393540D768E8F425FD78A6A74E3474"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fcJP10_light.bfres.z",
+            "hash": "40E85436663D5E7D2658E97CD9A0F723445DE4C15882F0D9B15F45E883256BEC"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fcJP11.bfres.z",
+            "hash": "B076A696D8353737428DD3CBEC944D1143C38F5571A55117D8A633573EE6441B"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fcJP11.kcl.z",
+            "hash": "621C15894D49D9CA3697FEB6C2103834C865A517D381F1DDF7D464A2F1A582A7"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fcJP11_light.bfres.z",
+            "hash": "7A026BF27AA1F302ACAD77504397913326743D2C3C51956FF87562F24222F1D5"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fcJP12.bfres.z",
+            "hash": "9E3E220941C7CC1C47600E29B0B9C3BC4ADE28AA0918B8C6B78F87225624CF34"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fcJP12.kcl.z",
+            "hash": "53E17EFC888527DEC744F899A483FA53B7D9E522310A6472CD38316B42791A3F"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fcJP12_light.bfres.z",
+            "hash": "9DECFF951ED4FA78232E74D4CAD3890371599A697255498509B538C49A199933"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fcJP13.bfres.z",
+            "hash": "CABDFB6305D5664CBD44EAD8BC6FA26E50826ED08F06E61E7AAB6E07E569C776"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fcJP13.kcl.z",
+            "hash": "AA6706688C0C4D02A10A014A685F75A3ADB4402DA4EE0A4A8647AFA1951C4AA7"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fcJP13_light.bfres.z",
+            "hash": "BD3C0D929DC693E0A5A399F22415D34F316A457F55B61CB743E8FE1D5E1796EB"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fcJP16.bfres.z",
+            "hash": "713AB789F16720FED4652A22C3E7D75289B0DAAA8714EE1273D82D22AF81564E"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fcJP16.kcl.z",
+            "hash": "0DB4FCAA9BCD45C09A579778223D78E38059970CC15EE20B21BAC59F80DFB014"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fcJP16_light.bfres.z",
+            "hash": "6D64120ACB31BD25CDC79A0FDB158019A3FBB3A42012314DB85A50A847C433CF"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fcJP3.bfres.z",
+            "hash": "1A664C8655F13EBFF80515E7334ED4BBD1A3E8985DC3C14B580A6B25F7327443"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fcJP3.kcl.z",
+            "hash": "4BA5B612342142BEC6E8F4C65346904872BB0160366FE9E9F7DF6CE1FBBF63C6"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fcJP3_light.bfres.z",
+            "hash": "B13F93E257A1B4F90721D709E90D87EF8B940646FA95A7B69032073E51274FD7"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fcJP6.bfres.z",
+            "hash": "00A9D1D707889F8F22E6F46D884383AE43FCF45C0F0EB57BA554C3CE5EC68EAE"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fcJP6.kcl.z",
+            "hash": "3E7CA9D3C47112445EB5124FD7A99D6F8EF785591D0FDD3C2E4E77E1E8297142"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fcJP6_light.bfres.z",
+            "hash": "58A2E2AC9AE2714B0B15731555337FE710AEE6C52E7F271CDFC47272C7B9F5C1"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fcJP7.bfres.z",
+            "hash": "7C0E149D7768E9DC9C570E3E76708D68F29B803B07C1FD502B564FEC39C34DF8"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fcJP7.kcl.z",
+            "hash": "FB23EA701D3A1868E69B7B575CA348AE260D2370F2D8A6529725F622D9519D02"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fcJP7_light.bfres.z",
+            "hash": "D564457A068ABBAA3C29A198C11C045C9D7F69E0F7C992449AA773199A090AF2"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fcJP9.bfres.z",
+            "hash": "BF95EB6A6F6DAF52A2D0F406EB114F5902CCBEA0860AB0D2B4D565057951D321"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fcJP9.kcl.z",
+            "hash": "9A70D35D47397206CF196D4BD9517EDA0374BC29932C4795E03AC011C0034956"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fcJP9_light.bfres.z",
+            "hash": "F6C81B9B03E6C80E919AFA9632754D2B23974F160E8BB2298D03FD91D770D1CF"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fcUS1.bfres.z",
+            "hash": "2066588CBEF34AAF7567F8E92D613EC9D2BA2D4704FAAB08A048FE6EE8DDFB2E"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fcUS1.kcl.z",
+            "hash": "FDDBACF0EE54F4CFC9B1C21C32AE26FE8F650032901C6F82CC5FBA02838D4B87"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fcUS11.bfres.z",
+            "hash": "52C411F22BA5015526C452F6C03C9979514364A619019A1AE5E524A290078A33"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fcUS11.kcl.z",
+            "hash": "6172D83C687094E297F10603F5B9D02F82A9C740A45A35B07F248D6DB1305B97"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fcUS11_light.bfres.z",
+            "hash": "E6255877912ADE74A3BD4F055E4911C7410AEFF445596F518C5751C3D0696215"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fcUS12.bfres.z",
+            "hash": "C9A727CC8805646D999A9AF2B4C44844967BD347E863C97EBA87F3A74AA296AE"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fcUS12.kcl.z",
+            "hash": "DB401EBE7FFCD7CB075B7AC40466548578FF82B468C407F8AB4150462DAA22AF"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fcUS12_light.bfres.z",
+            "hash": "8196FB69B549BBB420327CD465DBACEA405273F5537068BD697F01156BB6E4BA"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fcUS16.bfres.z",
+            "hash": "114FB044CD9F4EE8C3DC3846B41F8799D23599E730E512007D86C13D721E4229"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fcUS16.kcl.z",
+            "hash": "351BDB9DE9DD4BFBB27A2987C5CDA5230037C0CFB625693008E55E50D88A08F7"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fcUS16_light.bfres.z",
+            "hash": "1C560F8997F6105AEC97D3EB4BB22DCCBA975F4535F5ECD23873E408A94DD8BF"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fcUS18.bfres.z",
+            "hash": "D216B316FA86E99A3B629B906711AFDC93542DF19BDC0B0E6955B452803B8A1A"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fcUS18.kcl.z",
+            "hash": "933FA58BB7C90F84A7CB4F8BE59F8279E3E93B711D35E89216F33307F40BD73D"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fcUS18_light.bfres.z",
+            "hash": "1418EA7F206474DB2715424134365A1BE3FD8C502146A45FD57D31BC443AC88D"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fcUS1_light.bfres.z",
+            "hash": "E6A0EFA547E463CEBDA94A7091024D26A0BDB6F57A1063359F56B90B37EEC10D"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fcUS2.bfres.z",
+            "hash": "C091E4033FBF09733097131A13741977A332E75C6F37CA2D7936D0869C3B4936"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fcUS2.kcl.z",
+            "hash": "0B08B28C7EE2F82AF16D8D63BF8AAC390C7A87370529A6C0F7EF8AEC682ED1BB"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fcUS2_light.bfres.z",
+            "hash": "0FDDD55E0E05BB7531F9D616A54AF29404AA0BA16676B3C1B1D269A82372D5A5"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fcUS3.bfres.z",
+            "hash": "E4D5F9959B8813094D64D424812FF9F2B207037105930507ED7CFB019E13217E"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fcUS3.kcl.z",
+            "hash": "767FA86B9559432A1288EF2E4678DF3954D33CECC29FFB9F759A1054DC40B73B"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fcUS3_light.bfres.z",
+            "hash": "420AA610D02170AE2B07F3C4624616BCF80B0D848ED0D29C49536DFF2A439A54"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fcUS7.bfres.z",
+            "hash": "1D078B8E59B80094B30494E33B218967711C95FD815F67B3EB1133D40E750800"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fcUS7.kcl.z",
+            "hash": "D00BBF2BBB88DB16AA117195A81ECCC5B579709FFA759EB326C1E008850A3E86"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fcUS7_light.bfres.z",
+            "hash": "4E56EE2A0246C08B16454DA5CCB665686FEC967F4393DFB2F8DF67C95EA2DA5F"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fcUS9.bfres.z",
+            "hash": "353627F54A8F61DD855EBC436C62604DD3BDC2D2CD463B4971BADB3BCBA44C3F"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fcUS9.kcl.z",
+            "hash": "B06E0672107D7222BFC950F0984AB038C629FAF395E5FECDAFDBC3921E3C1315"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_fcUS9_light.bfres.z",
+            "hash": "D718E96CF86BE53572711E53F52FC9A33BE895BF0B894E8A40A17C6E7040E707"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_training00.bfres.z",
+            "hash": "24D6FF334CB6D3CE4BD29049F045A6E889F2559872785B5D0853C4FF3CD4BB76"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_training00.kcl.z",
+            "hash": "D5C792543B6FDD9E81EB597C46FBEA11EBDA1BE1572A71872929DD1A5A8A42E9"
+        },
+        {
+            "file": "content/glf/SPL_glf_hole_training00_light.bfres.z",
+            "hash": "42C32DBC7CC5ABD286F2A682CF65C81CEB47CA08AD17C7DE5831C8B043309482"
+        },
+        {
+            "file": "content/glf/SPL_glf_hotel1.bfres.z",
+            "hash": "1AE27CF982DFF250FC8267720301C306BA637C270CF3CB3B7296D19A50583789"
+        },
+        {
+            "file": "content/glf/SPL_glf_hotel1_env.bfres.z",
+            "hash": "C611947C9755CF7EF6B930AE75597741A59A47CD2EEB7B3A420A53DC3084D509"
+        },
+        {
+            "file": "content/glf/SPL_glf_map_fc1.bfres.z",
+            "hash": "2F4522A859880E337A6F620B3AA59CA30062EA3CC83D9E6C3F17A2699E308A8D"
+        },
+        {
+            "file": "content/glf/SPL_glf_map_fc12.bfres.z",
+            "hash": "F8B177B8725AE693E6B387F9C5E96ABA841FDBF9817102FFEED586CA2BB34AA6"
+        },
+        {
+            "file": "content/glf/SPL_glf_map_fc13.bfres.z",
+            "hash": "C83A5199F30E59672AA74756A53797B7E7B0636E75BEFED7A0FFF7D2249C74AE"
+        },
+        {
+            "file": "content/glf/SPL_glf_map_fc14.bfres.z",
+            "hash": "BD4F07B228FC583DB00DE916BF25AE38712AB03B70693E3907ED4E505A62E9D8"
+        },
+        {
+            "file": "content/glf/SPL_glf_map_fc16.bfres.z",
+            "hash": "E67C0F08E6318DCBC6EE98C13A698B3D7F7257BA0165E7C643F65EF20A74994D"
+        },
+        {
+            "file": "content/glf/SPL_glf_map_fc3.bfres.z",
+            "hash": "A927FE639BCBAF6D0DEE0C9E5E3B02E42EB52AC0879C5EAB821406CC578CDC0E"
+        },
+        {
+            "file": "content/glf/SPL_glf_map_fc5.bfres.z",
+            "hash": "DB91CE17993EFECDB504342D403CDA9E2794D421214370C181785009EB10EA7E"
+        },
+        {
+            "file": "content/glf/SPL_glf_map_fc8.bfres.z",
+            "hash": "3A8E9244B440DB7A5E2F2882DF2F2D99C7E701A34521735F454ECBCCFB4E41B8"
+        },
+        {
+            "file": "content/glf/SPL_glf_map_fc9.bfres.z",
+            "hash": "F2A663284561691E356EE845BC153B4D3DE0FF525D9FE54DF10006CA7CC144F0"
+        },
+        {
+            "file": "content/glf/SPL_glf_map_fcJP10.bfres.z",
+            "hash": "EF27B8000C94273C61D79771D72D0997E002930D643E56BDF23CE5DCDEE2CF0C"
+        },
+        {
+            "file": "content/glf/SPL_glf_map_fcJP11.bfres.z",
+            "hash": "3553BFF4C5EAFA15F785C057DE54D88CC640EB5A537F4DF659C7FFACEBBC3A8E"
+        },
+        {
+            "file": "content/glf/SPL_glf_map_fcJP13.bfres.z",
+            "hash": "EE32564239A56A6DBE6D857305666EDF6DA6C6D1B09F52AC247BF3BF592A16F8"
+        },
+        {
+            "file": "content/glf/SPL_glf_map_fcJP16.bfres.z",
+            "hash": "97AD5B9E3A820D87614A0B07E2D23F9C5ECDEAED678F85344E8202CE807D7833"
+        },
+        {
+            "file": "content/glf/SPL_glf_map_fcJP3.bfres.z",
+            "hash": "471EBB9B32DACDCEB11C1BD711F5D0361DDB4E99FDFEC97BDA2B89B1D05A5AD1"
+        },
+        {
+            "file": "content/glf/SPL_glf_map_fcJP6.bfres.z",
+            "hash": "2EAE9DEA205B86063402EDE256B41D3EB19421858724692549EA7C821A7F3D12"
+        },
+        {
+            "file": "content/glf/SPL_glf_map_fcJP7.bfres.z",
+            "hash": "BB8B00F4E31546F762F2AB2AF58CD8D5DC9414E9DEFB0D829D9A6D0389D37340"
+        },
+        {
+            "file": "content/glf/SPL_glf_map_fcJP9.bfres.z",
+            "hash": "3D702EBBC9B96E86A80521466F93F54E4C2E47E6C83339A1A7C2B775484BA417"
+        },
+        {
+            "file": "content/glf/SPL_glf_map_fcJp12.bfres.z",
+            "hash": "148EB15BFACB58F8E1D8605D5F366DC83939CCC4432DE764A3280064F12C7035"
+        },
+        {
+            "file": "content/glf/SPL_glf_map_fcUS1.bfres.z",
+            "hash": "FA822A83105BA55E6F6D6CCF7ADF898CB06A8A771EA1FBD3A0F3DC541BAD588B"
+        },
+        {
+            "file": "content/glf/SPL_glf_map_fcUS11.bfres.z",
+            "hash": "9258786EE768A1A5239567EF758E57E9CDD48B5DD89DF55A62F93CC2B7965202"
+        },
+        {
+            "file": "content/glf/SPL_glf_map_fcUS12.bfres.z",
+            "hash": "A13CD04E91E1D1DFACAFAF3C04ACF8C2C0904874F8B685CF2655932FF327C4EE"
+        },
+        {
+            "file": "content/glf/SPL_glf_map_fcUS16.bfres.z",
+            "hash": "1FD722D5BE8F7EBBBA86FFAB344B923B2B999C60406A90F0E8EC9F085689C64E"
+        },
+        {
+            "file": "content/glf/SPL_glf_map_fcUS18.bfres.z",
+            "hash": "90EEC1625D6100102579C590F9CEA1798F5107477A575AD316B1CCF45ABBC98C"
+        },
+        {
+            "file": "content/glf/SPL_glf_map_fcUS2.bfres.z",
+            "hash": "01A51E8E96A4B0DBE4C36451B3D220090FF743DF2A31ACDCB8BC1D2E8C828725"
+        },
+        {
+            "file": "content/glf/SPL_glf_map_fcUS3.bfres.z",
+            "hash": "ABD054787363585B0B5B47DA177222ABFC685802AB531C00620F84C013CE2BD3"
+        },
+        {
+            "file": "content/glf/SPL_glf_map_fcUS7.bfres.z",
+            "hash": "00FC18F0395D13F4341BCFD516FB981D8729BF3C877B0FAC8F5B20CCA4E0D134"
+        },
+        {
+            "file": "content/glf/SPL_glf_map_fcUS9.bfres.z",
+            "hash": "49704EF61601407628F053DA9284FF9C59086F3EE405BA1DCC356E57FAD8B289"
+        },
+        {
+            "file": "content/glf/SPL_glf_map_training00.bfres.z",
+            "hash": "0088F4050B1685EEBC4727D81EAA5E9B30B6B9EAA2141CC3187E88627B1C02E9"
+        },
+        {
+            "file": "content/glf/SPL_glf_marker.bfres.z",
+            "hash": "219892B133EE07E5EF06C40406D56E3E27C76E2FA51CD1BA309CFD294CA4ACBD"
+        },
+        {
+            "file": "content/glf/SPL_glf_mato.bfres.z",
+            "hash": "7ECF43D8F606E388ACE5F6E43546C976DB2F4E084D2FE09B59308203C7CAAD9C"
+        },
+        {
+            "file": "content/glf/SPL_glf_panel_four_bingo.bfres.z",
+            "hash": "119FBB0DA878BE1B023ECCCF9B844FCEBC84629236E0B0DD7C00E85DE3D6340B"
+        },
+        {
+            "file": "content/glf/SPL_glf_panel_four_def.bfres.z",
+            "hash": "EAC158C6D738D7CEC23F625ADCB5E7D142FC4BC955F77FD2307A0344886A7F4D"
+        },
+        {
+            "file": "content/glf/SPL_glf_panel_four_frame.bfres.z",
+            "hash": "8C1DDEF2AC211C4B670C891312C24BF67E020561A5F82682E8AAB601E0A28273"
+        },
+        {
+            "file": "content/glf/SPL_glf_panel_four_not.bfres.z",
+            "hash": "4867D80D9A4096807DB1E2A466B24A1AA0956106D836EF75DE509096D5C760AE"
+        },
+        {
+            "file": "content/glf/SPL_glf_panel_frame.bfres.z",
+            "hash": "2009207994BC4DD37AFAA185E6D41D2A7022B235372F0A93EA465556BA2E10B5"
+        },
+        {
+            "file": "content/glf/SPL_glf_panel_frame_angle.bfres.z",
+            "hash": "F611A58A202AC9AC897B851735692DA9527DB806AD07FF978F30DC9C4596414C"
+        },
+        {
+            "file": "content/glf/SPL_glf_panel_number_01.bfres.z",
+            "hash": "B93CAF7955CB0D509777ED95E1109310E89D6E48CA4589E3F5AF6E8E3758DA8A"
+        },
+        {
+            "file": "content/glf/SPL_glf_panel_number_02.bfres.z",
+            "hash": "ED38FE36171116C06D95901503B50E82C66328381B0EBA702E78B6F2480A0CB7"
+        },
+        {
+            "file": "content/glf/SPL_glf_panel_number_03.bfres.z",
+            "hash": "C0A05CBBB99898897750A6A62D4C61E64567664D39C3B4EB6D699D5AD54C1ADC"
+        },
+        {
+            "file": "content/glf/SPL_glf_panel_number_04.bfres.z",
+            "hash": "E0F8D8E99BDE6DC18E41FA19B6D3A2E48D8708A59120C767CF956D46D41F66CF"
+        },
+        {
+            "file": "content/glf/SPL_glf_panel_number_05.bfres.z",
+            "hash": "C83551E6561AC5B5D6B6BDAE5E1694BF60D7C52E0035930C020502EC41C5098B"
+        },
+        {
+            "file": "content/glf/SPL_glf_panel_number_06.bfres.z",
+            "hash": "288BAA1EF4CF254932F008308567DD32C32EA6C425D725110E4EE3B36C2C1BA3"
+        },
+        {
+            "file": "content/glf/SPL_glf_panel_number_07.bfres.z",
+            "hash": "7F429446F958F7C4947B464E955772D42AA5F6B06110D9841D794438F73B30D6"
+        },
+        {
+            "file": "content/glf/SPL_glf_panel_number_08.bfres.z",
+            "hash": "4D2141ACB1D7A3A083E9A9EEE3A67F102A412504FB633E52B8614B98572B56C7"
+        },
+        {
+            "file": "content/glf/SPL_glf_panel_number_09.bfres.z",
+            "hash": "C00C085C7C92F6919A5F45BCA26E5B542DE05533DFD0F90CEB57232BB32B2066"
+        },
+        {
+            "file": "content/glf/SPL_glf_panel_number_10.bfres.z",
+            "hash": "267454822414681C2266FE8E6F5CADFEE6131850F1BC71FD5FCE8C01797279CF"
+        },
+        {
+            "file": "content/glf/SPL_glf_panel_number_11.bfres.z",
+            "hash": "994F2D2F61F99569A1F22D8161A213412647B3E53B1F4FF374110688A69007DE"
+        },
+        {
+            "file": "content/glf/SPL_glf_panel_number_12.bfres.z",
+            "hash": "E2A98B8D21563F6162D5A3CA0BCB5EDCB1D196FD2BEFA9209B9E3FE0F10A7D33"
+        },
+        {
+            "file": "content/glf/SPL_glf_panel_number_13.bfres.z",
+            "hash": "625FACCE424DC6F3E8A2B2E1F7710D4388C4BFB29890E47111112D8E3055EF06"
+        },
+        {
+            "file": "content/glf/SPL_glf_panel_number_14.bfres.z",
+            "hash": "4A4A05C74967D214BC3C0A7AF54F5EB8CD423665ADAF18B710D99B9626DD4D4D"
+        },
+        {
+            "file": "content/glf/SPL_glf_panel_number_15.bfres.z",
+            "hash": "821B63F5C47684E28AC287205FB4CF912C3DFD334C264DACE1CE1ED0A9B8A7DF"
+        },
+        {
+            "file": "content/glf/SPL_glf_panel_number_16.bfres.z",
+            "hash": "F8E05D9E9C89BA82A3FC9D9585042BF244197CFB148D8BE1CCE8AE22FC93BAB5"
+        },
+        {
+            "file": "content/glf/SPL_glf_panel_number_17.bfres.z",
+            "hash": "14D8B5615D85401AF29818D68F8140E63DD6A36E193AAB3A76238F78A0F4F7AA"
+        },
+        {
+            "file": "content/glf/SPL_glf_panel_number_18.bfres.z",
+            "hash": "01F360C90ED75F12E13AAA5ABBFAA7D43002455FD1EE19279DAA96B4B81FC043"
+        },
+        {
+            "file": "content/glf/SPL_glf_panel_number_19.bfres.z",
+            "hash": "999538C67153ADA89AD93C63416917CFBE9492FDF2EE0E819ECE18CE807B8199"
+        },
+        {
+            "file": "content/glf/SPL_glf_panel_number_20.bfres.z",
+            "hash": "4ADDF22EFC2BE1173A9B10FE51ADA65799BD29073274492002BB90B056890E4C"
+        },
+        {
+            "file": "content/glf/SPL_glf_panel_number_21.bfres.z",
+            "hash": "97FD8FE4CF7559A5422F87A0F7E503DA169FEA1AC21EB41677C5ECF71195B323"
+        },
+        {
+            "file": "content/glf/SPL_glf_panel_number_22.bfres.z",
+            "hash": "CC80BB43026E60450F4721BF8AD370F17F1B1C739C1D8FC74D3AE6D0C75BE3FA"
+        },
+        {
+            "file": "content/glf/SPL_glf_panel_number_23.bfres.z",
+            "hash": "B0209B737FB7834AD9FF28309724C6CD659E7B50F5CC9BB257307B91F5288A72"
+        },
+        {
+            "file": "content/glf/SPL_glf_panel_number_24.bfres.z",
+            "hash": "B65465943A2ABA70CAA29B184200728C681CF12BCB175A2977C5ABF658C78D1E"
+        },
+        {
+            "file": "content/glf/SPL_glf_panel_number_25.bfres.z",
+            "hash": "2A45C21E812CB582DB9D8B4FC1DFFAAFFF4FE8B8AF0E0591EE49E565389E15AD"
+        },
+        {
+            "file": "content/glf/SPL_glf_panel_number_bingo.bfres.z",
+            "hash": "9900CB60AC8183E5524915C82CB9E1A654C40B9B2F9865C03C7F99E89F6618A4"
+        },
+        {
+            "file": "content/glf/SPL_glf_panel_number_frame.bfres.z",
+            "hash": "D2BBB4E41989BBFE52FA6FA32E0926B6F89D0F21F7810F5555EDF6C23E864310"
+        },
+        {
+            "file": "content/glf/SPL_glf_panel_number_get.bfres.z",
+            "hash": "75ABD7269A7CC06414CE553B332F401C6A38ED20CED56B5FE2863C276FFB3C1E"
+        },
+        {
+            "file": "content/glf/SPL_glf_panel_two_bingo.bfres.z",
+            "hash": "F1C672E6B3A60B0F2BEBE7E42F171CEF681ABDF8A93FF4F9C4AEA9DA69CEE919"
+        },
+        {
+            "file": "content/glf/SPL_glf_panel_two_def.bfres.z",
+            "hash": "09290C662D58D9B39C2CA3C340EFEFAA74145F1D41EC68DF2735931693721EB2"
+        },
+        {
+            "file": "content/glf/SPL_glf_panel_two_frame.bfres.z",
+            "hash": "98019283C6B761D189769441075FE9E37037699405FB1418BD7CE7A64324F133"
+        },
+        {
+            "file": "content/glf/SPL_glf_panel_two_not.bfres.z",
+            "hash": "762972CF07D782AD612D1761DD335FC5FF8F491B7AF5A88D322246B8B86EC72F"
+        },
+        {
+            "file": "content/glf/SPL_glf_pin1.bfres.z",
+            "hash": "D9BAB1519A3D90D418813CF416F4EB1FA588599DD07427BDD3CCFB89A6689348"
+        },
+        {
+            "file": "content/glf/SPL_glf_pin1b.bfres.z",
+            "hash": "12413D7E346366AF6000545470481994F39FB0BAE75897D3DF2EA11DB8056838"
+        },
+        {
+            "file": "content/glf/SPL_glf_pole.bfres.z",
+            "hash": "96248E8344B6989FC5807F850DCD7A9D959AB3E77D98DCDC356956163C33437C"
+        },
+        {
+            "file": "content/glf/SPL_glf_rock1.bfres.z",
+            "hash": "B459F86BB125E63D55A90EFBAF35E138F4AC705F754C3B13B1BE37A1EE6041FE"
+        },
+        {
+            "file": "content/glf/SPL_glf_rock1_env.bfres.z",
+            "hash": "89540C8C022598E2C74E809B217E756512DA8EA990FF8B1F5FD8D0A490EF3267"
+        },
+        {
+            "file": "content/glf/SPL_glf_shadow_tree1.bfres.z",
+            "hash": "75394E3391A688C7EB8E43D7E6BBB3F3650F15E99FC28C797DD59E16012A1F3F"
+        },
+        {
+            "file": "content/glf/SPL_glf_shadow_tree2.bfres.z",
+            "hash": "7FB146862131940459440E4A71471EF4E87D2D25646C417C7873589560976685"
+        },
+        {
+            "file": "content/glf/SPL_glf_shadow_tree3.bfres.z",
+            "hash": "85DABC5467D4765DDA31DE0CC1E5F203C4D4BFEEF82755CF2D0FF87F7B52DF39"
+        },
+        {
+            "file": "content/glf/SPL_glf_shadow_tree4.bfres.z",
+            "hash": "196A615E85A44A3D7F7184E5F73442C5690DF6F5E691879C558E73676E707DFA"
+        },
+        {
+            "file": "content/glf/SPL_glf_shot_effect.ptcl.z",
+            "hash": "14A50F77A753DC5EF9BF1E8C198725213C2AD4E1223A1AE2BC10C1041F17B365"
+        },
+        {
+            "file": "content/glf/SPL_glf_sky.bfres.z",
+            "hash": "07577FB21E574F200B8B1F677235219A002448405C0ECAAA497A10BCEFA41AD0"
+        },
+        {
+            "file": "content/glf/SPL_glf_sky_env.bfres.z",
+            "hash": "F4E40A04A7AAD718707CC8E4F18EFC931B9459B18AD474EF913136D67C55F11A"
+        },
+        {
+            "file": "content/glf/SPL_glf_targetplus_effect.ptcl.z",
+            "hash": "789FBE4529ADCDEB68F8BFD41CDF0C7F699942768F77B9967831FC00AD7EAD1A"
+        },
+        {
+            "file": "content/glf/SPL_glf_teeOBJ.bfres.z",
+            "hash": "EF8CF6C6DAD56A561B7D89921A03FA93FB5F0F3551694F26CA4FF42FA2452007"
+        },
+        {
+            "file": "content/glf/SPL_glf_teeOBJ.kcl.z",
+            "hash": "7E9514141D95C4F353D87736E79D395378CEE491442BB82CFD50B285181F5438"
+        },
+        {
+            "file": "content/glf/SPL_glf_training_effect.ptcl.z",
+            "hash": "FC9C0EC37A86E5022175E55388F1C43B5D669B2C29F57556EF655AF3E04FCD23"
+        },
+        {
+            "file": "content/glf/SPL_glf_tree1.bfres.z",
+            "hash": "4FBDB894D9938265B511166C9E55E07C09A736692D6862E78B137BEF0661A9AB"
+        },
+        {
+            "file": "content/glf/SPL_glf_tree1.kcl.z",
+            "hash": "B723B405A0238B6ED63D30FAA12405C1736EA35192EA570BBE2EB35477DF7272"
+        },
+        {
+            "file": "content/glf/SPL_glf_tree1_LOD.bfres.z",
+            "hash": "4BABBAC02A10EE5B39B7EFE07B1C1584CFC56F8EEA175DDF1265D2E3E756F205"
+        },
+        {
+            "file": "content/glf/SPL_glf_tree1_LOD_env.bfres.z",
+            "hash": "1649FAEF40B3006AEE0B405FC2C5E39D895B688EEB39683C41C61F33CB625D9F"
+        },
+        {
+            "file": "content/glf/SPL_glf_tree1_MIDDLE.bfres.z",
+            "hash": "21CC3352E84FFB8950A0AB5EECA099B9A920EB1C8B8CFCE47BE4E104C55C5DAF"
+        },
+        {
+            "file": "content/glf/SPL_glf_tree1_MIDDLE_env.bfres.z",
+            "hash": "8F4305606CE7E892D1F65AA954BFA515F29F9E8DDB9CB28F70EE15EF707143E8"
+        },
+        {
+            "file": "content/glf/SPL_glf_tree1_env.bfres.z",
+            "hash": "0DF2C9C8577BC2C508AD37FFFE757458920B6D8389405358655BF43BF181B36E"
+        },
+        {
+            "file": "content/glf/SPL_glf_tree2.bfres.z",
+            "hash": "5D5AC8DDD9754BAE901D80EA4CA848EA7C4E841F633A526E82C6F75455395800"
+        },
+        {
+            "file": "content/glf/SPL_glf_tree2_LOD.bfres.z",
+            "hash": "FFC676A53F1D1BD4DA9AD8D7CAA0410291632513F7F8DB37121C2FF425EB8D6F"
+        },
+        {
+            "file": "content/glf/SPL_glf_tree2_LOD_env.bfres.z",
+            "hash": "4F2D3F4D130C7A713CE35BC54017630B68F274F9BE47DC46AEA1E5528E78887C"
+        },
+        {
+            "file": "content/glf/SPL_glf_tree2_MIDDLE.bfres.z",
+            "hash": "7B5C683F96925E740E83EA63A1F340855765DFEB7C812FADFCAC74BF8B0868BF"
+        },
+        {
+            "file": "content/glf/SPL_glf_tree2_MIDDLE_env.bfres.z",
+            "hash": "86BBD71FC9CCAF1880295B82FE00101580B14A5EEE2CA1EC4EA52355CFCB02A2"
+        },
+        {
+            "file": "content/glf/SPL_glf_tree2_env.bfres.z",
+            "hash": "B4401C029E148D499E95768CD6EF27C241BE667BEE4DF310851CFF64976BB2F9"
+        },
+        {
+            "file": "content/glf/SPL_glf_tree3.bfres.z",
+            "hash": "521F6BC51A9C01BC6A7E91D8608C929FB38DC6ED7B4B775A6779E78D81CCA8D8"
+        },
+        {
+            "file": "content/glf/SPL_glf_tree3.kcl.z",
+            "hash": "790598521AE14ED70783B93D1E7F1E3E61C087D78FDF65FD203DD224D32E0E28"
+        },
+        {
+            "file": "content/glf/SPL_glf_tree3_LOD.bfres.z",
+            "hash": "CBBE2DEFA7434C60B77D09DC8F79ADC68AD30154428A1235676255EB1C4021D9"
+        },
+        {
+            "file": "content/glf/SPL_glf_tree3_LOD_env.bfres.z",
+            "hash": "BB37E39E025301E6B3783973A90679ACD13E22E10A32120B6375C46A80922561"
+        },
+        {
+            "file": "content/glf/SPL_glf_tree3_MIDDLE.bfres.z",
+            "hash": "807557E860EF17E478F1EB23D77286EB77C4218ED1E22474E2D343145005862D"
+        },
+        {
+            "file": "content/glf/SPL_glf_tree3_MIDDLE_env.bfres.z",
+            "hash": "448628320D87210C53CDAAFE2A679BCD1D77A08CFAC9FB0E0DCD15602BA14588"
+        },
+        {
+            "file": "content/glf/SPL_glf_tree3_env.bfres.z",
+            "hash": "CBCD94D34BA69B0D82E3CB26ACB2C05EC0190144A76BA6AD0520AD65BC23A5C1"
+        },
+        {
+            "file": "content/glf/SPL_glf_tree4.bfres.z",
+            "hash": "288A9F8A1503CAB7B80BFFA08237287F35D0C94C784619A1EA582A640ABE970B"
+        },
+        {
+            "file": "content/glf/SPL_glf_tree4.kcl.z",
+            "hash": "3EBC7D488EC207F084461E76031C79E242F6D125CADBEE65A8D4785C70DD6C06"
+        },
+        {
+            "file": "content/glf/SPL_glf_tree4_LOD.bfres.z",
+            "hash": "05B4AFB4B3AEFC7720787B4E842D70546EA96F2DCAC3A1E40881C589705B5299"
+        },
+        {
+            "file": "content/glf/SPL_glf_tree4_LOD_env.bfres.z",
+            "hash": "9047B2FA4CC19B6F13B9C5D07442F7405EBB421695807950832E5F50047E8052"
+        },
+        {
+            "file": "content/glf/SPL_glf_tree4_MIDDLE.bfres.z",
+            "hash": "D3DEA166DF5F3C27B52ECA6EB2207B19B3955D8C15CF84917856189AC950141F"
+        },
+        {
+            "file": "content/glf/SPL_glf_tree4_MIDDLE_env.bfres.z",
+            "hash": "6BBF54A582205DD707494745948532A6BE576DE01BEF7444F0AE78D73D46DF26"
+        },
+        {
+            "file": "content/glf/SPL_glf_tree4_env.bfres.z",
+            "hash": "7B9F23ADD93DB53BE1481FFD4AF42F8A877D86EFA44ED6B0D85E80654584605F"
+        },
+        {
+            "file": "content/glf/SPL_glf_ui_effect.ptcl.z",
+            "hash": "3710C8F194C638A25214BE90309E2E55B503F8C7A88386EF70B254D44E35A492"
+        },
+        {
+            "file": "content/glf/SPL_glf_umbrella_IR3_L.bfres.z",
+            "hash": "C28AE902BAA4272AAEA048A1ED400948CC96F17E1825131F13A76DF28FE27FDA"
+        },
+        {
+            "file": "content/glf/SPL_glf_umbrella_IR3_R.bfres.z",
+            "hash": "C0979D7E6AAA23CBA0EB760508C0DA081D5859DD846B40A10B9812167AE98786"
+        },
+        {
+            "file": "content/glf/SPL_glf_umbrella_IR5_L.bfres.z",
+            "hash": "78353C65E2FFB7E9D9C3FAD9F664866AD13C1A7E05D0D6618EAF5D0F9CCA4D0D"
+        },
+        {
+            "file": "content/glf/SPL_glf_umbrella_IR5_R.bfres.z",
+            "hash": "F32138629C2F7C9A34A986F4C5859033C1B8A36B783506D6124F10F64C2F2680"
+        },
+        {
+            "file": "content/glf/SPL_glf_umbrella_IR7_L.bfres.z",
+            "hash": "85B35873EFF09B819986B1B463C3DEB493B269EEE40D410E52161B251A5B36C3"
+        },
+        {
+            "file": "content/glf/SPL_glf_umbrella_IR7_R.bfres.z",
+            "hash": "0AC1E0D7587C9285A14F30995763DFE5CC2212822E6867BCC3873AB83C24B0EF"
+        },
+        {
+            "file": "content/glf/SPL_glf_umbrella_IR9_L.bfres.z",
+            "hash": "B51D7E648FCC9B9F6342BAE009AFC1EC7E21F64A9CD2A1060C6A527FF607A754"
+        },
+        {
+            "file": "content/glf/SPL_glf_umbrella_IR9_R.bfres.z",
+            "hash": "8D94916092E50816D29E52623B09A8009829DB04FE7A84C00A9B74497FAAFBD1"
+        },
+        {
+            "file": "content/glf/SPL_glf_umbrella_PT_L.bfres.z",
+            "hash": "F0409F4CFDEE49B8F508FA999CE2E6AF8A1F8515407746FF6DCFED5C90AE35A9"
+        },
+        {
+            "file": "content/glf/SPL_glf_umbrella_PT_R.bfres.z",
+            "hash": "E9265C7A2C83DACE242678D1B128CDA73C85614A3679E689F4615FDB5A74037A"
+        },
+        {
+            "file": "content/glf/SPL_glf_umbrella_SW_L.bfres.z",
+            "hash": "C18271B89A04B4112FC39175E0F3B48511E4389301592D4CB7FB44AF47DE61A7"
+        },
+        {
+            "file": "content/glf/SPL_glf_umbrella_SW_R.bfres.z",
+            "hash": "280099F42B1E8ADE40BE5432842EB83865C2054DE9BAD50B0AC1865C5D327430"
+        },
+        {
+            "file": "content/glf/SPL_glf_umbrella_WD1_L.bfres.z",
+            "hash": "4EDF3D7483329F0133139D37462DBF654BDCEB7A327863903F78F5CEFE5C1DA5"
+        },
+        {
+            "file": "content/glf/SPL_glf_umbrella_WD1_R.bfres.z",
+            "hash": "DF9EA937DC883A62C8F88F70CBA16FA64B0B8E4ABD3D4B66FF8B62199687CE84"
+        },
+        {
+            "file": "content/glf/SPL_glf_umbrella_WD3_L.bfres.z",
+            "hash": "25A93CB0A99E3977E82B0C33E51A87096327D8D263C012924CF359AC1950ECC2"
+        },
+        {
+            "file": "content/glf/SPL_glf_umbrella_WD3_R.bfres.z",
+            "hash": "B7FCC9AB1E97F6C9879BEEF5B250E34C1700D7EE2D7D65F46D79011BAD7F8D4E"
+        },
+        {
+            "file": "content/glf/SPL_glf_windArrow.bfres.z",
+            "hash": "C7072C99D24A28CCD9CC597D2DAFAFA4211A5873BC7FE065CCB4867306ABB1A8"
+        },
+        {
+            "file": "content/glf/SPL_glf_windGround.bfres.z",
+            "hash": "14D3FD0AF2FD2F5EC7E526D3D62DAFD35A6AFBA1166F565A3AC653237FD91BE1"
+        },
+        {
+            "file": "content/glf/SPL_tns_tank_01.bfres.z",
+            "hash": "865C1CA71A285E4D4F67A66DCFDE2EA82C50EE45429D50AB1DFDDC333C2CC956"
+        },
+        {
+            "file": "content/glf/wiiremote.bfres.z",
+            "hash": "75CB23A111DCEA22FB6B069C1C9F50F09886225F5391C9505D4A3800A6D0394E"
+        },
+        {
+            "file": "content/tns/SPL_cmn_shadow.bfres.z",
+            "hash": "A0C7179A51492CDE6DB168A7BF70D0E873CF7A11802F1CC634886FE13B6C60EC"
+        },
+        {
+            "file": "content/tns/SPL_tns_00_field_00.bfres.z",
+            "hash": "97BF30143BAF503C1632845A2091F77C58B6306956E9D6651ED2525F6BB09A0C"
+        },
+        {
+            "file": "content/tns/SPL_tns_00_field_00.kcl.z",
+            "hash": "F24B9C4ADB77F0F7703A52D5A760932E916B86E42BE4E0B2464D5E716536E42E"
+        },
+        {
+            "file": "content/tns/SPL_tns_00_mobMii_A.bfres.z",
+            "hash": "E047929CC214FF7AF34641E53D23DBEB385C312A92811E40CD7BD1EEC6A42851"
+        },
+        {
+            "file": "content/tns/SPL_tns_00_mobMii_B.bfres.z",
+            "hash": "AB5A95CC34AB778D3287272D92435721C1D296928FEC893489254E9F43DF3485"
+        },
+        {
+            "file": "content/tns/SPL_tns_01_Field_00.kcl.z",
+            "hash": "AB63AF59503B6985B2678796BD18DFCD7F8195E352CE57949BDA2948F87A489D"
+        },
+        {
+            "file": "content/tns/SPL_tns_01_field_00.bfres.z",
+            "hash": "9B0D79476C523B97274F31E00FD02FD95FEC2E4F5AE980341187BFFA79B9E7A6"
+        },
+        {
+            "file": "content/tns/SPL_tns_ava_m_body_00.bfres.z",
+            "hash": "4E495A8D0AF18E9AABC2BA6B7F273DF40DC0D981B70D398E3E3B3DAF3B10769E"
+        },
+        {
+            "file": "content/tns/SPL_tns_ava_m_body_10.bfres.z",
+            "hash": "E4BA4A959A95CE4F50946D8DF7C6FD9804A0C5DDC2552C4DB9184F628DBA6435"
+        },
+        {
+            "file": "content/tns/SPL_tns_ava_m_body_11.bfres.z",
+            "hash": "87F0C8428FC4485679847213CC0159AE1203EC6CC1EBC66B44534EA5EB9C4033"
+        },
+        {
+            "file": "content/tns/SPL_tns_ava_m_body_12.bfres.z",
+            "hash": "2893BEC8388282135697B73939BE38697EA4A84E2AA66CA73F3F31A996DBF789"
+        },
+        {
+            "file": "content/tns/SPL_tns_ava_m_body_13.bfres.z",
+            "hash": "1CA79C8ACA98F873012B74959575030A000E693FDCC77E967BA9C599161F4DD5"
+        },
+        {
+            "file": "content/tns/SPL_tns_ava_m_body_14.bfres.z",
+            "hash": "FF16BF0E45645CCC798A6E1C5AEF6D8BB7845238047E7E40A38EEC4BB00A5337"
+        },
+        {
+            "file": "content/tns/SPL_tns_ava_m_body_15.bfres.z",
+            "hash": "3D22CBE63DC4C7960D21FC2B5E4E00AA2ED6FE4B432F98B16FADA07D657B8032"
+        },
+        {
+            "file": "content/tns/SPL_tns_ava_m_body_16.bfres.z",
+            "hash": "19BC9B616B82B3FED8B427AF5122B19B9D501803569BEDB185A3B224620E6455"
+        },
+        {
+            "file": "content/tns/SPL_tns_ava_m_body_30.bfres.z",
+            "hash": "1F023309406CA5D2B8530841DAC66C6EBC9C09E8E2CFDFCA4A2F34D62CD4A189"
+        },
+        {
+            "file": "content/tns/SPL_tns_ava_w_body_00.bfres.z",
+            "hash": "EE92E5EB61391A8A95775B77A8274061F2FF23558BB4D6FC9B31204294A26529"
+        },
+        {
+            "file": "content/tns/SPL_tns_ball.bfres.z",
+            "hash": "F5C7210E16B58EB2FF2FB9876C0F273E5AE7209C244A962BF2EF1A4B2C5D6D4C"
+        },
+        {
+            "file": "content/tns/SPL_tns_ballmark.bfres.z",
+            "hash": "A5F21796644FFA3B8D80C7E7E698AF0C914C836C41E31D7EF8276736434C2A1D"
+        },
+        {
+            "file": "content/tns/SPL_tns_basket_00.bfres.z",
+            "hash": "250843414093548CD47C0FE427A803CF91710F5A777E21B9C8CDD980082A3FDF"
+        },
+        {
+            "file": "content/tns/SPL_tns_basket_00.kcl.z",
+            "hash": "929EEB1A1C5F96F4A936CAEB2B45E53191B3D2DB14E4DE1FA9EE70C4CE2A48F2"
+        },
+        {
+            "file": "content/tns/SPL_tns_clock.bfres.z",
+            "hash": "302913E6E11D2122B2115DA392CA07CC26792A6A844F49FD5DF2FAC610E41004"
+        },
+        {
+            "file": "content/tns/SPL_tns_mogura_00.bfres.z",
+            "hash": "13992DEF98E36818B77107E4C14F4013DA765D5EF7B87BA6F89725E53797F693"
+        },
+        {
+            "file": "content/tns/SPL_tns_mogura_01.bfres.z",
+            "hash": "082244F83501C259942F92B4AAAD708D142301119630CD808946846BDB20351A"
+        },
+        {
+            "file": "content/tns/SPL_tns_mogura_02.bfres.z",
+            "hash": "3703EA03BB5DE5E7061B74ECD3CFCEA1DD0FAD45DC92E627C496637BC6CC0026"
+        },
+        {
+            "file": "content/tns/SPL_tns_mogura_03.bfres.z",
+            "hash": "008B3F91E542BC9193310DAF210BDBA6CAB367E2C13A09EE0A1B0A5A5F217B7B"
+        },
+        {
+            "file": "content/tns/SPL_tns_mogura_04.bfres.z",
+            "hash": "A3832FA8F81F42BBBEE7243957025BA78DBAD7D364CC710386FD170C64CFCC52"
+        },
+        {
+            "file": "content/tns/SPL_tns_net_00.bfres.z",
+            "hash": "4F682EC00903F1DE344796CEB03A6D1C2833041A73EAAEF4F062E928B2091A46"
+        },
+        {
+            "file": "content/tns/SPL_tns_net_01.bfres.z",
+            "hash": "16DB76DD806146D535DE01C125C82D5E8D6CA29A8ADCEF0CB81EE3DDD92DFF52"
+        },
+        {
+            "file": "content/tns/SPL_tns_racket.bfres.z",
+            "hash": "01EC6DA2C088D538312A073E14A7F3B1BD52944D478574FA98DE8C06AFAA090E"
+        },
+        {
+            "file": "content/tns/SPL_tns_racket_silhouette.bfres.z",
+            "hash": "64B2A347529614811665FB23B27E8830CDA288C3ADE0AC2945E4126648E7BAE9"
+        },
+        {
+            "file": "content/tns/SPL_tns_ring_00.bfres.z",
+            "hash": "748EBE79DA540EC0D6A467F4028B7009675BC853BE33A71A45B98975991EB570"
+        },
+        {
+            "file": "content/tns/SPL_tns_skillet.bfres.z",
+            "hash": "A3E289ACEC5ED5040C5B0BBD35F91E6ABA116EAE9C0011C945E94EBC4F7C0074"
+        },
+        {
+            "file": "content/tns/SPL_tns_tank_01.bfres.z",
+            "hash": "865C1CA71A285E4D4F67A66DCFDE2EA82C50EE45429D50AB1DFDDC333C2CC956"
+        },
+        {
+            "file": "content/tns/WS2_omk_wii_remote.bfres.z",
+            "hash": "75CB23A111DCEA22FB6B069C1C9F50F09886225F5391C9505D4A3800A6D0394E"
+        },
+        {
+            "file": "content/tns/effect/SPL_tns_effect.ptcl.z",
+            "hash": "5902ECD91A20CC3C5FDCB533260686B96C6B33DED5B325CF4E2CB6F9F8E3C73C"
+        },
+        {
+            "file": "content/tns/effect/SPL_tns_playerselect_effect.ptcl.z",
+            "hash": "0062E3F99C85B0E3EDA6AA7A0B09DBD8F763A3777023AB762EDB1D3D06A198A8"
+        },
+        {
+            "file": "content/tns/effect/SPL_tns_score_effect.ptcl.z",
+            "hash": "0653CD16CAD38278A627CFF01DE6232317CA350092F0EEA3971EF7A95A2BF0C0"
+        },
+        {
+            "file": "content/tns/effect/SPL_tns_training_effect.ptcl.z",
+            "hash": "EE235AD7B3F2CFF9BC5F4B5B89BCF2B6BA7C1C2F618A14D8D7205815826FC06D"
+        },
+        {
+            "file": "content/tns/effect/SPL_tns_training_ring_effect.ptcl.z",
+            "hash": "A20E9AB5763367F45C31DE5B53A975B6964C114283BDB34A191A1825B04C9E37"
+        },
+        {
+            "file": "content/tns/light/SPL_tns_00_field_00_light.bfres.z",
+            "hash": "961CA0488AB1DDDF13D74AD9D8336A46909E81CFF474EFB11252C8FB82A4D092"
+        },
+        {
+            "file": "content/tns/light/SPL_tns_01_field_00_light.bfres.z",
+            "hash": "1694591550F07C2EBAEB4C820048D3C7F8E424CE6AC4EE5A743D1D479C0EBF57"
+        },
+        {
+            "file": "content/tns/tns_NetworkDelayParam.bin.z",
+            "hash": "76C1BE14FF185485904954879EF72758AF615A7C374FF18CF9D0A0077AEADC2A"
+        },
+        {
+            "file": "content/tns/tns_PlayerData.bin.z",
+            "hash": "394246B9D2076D01D478A591D62D8F7207E89D4A8F7A05F7D418936F23F6D31F"
+        },
+        {
+            "file": "content/tns/tns_RingLevelData.bin.z",
+            "hash": "F32BDF87F531F8340B361D59D231D90FA119A7419EC094AE637C9174A1C4D16A"
+        },
+        {
+            "file": "content/tns/tns_RingLocateData.bin.z",
+            "hash": "3E27EC17A24AEA39948190B7A9F0B593EFBB63D42E96586A244CE99068095A67"
+        },
+        {
+            "file": "content/tns/tns_RingTypeData.bin",
+            "hash": "B34DF3565E8FCE43066806C4F3A6B8AE4479473B8DAAEDC0922FFF04B48E67A6"
+        },
+        {
+            "file": "meta/CERO_ja.jpg",
+            "hash": "F65662904103061220B24BDA36E5EF51787EA3E23F608E0B97302DB625DEC575"
+        },
+        {
+            "file": "meta/CGSRR_zh.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/COB_en.jpg",
+            "hash": "F4943A02E29B8C233AF42AD829F1B8669638FF4FC39E60CE63CCD0945828D509"
+        },
+        {
+            "file": "meta/ESRB_en.jpg",
+            "hash": "B5201E3CA03B804F03495A2727FAF18AC8FFA47D912AD702D70C0041D4BCF42B"
+        },
+        {
+            "file": "meta/ESRB_fr.jpg",
+            "hash": "73311837A63224BBB64BF437C6F05FB264044A49807A166F9CD2FCB75357D778"
+        },
+        {
+            "file": "meta/GRB_ko.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/Manual.bfma",
+            "hash": "8DAF8AD1CF2405D260B0C0B2662E4A5067996B999CE7EAD77DF55A9B950DF631"
+        },
+        {
+            "file": "meta/OFLC_en.jpg",
+            "hash": "F4943A02E29B8C233AF42AD829F1B8669638FF4FC39E60CE63CCD0945828D509"
+        },
+        {
+            "file": "meta/PEGI_BBFC_en.jpg",
+            "hash": "7791D52FADF45DD7518799BB81D97624FF93C3C76AF41C7E0EEC2B93153A2D03"
+        },
+        {
+            "file": "meta/PEGI_Portugal_pt.jpg",
+            "hash": "E8400D71A67C695ADD655881A08D6F185F18AF814EFA79A709FD084EE354F90E"
+        },
+        {
+            "file": "meta/PEGI_de.jpg",
+            "hash": "993FEFCCFCBBBE82A7D997B11BA7409032A324563DA2C3B00B951270AD94E3CC"
+        },
+        {
+            "file": "meta/PEGI_en.jpg",
+            "hash": "7791D52FADF45DD7518799BB81D97624FF93C3C76AF41C7E0EEC2B93153A2D03"
+        },
+        {
+            "file": "meta/PEGI_es.jpg",
+            "hash": "89AC4D84B9864D41392171D8106FE61C0230DF78279D12DD462B9CF547BB9315"
+        },
+        {
+            "file": "meta/PEGI_fr.jpg",
+            "hash": "44DF012EE672A2C19B4ED3CC589D8409EB01957D613DB4AC15333E09FD281284"
+        },
+        {
+            "file": "meta/PEGI_it.jpg",
+            "hash": "AE11A93597FF7E3D01313B85C822E34C908CD0769A5334B8D20A8F8EA318D1FB"
+        },
+        {
+            "file": "meta/PEGI_nl.jpg",
+            "hash": "7553FCC94FF646EFEB4053D9C1E8D94C57D40C32916D1CE1AAAC00B067A38D45"
+        },
+        {
+            "file": "meta/PEGI_pt.jpg",
+            "hash": "AF3808F8F50CE5D16941B0D9ED35C0B38AB17CFC8D586983020943B56D9E2CA3"
+        },
+        {
+            "file": "meta/PEGI_ru.jpg",
+            "hash": "7B81D7B9902A552CD767494EC0EBBAEE96A87E9ACE18EFFFB9A239A24321660C"
+        },
+        {
+            "file": "meta/RAR_ru.jpg",
+            "hash": "45A8B5BFED3FA202541F73AF29998BBE938459DEF23DD70EBB42876DAC3F5F26"
+        },
+        {
+            "file": "meta/USK_de.jpg",
+            "hash": "0DBB9B43178F1DFDC19032CF64139353C062226467B4D0343587E2841C9734FE"
+        },
+        {
+            "file": "meta/bootDrcTex.tga",
+            "hash": "6623D82CE45EC64C4F48469219ECA3480CE062653903EAA70CE958D7C194B5A6"
+        },
+        {
+            "file": "meta/bootLogoTex.tga",
+            "hash": "91B63D9C03F7F9153C8B9FC8179E1CCCB6F4AFC60204B988D91D1B5EFCEE4AA8"
+        },
+        {
+            "file": "meta/bootMovie.h264",
+            "hash": "069FD8C5713F4B23EA1098D2674BCC839E610BA844683BF532E1E6CB10642621"
+        },
+        {
+            "file": "meta/bootSound.btsnd",
+            "hash": "AB84D17522A683EF32642E2940677B062A9C0309AF165B38FA930E1938E3ADEE"
+        },
+        {
+            "file": "meta/bootTvTex.tga",
+            "hash": "FB0F91545C07B4AE7F80F17BE7A4746A30EE1BF2C7FED074CB99EFB143757028"
+        },
+        {
+            "file": "meta/iconTex.tga",
+            "hash": "E8CB314E08D85B8D21927A515E416DD2088DC9E37E4E35EDA4806536AE477299"
+        },
+        {
+            "file": "meta/meta.xml",
+            "hash": "94D2FD7916905E964FB68B8BC5E00354D53E78B9D2AAB4C6041E38AE38C49ACD"
+        }
+    ]
+}

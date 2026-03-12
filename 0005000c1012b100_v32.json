@@ -1,0 +1,59 @@
+{
+    "title_id": "0005000c1012b100",
+    "region": 4,
+    "version": 32,
+    "files": [
+        {
+            "file": "code/app.xml",
+            "hash": "1D4D7DEF320DC2C90F930AA2D6EEE0B38C18CF99D225ED58365DDCF7AD4CE30A"
+        },
+        {
+            "file": "code/cos.xml",
+            "hash": "97EA9BEF2303B739BB0C25CC8C972248DD122E1CD7A063D7C242DA7C9280B34C"
+        },
+        {
+            "file": "code/title.tik",
+            "hash": "1764010CF493ED9C6EBC3EC5FC76BFDD9A67BAC053DFAB417C27A2BD298D2B85"
+        },
+        {
+            "file": "content/0010/sonic2013_dlc_0010.cpk",
+            "hash": "F421F9B4B1FE4DF5DE7575E4A854AE19438B4CF217C190DA909C8A090B8EE4FB"
+        },
+        {
+            "file": "content/0011/sonic2013_dlc_0011.cpk",
+            "hash": "F871E1E66A84D570A673AB2CBF5EA7FE7D52E19647ED6941A4AE65E5EECDA49D"
+        },
+        {
+            "file": "content/0012/sonic2013_dlc_0012.cpk",
+            "hash": "E728FA32255C23AA51FD45D208FE273D68285B530BD336F3E4E1631E4B8FB466"
+        },
+        {
+            "file": "content/0013/special.txt",
+            "hash": "7D4C5C8894E016E772E9B7ACAB04D2B775AD4E7861D162CA5A48DE7A7151A6A2"
+        },
+        {
+            "file": "content/0014/special.txt",
+            "hash": "7D4C5C8894E016E772E9B7ACAB04D2B775AD4E7861D162CA5A48DE7A7151A6A2"
+        },
+        {
+            "file": "content/0015/special.txt",
+            "hash": "7D4C5C8894E016E772E9B7ACAB04D2B775AD4E7861D162CA5A48DE7A7151A6A2"
+        },
+        {
+            "file": "content/0016/special.txt",
+            "hash": "7D4C5C8894E016E772E9B7ACAB04D2B775AD4E7861D162CA5A48DE7A7151A6A2"
+        },
+        {
+            "file": "content/0017/special.txt",
+            "hash": "7D4C5C8894E016E772E9B7ACAB04D2B775AD4E7861D162CA5A48DE7A7151A6A2"
+        },
+        {
+            "file": "meta/iconTex.tga",
+            "hash": "51F0846D15F25FCF3714EABF08A70FF8578252D6972AFD01C6CB965E02D23B2A"
+        },
+        {
+            "file": "meta/meta.xml",
+            "hash": "BB135AC75A8D3FDEEB676B47454CF66F1A371D5FBAFCDE6C824036291B136B6D"
+        }
+    ]
+}

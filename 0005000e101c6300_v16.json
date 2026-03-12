@@ -1,0 +1,231 @@
+{
+    "title_id": "0005000e101c6300",
+    "region": 4,
+    "version": 16,
+    "files": [
+        {
+            "file": "code/app.xml",
+            "hash": "FDD55B30754ED985931EF63BA8F5C3774994B2D056640A29D224B039AE90A71D"
+        },
+        {
+            "file": "code/cos.xml",
+            "hash": "E7E7869F528BB8DAFE44647AD5287AADE95F88E972768796F3D9972D9B5614A5"
+        },
+        {
+            "file": "content/app/effectData/MDK_Stomp.json",
+            "hash": "22342ECA52F2B2B7EEB48A9868F6A64DF7FAA1BE036E98C61EDFFB3A042C5921"
+        },
+        {
+            "file": "content/app/effectData/MDK_Stomp_2.json",
+            "hash": "30E82A7656B269133ECB498BD61E8F683B100F83F7825FA467C0932003FA79D0"
+        },
+        {
+            "file": "content/app/layoutData/title_GAMEPAD.json",
+            "hash": "A695A83492CE8A5685976AE2308479BA85DB00F3D9ABF6E838DB805A0E47E3F6"
+        },
+        {
+            "file": "content/app/mapData/playtoy.lvls.gz",
+            "hash": "8FFC36C3E2936EA7C9E62CC6189E182AF86C8B47FFC2D83BB126701CC2216EB6"
+        },
+        {
+            "file": "content/app/scripts/bootstrap.js",
+            "hash": "8E205A3C0D04E246654C5F59765DD4AFC528E3B05C6921A47E6E27689E23635B"
+        },
+        {
+            "file": "content/app/scripts/lib/amiibo/Amiibo.js",
+            "hash": "4C28F332720A92C674F5B7D0CF5E8915B2E5C90D9B6081A7C3BCBE41D47925E9"
+        },
+        {
+            "file": "content/app/shaders/alphaMask.gsh",
+            "hash": "2891D3CA274BBB5A8376D8AB7E799601917162F89E98AB3EC76611C691176FBB"
+        },
+        {
+            "file": "content/app/shaders/colorMask.gsh",
+            "hash": "644FB839D3F8FBC69F4DA34DF71C40ABF85AA03A90B595D4987FFB0D71FCD6D4"
+        },
+        {
+            "file": "content/app/shaders/drawImageGrayscale.gsh",
+            "hash": "523EBDCBD33A86F3FB7469A36DD35BB91C7077F62CE3059B7579A5AE9DA020CB"
+        },
+        {
+            "file": "content/app/shaders/drawImageGrayscaleGTX.gsh",
+            "hash": "E824650D403ECBFCDFB613C4664F6C1D591F9E9F9C2E098CC8D787CA408AE945"
+        },
+        {
+            "file": "content/app/shaders/drawImageRGBS.gsh",
+            "hash": "04CEEF7F2D87B50B543A48FEA58CE957FF29369A7748013B3CFB951EB6C8C733"
+        },
+        {
+            "file": "content/app/shaders/drawImageRGBSGTX.gsh",
+            "hash": "AA85465E8FE22C30D89312B44D9B878CF2F1A25D0260F4AA650630DBD1D84AC4"
+        },
+        {
+            "file": "content/app/shaders/drawImageTransform.gsh",
+            "hash": "EA87AABFC97F90E9D424E46AD6F3A87F77D5792703B9C56EEE64973C2A5D5193"
+        },
+        {
+            "file": "content/app/shaders/drawImageTransformGTX.gsh",
+            "hash": "6125E8E2BBF8E3BF0286C5978F179C894BCB35C96B53E67F957EA52467A6B13F"
+        },
+        {
+            "file": "content/app/shaders/drawImageTransformParentedGTX.gsh",
+            "hash": "A504827CBE2780C47D2A647A799D9019B3E6D0129F5282E275BE156CAE380899"
+        },
+        {
+            "file": "content/app/shaders/drawImageTwoColorBlend.gsh",
+            "hash": "C0A04CA9A20334642F7A78E46A580EE37CE4EF1977532CBB38FC4ECD97C48984"
+        },
+        {
+            "file": "content/app/shaders/drawImageTwoColorBlendGTX.gsh",
+            "hash": "792F717D7944B67FA49D5273E38B261C499DDF5B92DFBFEC1E69FB10DAA6D0F3"
+        },
+        {
+            "file": "content/app/shaders/fillRectGrayscale.gsh",
+            "hash": "EDBE8DDF85FDD08EC0573B41FC35D5C6E8D34672A28D1085B524BF26E71CE234"
+        },
+        {
+            "file": "content/app/shaders/fillRectGrayscaleGTX.gsh",
+            "hash": "1C16520630DBA83C10E19BCB416A5D1538C481CFCB2BA9BE37A535172F3670A6"
+        },
+        {
+            "file": "content/app/shaders/fillRectRGBS.gsh",
+            "hash": "53D83F038613F9B5EB848D78AB7E636A9E92F03DD1E1DE30A0046A58D5C015A6"
+        },
+        {
+            "file": "content/app/shaders/fillRectRGBSGTX.gsh",
+            "hash": "F684F75A0AD0FE7A497AC8E2D5873203D30C48F591ED86B22A24987C019AA633"
+        },
+        {
+            "file": "content/app/shaders/fillRectTwoColorBlend.gsh",
+            "hash": "1A37E76C6A2EFC2B8EBFD10A2FB420E240195F66D5542ACA2F4166B3A41AC998"
+        },
+        {
+            "file": "content/app/shaders/fillRectTwoColorBlendGTX.gsh",
+            "hash": "0EB680CBBF9184A133AB2BCAF3AFB746FE05CC1A63EB18AF56C0B4CC478AF4E8"
+        },
+        {
+            "file": "content/app/shaders/libEffects.gsh",
+            "hash": "D692E7F71D2B3C92FFCE45F0989E74165C1DEAA11158F2AB80B9C7E1D843BE65"
+        },
+        {
+            "file": "content/app/shaders/pointLight.gsh",
+            "hash": "F32715B6D83FCDC10092220E3FFCC78297A2862FD115C5E8BF750C902A51F373"
+        },
+        {
+            "file": "content/app/shaders/ripple.gsh",
+            "hash": "F645D3A8DC9F8F52FA8C13CE4396812BA198AA0209755ECDC2F26A01097E7429"
+        },
+        {
+            "file": "content/app/shaders/wave.gsh",
+            "hash": "31984AA9BE6D69DC12746C417E0CFCD27ECB0BAB17F806A49D37450E78346CEF"
+        },
+        {
+            "file": "meta/CERO_ja.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/CGSRR_zh.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/COB_en.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/ESRB_en.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/ESRB_fr.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/GRB_ko.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/Manual.bfma",
+            "hash": "04C3AA67A3EF5CE6008A50BA050DA2A1FC6D37B5F63DBFAEC63D1E3F6BA79970"
+        },
+        {
+            "file": "meta/OFLC_en.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_BBFC_en.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_Portugal_pt.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_de.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_en.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_es.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_fr.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_it.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_nl.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_pt.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_ru.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/RAR_ru.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/USK_de.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/bootDrcTex.tga",
+            "hash": "D8479C09055A7950829209633F79179F0C139D98E95924E70D2E6889043A48B6"
+        },
+        {
+            "file": "meta/bootLogoTex.tga",
+            "hash": "91B63D9C03F7F9153C8B9FC8179E1CCCB6F4AFC60204B988D91D1B5EFCEE4AA8"
+        },
+        {
+            "file": "meta/bootMovie.h264",
+            "hash": "069FD8C5713F4B23EA1098D2674BCC839E610BA844683BF532E1E6CB10642621"
+        },
+        {
+            "file": "meta/bootSound.btsnd",
+            "hash": "415150A0B6358FFE6C7BCF6EAC14EDF973BCA93828155B82D84FAB98B3ADBF27"
+        },
+        {
+            "file": "meta/bootTvTex.tga",
+            "hash": "52C4EFB8EFB7CDB0A7B2B36C78316F66C5959786DF7BCCC876787E78B86FF16A"
+        },
+        {
+            "file": "meta/iconTex.tga",
+            "hash": "2748BBBFCFDDEBB834792B30A237E3053BC7483947B2D42F1FFCD1C1F160E9A3"
+        },
+        {
+            "file": "meta/meta.xml",
+            "hash": "B6A8512E3190E554F41B2ECFF5B8165278DCA1D261EF1339B4D887392670D610"
+        }
+    ]
+}

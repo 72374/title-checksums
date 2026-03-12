@@ -1,0 +1,427 @@
+{
+    "title_id": "0005003010017209",
+    "region": 4,
+    "version": 16,
+    "files": [
+        {
+            "file": "code/app.xml",
+            "hash": "F28E31C0428DDDCC6CD7E0D956140A30BA1E3E3064E7000D2F1ACCB4A2350116"
+        },
+        {
+            "file": "code/cos.xml",
+            "hash": "376B803C8A4CD92D542281B76B7568943A4B7A01AC5BCDFBF573D4A3A65531BD"
+        },
+        {
+            "file": "code/recipe.rpx",
+            "hash": "FC2AAB5136E6F29D4D1AD80968A8A27EAFDF713A58E103B57B79D4A7454C86F7"
+        },
+        {
+            "file": "code/title.fst",
+            "hash": "77B751601E2EAA6D89C3A2A96B8DEB7FF4496EAA2BCBE24CF1ABDCD6DD15EE89"
+        },
+        {
+            "file": "code/title.tmd",
+            "hash": "5C8FDD202BBF7AC536AD5973DF22BEEFD1BD91509642AF285DA534B3916F65AF"
+        },
+        {
+            "file": "content/devmanual/Error.bfma",
+            "hash": "017797D26D51133DBF63F1F8B2451A72A712497976CB879B941CF1E3252CC8E9"
+        },
+        {
+            "file": "content/font/barimonoM.bffnt",
+            "hash": "8396FBDCAF3597479A880E04A0A3EC87A5C3A859E275E12D7AA5E8D0D51C5631"
+        },
+        {
+            "file": "content/font/initglyph.txt",
+            "hash": "CFED7465512B827D0A9E798C2FC2AF01E7264B79C2ED5A18F06A94F1C8D74598"
+        },
+        {
+            "file": "content/font/initruby.txt",
+            "hash": "514D376A3FA5C341EAB84BAD9F3B5F2434F40B3276242748F4705E79980F8F56"
+        },
+        {
+            "file": "content/layout/AppIcon00.arc",
+            "hash": "9C8A75127571CDF92CA5951AF02B7AEB03A84083054DFF21B39B19970819B0AB"
+        },
+        {
+            "file": "content/layout/AppTitleHeader00.arc",
+            "hash": "5004F5A879D97AFE6F8C7E88024C607C2BCB895401FB11621FF25E5E6E87AB08"
+        },
+        {
+            "file": "content/layout/BG00.arc",
+            "hash": "704E15F0F13C5C85353945EA162E6EA4B7C34CCE59394ED23CEA8AFDF6E221E9"
+        },
+        {
+            "file": "content/layout/BtnBack00.arc",
+            "hash": "6965756C80783715832937C8F2304AB606221D63F5B83EEC9FC0867C85D9C7C8"
+        },
+        {
+            "file": "content/layout/BtnBackClose00.arc",
+            "hash": "EC91670F8ACD5FC84AC2A9B8D640E2E1B57F678F382B58562C1ABA02C4BE8A02"
+        },
+        {
+            "file": "content/layout/BtnClose00.arc",
+            "hash": "CE9177F5871C936F2521B21775551DE0F2CEDBFECC7CE1EA7697203F947F32FA"
+        },
+        {
+            "file": "content/layout/BtnDialog_00.arc",
+            "hash": "B06D0B4D409DA61CC3AB6E1E876AABA05A6C30403F60A3406D47BB7E518C9973"
+        },
+        {
+            "file": "content/layout/BtnHyperLink00.arc",
+            "hash": "1F518CF250468A4755B4577F9AAB87EEA234F405243562A44A2023EB38F54B36"
+        },
+        {
+            "file": "content/layout/BtnHyperLinkBack00.arc",
+            "hash": "AC55671414352805950AD22546362478AC4F6B3F6B422C90509276DC7FC1B6E1"
+        },
+        {
+            "file": "content/layout/BtnLang00.arc",
+            "hash": "1B6A278D5700D28CEFC36BF9901615FAFA1EDE495BB8A9B259722F76D3B4432E"
+        },
+        {
+            "file": "content/layout/BtnLangName00.arc",
+            "hash": "AC6000A89496CFC32088D0E7B073C13A4E4496B02C54B0AFD78281C7D2C84B3A"
+        },
+        {
+            "file": "content/layout/BtnLeaderLinkBack00.arc",
+            "hash": "D61E427E2F0B4E2DDB990262D5D85DEA2BF2944F08A9396C3C760802EAA0F27E"
+        },
+        {
+            "file": "content/layout/BtnLeaderLinkGo00.arc",
+            "hash": "23537F01929F5E05E6A87F27F2CFE5B9265B82412519C07D66EFDE5A7E2F1158"
+        },
+        {
+            "file": "content/layout/BtnPageTitle00.arc",
+            "hash": "1ADBC55FE986A9240699BC7423D48728889C42B599ACC2BD24DD4D6B30C977BF"
+        },
+        {
+            "file": "content/layout/BtnPageTitleNum00.arc",
+            "hash": "FD6AAE1B9829C540C1A6E293CF8E275CB4C7FF40D1BD768C84384FA2F7EC6ADA"
+        },
+        {
+            "file": "content/layout/BtnScrollBar00.arc",
+            "hash": "1A8B7079321BF7A0AF662F3AA6B0E0FF7F0C85737269E10287B62E0EA198A351"
+        },
+        {
+            "file": "content/layout/BtnSideMove00.arc",
+            "hash": "4CEA9052B58E0ADCEF09FB5BFA3F674DF86E43D5665FF3DEABBEB16DCEE7C32B"
+        },
+        {
+            "file": "content/layout/CategoryName00.arc",
+            "hash": "CAD6D0E3909F6BBE9BFDF7D76834634D91D4DF0B2DF33CF8295D9A3480FD7B4E"
+        },
+        {
+            "file": "content/layout/Cursor.arc",
+            "hash": "0FE4CC3CFA2B1FDD124816CB2D8B14289D53192FB67CA64B2C814DD1098C59A3"
+        },
+        {
+            "file": "content/layout/Dialog2BtnSelect.arc",
+            "hash": "0F936B01AFA1F21C73D8E08F965ADCF1DE15D2E2B879F0C04715B3F75499FA60"
+        },
+        {
+            "file": "content/layout/DialogBase.arc",
+            "hash": "03AFBF09560BFDAE3E3372C9042F2261C78FB7ED43693BC75F9A85C195F96DF0"
+        },
+        {
+            "file": "content/layout/DialogCheck.arc",
+            "hash": "8540BD1B65E54288D5CC30F9985071498897613EA354FCDBCAF65BDA167B9D6F"
+        },
+        {
+            "file": "content/layout/DialogOngoing.arc",
+            "hash": "B39A635635437F40ABB4753690989C37B60EC353A4D6A96374CAE65FD9311E41"
+        },
+        {
+            "file": "content/layout/DialogWait.arc",
+            "hash": "7CAE9BCD17975AE7B309BA370E937AD91344FDF7E1EF1BC13FB2665432AF8DDE"
+        },
+        {
+            "file": "content/layout/EftBtnHyperLink.arc",
+            "hash": "2464B6EBF3E33E56B19D60DF757EE992B03214676CA150963CF5217127279C5B"
+        },
+        {
+            "file": "content/layout/EftBtnLeaderLink.arc",
+            "hash": "7B8CC027597BBFA2BC9E0957CD9DC24BC47B43AEB2C4F9016B9AD805E0605666"
+        },
+        {
+            "file": "content/layout/LangMessage00.arc",
+            "hash": "47C98959FCF6FA479B9CA8D2423ADF324DCCDEF546E90842539674ADD7F334BD"
+        },
+        {
+            "file": "content/layout/LangPageBase00.arc",
+            "hash": "C21D0C1FE1334A042D63B36E434E1B6912DD5A2B9BB4A8E88B2D3D4888DE7471"
+        },
+        {
+            "file": "content/layout/LangTitleHeader00.arc",
+            "hash": "F2621960CC8E52C26913C85A528FA2E2363F75163EB3E8F8D125E3FC47DD472E"
+        },
+        {
+            "file": "content/layout/LangWinNull.arc",
+            "hash": "D02D7E36368251E348CFF832A72D0F5EA67EF2769E4F75A406EC8745CD3903E7"
+        },
+        {
+            "file": "content/layout/LoadingIcon.arc",
+            "hash": "515D02C30EE38412ADD5AB5B27CF652D401CEF360B4DC8018188D8FB71877586"
+        },
+        {
+            "file": "content/layout/MaskBlack.arc",
+            "hash": "85B3E72796FA3D0CD72652E481478352DB2D85A99AFB55BD8036C17607D6BBC8"
+        },
+        {
+            "file": "content/layout/MaskBlackHyperLink.arc",
+            "hash": "872D3D4ADDF6ECDC865F0D0D8B56CCABAF5DAFDEDD35E6EB9103136F61E5AAF2"
+        },
+        {
+            "file": "content/layout/NullLocator.arc",
+            "hash": "CC4217A693DEE79AD4EA8EAED928E450AD907B85BBE3484FCF8D36CFC19107C5"
+        },
+        {
+            "file": "content/layout/PageContentBase_00.arc",
+            "hash": "CF2B94973558D7306E3E311285C30C021F1DE6EC14C5608EB5D7CAA6B07C7A49"
+        },
+        {
+            "file": "content/layout/PageGrd00.arc",
+            "hash": "C40337ECFF2BECA31E8DDA90C05BE3ED52F8F5C0962D4353605F27BDD103A7C4"
+        },
+        {
+            "file": "content/layout/PageHeader00.arc",
+            "hash": "E7F4AC2CA1EB9E42A9EDA231F9CF422CFCDFD3FF020E4A3B427B9950282FFE69"
+        },
+        {
+            "file": "content/layout/PageHeaderNum00.arc",
+            "hash": "29DF9EF336DF683FD40527C922F90D09BD169BB8FEAB63F46E0B1B519868B73B"
+        },
+        {
+            "file": "content/layout/PageLayoutNull.arc",
+            "hash": "F1526471FB6406AC87F9A0706FA1FD4DEE00E7C83EB6BC2A233F3315797C5066"
+        },
+        {
+            "file": "content/layout/PageNull.arc",
+            "hash": "A21B39402342686A5ACE13B8DB90311D0BC4EF7528E72B778478EEEE06A73047"
+        },
+        {
+            "file": "content/layout/PageNumIndctr00.arc",
+            "hash": "16A22282955B85A25FAA3BD19C280BE9C0E012CE84F9DCC5F31FE93331B89E5B"
+        },
+        {
+            "file": "content/layout/PageNumIndctrBalloon00.arc",
+            "hash": "C20B04CA83DBDE668CDB8F771F38F77E54AF938D94E03E5F1C9CB5E9BB85CFE5"
+        },
+        {
+            "file": "content/layout/PageNumIndctrBase00.arc",
+            "hash": "41BACEAA1928A43980249EC58BD54BC47865CAE5B4E8537BF61A427BA07FDF6A"
+        },
+        {
+            "file": "content/layout/PageNumIndctrText00.arc",
+            "hash": "AC092BAD981DAC13BD62679505D039EDDF7893A6153ACC6B6A0C261377E1033C"
+        },
+        {
+            "file": "content/layout/PageShdw00.arc",
+            "hash": "8430845A1499037B8BA68BDF7EE470E3687806AA3C4BB6E46630DF11E541AC14"
+        },
+        {
+            "file": "content/layout/PageSideBounding.arc",
+            "hash": "B507AC3C25E2C5A9D2C9B93AFBC28F0AF4B057183BFF16592FAAF8B19F4280FE"
+        },
+        {
+            "file": "content/layout/PageWhiteMask00.arc",
+            "hash": "7BC7F5B6F9ACC24296444522C8AE63C1A27848B732C2F23DE54E978BD5C26755"
+        },
+        {
+            "file": "content/layout/PageWinNull.arc",
+            "hash": "D20254B392D9801F67B98613C27BF5FDDD3A284925224944491481B3C20AA52B"
+        },
+        {
+            "file": "content/layout/ProductCode00.arc",
+            "hash": "99E65408CC007091DB39C0B5540670BBA95EF069DA558787D3252373CB4DE931"
+        },
+        {
+            "file": "content/layout/SelectFrame.arc",
+            "hash": "659F685AC97674FDD90B7C50784094C29A66EF67062F96555A516BEADDADE567"
+        },
+        {
+            "file": "content/layout/SelectFrameHyperLink.arc",
+            "hash": "536922EC069F9A510971F3B31B6A01F1BEBE7A34F535C74375AB9552E87A8961"
+        },
+        {
+            "file": "content/layout/SelectorGroupNull.arc",
+            "hash": "9D876553475F46CF942990F0C838A7FCB8852877813355D9E8236188E116BA6C"
+        },
+        {
+            "file": "content/layout/TOCChangesNull.arc",
+            "hash": "ECF0450684A4B236CDAD001D9B7AB69F8400B74D3DFF65F8DC4EFEFDD60F2DD5"
+        },
+        {
+            "file": "content/layout/TOCIndctr00.arc",
+            "hash": "5EF3EF13765DD1887E00A82C43A5A0CF585A66F55DC9615A86374A6EE40DE7F2"
+        },
+        {
+            "file": "content/layout/TOCPageBase00.arc",
+            "hash": "AC86BBE9483A4F51A541636BF606EF51FB66E887250E0D30200B6854562BFDE1"
+        },
+        {
+            "file": "content/layout/TOCWinNull.arc",
+            "hash": "A43EEEA9A2CF01FCA760868E5E29FB67FEB0047AF91BDEDED29FE308420415CE"
+        },
+        {
+            "file": "content/layout/TOCntnts00.arc",
+            "hash": "CC4FF9699B540E3C0A88E59EC546DCF27EEC5C0D36AE0B31F353BE436D956F1E"
+        },
+        {
+            "file": "content/layout/TelopDRC00.arc",
+            "hash": "0E02BF429B2EB0079F73E9B27CD11CE195947FC60D9CA3D6F6720D3E6FDD4961"
+        },
+        {
+            "file": "content/layout/TelopTV00.arc",
+            "hash": "5B69D42806C0311F7B5A2E7A2C7EAB53F747C7636423012FF3815E6A4AF3091F"
+        },
+        {
+            "file": "content/message/PC/EU_Dutch/recipe.msbt",
+            "hash": "220F17C39E847464D3A71421CD81618313B14CBB7FD3D38561133B2CA12E98ED"
+        },
+        {
+            "file": "content/message/PC/EU_English/recipe.msbt",
+            "hash": "1D3B58F306D7942DBE07E52CEA92B48D7AE868A318467457B8E4E246FAAF0B45"
+        },
+        {
+            "file": "content/message/PC/EU_French/recipe.msbt",
+            "hash": "1ABD07B7D10549CA5463D70BB926F9FC22CD79F1C54EEC0190FE4A816EC82348"
+        },
+        {
+            "file": "content/message/PC/EU_German/recipe.msbt",
+            "hash": "82CF1CF111A5B7D06B08857574BB34F03DC5750064D51624EFC534FF5FEAA386"
+        },
+        {
+            "file": "content/message/PC/EU_Italian/recipe.msbt",
+            "hash": "0179BB43E6189AB635435E575241306386A75E03F76172869322E18740B3FC53"
+        },
+        {
+            "file": "content/message/PC/EU_Portuguese/recipe.msbt",
+            "hash": "AE49115000FD596C24966805C4C7C60BF76819352C7A0604012FDF6B971373B4"
+        },
+        {
+            "file": "content/message/PC/EU_Russian/recipe.msbt",
+            "hash": "B33D2C00FD19B3F89AA7E59CC4BD53AD410B1AA9BE78AEE5CFA6B70D2C5C894A"
+        },
+        {
+            "file": "content/message/PC/EU_Spanish/recipe.msbt",
+            "hash": "DDC3A0413358AE29F4903983615B31489866A75D461B5C6B9DEF15BEEF5D3E67"
+        },
+        {
+            "file": "content/message/PC/JP_Japanese/recipe.msbt",
+            "hash": "85E3B82F46347BBE995CDB25DC1B06677207F77A33FDE485380078E0B55E3EC4"
+        },
+        {
+            "file": "content/message/PC/US_English/recipe.msbt",
+            "hash": "D05976C03073303C9995336C2594C6C882D432F65DD364DEA3C6FDE47D5C854E"
+        },
+        {
+            "file": "content/message/PC/US_French/recipe.msbt",
+            "hash": "2563BF2EA5D745B321561741AE5542D2B8BB420DF4765D6CB37AC1E47C34D09B"
+        },
+        {
+            "file": "content/message/PC/US_Portuguese/recipe.msbt",
+            "hash": "E653EFE991D75945DE9D4116D4C2E2F1FEB089889FE0C18BEB48E69BA875165E"
+        },
+        {
+            "file": "content/message/PC/US_Spanish/recipe.msbt",
+            "hash": "23452A006520C5A3E5FBE5A5E3C732C92B32A286AB87F7DEB8F1D27D65B6121F"
+        },
+        {
+            "file": "content/message/WiiU/EU_Dutch/recipe.msbt",
+            "hash": "48BC1778072B5FA685AEC8FAF314315A6104E6176A3E357973C7E4234A46B0AE"
+        },
+        {
+            "file": "content/message/WiiU/EU_English/recipe.msbt",
+            "hash": "EC7D51CBFA25902C709E7A0D905C3617EE7D8851A0F681FD142FF623E34A781D"
+        },
+        {
+            "file": "content/message/WiiU/EU_French/recipe.msbt",
+            "hash": "FC81345D565EF45EF62773671F0C2B03B674BB701A1117BE05100C1C7218DEAD"
+        },
+        {
+            "file": "content/message/WiiU/EU_German/recipe.msbt",
+            "hash": "4C8CB2FA0C999514363A14F643C34CD3186696CAABF8947805EBD16B5FD74585"
+        },
+        {
+            "file": "content/message/WiiU/EU_Italian/recipe.msbt",
+            "hash": "2F4AD7B6555C915F678D0305AA7D14FAD010A86E68E15962F8EAFFD3276DADD9"
+        },
+        {
+            "file": "content/message/WiiU/EU_Portuguese/recipe.msbt",
+            "hash": "B6B5E6DBEE58AD70D0691ACDA06B24A43E0CDAB0636E7FAC3D3AA310B0D727C3"
+        },
+        {
+            "file": "content/message/WiiU/EU_Russian/recipe.msbt",
+            "hash": "8F9B25547C64FB6ADA1FF6DF161C73736D6051E620B153932D8720964038D1A0"
+        },
+        {
+            "file": "content/message/WiiU/EU_Spanish/recipe.msbt",
+            "hash": "808447799641657F8B98BD82E129B7BE282C7EA7AD8E1845B856100D104B6039"
+        },
+        {
+            "file": "content/message/WiiU/JP_Japanese/recipe.msbt",
+            "hash": "930D0D48FCDFD5761E53E6CBBF176C2C1F89DC32B1351617FECC53DAC6501299"
+        },
+        {
+            "file": "content/message/WiiU/US_English/recipe.msbt",
+            "hash": "6A00CE1879928646AB305D98131F0747C654B9CCD5D92C826C76058404D84F5C"
+        },
+        {
+            "file": "content/message/WiiU/US_French/recipe.msbt",
+            "hash": "7ED4C8106BE5D7B6EF8A38655EF32ED000201AC0F0E460F1C78F210A00F09291"
+        },
+        {
+            "file": "content/message/WiiU/US_Portuguese/recipe.msbt",
+            "hash": "0A93DD16751E6D35A02A0A4C085943E9AA77E47FAC927E18969909C48C201257"
+        },
+        {
+            "file": "content/message/WiiU/US_Spanish/recipe.msbt",
+            "hash": "A11606847B3F715757333748ADC9088C6B35DC4122ABB0B8E348A7DDCFABAD0A"
+        },
+        {
+            "file": "content/shader/dev_PrimitiveRenderer.gsh",
+            "hash": "142B5EA15F54B0940EB03A7C1C0416C84754DCDCE403D757E383DCFA2717E323"
+        },
+        {
+            "file": "content/shader/font_BuildinShader.gsh",
+            "hash": "8258F90415D0BA2E01B190261847AFA0FE706D0EA8C626B78F8DAAFF14DC0AC6"
+        },
+        {
+            "file": "content/shader/lyt_BuildinShader.gsh",
+            "hash": "A25F1EF373580C5A61007D525ECA1D0FB89BFFB7DB6EA3CE3450C7A65BA33658"
+        },
+        {
+            "file": "content/shader/texture2D.gsh",
+            "hash": "88F9356BA77FB86C51F0DBEAC695255B85F7A6489F86FB8CEB5E874DAD222E8E"
+        },
+        {
+            "file": "content/sound/wiiu_recipe.bfsar",
+            "hash": "67566DDDD9393DF61C68BF921B083F03F28433F65622EBCC27642D0026C9098A"
+        },
+        {
+            "file": "meta/bootDrcTex.tga",
+            "hash": "9E02028B817F1C0DF90B2CE02C3F828E8E8711680FB6788580EBAE27251729D3"
+        },
+        {
+            "file": "meta/bootLogoTex.tga",
+            "hash": "91B63D9C03F7F9153C8B9FC8179E1CCCB6F4AFC60204B988D91D1B5EFCEE4AA8"
+        },
+        {
+            "file": "meta/bootMovie.h264",
+            "hash": "069FD8C5713F4B23EA1098D2674BCC839E610BA844683BF532E1E6CB10642621"
+        },
+        {
+            "file": "meta/bootTvTex.tga",
+            "hash": "ADDA05804635F8DD639CF70C97B3212BE5EA50C7D020C6BC4853BF82230FE9AF"
+        },
+        {
+            "file": "meta/iconTex.tga",
+            "hash": "6E323AE3DDA5E530D435FF6BEABD045910FAFC009882E0801C20824578CC501B"
+        },
+        {
+            "file": "meta/meta.xml",
+            "hash": "700495E684745B0909111E1C6B5669E87DD5F4CE7C1920C49017EE4E891EAC09"
+        }
+    ]
+}

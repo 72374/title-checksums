@@ -1,0 +1,799 @@
+{
+    "title_id": "000500001016e200",
+    "region": 4,
+    "version": 32,
+    "files": [
+        {
+            "file": "code/WiiULauncher.rpx",
+            "hash": "ED18DBCDE120E9A7F42B466F3FA90AD52C3452718B6138E3A6B32437ED4740BB"
+        },
+        {
+            "file": "code/app.xml",
+            "hash": "B43FF0ACFD050BF580CAF276DC0260DF9A7360897D53DE26D96573A10624ADDA"
+        },
+        {
+            "file": "code/cos.xml",
+            "hash": "7DD58C454E276167F039ACCB8D1D38A27D2F286392A31B54EAC0B5524B13ED1C"
+        },
+        {
+            "file": "code/jsextension_ext-accounts.rpl",
+            "hash": "57424B4252F2A60CFF96F62091267FF89D4B11C1F03B80A4C0CDCC814BD868D9"
+        },
+        {
+            "file": "code/jsextension_ext-core.rpl",
+            "hash": "6431C4AC33F081C89359B6CF6461B51B5482AFFCC2E76122AB89919D66D4EE3D"
+        },
+        {
+            "file": "code/jsextension_ext-input.rpl",
+            "hash": "00EB344A4F4F4CE36F38D5A60F2B667641DF911BA3D4DD59621662AF720AD496"
+        },
+        {
+            "file": "code/jsextension_ext-network.rpl",
+            "hash": "16D77C98A97E2D05A628B9BAA3DB42A9365A7A074BCF79580FBFCC5478F26BE2"
+        },
+        {
+            "file": "code/jsextension_ext-nex-gameserver.rpl",
+            "hash": "E885C975C74D5BF36E3ED498DE8DBCB32CF964A04CD212DEA2E8094286DAFC77"
+        },
+        {
+            "file": "code/libMIPluginDecoderOggVorbis_rpl.rpl",
+            "hash": "389CCBB4A3454D178960CFA767AC3719CC2F73B6255AD1D5CCC1F809379FD6EE"
+        },
+        {
+            "file": "code/libMIPluginDecoderWAV_rpl.rpl",
+            "hash": "6CD737B7A02AFACB546EC9ACFBD38F6E6DA1B211D52A66FD2EB8E1B8386F34E2"
+        },
+        {
+            "file": "code/libMIPluginPlayerAudio_rpl.rpl",
+            "hash": "21D59014E8BAF5606A945F4719E076E6D42D652B9366B1CCC82B80FA6D67369A"
+        },
+        {
+            "file": "code/libMIPluginTransport_rpl.rpl",
+            "hash": "960167884C842494B5CF76C0A6FABE190AEC2B601DAFDEB243C9601CDA1E3F6F"
+        },
+        {
+            "file": "code/libMIRegistry_rpl.rpl",
+            "hash": "6C9B9B1FE1B6FBEF30267A44793657D8EE06CDD5E329DB9124D41CA1C99DE9A4"
+        },
+        {
+            "file": "code/libMediaApiSupport_rpl.rpl",
+            "hash": "61579BFE0D7670DFD3D81641A296A82C10D515D0A9A998DC0774DABF5F9B54AA"
+        },
+        {
+            "file": "code/libMediaInterfaceCore_rpl.rpl",
+            "hash": "9D5B675C3545E8D8C1A669A02DA4B33C2838E890CAD7536EB228FA6C6527CABA"
+        },
+        {
+            "file": "code/libMediaInterfaceRenderer_rpl.rpl",
+            "hash": "B36DD0C5BE8782B861B50926BD6517CE43657A8636AFDCBACF20DE0770498431"
+        },
+        {
+            "file": "code/libcrypto_rpl.rpl",
+            "hash": "59296F1B86341AA4A7B8F0CBB64059626608D633D08B32FBDCAE6E52E574D7BB"
+        },
+        {
+            "file": "code/libcurl_rpl.rpl",
+            "hash": "03E6759BFE57F66AEE5C0E54721C9B6BD0AEAF60BFC7785729E05A0E8E937A0F"
+        },
+        {
+            "file": "code/libefontconfig_rpl.rpl",
+            "hash": "FBC3E99E2EBD712FE14E9E00E2FBD8B2A1A71B76A737EBAE7A955588DB345169"
+        },
+        {
+            "file": "code/libffmpegfft_rpl.rpl",
+            "hash": "E0C5DE40304C165A515E722E0DACD853E26E60AAC9A1EB30B3DD130C7295EC48"
+        },
+        {
+            "file": "code/libfreetype_rpl.rpl",
+            "hash": "9362A1DBD75DB8FC952ED919A90EC0230CBBF6B7CBC54DE53F3BA6F1337EA1D1"
+        },
+        {
+            "file": "code/libicu_rpl.rpl",
+            "hash": "7B5A89153E89F94C02376653B2F4255D5A8CFDB296C8D93B3A9D61257A3E2DC0"
+        },
+        {
+            "file": "code/libjpeg_rpl.rpl",
+            "hash": "6EBB8678363013C2F128CDB08EDD543AF34398D73D8A994A462E6E09BD05E5B6"
+        },
+        {
+            "file": "code/libpixman_rpl.rpl",
+            "hash": "091F78AE328CEA408D571132A58ED809499AAE48A25C23B668C7635FDD32AA7F"
+        },
+        {
+            "file": "code/libplatform_rpl.rpl",
+            "hash": "04F77282F76665F3DC1933AF094969E7F6B85C1D6521683779F1E4044656625E"
+        },
+        {
+            "file": "code/libpng15_rpl.rpl",
+            "hash": "D91BB99CB3D3876FCB05D15FFDD0CEA0AC28DF8C0C0F373CBAE0AC7D336507F3"
+        },
+        {
+            "file": "code/libshim_rpl.rpl",
+            "hash": "ED946D6325DDCE3BD735D871FD756FD8365C85EE9041EEDF1801B4D49484CF63"
+        },
+        {
+            "file": "code/libsqlite3_rpl.rpl",
+            "hash": "21176B99910C997AD9DD08765793E46CD74C7D9F47F1297625C94A554740246E"
+        },
+        {
+            "file": "code/libssl_rpl.rpl",
+            "hash": "7F796681499A5F0C16FD098FF3306769D8C15B00CD376439DAD19E075A798ADF"
+        },
+        {
+            "file": "code/libwebkitwiiu_rpl.rpl",
+            "hash": "520E614BBA1D9AC344C98CAC3843C6EDED293D90CA0838E9FC5577C01202605C"
+        },
+        {
+            "file": "code/libwkaud_rpl.rpl",
+            "hash": "4190BDD7536152E9264D659EC5D7B5C43C64D0A7479DBAE52A689832B949452A"
+        },
+        {
+            "file": "code/libwksup_rpl.rpl",
+            "hash": "FBBB8138D6029AB2E51E1C2621A28200080BE929F73FFCF55E077011EE195BA5"
+        },
+        {
+            "file": "code/libxml2_rpl.rpl",
+            "hash": "B34A4A439F9F4555777E36FE02C10A9DC1C381E7446771751DA4DB49766E4906"
+        },
+        {
+            "file": "code/libxslt_rpl.rpl",
+            "hash": "A968DD7AC2147BB9E31A57E33829CB66A00AD4F9F055912828827FDCFB2AD217"
+        },
+        {
+            "file": "code/libz_rpl.rpl",
+            "hash": "FCECBE6451CF3B17EF7D2400CB305861ECD03E5F75C48E8486A17FE86C38FF0F"
+        },
+        {
+            "file": "code/mvplayer.rpl",
+            "hash": "5F790BD6B2D224F5763D0A72CA73123059A9A57A862017D8701CA46A0D4289E2"
+        },
+        {
+            "file": "code/preload.txt",
+            "hash": "297A760D97A9EB1B736447607E25C07B166AE1020F8DD81F227E32AFF505469D"
+        },
+        {
+            "file": "code/title.fst",
+            "hash": "CAB0472BF0695B7E716EFB5DD29C2E33259FEBD98B9C555E1483B41D7E5C096B"
+        },
+        {
+            "file": "code/title.tmd",
+            "hash": "9016C17EB48BDE2A75CDF56FE263D8E34CF34C1DB5626AD4E2D4DF2BDF92746D"
+        },
+        {
+            "file": "content/app/certificate/ca-bundle.pem",
+            "hash": "01BA4719C80B6FE911B091A7C05124B64EEECE964E09C058EF8F9805DACA546B"
+        },
+        {
+            "file": "content/app/config.xml",
+            "hash": "B836C609346E8508EFDC961C83545F1BB4B2133EE4A9E3BE4FD960213533F55A"
+        },
+        {
+            "file": "content/app/index.html",
+            "hash": "2F288101F2464B2EC8599647103F4E96BF012E3D109D07D2BE04ACDE12272162"
+        },
+        {
+            "file": "content/app/xtype/index.html",
+            "hash": "1F79EDC5884C137460D2ADF8DC08778C9AB1D6D9F251EF9BB51FBFD139A4BD23"
+        },
+        {
+            "file": "content/app/xtype/lib/game/entities/crosshair.js",
+            "hash": "FAB631C8D9AF9B3086C282FBD94D723F285748596E6F1A444D081E038478B491"
+        },
+        {
+            "file": "content/app/xtype/lib/game/entities/emp.js",
+            "hash": "10EAFC5E96FA5F138BF1C55BC3720F6C6A8A483C7C8645BDB4296BA570D8E0AE"
+        },
+        {
+            "file": "content/app/xtype/lib/game/entities/enemy-arm.js",
+            "hash": "11FEE7B0BC643D3BA8516335C18EA1017ACDBDCE4F95850C71ACD813C4D09651"
+        },
+        {
+            "file": "content/app/xtype/lib/game/entities/enemy-beambox.js",
+            "hash": "1EFF7FF814075E25DD11796DC31D6CC457C06F95E4AC48980D299E2A80849BD8"
+        },
+        {
+            "file": "content/app/xtype/lib/game/entities/enemy-heart.js",
+            "hash": "7F59B80AA0FB4CBE48BBEF5E7C1299442DD9C35E1BF6E4667E07DFAFB8E81071"
+        },
+        {
+            "file": "content/app/xtype/lib/game/entities/enemy-plasmabox.js",
+            "hash": "12DE0EF6346F59FF89D757652516306D8D62C2794C63193164DD00F9CFAF3459"
+        },
+        {
+            "file": "content/app/xtype/lib/game/entities/enemy-rocket.js",
+            "hash": "5559CB203D75A4EE665962763DEC14306505028E1AB31758ABB9CEC5D711DBC9"
+        },
+        {
+            "file": "content/app/xtype/lib/game/entities/enemy-rocketbox.js",
+            "hash": "E1DFFE22EA6AA080F3433548BC4ED4307C45C41AA52CAE146B0E2E730C6DCD1F"
+        },
+        {
+            "file": "content/app/xtype/lib/game/entities/enemy.js",
+            "hash": "F840799C78FBB60EC5E327A37BEE818D35840A287366488F638A43B4D2CC77A3"
+        },
+        {
+            "file": "content/app/xtype/lib/game/entities/particle.js",
+            "hash": "D970DE9B8024889450C6A2773792CBEE960084143FA2EFE3512D82A5ACED640A"
+        },
+        {
+            "file": "content/app/xtype/lib/game/entities/player.js",
+            "hash": "33E0F50D76C0FAC9144909E9A2062291B4C317A1CA1E4EAF99384721B5C08A66"
+        },
+        {
+            "file": "content/app/xtype/lib/game/main.js",
+            "hash": "C71BE633CB4F5C22C2642B70AFDDD3EE648AFCCB553D1BE8BF1D8D81648F2246"
+        },
+        {
+            "file": "content/app/xtype/lib/game/menus.js",
+            "hash": "8A17708ACDDD230227457686BF4C4FFA59EF3820ADDF9F36B24B09D982B7A530"
+        },
+        {
+            "file": "content/app/xtype/lib/impact/animation.js",
+            "hash": "B150DDDC4C367DAF5CC0A52454BF25B46F59A36C0CD9543962281BDD7D4A0774"
+        },
+        {
+            "file": "content/app/xtype/lib/impact/background-map.js",
+            "hash": "9B0A6194E1426156B58108FDDDA1BDCABEB88C7E66163C127CE6CAE0CC304C19"
+        },
+        {
+            "file": "content/app/xtype/lib/impact/collision-map.js",
+            "hash": "BD2688A5C880A4E1C171548383B9BC4B237F93132FC22A16796FB98E88C97B59"
+        },
+        {
+            "file": "content/app/xtype/lib/impact/debug/debug.css",
+            "hash": "9BCE44426200A881D534919FB615AE3C3EB2F3C9E6AEF5676515F554CFCE3FF3"
+        },
+        {
+            "file": "content/app/xtype/lib/impact/debug/debug.js",
+            "hash": "4626ED5E50CFBCB89F0C5A3524A0763278A9E3680F061061F96AD8D3F904A2FB"
+        },
+        {
+            "file": "content/app/xtype/lib/impact/debug/entities-panel.js",
+            "hash": "15248879851936134241F8D37487A0254186305785F6A1F1B92F9E078641CC04"
+        },
+        {
+            "file": "content/app/xtype/lib/impact/debug/graph-panel.js",
+            "hash": "B0C20D9C710DAA873108168F0CCA77C95BD924AFB239CEF5D5834724B1B1AA7B"
+        },
+        {
+            "file": "content/app/xtype/lib/impact/debug/maps-panel.js",
+            "hash": "3810ED61B18C4E5A367D2AFDA62931984E571A5A19FE0A1EFCEBDEC6DE2C3E91"
+        },
+        {
+            "file": "content/app/xtype/lib/impact/debug/menu.js",
+            "hash": "4CF2BB34B73E5DDDC88E0B7ACA1990BD68639D6BF08D4CC5AED7D847A6F60146"
+        },
+        {
+            "file": "content/app/xtype/lib/impact/entity-pool.js",
+            "hash": "B5DA83B45685070ABBB63B90C587A9C0A846B3D1B48CF3AA2243BA8BF1B907A0"
+        },
+        {
+            "file": "content/app/xtype/lib/impact/entity.js",
+            "hash": "E84AF49B986AF2550B86C13055A40B180D41129093E8AB1DBBEE6BE32654F4A0"
+        },
+        {
+            "file": "content/app/xtype/lib/impact/font.js",
+            "hash": "96FA3BB4AA58F124761FF19C62BA082093071F57AAD84B5F1F70D5E77AE803CC"
+        },
+        {
+            "file": "content/app/xtype/lib/impact/game.js",
+            "hash": "B8F47FB9A5CE6FE5624AF1237F96F2B6B48451ECB026911B3E987E9760D10D98"
+        },
+        {
+            "file": "content/app/xtype/lib/impact/image.js",
+            "hash": "6CB2C9E607BAC5627F7222D0AA4DA025864B2083B76AEE03603474AE90793C86"
+        },
+        {
+            "file": "content/app/xtype/lib/impact/impact.js",
+            "hash": "C9650EAB6D0CC0F641244714CAB1D8CE5697E937F843390573D611786128F770"
+        },
+        {
+            "file": "content/app/xtype/lib/impact/input.js",
+            "hash": "93E4B5BE08A3F53757772EBD6BDDB87BFB5634DB332FEEF6242457EC43B41914"
+        },
+        {
+            "file": "content/app/xtype/lib/impact/loader.js",
+            "hash": "6E3FC94D8A7212E1C934A7D801FE0F4E650CB47D5C35D786E4E44A261EE53D8B"
+        },
+        {
+            "file": "content/app/xtype/lib/impact/map.js",
+            "hash": "DAC5FFC49C9D85AD4E34CFA0AEE61796163694975AD3D92386FE87D31892D1D3"
+        },
+        {
+            "file": "content/app/xtype/lib/impact/sound.js",
+            "hash": "00CCCBB7029799423E784004848A597FEEAECB3DB7DEBE972C90A1B0964364D0"
+        },
+        {
+            "file": "content/app/xtype/lib/impact/system.js",
+            "hash": "77E8CAAD1AD41F3F8276DBB704A0A21DE91CCE856C30352A619F7353BECE3533"
+        },
+        {
+            "file": "content/app/xtype/lib/impact/timer.js",
+            "hash": "B39568CC8A665DAD24640DC7FC8EF681D943835204F3FACA88F76655A3F3F7A2"
+        },
+        {
+            "file": "content/app/xtype/lib/plugins/analog-stick.js",
+            "hash": "F0B94ACFB794AE5241A4D73FDAAD183D64EA7F96C9C3CDCB7FEAC346002A2278"
+        },
+        {
+            "file": "content/app/xtype/lib/plugins/compress.js",
+            "hash": "DC8E7B35DB1D2A0FE3A6A528024A9851BB6E579710CC64AB1CD9F2D9414B364A"
+        },
+        {
+            "file": "content/app/xtype/lib/plugins/impact-splash-loader.js",
+            "hash": "F637042C6B86958B9C7ACDA553354F9B53A2514D449E92817CC186796B292926"
+        },
+        {
+            "file": "content/app/xtype/lib/plugins/nwf/input.js",
+            "hash": "E189225870A0A0024FDF3396FE36CC30A2B2AD02FDA6525A4F928AC6297C7215"
+        },
+        {
+            "file": "content/app/xtype/lib/plugins/nwf/leaderboard.js",
+            "hash": "298CCF8D9B905C990282E50932873647F4A766E7F369AA9C776100F9B69429CF"
+        },
+        {
+            "file": "content/app/xtype/lib/plugins/nwf/screen.js",
+            "hash": "47B25C75E12205903B11268C843B7B9A702B830206B6C95A02DCF13DE8CCEAD6"
+        },
+        {
+            "file": "content/app/xtype/lib/plugins/random.js",
+            "hash": "87FF81FCB961B79094429E4EC49B0BA6FA6075BB8D55780710EE44E7BFBE4170"
+        },
+        {
+            "file": "content/app/xtype/lib/plugins/replay.js",
+            "hash": "C9CD3D2573E0DC91D8B0D0BDC9625965E4AA1FFF87418D98E3FAB6B4349E922E"
+        },
+        {
+            "file": "content/app/xtype/media/background/backdrop-grey.png",
+            "hash": "DF2E62CDA8F3BDA84B22ECFEDB2D85B0769188B9F94CBB28E1A50A31D58523A8"
+        },
+        {
+            "file": "content/app/xtype/media/background/backdrop.png",
+            "hash": "2FAF7AA92CB9F86C6DE21145DBE0646542C93114FE98A05030FB583659FB21A5"
+        },
+        {
+            "file": "content/app/xtype/media/background/grid.png",
+            "hash": "90ACBC865F930FEE4F2D46C1C857BE6A641FEE307805AA68DBC90DE7EC575D75"
+        },
+        {
+            "file": "content/app/xtype/media/fonts/helvetica-14.png",
+            "hash": "AD3BEB0B77F172328A9F3DE470FD60A1508DC0628CACE8D89B720EB1E8A07C8E"
+        },
+        {
+            "file": "content/app/xtype/media/fonts/hexagons.png",
+            "hash": "0B837CE92FAE779712254AEB80D86B9720CBE26D797463B9D20F42F19E4C5A21"
+        },
+        {
+            "file": "content/app/xtype/media/fonts/tungsten-18.png",
+            "hash": "9F4EFDB0DFF505F83C1E0DF3B0F25C0D275E7AA5726043BCDA85C4849FBB3838"
+        },
+        {
+            "file": "content/app/xtype/media/fonts/tungsten-48-orange.png",
+            "hash": "13CA62E21463F812D9B6D47356C902AD351D0DAB2CDE7E1EC695629C23D426D9"
+        },
+        {
+            "file": "content/app/xtype/media/fonts/tungsten-48.png",
+            "hash": "CE9A6A91A81008D568B67549EEA554DD2C4C5AEE87A3B541F7C95CC080F90C8E"
+        },
+        {
+            "file": "content/app/xtype/media/hexagon-filled.png",
+            "hash": "FB20990B77CC644958E67C97A4A64E9928F30653FE3A7D6A74FFDCE3EA4DA8C7"
+        },
+        {
+            "file": "content/app/xtype/media/hexagon.png",
+            "hash": "D6975885B806F6F238AEB062FD7DC53100019060A38F10F0110542127DE3B1CF"
+        },
+        {
+            "file": "content/app/xtype/media/highlight-blob.png",
+            "hash": "10225A5C272F2C57583AAC935C52820E5A75CFBD776962E06CA941815436A310"
+        },
+        {
+            "file": "content/app/xtype/media/icon-128.png",
+            "hash": "CFADCAB82E40E690239FE85457CCBAB72E33106980B811D1DDF3A23AF2066039"
+        },
+        {
+            "file": "content/app/xtype/media/impact-comet.png",
+            "hash": "303E1003A753FFC2EA2FACE88247AFB9C52C192A7184399D95A079270084BA5E"
+        },
+        {
+            "file": "content/app/xtype/media/impact.png",
+            "hash": "E515B69B3368668585E58FC26BC47F0B6F168E2C980E6ECCA11E2DC6E5FD753E"
+        },
+        {
+            "file": "content/app/xtype/media/instructions-nwf-emp.png",
+            "hash": "7ACD7CAD054EA1BBF09E4D9EE30EA6457C75E70F8ABA4912ABE470CE0820CF5F"
+        },
+        {
+            "file": "content/app/xtype/media/instructions-nwf.png",
+            "hash": "79A098161DD18715605D58B135A54D42C702BF3196390B14A343CC707CF837F2"
+        },
+        {
+            "file": "content/app/xtype/media/love.png",
+            "hash": "51CAE2177709FC797BD127898500025BB7B9495542A1B030230679C5893A4844"
+        },
+        {
+            "file": "content/app/xtype/media/made-with-impact-orange.png",
+            "hash": "05BE1EE6F12EC3226B6DDEDF7B5CBF7AA5DD94F51CAF852790462D42A8B038BF"
+        },
+        {
+            "file": "content/app/xtype/media/made-with-impact.png",
+            "hash": "BEB9D4B52FA6109AD90D124815442FDD041DC6CBF6AEAE02B8DF34E499DCB6E3"
+        },
+        {
+            "file": "content/app/xtype/media/music/xt-classic.ogg",
+            "hash": "1E37477754DC72BC235469271F7E607F97E19D36B09FA131737ABE7C0A0B6C0E"
+        },
+        {
+            "file": "content/app/xtype/media/music/xt-menu.ogg",
+            "hash": "074C3EED82F9C8160F222CF0EB0FC888527BF45D360902EB36FB34EA9D68D780"
+        },
+        {
+            "file": "content/app/xtype/media/music/xt-plus.ogg",
+            "hash": "A74B146CFB720607AC8B739EBA651DE193070EC0BCBADFEB65EFE151522799D2"
+        },
+        {
+            "file": "content/app/xtype/media/replay-icon.png",
+            "hash": "05A829482C083CD00EA8660CC10B7EC66531ACB749E8C518ADF96C7446BDAACD"
+        },
+        {
+            "file": "content/app/xtype/media/sounds/beam.ogg",
+            "hash": "216BA9FC4856B714F35D661FD3067456FC855F3D474738B54CB9467775E0994A"
+        },
+        {
+            "file": "content/app/xtype/media/sounds/click.ogg",
+            "hash": "0F474349C6B7833C5FD54E59190C1DAC5E9C96AA817B92B055D54F88FFC7ABD0"
+        },
+        {
+            "file": "content/app/xtype/media/sounds/emp-bfg.ogg",
+            "hash": "E8A0F1FBEE8A28286D6E1394D02F02BDC6C460E4BC4066267094B1B5A7C4F3DE"
+        },
+        {
+            "file": "content/app/xtype/media/sounds/emp.ogg",
+            "hash": "04E5E5938B75D0AAB86ECE85126FF4D4B1C4BF61D383D4ACC55B87D98948201E"
+        },
+        {
+            "file": "content/app/xtype/media/sounds/explosion-large.ogg",
+            "hash": "F1BD782F42BCEB3E143813A5FC689A872DF085F0A93B2AC7BABED44C9AFC3301"
+        },
+        {
+            "file": "content/app/xtype/media/sounds/explosion-player.ogg",
+            "hash": "F1BD782F42BCEB3E143813A5FC689A872DF085F0A93B2AC7BABED44C9AFC3301"
+        },
+        {
+            "file": "content/app/xtype/media/sounds/explosion-small.ogg",
+            "hash": "ACC93FCBF0B8B8FC8EF7618A7FF1B5C204001648927079DBA8850D2D1AC9935E"
+        },
+        {
+            "file": "content/app/xtype/media/sounds/explosion.ogg",
+            "hash": "26B0442BD28733C3BDE5B1FA80947BF1864232065AA346383F2CC53E934E9175"
+        },
+        {
+            "file": "content/app/xtype/media/sounds/hit.ogg",
+            "hash": "D15CD031FB3289B3A776A862933EA7398832FEBF15B51715D6AECE9748301B08"
+        },
+        {
+            "file": "content/app/xtype/media/sounds/menu.ogg",
+            "hash": "647DEFEC36BE90D971AA4630BC927C75B4597312522A18C638BC000DD5060F0C"
+        },
+        {
+            "file": "content/app/xtype/media/sounds/multi-2.ogg",
+            "hash": "709EF80AFB1F7075743681675127032693733D4C430AB6C3B4418A65A378AF9D"
+        },
+        {
+            "file": "content/app/xtype/media/sounds/multi-3.ogg",
+            "hash": "81ACCF3AC4E7D478B2A6E8213456B39C002AF4B03EEC267DA64082E3BB5E8CFE"
+        },
+        {
+            "file": "content/app/xtype/media/sounds/multi-4.ogg",
+            "hash": "33F2C5344542F3A696FAF5C0182A37F7CD12439BE0C445FAE5591D4C3DB9D38B"
+        },
+        {
+            "file": "content/app/xtype/media/sounds/plasma-burst.ogg",
+            "hash": "CE876B6865BAD86CAF0F817B52078764DA3D7C6F4C0FB32239C6E420F92F3E9C"
+        },
+        {
+            "file": "content/app/xtype/media/sounds/plasma.ogg",
+            "hash": "3CF48A33D265FE9057845572A6DE734C883F147BEB56B8404D843BF9A71DEC10"
+        },
+        {
+            "file": "content/app/xtype/media/sounds/player-spawn.ogg",
+            "hash": "6BEE6F7B4A8505D2398220E07AC6E7B3352E0A851833C11B08A891CB71AE46DB"
+        },
+        {
+            "file": "content/app/xtype/media/sounds/warn.ogg",
+            "hash": "76D45E729F42BDCE3C02D616CB7BE4118590C438EA640EA706AFED6771575A4D"
+        },
+        {
+            "file": "content/app/xtype/media/special-thanks.png",
+            "hash": "2AFD71485218CAFA01E17D800B0FA1DC91661BACC5335FC357D59D17F35C9B11"
+        },
+        {
+            "file": "content/app/xtype/media/sprites/arm.png",
+            "hash": "BD61757457C103F47E2AF69CAE729E1A190DA31E5CBDB4DA6B02141046A797E5"
+        },
+        {
+            "file": "content/app/xtype/media/sprites/beam.png",
+            "hash": "955D6109CF3E587021B37BB1912AD0436F202BE491AFF2993054E12EDF8FC70D"
+        },
+        {
+            "file": "content/app/xtype/media/sprites/beambox.png",
+            "hash": "6145C52E34A98671951C393A310BCB250A0DFDA0D6B167F81E1172ADEFA98A75"
+        },
+        {
+            "file": "content/app/xtype/media/sprites/bullet.png",
+            "hash": "E4CF6EB084213FD6282AC27D17606D97CCA56DA729CE53FB726F0E5C5C9294BC"
+        },
+        {
+            "file": "content/app/xtype/media/sprites/crosshair.png",
+            "hash": "3970115C1281E1FB80773BE192527DD79567796281C4687F40F559FDF826A362"
+        },
+        {
+            "file": "content/app/xtype/media/sprites/emp.png",
+            "hash": "51633A8B7BF014F8B14B6055BAF9A0C58DE618DB832FAB2C6D8B254FDEA47614"
+        },
+        {
+            "file": "content/app/xtype/media/sprites/enemy-explosion.png",
+            "hash": "E21B0A858327CEF2B6E3D6B10D370900876DF28FE08C3F3AE51C176891CAE6EB"
+        },
+        {
+            "file": "content/app/xtype/media/sprites/exhaust.png",
+            "hash": "09D91D195406BDF8854AD585140EEDF1554D9EF1DEF815EA8934C8BB93017788"
+        },
+        {
+            "file": "content/app/xtype/media/sprites/exp-blue.png",
+            "hash": "DAA3972F1B4C5C6979B876C68CF0B8A4E3897D8941479C2ED040B23AB108AFA7"
+        },
+        {
+            "file": "content/app/xtype/media/sprites/explosion-huge.jpg",
+            "hash": "AE940C83FF5C9B6DE859234CD1A334A517419F745BAE6E0D7C16D892CB7812D3"
+        },
+        {
+            "file": "content/app/xtype/media/sprites/heart.png",
+            "hash": "2FCB8A82CB7800FEF5B10077E3A38A82BC63D7A8FCF9AE57345C523D106DF00B"
+        },
+        {
+            "file": "content/app/xtype/media/sprites/mine.png",
+            "hash": "81A09EFBF78C90254ABDED197DF3800CD08704F8DDED3B48160ECA25A0582535"
+        },
+        {
+            "file": "content/app/xtype/media/sprites/missle.png",
+            "hash": "5492FA974F748824C51A07A343283B7B41DA5942C048DC92030BAC6F7975C9BF"
+        },
+        {
+            "file": "content/app/xtype/media/sprites/pbullet.png",
+            "hash": "D1CDD744C1525DE1AA6E471B6938F6DE94ADEE1167EA1CBA2D60F72078BE171F"
+        },
+        {
+            "file": "content/app/xtype/media/sprites/plasma.png",
+            "hash": "B975F4524560ED153F23ABA2CB217635C7C2C1ED3ED5FDE26ECEBBA10B47CB38"
+        },
+        {
+            "file": "content/app/xtype/media/sprites/plasmabox.png",
+            "hash": "B70CBA8C0057F261F6ECDDC94F1030CDE89CB36BF4F83CF10C9988EA0966E917"
+        },
+        {
+            "file": "content/app/xtype/media/sprites/rocketbox.png",
+            "hash": "E76F8C1F861002C68FAD1AA838C8C6398EC0C9E0BB610EAB5C831E3D583E70F0"
+        },
+        {
+            "file": "content/app/xtype/media/sprites/shield.png",
+            "hash": "A6BF599CCF1F48D4C9C6D54D44CEA57EC2C8E69CE3EEB72851029482C0741706"
+        },
+        {
+            "file": "content/app/xtype/media/sprites/ship-icon.png",
+            "hash": "4784364177F23ED9FCAFB9E1FEE8CB36774F6E1EB1887B852E21E54E640F343A"
+        },
+        {
+            "file": "content/app/xtype/media/sprites/ship.png",
+            "hash": "9F64E5B60305D7000518A5C1E71FF0AFBA5AF5363B048C1FEE331837795D7732"
+        },
+        {
+            "file": "content/app/xtype/media/tv-button.png",
+            "hash": "DC321FEC914C9020A67F33B468DC3AEF67705D78AA35A2964165025A3BA55EAD"
+        },
+        {
+            "file": "content/app/xtype/media/tv-frame.png",
+            "hash": "83AE7A7F7ECAB48CD8B0618013011AB0DC8CB11A3AB2E2BAFF4DB8FB0CC307FA"
+        },
+        {
+            "file": "content/app/xtype/media/tweet-score.png",
+            "hash": "187AEC64AD835900CFADC3C67B37337443AFFFBFFC6B635D76490836DABBB0DB"
+        },
+        {
+            "file": "content/app/xtype/media/xtype-title-filled.png",
+            "hash": "1E4D7F004179FDF04E155DFA58226189FCEE99A63CD0FC9101366B59BE90E861"
+        },
+        {
+            "file": "content/app/xtype/media/xtype-title.png",
+            "hash": "06EFC0C16891BA0DE4D4886126F941491E535A132642FE6277E6650262480763"
+        },
+        {
+            "file": "content/assets/shaders/demo_gx2/cafe/tessellate/tessellateAdaptiveSO.gsh",
+            "hash": "E9B536A077BB4802B29033F834EF55A1BB82FF5B06A5FFF653E10D059DE2C25E"
+        },
+        {
+            "file": "content/assets/shaders/font_BuildinShader.gsh",
+            "hash": "B43C0EEF8C1BE9A52D316812BF3804AB72D268BF177629707EDA1B74DADFAB46"
+        },
+        {
+            "file": "content/assets/shaders/launcher/col-launcher.gsh",
+            "hash": "B2FBCFB71C376A21E1EADC603387FCE038B56BB4E564645D3A8A3D10F77B0526"
+        },
+        {
+            "file": "content/assets/shaders/launcher/cur-launcher.gsh",
+            "hash": "E284571F33AAF2B98C4E24EA2FB7B56B821C5CB39C3E976CF081621C54F5A56C"
+        },
+        {
+            "file": "content/assets/shaders/launcher/tex-launcher.gsh",
+            "hash": "EAB2E0F44580D6B92CB507E73BCEC1B7992D31E38D6049EF7429548564E3D062"
+        },
+        {
+            "file": "content/assets/shaders/launcher/yuv-launcher.gsh",
+            "hash": "E95D4F68B9ADBD3076C1E08B73A5ADFF453CB3482CC45A255A34B5AC5D2F0105"
+        },
+        {
+            "file": "content/assets/shaders/lyt_BuildinShader.gsh",
+            "hash": "9C46BDA174A9F396588968FB061E0E342B4E41AE087FDDD409138DC8BB55A7D7"
+        },
+        {
+            "file": "content/assets/shaders/webkit/col-webkit.gsh",
+            "hash": "BADD7F7A984546F34422C97C560AE9477252A41A86F50F6568D749D05FA208D4"
+        },
+        {
+            "file": "content/assets/shaders/webkit/cpy-webkit.gsh",
+            "hash": "3D7FE7F6C2497E30A96A5FD22665A2F0A3F29E0D9529FACF3EECA5C26AFA866D"
+        },
+        {
+            "file": "content/assets/shaders/webkit/cpymul-webkit.gsh",
+            "hash": "711B89310B1474D04A357B1FD1C0A4CB9562340556B3FC29DEA9F4C9DC441668"
+        },
+        {
+            "file": "content/assets/shaders/webkit/font-webkit.gsh",
+            "hash": "570F7CFA7A603AC964B9B87B481BAE72FB23823D723D1E2D0BF124471A2D8C2C"
+        },
+        {
+            "file": "content/assets/shaders/webkit/gaussian-blur-webkit.gsh",
+            "hash": "C208AAE1C2CDED3F1EDE2727CBBF7BBA1C876AAE55683AE07E62976C8AB2148A"
+        },
+        {
+            "file": "content/assets/shaders/webkit/pat-webkit-no-premultiply.gsh",
+            "hash": "F711D1381C3EAD00BA85521DC64EC1583720AAC9C1F2416F0583B9F15CABC8F9"
+        },
+        {
+            "file": "content/assets/shaders/webkit/pat-webkit.gsh",
+            "hash": "3AC1E6BA1B36371D4E714370E4316C6643A9900BA3FC1369197E53E1486F26EF"
+        },
+        {
+            "file": "content/assets/shaders/webkit/patsmp-webkit-no-premultiply.gsh",
+            "hash": "ACE4CB9823153D226E4B02A92B52E1D476F4C65D656A573ECAC8F2B939327258"
+        },
+        {
+            "file": "content/assets/shaders/webkit/patsmp-webkit.gsh",
+            "hash": "437CCB26524571B46D7FA7B6BACCF0D43B800FC5EE1210612337F99C3193247B"
+        },
+        {
+            "file": "content/assets/shaders/webkit/tex-calc-vtx-webkit-no-premultiply.gsh",
+            "hash": "A355A089D37D92821CB4A6F26B35DFCBE74A0FCB441C4773448E8EA190899BD9"
+        },
+        {
+            "file": "content/assets/shaders/webkit/tex-calc-vtx-webkit.gsh",
+            "hash": "82D03839C0979CDC405DC7A545A901BD150D9AA57165B417504893643F9266E6"
+        },
+        {
+            "file": "content/assets/shaders/webkit/tex-webkit.gsh",
+            "hash": "A05DF417EDE2B3A9CBD83F4C652D0589A7F0FDF67BF12B2EAFAA464E3B0537C3"
+        },
+        {
+            "file": "content/assets/shaders/webkit/yuv-webkit.gsh",
+            "hash": "3B16876DC4CEA5067CE403BF0E61C904B0CD5467A9D624169B9A8F25F59018CC"
+        },
+        {
+            "file": "meta/CERO_ja.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/CGSRR_zh.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/COB_en.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/ESRB_en.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/ESRB_fr.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/GRB_ko.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/Manual.bfma",
+            "hash": "FC349E7B2D30C3B84B6E52BF5154F7AFD45BE5E0CB0E0AFB8090ABBD38C0AF29"
+        },
+        {
+            "file": "meta/OFLC_en.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_BBFC_en.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_Portugal_pt.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_de.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_en.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_es.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_fr.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_it.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_nl.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_pt.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_ru.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/RAR_ru.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/USK_de.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/bootDrcTex.tga",
+            "hash": "2A6A65DC9EE57D84BED4F7CBA00FFEF3B434CAFC861122C0F579C625ED16AB5E"
+        },
+        {
+            "file": "meta/bootLogoTex.tga",
+            "hash": "91B63D9C03F7F9153C8B9FC8179E1CCCB6F4AFC60204B988D91D1B5EFCEE4AA8"
+        },
+        {
+            "file": "meta/bootMovie.h264",
+            "hash": "069FD8C5713F4B23EA1098D2674BCC839E610BA844683BF532E1E6CB10642621"
+        },
+        {
+            "file": "meta/bootSound.btsnd",
+            "hash": "646B01A4953CC1A4482AD691E6979A08513971BD1EED6E888CA4DE3C59CEEA92"
+        },
+        {
+            "file": "meta/bootTvTex.tga",
+            "hash": "60F20FC0998D8C6BD312EE969BDC0CFF515A338743AAE4E24487E995DF735420"
+        },
+        {
+            "file": "meta/iconTex.tga",
+            "hash": "45F55A19D5C54F6B4D9D09A0E8003AB7D3668E1A7D98A63A5B942D283D4DFC9A"
+        },
+        {
+            "file": "meta/meta.xml",
+            "hash": "6347E6B5C0CBC33ADD0606FF6C9B851FCB58C7BB920B9161B2E4DF236D89BDF0"
+        }
+    ]
+}

@@ -1,0 +1,4331 @@
+{
+    "title_id": "0005000210117201",
+    "region": 4,
+    "version": 0,
+    "files": [
+        {
+            "file": "code/MH3G_Cafe_EU.rpx",
+            "hash": "D8DE71FEF559A859C4C899C70A6CC5049BD162CEEC96279366CAC3D4A959EAE8"
+        },
+        {
+            "file": "code/app.xml",
+            "hash": "419E1EDF21BCAC561BF4AE81F7220B9FD6A85DC83271D109A7E560B330EF48B4"
+        },
+        {
+            "file": "code/cos.xml",
+            "hash": "2E1065D3BAF08CD9E30022E504EA2A7EAB72C1F8E27A867F00D1B127D060BFF9"
+        },
+        {
+            "file": "content/memory.ini",
+            "hash": "A2361F857354777AA0BFEE2BD1C4051489B02B891C6B899906645A42875CA5A8"
+        },
+        {
+            "file": "content/nativeCafe/LtUserShader/LtUserShaderPackage.lfx",
+            "hash": "6C4FDB9F35F31E54FCF477D1FD18EBC151EFE55EC961703AD6ACA934FA7DE781"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/ID_cock_eng.arc",
+            "hash": "71B4806CCA9F534A1F1436B0636AA953A396881C105A0DA69B62CA7C37A91D27"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/ID_cock_fre.arc",
+            "hash": "FB4BAA4B8B90A0DB9012CC06FAA393177913F7A530A7CB283A85642E8DC9F258"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/ID_cock_ger.arc",
+            "hash": "FBA9ACA1B74250E2EBE699F2F7B4C045C0F7DF854162D5EFEAF99CCE085F4D15"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/ID_cock_ita.arc",
+            "hash": "4275D2B3DAACED0E6E198F30BA858E6CF7AA16EFC3253E56C68630AA1E585962"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/ID_cock_spa.arc",
+            "hash": "917C789B630D1033D1D77447416650BA592627717B40289587AD2582E4C1F02C"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/ID_com_eng.arc",
+            "hash": "8C091F88C213CC93B2AA9C8DC308C329A80480E8B1AB759A0A8CC44E9160EC65"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/ID_com_fre.arc",
+            "hash": "8D45011A0CF826FB8C582C5449C9691457B23B41A107BA366C2612E8B864EAA5"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/ID_com_ger.arc",
+            "hash": "6BC14B978A7B97DAD501EC033AAC5B42AEDE30252CD5300B44652AEAAE03C3FC"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/ID_com_ita.arc",
+            "hash": "6EFD99A09C206CC5E27A6EAB41DCF749C32BC4584A88E2DC7A0C43A47BE633F1"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/ID_com_spa.arc",
+            "hash": "4F60461631093D537F45B7FD3A6E9F95079755A92FE2239A82DD8B7C4A579F2A"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/ID_cus_eng.arc",
+            "hash": "7CEBD2ADFF238447359131C305522053371795A336A03CE12F907912C9C32EFC"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/ID_cus_fre.arc",
+            "hash": "746D34596BE85AC06C358E5ACC625B3D1EFED2BE9194E9D3A78AEAD3744A85F5"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/ID_cus_ger.arc",
+            "hash": "F4107E0C2B636305B23248B34657C348EF1A89DB0A12CAD0BD32D66F63AA39BE"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/ID_cus_ita.arc",
+            "hash": "A92B5C92E71698A63FF1A7796B06288B323B472D32881C6BAEC5736C3095519B"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/ID_cus_spa.arc",
+            "hash": "A302B901878EF776F450EE464F57481000F9688F67C06F7DDDC97B12F2FC4EE8"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/ID_resi_eng.arc",
+            "hash": "CA83AE94495B846D86C6B5C632DA8C325399F318EAFFB764BC81132C4CD110D1"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/ID_resi_fre.arc",
+            "hash": "9FDECC5C67F1A3AC8CB5AE3B8ECA802B1987CA6CAD24C9D0C6B43FC7A10C7946"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/ID_resi_ger.arc",
+            "hash": "2B29C762F5EF1D894F3002CABB9595AC5AC886C79296DCABFD3BF4F28F2ADFB7"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/ID_resi_ita.arc",
+            "hash": "19A7B5EC58E74B0ED549F4AE5E5242F3D36948C382A534D1E32DAE2FBBDC9934"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/ID_resi_spa.arc",
+            "hash": "ADDB8FE8BBE3BD48FA0DF3BEBB9BE185D473F9C45AE005A3F44A6783C0FD8838"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/ID_stmenu_eng.arc",
+            "hash": "10C4020DF6BE2AAB6D5B6A53558B9D98B47CC5EBCD12BB312E8583C2AB3DAFDA"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/ID_stmenu_fre.arc",
+            "hash": "744A908FA41BC569CEDAC76FEA86C3FB5583E85068A890F698A70B20F691EC12"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/ID_stmenu_ger.arc",
+            "hash": "D2A864564D360040A2EDE2A800DDB9FCA7FD61AD8806D0C8AC33806148252DAD"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/ID_stmenu_ita.arc",
+            "hash": "677330F1CDF10C1CC90F2B8D637139D9C513DD067E3AAA515C55FF688979BCDF"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/ID_stmenu_spa.arc",
+            "hash": "2CAE53D2DACCA525076229A0041646B7351461857EC1E3292A7917AA93B1E232"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/ID_tgs_eng.arc",
+            "hash": "9FAAF74879A5460B9AD6BBB18D67B456E973616A87A304B43706C0B849CBD94E"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/ID_tgs_fre.arc",
+            "hash": "0D5C1F53A3C90AA1E2CF633C1B571DA1149435512076A86471E33050E2306BB6"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/ID_tgs_ger.arc",
+            "hash": "613ECEEEE2DA93734B87DD87CED9C401F2384FBA27D92C7940731A5A63F76C0B"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/ID_tgs_ita.arc",
+            "hash": "4943806A405DC0F9CB806A607B681548E0DCBC9990B099A5220606DC150DADF5"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/ID_tgs_spa.arc",
+            "hash": "A9D138DE8F22D5372119ED02CEE3F8558B0BFBA47F40A09FCA2BBD4A6130C608"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/ID_tgsstg_eng.arc",
+            "hash": "E421F054D26595ADB42302FF6FB8E8D62384358B76336AE70E182A86836E1B32"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/ID_tgsstg_fre.arc",
+            "hash": "C5CD21901DE3BD0C67B67D4AFCF7D50807ECFAC0E5E4E0AE48857A5AB173E8A4"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/ID_tgsstg_ger.arc",
+            "hash": "0D438826667B379C926832F5625CB4309FCFF419326EFED7A03E31443038A20D"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/ID_tgsstg_ita.arc",
+            "hash": "4A4901A1C8E0AAD6FE45ED23E317696AB0DD9011580F862B0F976518CD6C3B8B"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/ID_tgsstg_spa.arc",
+            "hash": "8776933A8F26EFF5BE67EA5709CA4F6407A7CAF7E614871FBBFECD7DD5199F12"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/map/ID_map_01.arc",
+            "hash": "037B778AE1CE421E1D18BF83532A20DE88CD461A59CBA36F5A1FB0615795CC9F"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/map/ID_map_09.arc",
+            "hash": "E6375E15BB905BF06930258C7EA9AAE2D4107A0DEE8D7389EF9861FA6475BDB4"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_08_eng.arc",
+            "hash": "B53A258617FACFEAD24E331B2C44AAEDF897E70D635CBE1AAD922F720A8B69D2"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_08_fre.arc",
+            "hash": "BF9349A793B5BA8A8D5A3A389CCF0E71E8EBA71D4D7AB048BACE7AD30779A3EC"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_08_ger.arc",
+            "hash": "1C2C3E32164015E75C784E0AF1A08CC4E262DD3B43B0F6BD98DDC05205956265"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_08_ita.arc",
+            "hash": "668C8D62EA7624259A1F0E9FFD4F39939D779570253D2942EEED7C61E1FD1E02"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_08_spa.arc",
+            "hash": "A08A7ED4EB74E8B40D7CBE3098F4F19667FFAE40ADCFC16AC88F04E424F526FA"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_09_eng.arc",
+            "hash": "DF29D9F97457EDAD61AA5E1E0C92927A8296D231CAE4DE96CB0E9D0C276BDAD8"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_09_fre.arc",
+            "hash": "D1DF071E868269928DEE830552D02C12EB1BDB22C2BFC65D7378851619303FB7"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_09_ger.arc",
+            "hash": "EE5F47BE405681215C7923F0DC0B1C2269E316DE4A524FA659FC7B3EE563A00A"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_09_ita.arc",
+            "hash": "A7298244757B565489924707A8E417DE37D097E59901FB1868290F93B97D11AE"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_09_spa.arc",
+            "hash": "FF4277736370E47F85412C1B50BED75D8B3A0902860601991FB022373347C2DC"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_10_eng.arc",
+            "hash": "604534E5CDBCBCD600B3B3B3D0FB9A46F30E1D7BCA8474462FBA0CE16E7121F4"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_10_fre.arc",
+            "hash": "D4225D38764605EA92D00DDC3205EEBB630C0B05A4191F9C16A7EED609D8DAA1"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_10_ger.arc",
+            "hash": "2E51F0AA2E37CE31F8CBADA56F8E859AF9ED602F2051ADCFFBCF7ACC223C222A"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_10_ita.arc",
+            "hash": "5F9FA5E0B921914B3F4C8352BA3B010EFBD0FFDAECC3188AE0171CAA62B7999F"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_10_spa.arc",
+            "hash": "13D43C8B0AECDB63A9B92046058CB81DF88EB55FBF6D29047FA2AD1F751BFBB7"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_11_eng.arc",
+            "hash": "208A0FB857EE065CA3DC09DB87EEAE46D16195994903D7847938CD2588B72F11"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_11_fre.arc",
+            "hash": "4ADD0F11396B8F7CEBB46AF6B76D6FF8C64D15CE7D12777EF28BE7A911C5A79B"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_11_ger.arc",
+            "hash": "D728E52DD237B3A14D829046C75D9E3061D5E2D98B3D12D2CB5ABB409C9F7929"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_11_ita.arc",
+            "hash": "39E3D41D8B681B525DFD1C09808C313963B34A6C4463F623E401DEFBE5F3DB6C"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_11_spa.arc",
+            "hash": "C70EEE90B46132542A7C9488F2FA94210A413463F4038B192097532D7D459D23"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_12_eng.arc",
+            "hash": "D1EBB82200411D2730204A327A240301704347E80F53AB4D30C50C31F45C58E3"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_12_fre.arc",
+            "hash": "9F58E8E4ED4183F7876089F31F4CAD9311483ED12FF92B4A6BD2BA35DDBDB3FE"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_12_ger.arc",
+            "hash": "4DA897641DE74B88B374E3348EA417DB3A96E5B8E17FD86B7772D0B698979DE0"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_12_ita.arc",
+            "hash": "054B2B0B5613533E49607F0EE394674406AEF2702AED3DC1E7720CFC4F803D4C"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_12_spa.arc",
+            "hash": "AE92156DB86D950B8AE4CA8F9E9AE3ECC2D318850BBAD79998E291E9DA7C8A67"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_14_eng.arc",
+            "hash": "29A83DF1A9CC64C7F917D28343F741DADEA3C3E7BCDAA2FEE4D91449916026A8"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_14_fre.arc",
+            "hash": "9578008BF93C625A9ED01027B8AEA8BF26895FEA82C4C042E12C728C2046DE52"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_14_ger.arc",
+            "hash": "89EB8F5752FC121BDD03BAFC2B9CC0F8F3E1FD2B9E1F92AA56D9D46EF150D6A4"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_14_ita.arc",
+            "hash": "1D0F29FDC40B70B8837A2A60FA97F862FB76838E946A685A03ADFCD3F34B283C"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_14_spa.arc",
+            "hash": "017A1ACD73244B3A9961364AAB15E8B41ABA6FD40C028406391D6CD780939812"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_15_eng.arc",
+            "hash": "C031D09B1F24500F62045431B5B6A6AB933FD735553008788C6CCAD954949D08"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_15_fre.arc",
+            "hash": "518D9A2A74B0146829E261BC6BD36FC358753223618674C1A372FDDD7F282AE6"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_15_ger.arc",
+            "hash": "EED328C31F6A5B7A5D1B2514F71FD558D2E62B09E877C2520A59F6F883B3F41A"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_15_ita.arc",
+            "hash": "D24B0522FFCAE037F12A21DC4B81C23EAC1EAB1AC4C9ACF48BD3A22FD959E947"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_15_spa.arc",
+            "hash": "E3A3B61E81F5FF6758D63CCA28762BA1F6198B277B9112B4B5AA9CF18C0041BA"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_16_eng.arc",
+            "hash": "1F2A775C5621C4C31194E9310FE04BC2DFD916F9327E7C65D527ACA5D63766DC"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_16_fre.arc",
+            "hash": "D1B0AEB0848A7AC4BC5379768030EE4D0C72905C80CEEF769CF6D06A48A0A79D"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_16_ger.arc",
+            "hash": "9E6C4245A63676E4EC761265BD502220D2B679C70EF6557BB335E2C94D97FEE9"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_16_ita.arc",
+            "hash": "342F1A9D7483D5B01572305EF4EB8726B66494479267E62CFFAD3CFEDCAD9796"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_16_spa.arc",
+            "hash": "B1D479567AFFDC8440419CC87A93FAFE60C6F6C34B64701A9A3B82EF75AE0580"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_17_eng.arc",
+            "hash": "49BD127B8925F246B1125A40C113A4DD52CAB3C9AAC3F8D56C124DCB51B3DEDC"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_17_fre.arc",
+            "hash": "C947FF80450417724598B199524CB42C82A53D8C3D2E8F1C2C672010D8389683"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_17_ger.arc",
+            "hash": "1FD13B4E999CAEDE2C9A00ED98749B8B925D50D9189E8B916F0838E981D30EF3"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_17_ita.arc",
+            "hash": "E6851B5530083F1E6EDD320AC6AA0B63537756FC59416047A1E4E72A4AF593B2"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_17_spa.arc",
+            "hash": "CCAF4E31AD4E6FC8110D818380C14E53613F5A07CF59424D009DE11FC859D90B"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_18_eng.arc",
+            "hash": "191F4809187BA2DC469939691D91FF7B2B46D07372330B1C4C40815C25D59897"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_18_fre.arc",
+            "hash": "0151608C6A9563BF43D134DC96BF200E034678480C1B567EDB6E90B773056527"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_18_ger.arc",
+            "hash": "BE01E5693D8341F85AE80F0F6AD7EA7D7BC2556BEA24FEFCE9F8E906F61E27B7"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_18_ita.arc",
+            "hash": "4006CEDF04DE9C81C93834A7961A4119B9887F38569EE8905B387D93E6A47F12"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_18_spa.arc",
+            "hash": "BA2D6DC1C199D0AEB4A419BA6E106186FEF3F977B3FF2DF05C6D812B72DCA34B"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_19_eng.arc",
+            "hash": "6A94B203CD80DAA64E435826AA95E19CA207FF67A68A98227C128A449C3123F1"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_19_fre.arc",
+            "hash": "251B60C6B8D8DDF2D61C3CB0EFBB3AA3844D383A05735894FB9468D73C65D452"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_19_ger.arc",
+            "hash": "C572082980AED86996CEBBF0DEC961183EAAEDD72A3E1C2172EDB63AE362A0F7"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_19_ita.arc",
+            "hash": "149C391B3AC2D58DFF2D6B30D448F4D565D120CA3331F4E191D983F26A4B7E5F"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_19_spa.arc",
+            "hash": "308827B84DBB21506D24257C9DBD634F5BC2FC76C9EA660BCF0AAD9279D19802"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_20_eng.arc",
+            "hash": "0D9F9F228002E5EB6B5C64657AA107565BA0FA0241DA69156C1202525650B72A"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_20_fre.arc",
+            "hash": "3622D7EA4B62901D2607A6519DB37529AE089C7871A106F24E40FC56A522781C"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_20_ger.arc",
+            "hash": "527F4BF6AEC8DEEF8B5FF50F4FA1C73A2F7E8FD50E3664C104E45909895DC58E"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_20_ita.arc",
+            "hash": "B9EDAC50EF7BEAB156730C83A86A0B2F602CFC02A865CC33C5E49E0B94BA9EBC"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_equipmsg_20_spa.arc",
+            "hash": "1B02F465FAE3B12C0FF282CF886BCB17C8804FE2075CAAEADA7F5DF4F39A456C"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_00_eng.arc",
+            "hash": "CE38A7EDB66FDD7E6A8721B4F8EC159AD7565EF8722C06C02EC2CA3A1099B140"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_00_fre.arc",
+            "hash": "5A955271E93B4D3D7629E512700BC808007163365263EEC41990A40A1AD79638"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_00_ger.arc",
+            "hash": "8085AAA2ED8A7D1E9AEED5E4ED12BEA9DF243F4450C6B0F73E1F855B0E243753"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_00_ita.arc",
+            "hash": "B5B272C69757A2C56FD27D2458FF381C351FD3B6EF2FC96561B88F501D0ECD3C"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_00_spa.arc",
+            "hash": "9426E04DCC179DB9E78F52891E2A27E3B7888A787D8E4DEF671E7630386A146C"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_01_eng.arc",
+            "hash": "B22CE16F4D56515080F0A5270D45398364460B7714280170EB85BD6B1851B6F0"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_01_fre.arc",
+            "hash": "75A5BCCCE3BEDC2BB0E5CFAAE857CAF720E811A5E8216F1B4753092D13B8D059"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_01_ger.arc",
+            "hash": "659EEF10668F617A76B4A126ACC8A4338E8E1CC443309D04482968504CBD3A49"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_01_ita.arc",
+            "hash": "E7AB9B4CE494BC7E7364C82D3E632B209CD79C7B0EABA033DE772C25622C3CD5"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_01_spa.arc",
+            "hash": "AC31FFA26C649944522C4A33224C7618ACA8E79E6DDCD5BBF1B56F4149E6EEF7"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_02_eng.arc",
+            "hash": "1A154001C9E369F1CD1930630C878EFC22987290AE12C24A8F466AC17A364446"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_02_fre.arc",
+            "hash": "ABD9B0C254B43597B546C13788F643E91335323C26B4D0F7A88368CF16FE4027"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_02_ger.arc",
+            "hash": "99DBA5924EDCD757B659A0B5DF42354419841A8EB7250FB5178D303DAE71F84E"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_02_ita.arc",
+            "hash": "2245FFC55DF3EF9583D51A76C98A1E97B5271BD113279931085E3FB5CF70A169"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_02_spa.arc",
+            "hash": "3C95D04FE6245FB447A33E57F7AAE8B4E7482AB23D994237C04515D13802F4EB"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_03_eng.arc",
+            "hash": "2FD5D3F0E895F5D3DED447893E0F25F689D97A2ADC5CE1C2700CB9543EAD142D"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_03_fre.arc",
+            "hash": "5FEEBC6C57653FC2A18FD0E3A4B1CB4D2DBF70096423BCD7834C4410BF13A2DF"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_03_ger.arc",
+            "hash": "C66379DB253D24C367F9926B47489CB50354FF35A7B04A45F18EE8526654FB76"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_03_ita.arc",
+            "hash": "F0330661F6AB664D899A29855840DC01D150E78A65E6BE05B42967852D7C53E3"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_03_spa.arc",
+            "hash": "2550113ECC9622AA55701AC3AE75E08541AEED7257ECFB2075680D6E1E3E50E3"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_04_eng.arc",
+            "hash": "4C821678962119ECDEFCBADEEFAB6FA486C7B96865478ECF672BC9A840CED018"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_04_fre.arc",
+            "hash": "BEAE39C87CA99BC15C86C9B4929AA174E70E8AEAE3EF234F09D4AEE7E86C0D7A"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_04_ger.arc",
+            "hash": "2BB036549EC9DB69DB8B3E7A4838D717B9059F4AFBFA029F1A65F75B43F9A6F0"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_04_ita.arc",
+            "hash": "0B3DADD4719A9D691748008D688C7442CB037E315D303C60FDB4923E310ABC32"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_04_spa.arc",
+            "hash": "8D94CCCD3A9B99CE77FC896E17554AA7618F07BFD63D42B534EEB1424D30DFAC"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_05_eng.arc",
+            "hash": "EF90BE79BA376489CB0B68F9A3249CFE0EB248C7833C6D38F8B514502516985E"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_05_fre.arc",
+            "hash": "3A57220FC7E115162F2041AC4A5580C99C38D66C8B74BA73726140D600029A1D"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_05_ger.arc",
+            "hash": "0201365DEBFF530874D4E29EFEDEBA1AE77AF0D816FBD0A31910485E00EC49D9"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_05_ita.arc",
+            "hash": "60E1E288279343A8B446BEBFA69E28C391707BBB71F7E4A220A029528F8DF81D"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_05_spa.arc",
+            "hash": "04B84A9583CB0C47581EF5CB69A6C1C79FE4431FD7B0197EAE50E765A18D0EA0"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_06_eng.arc",
+            "hash": "53FCF0CDE3BC56CB09EE1A319E698B78F9D4D774116913C87458D8F66ABF27D1"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_06_fre.arc",
+            "hash": "AE556B5A2238CBBECA39A36A4D49862EA71F9CA447DBE6B1026A9D40105E6743"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_06_ger.arc",
+            "hash": "3D83444ACA1A7B993B7D5A641ABE66787A0ED48AC8C4C8577DFEBD319E5D3A80"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_06_ita.arc",
+            "hash": "94F5A0534D4C8CEF58ED71432FC44AFD522B80649B929809536E38474DDB2DA8"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_06_spa.arc",
+            "hash": "3FBC198E47973F5CE3011CCC5BEA9DEAD7106026BE63E5F1719F43349CE08171"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_07_eng.arc",
+            "hash": "422DA2D1D155EE812DC016E0752CD8CB31CA345C96A40E9CEEB6587DCD63C43A"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_07_fre.arc",
+            "hash": "62F5E9B4C97BDCD0D82AD64B47E4127040DFEFBB35F0111D4DBF53399C0B097C"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_07_ger.arc",
+            "hash": "053E287DF3012ED3A7C970CF98DD6A65B4B6CA495BC5FE7C0F52817559DD9786"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_07_ita.arc",
+            "hash": "B706996B4CE1DA5A74D1AB50A17E03BAFCF1D0B02E6EFFC14877BD5998DE3BC0"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_07_spa.arc",
+            "hash": "99A6B9370BA935B77F57D9A4E9A5C4D0DD4662C16FC55DE815C4D4E1A8563957"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_08_eng.arc",
+            "hash": "105449722C33811C4B8B007735B6D1A809AA0612B67860990C7C0D3ABDF9B018"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_08_fre.arc",
+            "hash": "C644736C3BB7230C8868BD0A53CD3C332BAC90D3AEB468280CD05FC03D5FE6B0"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_08_ger.arc",
+            "hash": "2DD751CF89C48186B1631E5C49EC5BC29B2B3BBBAEDA10DB3E2E759DCFFFF488"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_08_ita.arc",
+            "hash": "077B5C78701BF63004474C046A945DB5C03D0E0DF739841607102E400901F368"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_08_spa.arc",
+            "hash": "20F7CDAF7790E7FC347714708E6A4F2939092C371AF1AECF1E608D22EBA5E77F"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_09_eng.arc",
+            "hash": "5C4F6D52E9F36B518DD62DAF9BE1A3E9F0E9805299566554F54B6EF022CE70A9"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_09_fre.arc",
+            "hash": "770B14A13BC5CCB6C9908FA913B92E01084EF851727760383F6471F34372311E"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_09_ger.arc",
+            "hash": "841D47E8F1E43EEEB7953E87B55F7042E2F0B9EECDAE53EBF95AF69DF7973633"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_09_ita.arc",
+            "hash": "41EE4A376470A5E37F42164EA6DF5861D4744669713B5166C8045C153A667A15"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_09_spa.arc",
+            "hash": "3E0FA72FE550FC1AE0AA807BBA64C493C771AAC0E6920E0B7CB4CF3E360B4AE4"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_10_eng.arc",
+            "hash": "705EA0E4D9DFEDE524CB242123B9807FB6E1418D8B02E0529776189D8D195F6B"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_10_fre.arc",
+            "hash": "EA947B3AC9FC3CD7459D6227E53BB4404A76E5B7433A8BD783D29E23F37C33DB"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_10_ger.arc",
+            "hash": "F3A827E06DBC3C5564DB84604C98191859C8C4E03C94113D184F80FCCEC80D8E"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_10_ita.arc",
+            "hash": "5FDE2C7D4FB421CD0E28286B965B26DE4BFD40F58FDB1F043D4C8AA8E19B56AC"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_10_spa.arc",
+            "hash": "B7CC8ED1FCD1E785E7D335B5890D8FD52B057315425C986CEFAD05EE89B7685A"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_11_eng.arc",
+            "hash": "5EEDF7525172475B1BDCD0000A01D5D554E54AE702250F50D09AF31BBA050360"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_11_fre.arc",
+            "hash": "7895F8B10F92BBA7AADDBF31F99CCA64AEEECD985555E2FD7321276E836611CE"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_11_ger.arc",
+            "hash": "3C59708A21CBF735E64E98D749147BA8A84636FA22AAABC7801806412AB4754E"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_11_ita.arc",
+            "hash": "10D464AFB490F2EAAC28160F36A093ACB210F3DB05DD764B8E107C041B31629F"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_11_spa.arc",
+            "hash": "533CACC32C688AF20A90AB3F787A8673997A5905C341A69921BF671D6F77AABE"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_12_eng.arc",
+            "hash": "E04E43B7221FA7AEBEE1D7512A4CB3E955AB61E3F0B74BA86EC1A328D215BB9A"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_12_fre.arc",
+            "hash": "3F4BB62C74B02679A7A05243C310A8F0DA2BCE27140DE121C8554CED6B9A87DF"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_12_ger.arc",
+            "hash": "4AFA05224E71142D9004764C520155F1716D8603782E6AADB6B88B2D0D5A8592"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_12_ita.arc",
+            "hash": "B87B8CD3F05350E21AEB7A3BF63C051F315E503C8933F5FDC6571BF9198C0C15"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_12_spa.arc",
+            "hash": "BA30F64F0C613E8AF38BA42ED2D0C4C36B292A8BDB121022B811F05B81924768"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_13_eng.arc",
+            "hash": "158DBE19D6AF8128E365B4C5B49F84032E717308894CA1D3E30BC849F9BE5302"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_13_fre.arc",
+            "hash": "98F409211AC9BDCF9E07DDF25312C4253E6B7EA6756525A79703B949C40D87B6"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_13_ger.arc",
+            "hash": "18C474082BC72A34FFA48EFA0B31F9980D2510C2B48583FA455A4A2AD028B957"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_13_ita.arc",
+            "hash": "1CE0EA37CE82D10525A66D491817DFCD398F739B56F9211A67411F3C2777EDD0"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_13_spa.arc",
+            "hash": "875B3385600033F47713B9008556C7055BD9E964240085F6813D6FA14EF3B442"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_14_eng.arc",
+            "hash": "6D6340D7E4D407705E17923F92965B5720304FAD6F254401DD909D52BFDBF31D"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_14_fre.arc",
+            "hash": "197EDD21EE7C83085E506B6345D6D88BAECC39DADE69729431A94242C3E79F65"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_14_ger.arc",
+            "hash": "C1ABE1BEBDB9BBF9ECF5255220CF85372F528CF1CA05153C5131555257836116"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_14_ita.arc",
+            "hash": "0DF8874E99E42DCF2430D03FB465DAEB619F66E81E843A855A4D45538FE86D3C"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_14_spa.arc",
+            "hash": "8E8519050825ADC16C0CA4FF83D9BAB0EDEC69E04EA9C3220CF2CD4B8986D4FA"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_15_eng.arc",
+            "hash": "EB0762296A3EE1499D129506F9E9DE0EAB2C29153BA0E2B93768220D5F785E56"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_15_fre.arc",
+            "hash": "8162D9B257FDE0C33A353B3C3445E82E517F96AB850CD6ED5AD7470F58939EFE"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_15_ger.arc",
+            "hash": "DBF2BBD199F8939AB95DA6F41EC91A0E3A9B8F938955C08C1588F166A0DB867D"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_15_ita.arc",
+            "hash": "293A5BA3EE9FE015E61FC86641651042E66C8B40C65028B44ECC26DE394FB694"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_15_spa.arc",
+            "hash": "878362429C2AAC34D5FBD20CF64EB58F081517FC3F910F771401816B80934ADD"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_16_eng.arc",
+            "hash": "1709FEDEAB4E69662D0609B2AFDAE5FDA710C51673575B6BD3F1B4B190DB2F5D"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_16_fre.arc",
+            "hash": "A602BFC85DF44278D57BD7E4362579DC21D73AB944AA2D62AA84E0596D6446F8"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_16_ger.arc",
+            "hash": "57433847DA4A1BB034F03B523B18767AB9C75C64DA311EDFAF87B378931287F3"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_16_ita.arc",
+            "hash": "ED136261F0D68E43DF614C07E15783F64A773C70EEA46D125258CFB54148B792"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_16_spa.arc",
+            "hash": "A9D1038AC6A566EFA887896F6876F4917B7682DD628EC15BE5B2439E7DCDDAA8"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_17_eng.arc",
+            "hash": "878A57FF138C70A99DF8C05E95C95E228C4EB9DFF2EE3BA6A7F6F54E45A2C0DA"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_17_fre.arc",
+            "hash": "C01413B12B9F7B89343060E6F4F118D3DBE7DF6B6FDCB24C6B66012C01E23241"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_17_ger.arc",
+            "hash": "C3891DE17D23ECE86421685182EB5823F0FCBCFDE5A429E5062EFE6B85D6805C"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_17_ita.arc",
+            "hash": "E7D9F8541C93A8EF579920129A856999660813079A960BAFBEB3B970B4E6CDA4"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_17_spa.arc",
+            "hash": "3FA27D2E59E799009CA7DFD41950503F16F14A47831CC84614C871B45E4AEF4E"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_18_eng.arc",
+            "hash": "DB160F9371F94C14D4A952154A4BA05D70765FB1B12C2C5DF211D4DCB275340D"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_18_fre.arc",
+            "hash": "41F68667F9A8138224AEA526EB67EAB6BA54FC2D35555D75B6796F411C1B7D7D"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_18_ger.arc",
+            "hash": "1F053C8F5437AF2E2FC512E2107DAD9258E33C475A45F496F9939321DCFB037A"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_18_ita.arc",
+            "hash": "90EAD5FD2D63A1FBCFBC6967363627A5D3331E91A04D1CB8D7EC532AEE7CC992"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_18_spa.arc",
+            "hash": "20874F647B2CFD847C10C5DFA649A79B065706F92B71458A56A5C3BFA1D73BD0"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_19_eng.arc",
+            "hash": "B719F1A4FB3F6D4BDFD4B0EA80F6C817191E53C6919B981A2E32759D7FCA1BCD"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_19_fre.arc",
+            "hash": "67BF87ADAC015A31B46B2759E7223C3EAFB4C0FB05FC817238E8FA02F4B82042"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_19_ger.arc",
+            "hash": "AD7D27AB3AB434A93BEAEBAB1645A75E2D9F5AD411CDC2095BF15C064E07A1AC"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_19_ita.arc",
+            "hash": "76515DCE96D7644F737F6875E4D27641AE0ABE048466429AA332000917EF892C"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_19_spa.arc",
+            "hash": "31AE84205E4C4F2776AF4E30E90D84F4478A9B4DECF982DE5968BFACF969F5BD"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_20_eng.arc",
+            "hash": "B8FD16EDC25FD2761052E8817737EA5C1AAA8AC930023574313C85E78C1658BA"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_20_fre.arc",
+            "hash": "A5314D5E605D62A465461B561247D1EA6C9AD15F0E080AE52297A1F29BC65744"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_20_ger.arc",
+            "hash": "B841AE8EF2B8F5597BD47A65A70BBE4024FD79FEB10358BEDD60E1B076FB8ED1"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_20_ita.arc",
+            "hash": "1C851BCD9AD1C23382B2A0229DC9F2AA465EA84D8691E301ED1B37B11222D1D2"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_20_spa.arc",
+            "hash": "3FA181D78D354F0B82C489C4025797E3A7FB7BDB910B925C908841C235340522"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_21_eng.arc",
+            "hash": "664EE156BDDA18714386B794C1B58683F9D9574DE0284290C4A106B41BA0560D"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_21_fre.arc",
+            "hash": "1A6712B6F793C1C915D044F00D16BDA32D12B105D3DE836EBA0901F824D34131"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_21_ger.arc",
+            "hash": "8B0AA22E2C9B1064B73A8A7E97264130A313B82C3F59B75800B1D50B5482E0AD"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_21_ita.arc",
+            "hash": "CB428BCE94C1BF490C62A54EA22C0CD3DBD1059EF1E4A97129F5F65F1CC9E096"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_21_spa.arc",
+            "hash": "3C71A634C7300ADBB2575227AB76E48823680E738745FCE8EAC0EADD2BCD46D3"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_22_eng.arc",
+            "hash": "38FAA245400CFCC7A86060D194CC7A5AD9F2A22FCCAD8FFC79929E2B813C09E9"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_22_fre.arc",
+            "hash": "2DFA30632372324AF6DDDDA60E0121F0F295A36D2519A4D2BCBBA031241854F4"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_22_ger.arc",
+            "hash": "A697116E3751BA6408B7955DC03343CD0477BA960EC100AC5BA76CBAF2C5A914"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_22_ita.arc",
+            "hash": "3BA271E11637C7B6A61E63C68CA5BA55A46F1AD1CD7FFDD39A305273BAD86BF6"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_22_spa.arc",
+            "hash": "9DF0AF47D569D2A73E7E207C52318971A02C028F3D319E718BC12CD6D2402279"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_23_eng.arc",
+            "hash": "545734C6BB604F8CDCEA31E0AB300DCE22B4665EFD6265D1F2831175AD34B51C"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_23_fre.arc",
+            "hash": "0D289F4B95B3127325D9347335DEA8D90DF384ED6AD7F6DB7D5D8DDFC31F9ABE"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_23_ger.arc",
+            "hash": "6B440735ACA336DDE71E543A0490A8F71D1BA6AD281AEC6A588CDF708FE9E8F8"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_23_ita.arc",
+            "hash": "092BC0CB7DECCD04266484C6B97991EADBF3C020F13B594259600DD79D2253A7"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_23_spa.arc",
+            "hash": "3A0BAE24E1B91C40C0D76CCEF8DDC8F26EFFDA234E104E1D235684F812CAE076"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_24_eng.arc",
+            "hash": "9BD4C1CEB0FDEE6BA35F0777864B270B1B9C8B27C5315A85DB2939CAAAECABC4"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_24_fre.arc",
+            "hash": "E34F28493D4F56D46CAC0EB7C958D6A604CC6428C5708B84A3BECC9F6BA8CBE8"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_24_ger.arc",
+            "hash": "C6A81B8FB4B6389E8CE0C7BDCC62B1471C3F40EE56E24F2311925C8B697CC485"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_24_ita.arc",
+            "hash": "90C2D87F5E8D0D2DB5D8C8C70810C4CDE0A5A2B7BEF6221B8BBDD40CA96EC19A"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_24_spa.arc",
+            "hash": "B505F4340313018E648B1C12899D2E953A40EBF19DB6234B77DAF2A401783B4C"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_25_eng.arc",
+            "hash": "F0BFFA15F609DBA24F387346190A45949BD7D772A2D6EE8D9A7C54E03B45AA62"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_25_fre.arc",
+            "hash": "0BF358EEC8652AC51C5BEE4D87002D6C11DF74212E15A0CB72AAD4F518F22306"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_25_ger.arc",
+            "hash": "B3A43FCCD3337828865901A230BD93A9881C3CF15BB683668AAF0D8DFB0F1BCD"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_25_ita.arc",
+            "hash": "29CB2DD69F97E16F46146EB4999ADE3D0E502FCE756974602D5863D8F71BD2E7"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_25_spa.arc",
+            "hash": "F568FB54B5D9EEE449FA2FBAA05FB8B6B5E1F15679604DDD68A564AE2B53BDBB"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_26_eng.arc",
+            "hash": "DD266A8E49A132D3E2B3DA4CC7079C67E0A974E1869227E68F95F5E8A5364A3B"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_26_fre.arc",
+            "hash": "C9398287D62DBFA08F7555C2B7DF20103B672D7164E73B6BDFFBCF537A44ADFB"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_26_ger.arc",
+            "hash": "7D02486F2124CA1EA1630C9CA70AD148C957D6DD845299C64937A3CB5DBBD61A"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_26_ita.arc",
+            "hash": "010019CF74200F12F164AAC2F0347DCA6B5BD18E9959313B8A00009B3A983660"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_26_spa.arc",
+            "hash": "B685D145AC2141C03A01E4989FF918D68BF62C7A8FCF89972C47D083C5A5D7B0"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_27_eng.arc",
+            "hash": "DED46DF4499E261AAD7433656C4CF74691D8BA7BD6BF16E9DBB9D7EF79A3F978"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_27_fre.arc",
+            "hash": "F941D914EA37332501F69CB47AAAC675D12A17ADFE94AF0C25D13B2FCBD9258B"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_27_ger.arc",
+            "hash": "F4A72439071BD4B3B4FC17DBDC1ADFD493FA026F2AF89491D209971B95817F8C"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_27_ita.arc",
+            "hash": "29BB763F9E608080B2F3D563E08C7EDACEDD70B49B38F395455FC338F30DC665"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/msg/ID_qnpc_27_spa.arc",
+            "hash": "6FB085E01CAB6589C0AC167E20C4BE56A4B0069BDB9CAAC349A70964730F3F00"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/quest/ID_hanko_01_eng.arc",
+            "hash": "50A255BE3B31BEDAEB201325C29E257FFC2E90FEA5611677796CE1241B89578B"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/quest/ID_hanko_01_fre.arc",
+            "hash": "9CC957ABC76CC4B504E3844F80459D62F1DC9B81BC39B1286C34CCDB9172F602"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/quest/ID_hanko_01_ger.arc",
+            "hash": "FBEF72A6651B1D25BF9532205744E7F3B3484B2FEC529A5751C61C6E4A4B2539"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/quest/ID_hanko_01_ita.arc",
+            "hash": "BDD58A65F35FF03B5CF39D9214F1AA31E1F9C3F7DCD4D09994A52B8AB6928592"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/quest/ID_hanko_01_spa.arc",
+            "hash": "9A98C77042E1AE3E78D1AA6F77F770C33C3A8106E9CA01146727D73EB637D590"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/quest/ID_hanko_02_eng.arc",
+            "hash": "34A2DB6ED520AFDDDCED757347A0D40765C968FA9C04E7D17ECA5AF15BDFA735"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/quest/ID_hanko_02_fre.arc",
+            "hash": "26F3731ADFE913C41CB0FAA15B656BF5E926B10DA7044865726918533271668B"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/quest/ID_hanko_02_ger.arc",
+            "hash": "0004E9527650A3A0564366900673407AF8E5D537305E4B513EDEEB2F2F1725D6"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/quest/ID_hanko_02_ita.arc",
+            "hash": "A73A87670DB3CF0298B99C073583C4FFB7BCAB9B193DD6818D227A76D42463EB"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/quest/ID_hanko_02_spa.arc",
+            "hash": "40B402BE42908F2594D11727E3818AF313F258447168379D66C30F9B54DEB100"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/quest/ID_hanko_03_eng.arc",
+            "hash": "6C707C9B7D604B5B4787306A58FDC9BCE12C7828D736F5C9B1DDCD3A649BBB56"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/quest/ID_hanko_03_fre.arc",
+            "hash": "9F6C4AC37D722F062CC7F7475B9EDF690F1F593AA428CE0AB9943B5FA7AA494B"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/quest/ID_hanko_03_ger.arc",
+            "hash": "EEFB2B24E8B2A27206F5DC7627B190037D4E4AA2C37FDC1AC8B61771A3275505"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/quest/ID_hanko_03_ita.arc",
+            "hash": "BEF305F8F0679662680D479F54B5F7C5463C39BF01BE617CDB55FC211C6EC2C4"
+        },
+        {
+            "file": "content/nativeCafe/arc/ID/quest/ID_hanko_03_spa.arc",
+            "hash": "8B32F75BB4407BAE47905A175AAEC7DF7FADADCB48002DC057CDAEFDB532624A"
+        },
+        {
+            "file": "content/nativeCafe/arc/ainpc/ainpc.arc",
+            "hash": "4E924BCCEFD3D03AD619FED2DC1F78291A51868DD627DC476D3EB2C464C62229"
+        },
+        {
+            "file": "content/nativeCafe/arc/ainpc/mask/mask_000.arc",
+            "hash": "A8C23A9EDA171B30A896DDF02DFF2039A9DBF6A57BBCD1702DCCA3D6D47EC13D"
+        },
+        {
+            "file": "content/nativeCafe/arc/ainpc/mask/mask_007.arc",
+            "hash": "9239914E0B79B0095D9413FEF3AD2359093719AEF2217F62CB9EA0FA255ED1CF"
+        },
+        {
+            "file": "content/nativeCafe/arc/eft/cmn.arc",
+            "hash": "F0311676E2F110EC5769A11D42569A5555EB740FA0CE5042993D25241E83A7BA"
+        },
+        {
+            "file": "content/nativeCafe/arc/eft/lava.arc",
+            "hash": "7933FCB02F36E43697A0537785B8078BC2B58A6079DEEF44301615101A41C040"
+        },
+        {
+            "file": "content/nativeCafe/arc/eft/lb.arc",
+            "hash": "48BD790BE24A1A1494D6DDB849F1E9839DD1F45D2C9B256C4054246799ACC366"
+        },
+        {
+            "file": "content/nativeCafe/arc/eft/qe.arc",
+            "hash": "E1F8119FCC049EE2DA5D20475EC1275B4D55E26350FBCA6096D772800C1188D8"
+        },
+        {
+            "file": "content/nativeCafe/arc/eft/we/we_000.arc",
+            "hash": "4ABA3877B8D9F369EC3E45BB3F01CB5D05713CAD5F7C9CD98CF994FA95335797"
+        },
+        {
+            "file": "content/nativeCafe/arc/eft/we/we_002.arc",
+            "hash": "2DD3585531AECF17CEC99DB034B64AC3CCC0A3C53F002D32AA09974DDA7B98A6"
+        },
+        {
+            "file": "content/nativeCafe/arc/eft/we/we_003.arc",
+            "hash": "B82C313B666A0FF75A3CC50E8F339EEB5E12CDD45C76A806DE451E34130A9F6E"
+        },
+        {
+            "file": "content/nativeCafe/arc/eft/we/we_004.arc",
+            "hash": "064FBFCBF77411F1B16C0D074D3709368305F5B623127FE0FF61A4EEF1D9D13D"
+        },
+        {
+            "file": "content/nativeCafe/arc/eft/we/we_005.arc",
+            "hash": "F384655B1F9BEAC8469EA153015A682D4A2AFE590E0494B3462ECF7FCFD6394C"
+        },
+        {
+            "file": "content/nativeCafe/arc/eft/we/we_006.arc",
+            "hash": "15D4931EA8BD0238EF43AE76894735873143CEED7CEDF9D53D42A14B7278FA1D"
+        },
+        {
+            "file": "content/nativeCafe/arc/eft/we/we_007.arc",
+            "hash": "EC6EC91289FEE96BEF516C260BD025649A0B02CABD03FE4D19759287169FF168"
+        },
+        {
+            "file": "content/nativeCafe/arc/eft/we/we_008.arc",
+            "hash": "889422ECE68C7927180EFA198FC4DCF064F0C67E869713C097C4BE610DC50BC9"
+        },
+        {
+            "file": "content/nativeCafe/arc/eft/we/we_009.arc",
+            "hash": "C063BA583F8C755C851C71B02768FCDF161F432448F35CD68185748763786F6E"
+        },
+        {
+            "file": "content/nativeCafe/arc/eft/we/we_010.arc",
+            "hash": "BE69BFD2F06A64408B75AC1D5F29F9B03D75C2926614349CD27C0AD6B3D52608"
+        },
+        {
+            "file": "content/nativeCafe/arc/eft/we/we_011.arc",
+            "hash": "3E0ADF6FB19C161060F172685F1C263BDF8FA552679178249927C7CA77618FCC"
+        },
+        {
+            "file": "content/nativeCafe/arc/eft/we/we_012.arc",
+            "hash": "EBA49FA0BA553325F4DB9A4FA8F74F747569000A497C7F0C605FC4A22A5B7680"
+        },
+        {
+            "file": "content/nativeCafe/arc/eft/we/we_013.arc",
+            "hash": "3EA977BCDA2AD16B0CBFD88D5176268EDF839E9A5DED7DF2186281C7D6797D34"
+        },
+        {
+            "file": "content/nativeCafe/arc/enemy/em010.arc",
+            "hash": "0DA7AEE7ADF439E3A3C94FC4BEBB506E16D2E0695CFF3B74E095207CE5D1D974"
+        },
+        {
+            "file": "content/nativeCafe/arc/enemy/em011.arc",
+            "hash": "5C0D1ADE7C48F070D948C4182005E6CAF545635C181AB0E0660C3160C43FF88D"
+        },
+        {
+            "file": "content/nativeCafe/arc/enemy/em013.arc",
+            "hash": "228ED5B42F394BAB15FE71FF08F67891460E174B14CBA4714F7EA6162677E5DA"
+        },
+        {
+            "file": "content/nativeCafe/arc/enemy/em017.arc",
+            "hash": "5557605ED30EC5D1EDDD62A4F4A3E092D74557D75E15F1FCEC33155FA3AF7905"
+        },
+        {
+            "file": "content/nativeCafe/arc/enemy/em023.arc",
+            "hash": "D089696576BF813FF03615E2059D6D980E96609EDDA4F411578709FACCCE4B25"
+        },
+        {
+            "file": "content/nativeCafe/arc/enemy/em026.arc",
+            "hash": "B3F722AE7A77DB35BBAA71C70847982E667C18DF15694F8D09EBB89C0CB5EB2A"
+        },
+        {
+            "file": "content/nativeCafe/arc/enemy/em027.arc",
+            "hash": "5B8C32A26754A1A1B56F98298705E47AEB6A13359F72E2C612F6C542A26D8DF5"
+        },
+        {
+            "file": "content/nativeCafe/arc/enemy/em028.arc",
+            "hash": "FF04FC740CF1F6B59DB6DC1A41AE3DCE831A441B1C60FBE0C10F0429297A418D"
+        },
+        {
+            "file": "content/nativeCafe/arc/enemy/em030.arc",
+            "hash": "58A8C2EBA2B1DC8FCD66795D6CB51DEE4127E52A67332DCB5EC9A2440FDFE0CC"
+        },
+        {
+            "file": "content/nativeCafe/arc/enemy/em031.arc",
+            "hash": "1A6BC57CC1BE481BC3D6BABDCE9C180D1C93AC5AEF46AAE549D9785E448FB3D2"
+        },
+        {
+            "file": "content/nativeCafe/arc/enemy/em032.arc",
+            "hash": "76176DECB8DED7710864EF766B4D5EE3ECF05CC3691B5CA58FC31AA3616FC6D5"
+        },
+        {
+            "file": "content/nativeCafe/arc/enemy/em033.arc",
+            "hash": "DF69E33B2A7F146DD39C1D6B93861E4C3C1402844F7131C199E875121B222BB1"
+        },
+        {
+            "file": "content/nativeCafe/arc/enemy/em034.arc",
+            "hash": "A7A224788BDCBE77E35CF0B7C4B29879BFF924987927030409100057CCE09B5E"
+        },
+        {
+            "file": "content/nativeCafe/arc/enemy/em035.arc",
+            "hash": "D3EE09F2067C4CF79D3FA4D966801130A29EDD599F6EA0F2EE3CBDB0864AFA55"
+        },
+        {
+            "file": "content/nativeCafe/arc/enemy/em036.arc",
+            "hash": "8636D962B7C6F5137B00F29F69110A945B9ED7CCEC38A44645CFE17C56D2C7FC"
+        },
+        {
+            "file": "content/nativeCafe/arc/enemy/em038.arc",
+            "hash": "CCDCB994DC66532ACCE8DA50108937206A95F0871DC28394E3F0A9DD5D5FB619"
+        },
+        {
+            "file": "content/nativeCafe/arc/enemy/em039.arc",
+            "hash": "77232B450454F92974DF7258806432E95FE90BE8D38D5AE0FF06E8BE005C6D59"
+        },
+        {
+            "file": "content/nativeCafe/arc/enemy/em043.arc",
+            "hash": "D08868638B98041805FBBA8AB5807ED55EB313619B8B089CDC7DBF31252C3108"
+        },
+        {
+            "file": "content/nativeCafe/arc/enemy/em066.arc",
+            "hash": "24C5BDEB066C395EB945CF7B365AB4994F591E0D8D17E993E13A930F2D7F1E29"
+        },
+        {
+            "file": "content/nativeCafe/arc/enemy/em077.arc",
+            "hash": "70D05FC59B56628AB030DB6C2DB59A92EAEC891ED8B7EA21D7998D402F713DE1"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/f/face002/f_face002.arc",
+            "hash": "18FBA973FB7ECC7EACC85CB11F935EE55F8D3F1A9F63EA7B878F136A4F00A461"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/f/face003/f_face003.arc",
+            "hash": "D284EA4552D914448A5CFE2C22DC00D23A72C80EA1FF2F36EDAD663B0B5C1D1A"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/f/face004/f_face004.arc",
+            "hash": "FB2B89C7861BAFF2D5E507534EB8F85837E4613775239687D967EF23755B9DAB"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/f/face005/f_face005.arc",
+            "hash": "7A514C1E2C568B5BF5902D2536DF8F1E07860205CF2C06C43570EFA829E80C9F"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/f/face006/f_face006.arc",
+            "hash": "AB5E6D1D4B51D8D85098FF32BCF2C2BAC9CF05F3D38F14B0A617B9221935EE7A"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/f/face008/f_face008.arc",
+            "hash": "8301776998E631E8321CC3E2E7AFDBB888CBFB90295A20011371927D0E37C7FA"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/f/hair000/f_hair000.arc",
+            "hash": "DC41F345295EE59F108710D3784971F45432474F6625A08D10668D26ACE298F2"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/f/hair001/f_hair001.arc",
+            "hash": "A991B3D5AED86B00B0814B00DFD9408A2641E8E629FEC35CB6BDD8AEB442D48F"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/f/hair008/f_hair008.arc",
+            "hash": "7D4FD0AF5E5C5663920742E55DD5FE916E869685E50E5382427C3F1B5D4A9FD3"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/f/hair009/f_hair009.arc",
+            "hash": "612FB09199CF09E6F0F15A74B87C110EC6B38872C73EC4BB5B0E9480A2B6F57B"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/f/hair011/f_hair011.arc",
+            "hash": "73387D2E33E78B485FDED553AEE0A8A0CFD711ADB874C4D7382A477DA3FC3ADE"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/f/hair012/f_hair012.arc",
+            "hash": "D31C146927EEB9F44A078F2DE13D1D56F3FB50D822A432DF13965FFE38C9604B"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/f/hair013/f_hair013.arc",
+            "hash": "1613415342E72A97F861488B9DC378912FDDB58A1154410790BC6A68295C1265"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/f/pl037/f_arm037.arc",
+            "hash": "0C53E85A3F4F5C1DC6CE71D3A1C8AB1E348A87AB537964FA38A60098E46BAD14"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/f/pl037/f_body037.arc",
+            "hash": "C14A198AA2F7DEAEAB67B693FDE41CBE197DD25A836B136FB2ECAB0017EB3365"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/f/pl037/f_helm037.arc",
+            "hash": "7270947E3CC21BEA03DBDD744E32BEACE1C8798F3585C4756E897B3D866D1028"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/f/pl037/f_leg037.arc",
+            "hash": "4AA60E232683B1D583576AA84D3C5D636FCF2C9F04093C33986DFBD7B4B96D53"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/f/pl037/f_wst037.arc",
+            "hash": "B719833EEE7CD9347519AF06058F837EB36989ECF7D888B050A76558822FBD8D"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/f/pl090/f_arm090.arc",
+            "hash": "E76BDE08BB396922E5DF24B781A04C064705177B713ABA494853D801E2B01107"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/f/pl090/f_body090.arc",
+            "hash": "520A6224C0098177653F3212CAC75644BA4CC98932E97946BD9991BE1304C9A2"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/f/pl090/f_helm090.arc",
+            "hash": "54809D1C0EEEE5492D462DB59F78E8E63A0DD6BDB48457A0270C8D34D5E7D784"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/f/pl090/f_leg090.arc",
+            "hash": "479027047A2F13FC3492B8D1C747387712B2955625FB0D7A620F3DC2CB6BDF7B"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/f/pl090/f_wst090.arc",
+            "hash": "F561D3E2AFCB5541F5B60CC384290457D0FF89A4D27D4EB9F67F207A8204E7FA"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/f/pl094/f_arm094.arc",
+            "hash": "2454225B31263C9DD9F2C059FAA1ABCA237A98C17327AD93131DD810BEB09173"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/f/pl094/f_body094.arc",
+            "hash": "05B112647AB2CB258AABF453A2D46F861802BC06A112C0B3E1AF2266499E00AC"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/f/pl094/f_helm094.arc",
+            "hash": "CCDF8D1A21AB37CCA1725EA960F947150FF69EAFA046D535B0F0E8D41E9B33FC"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/f/pl094/f_leg094.arc",
+            "hash": "81D72AAE937674395CD3323E3C6FBAEB67DD84C97481CA824BFEA2E4F7BF69CB"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/f/pl094/f_wst094.arc",
+            "hash": "4421CC296AA31A09DFF8A2ED0FD905B157DD913663B2D7160498D148B76BA77F"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/f/pl105/f_arm105.arc",
+            "hash": "BCA15E636F7E5CBE486C15E3BE2835EAEF9B594E5B3A05197A4D16449F9D5DE4"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/f/pl105/f_body105.arc",
+            "hash": "F5DA40582FCC99C25962141505C39254E9A43A3D0773F183CEF674664037FA2E"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/f/pl105/f_helm105.arc",
+            "hash": "9AF08E70DD0EB84E26D067FADA86B547EF919F52165BAFD9AF4212868C9A73FD"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/f/pl105/f_leg105.arc",
+            "hash": "9B8F569AFE3DBFF1FC5E70441DD3DF733A5BF5EE144FDA0465ED75B486C1AEC8"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/f/pl105/f_wst105.arc",
+            "hash": "FA1ED56EEC237BABAD54F125F4EF47ACA3286D2EAEA79358E327A36D38CD9C9C"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/f/pl118/f_arm118.arc",
+            "hash": "6E3BE92912266CA45FA792CAED8A5FF7C92B908348BF5636062C83B046ECCC41"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/f/pl118/f_body118.arc",
+            "hash": "C4C10F757EB20EF337E02EF41DC01B8406C6537CF4EBA4E77B4E0304ABF50C4E"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/f/pl118/f_helm118.arc",
+            "hash": "4B722AD4FD4CD576040B9F765A5022AAFECA2FFAD2F03C16E1AC4FDDAFCE7322"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/f/pl118/f_leg118.arc",
+            "hash": "FA31D524E10F0CC29ED41DF939147A5639D27BE411FE9639025EF134D35C1523"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/f/pl118/f_wst118.arc",
+            "hash": "9C604A425F04CE70B14D5435F3981F5570395B674BFCE0B0012491B7C5E3F1CF"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/f/pl123/f_arm123.arc",
+            "hash": "76E39BE8E048B72EE5CD89A4B6539613C43F1D1184730EA76C1930470338EC21"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/f/pl123/f_body123.arc",
+            "hash": "6567B0B7CAB5024F93B0292DD6F0D288117C7333DB6B4EEB8311AC892021C239"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/f/pl123/f_helm123.arc",
+            "hash": "0099DD270FFEA5CDF53C5A708879C891CD894D35DF62DDB6A00478D1756A0C67"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/f/pl123/f_leg123.arc",
+            "hash": "2650FECAFDF483CF18C6429799D22DCCA14EEED6C60267E22B8FBC112F5B0D10"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/f/pl123/f_wst123.arc",
+            "hash": "BAF7ED4FDDA5C65194C1E0AE4FB9CB7F4C8FC704FB632A8B69846C7E6B264D5F"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/f/pl150/f_arm150.arc",
+            "hash": "E467850B33336EA0179FDCA1933F82991198AA8324F9DE83FC8BACF068844B16"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/f/pl150/f_body150.arc",
+            "hash": "704384CF72F2B224A8EF5CA9D48F116CA7551959422E3ADB66CD922FC6440AB8"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/f/pl150/f_helm150.arc",
+            "hash": "38AE8DAEBE2CDC92084A2B35358A1E216C613258DFD771FFBDCDFEEF54DDACA1"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/f/pl150/f_leg150.arc",
+            "hash": "B190D11C7DF8AA45624DFAB9BE35769EAF43108017F7E5F85C0261006BB53001"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/f/pl150/f_wst150.arc",
+            "hash": "067CDB08DB6CBE51527F5E249172DD0E33816E7DB7A09EEF446C46C7FC65E227"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/m/face001/m_face001.arc",
+            "hash": "85D184D0542A60B0523FB39AAA228CD145F84BD3A4C3E3DCB1EE4E9B0EDB7F94"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/m/hair000/m_hair000.arc",
+            "hash": "89D0439A53F168EC2A9CB89308145D1E50E1E5C92B02103824B659F7C5D7313F"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/m/hair001/m_hair001.arc",
+            "hash": "86D96F6CD7FD5FAD7D9CCE5213A1284A73D675DC4CF3D0D3F22606EB86381E81"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/m/pl096/m_arm096.arc",
+            "hash": "940689DB2D6AA5A19077DD61075511350130543F83F2C04DB19E59D5D00A5B39"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/m/pl096/m_body096.arc",
+            "hash": "34D8D83A0ED655C39D14F999E69396DF58E9750BFD728FDACBD58D8A417AE636"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/m/pl096/m_helm096.arc",
+            "hash": "3BECC1991756A9A8E312B90A531433B13DCB95092A4546F58123123562BB520F"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/m/pl096/m_leg096.arc",
+            "hash": "B72E7BC26A600DA2941EFECDCFE4999EDC41A5323FCC95EAEB66A082CF204B0C"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/m/pl096/m_wst096.arc",
+            "hash": "3D54AAA941A7D0B399DCBAB4316EAEC0D0DF5F26E3D069B75B9AF64A2F298FF9"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/m/pl100/m_arm100.arc",
+            "hash": "70A625E00199CD15A511E26BBCA74E831A382C3388100D14675CF1B83346E278"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/m/pl100/m_body100.arc",
+            "hash": "A6ACBF16BE2D3160841C2ED2F6CA911150A6800065BEC4C84F9519122CD8F32B"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/m/pl100/m_helm100.arc",
+            "hash": "DA04C6A6909FDB29A9173499152B19F5D90A097F28419C09EBB167D6EADEB2BF"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/m/pl100/m_leg100.arc",
+            "hash": "E007708CACEE47D9BD444F055415DCE05BB4F3736590FC7D89DCD6240901E330"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/m/pl100/m_wst100.arc",
+            "hash": "2F0CA2972AA70CACA73D18E08F8FA42D77BBD8EEA907BA88BA7EF79C0F55D95C"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/m/pl112/m_arm112.arc",
+            "hash": "5277D39423957D54FF6F3108337C9A97D5320D143B68E6E472B6DE8758445525"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/m/pl112/m_body112.arc",
+            "hash": "7852FFA1B7C68567E02E4DBC1B4BE45AA6E5E57E36D7BB933532965702BC21D8"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/m/pl112/m_helm112.arc",
+            "hash": "A568A516888D914A2E88DD20D845276364EEC3E67F5485B4C070B24B8009C468"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/m/pl112/m_leg112.arc",
+            "hash": "5176B92695675B576A9E73FE6323B736BA9BC7150E56343E6FDD5BEE9F19D44A"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/m/pl112/m_wst112.arc",
+            "hash": "5240D6787DCE5E6FA917D277B81DD0B737A968653BD4A2D00DDE058A14F1DD8E"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/m/pl116/m_arm116.arc",
+            "hash": "FE07FE86F1389EC0B344E9400A4C296E02BAA1820B02DF60334C9A935F0E0DBD"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/m/pl116/m_body116.arc",
+            "hash": "492F54B278BEE56D4DD122C8EAF4CD91F5B231617475C789EABA8FA8A3D834F6"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/m/pl116/m_helm116.arc",
+            "hash": "9D0FE6803F4B9C305713A48136ACCC5AEDA18E2133B910E43F81901651042C79"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/m/pl116/m_leg116.arc",
+            "hash": "57A6E04698AE40E4190B44569A1A7E9966BC5C4235730A02CB0EB3CBF7F7C38A"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/m/pl116/m_wst116.arc",
+            "hash": "2D33A6CDDDA7BCB155E3F5FC257085C1E2801850D5E8D3882ACD921FD6EDFA8A"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/m/pl153/m_arm153.arc",
+            "hash": "CA2F72D25C713B3806A73F037993548072B11295B5D143F39514DE7B35734A98"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/m/pl153/m_body153.arc",
+            "hash": "9767E4051230F7512DFC43B77336D8C4E06A032D25D9F2527954AAD1C3CA192A"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/m/pl153/m_helm153.arc",
+            "hash": "02088A321BCF3A39122F0E4C6DEA8C9267C0288ED1ACCADCFBF2D0A13FB8E75A"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/m/pl153/m_leg153.arc",
+            "hash": "C380FAA46A7128EEFD785E24C8F139EFE61F68C1D6ED2AACC47405B723AF8A82"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mod/m/pl153/m_wst153.arc",
+            "hash": "D01F89C33313E11C9318336E9B307438FD3F03E3F19A1986F391F8975C8BCCD9"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mot/mot_plcom.arc",
+            "hash": "CB8D78213422A8DB2A2B4987504474365CD50B6167F6AD787835C4062042E306"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mot/w00/mot_w00.arc",
+            "hash": "B5C024BFEBAFFD5FE1CC7C332C88A2A9C3A554981DD681DB3DA25A976F82B817"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mot/w01/mot_w01.arc",
+            "hash": "ABC7431877C06E1DEA16F1949B1AD3FA5B736DC8B7EE0A4184DD81E5697CFC21"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mot/w02/mot_w02.arc",
+            "hash": "343787C10143842A05DEF327F916EA1E63A49ECC2FF63AD74788697E3D443144"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mot/w03/mot_w03.arc",
+            "hash": "0308EC98DF03370DC26A0BCB72A431BCF9B916E0F3422AEAE909113A4D4F569F"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mot/w04/mot_w04.arc",
+            "hash": "BDC43DF4579A80A3EE305B889F3C069BA2AC26625FBC02A3622843717140CD6A"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mot/w05/mot_w05.arc",
+            "hash": "0E5F74337053B1745AA7D11B920CD90927F2CD7F0027BEEACEFFCDAED02DF538"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mot/w06/mot_w06.arc",
+            "hash": "171FCC4E53982ABBFCA2DD110EB354254F9DAB9F527D2E980106573720FA7135"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mot/w07/mot_w07.arc",
+            "hash": "5CB2F15499FBFE7DBCC3938AF5C3841554D606127D8F8CE47327A99692EE1DA5"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mot/w08/mot_w08.arc",
+            "hash": "8D485A4EFC00FDE137BBE021A195836DAEB80A991F44C5E339AD19DCA888B469"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mot/w09/mot_w09.arc",
+            "hash": "4104A022784A66BFBAF1FCBB48BCAB28E76073F509F5039AD5D0F808A4D8FE5F"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mot/w10/mot_w10.arc",
+            "hash": "A09B0D4AB95694473E5516D183FB49863046BC64AC57335BE04E4A31ED8E433E"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mot/w11/mot_w11.arc",
+            "hash": "C0A189490C026DB406294E7755A420FB043DEF58CA1F7678971EC6A566860BB0"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mot/w12/mot_w12.arc",
+            "hash": "A2DBE906151F3E5E5451CC8CD24870EA703C094031988A63D26BA999EFEF04D2"
+        },
+        {
+            "file": "content/nativeCafe/arc/player/mot/w13/mot_w13.arc",
+            "hash": "6DCDC34EC22EF999D69C6DAA874A02E78F95B81169A4E5A00DB16A2A76590826"
+        },
+        {
+            "file": "content/nativeCafe/arc/qnpc/qnpc_000.arc",
+            "hash": "998B71072C166429D275BF26D810B1247525DD05BD42E9126ED5EE31A3C292B2"
+        },
+        {
+            "file": "content/nativeCafe/arc/qnpc/qnpc_001.arc",
+            "hash": "95917994A84BFA78E2A53A7764BF4A27DB9342984E2675F14F813C6371943FD6"
+        },
+        {
+            "file": "content/nativeCafe/arc/qnpc/qnpc_002.arc",
+            "hash": "DB48BA8FCA9C462CFE1BC2D317BCA93A35EB68F9202B7716BAB915B463454C1D"
+        },
+        {
+            "file": "content/nativeCafe/arc/shell/shell.arc",
+            "hash": "AE39F1E4CF1F62E74773CAA7118D2C517058FAE0F3325F3B7ABF7831D8B8CD8D"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/ainpc/com/snd_ainpc_com.arc",
+            "hash": "083D846045FF91296AFD161ACD9098A58C6067CB3431EC4AA705F8D4B2D554BD"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/ainpc/dance/snd_ainpc02_dance01.arc",
+            "hash": "9E39E6DA008CA5C9E1C7524D7C8CD2EFC8A4C72E0D2AA68BCA79B61302090EB1"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/ainpc/dance/snd_ainpc02_dance04.arc",
+            "hash": "2EE756584C8263C0D2347A02F39A303293584EFB5875F68F3F0AA96B662539E1"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/ainpc/dance/snd_ainpc_dance02.arc",
+            "hash": "C50BC6998987A277F2C0BEBFE419D41C3785DC2E00CDE6572354F6AF5BEC5323"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/ainpc/dance/snd_ainpc_dance03.arc",
+            "hash": "789B253DB7CBF5382E2A67B272003C22806C539E531EDD4DF0C9847C1C7E01CD"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/ainpc/kamen/snd_ainpc_kamen00.arc",
+            "hash": "291B465AF3A6A0154D218A8C2FF478642744D080B6276DB3CF2FE9F165931158"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/ainpc/kamen/snd_ainpc_kamen11.arc",
+            "hash": "02D8DF1B7FB7FFF86C8B08FC5B1A8FCCA008368B1E33C0D26C043C2D658BEA65"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/ainpc/vo/normal/snd_ainpc_vo_normal.arc",
+            "hash": "5EF0039E6734536E70C5697AB02B8C37BFB5D8FFA80A2D2290E400728F4EE278"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/ainpc/vo/normal02/snd_ainpc02_vo_normal.arc",
+            "hash": "9929B7DD449E387607A21BFE732238F700A18D5E0F6D4EB718566A2A76AF8E76"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/em/em010/snd_em010.arc",
+            "hash": "E785B81705B9FBDCFAEFBAEA7AB0CCAA8BA5C2FADC465F140EDDA552E8B0E41E"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/em/em011/snd_em011.arc",
+            "hash": "780B4FF32D660FCC06156E9C751C028981FACE97F0FC6CBEF01E64D0CA65F2CE"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/em/em013/snd_em013.arc",
+            "hash": "5746111749ED31C98B1CF22CBEB51659BB0F674E9F3D41DA76C4B1FCA3301416"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/em/em017/snd_em017.arc",
+            "hash": "5CCF66EA03C0DE78C9918A52079729E2B653C0DD0E69001BAADFC3E89F9AD959"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/em/em023/snd_em023.arc",
+            "hash": "0E2E436B6F0822958D63798804D3A710D46FB318151341DD275E56CC645D1131"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/em/em026/snd_em026.arc",
+            "hash": "70133C759A23E24F6A4C9E610326F094778A25E4603401C35F0E24E643FE9198"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/em/em027/snd_em027.arc",
+            "hash": "B369F26B3359C62C6AEA0D89C322D9300DDE408AFEDE22177DB31D57A036330B"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/em/em028/snd_em028.arc",
+            "hash": "7A90B4E1D957391358F33EA31673E1806C9EE4E03376C86E93B38891CBEDE478"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/em/em030/snd_em030.arc",
+            "hash": "4ACBBFA8BEF83B62CA4569612C1DE931AC7BB1AD9ED1AA65BF147580166C76CE"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/em/em032/snd_em032.arc",
+            "hash": "59203A70E383AB25B458BD08E6857AA1A8ED85F01BCE604B5D640FE4FCAAF2AB"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/em/em033/snd_em033.arc",
+            "hash": "F8CC5FAA84C8C62A761374DFA69AD61B208B1FE0219D020E8151D537BB1E7099"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/em/em034/snd_em034.arc",
+            "hash": "E307C0338D062390B42B15FD1E37ACCB9A795973CC4CA29612B11A3F5A4022CC"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/em/em035/snd_em035.arc",
+            "hash": "8B9B7C1AE73EEA3B99E7A4A6A258CB175C232B5BD96AAB16B8B3573C3E83A503"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/em/em036/snd_em036.arc",
+            "hash": "882B2AD6A2E7025698BEFFE9CA450FB3DAA64D5B5B6972751A3991FEB28D1994"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/em/em040/snd_em040.arc",
+            "hash": "F268F3AF2E6F279410A5D365FF7602480324639B95BAF999056BDED1EDDDB6C6"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/em/em043/snd_em043.arc",
+            "hash": "D8348944EC02AED2E60FA0B571A9D2F342F3F0D6F5D47B0FBFA3FB292BAFC8C2"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/em/em066/snd_em066.arc",
+            "hash": "2840C2B041A8804C16BCDC2BA08037097F4502C68515937A596D924CEEA35D21"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/em/em077/snd_em077.arc",
+            "hash": "CB33C5A90CE17CE36B9ECE4B0459A5CE1182D79DC378030BBCA0EE5D319FC4C4"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/jingle/realtime/snd_Rtime_Jingle00.arc",
+            "hash": "F7F8488CD47B7740ABD6C075BE421D9D2B94A619ABC2889EC15E4BC9C61DA585"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/jingle/realtime/snd_Rtime_Jingle01.arc",
+            "hash": "64FD3150409EE295C6348C1575062516A87458C286B8803B130A3AD442B85E13"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/jingle/realtime/snd_Rtime_Jingle02.arc",
+            "hash": "82CC11480E31D3CEF7B9D540340DB976464737D9249A555DDB5D1B52C31E6B4F"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/jingle/realtime/snd_Rtime_Jingle03.arc",
+            "hash": "3ECD6C7AEB3167DE4948AA499E01E7AAB8F71B503D5F2E6469D140B53AEECEA5"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/jingle/realtime/snd_Rtime_Jingle04.arc",
+            "hash": "36FB87F7D4714F3297BFDB6F61488E9E11F6274E30A914EE11359681DFB8970F"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/jingle/realtime/snd_Rtime_Jingle05.arc",
+            "hash": "D9893183172BB10ACABE0598C22FFCC17DF35F273872D1452BBA9D025BCC5952"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/jingle/realtime/snd_Rtime_Jingle06.arc",
+            "hash": "6EBEA9845BB5E9F0BB0CB2052078B921E067305FF411CA17480E824044DD2658"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/lb_cmn.arc",
+            "hash": "282021BE437EAC22C54B069B1ED5D4E2C58FA50324222067819D46AEB9BF0792"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/map/01/m01_a00d.arc",
+            "hash": "E4CD77118CA509C1CB1BCC33267E866BAFFCB8CA9032E65FD13DE9EC847E10D7"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/map/01/m01_a01d.arc",
+            "hash": "77B4BA6A450C72BC3493859C8332BB28539684B2D0DD85D548F4B9D95476D840"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/map/01/m01_a02d.arc",
+            "hash": "8CA90D74021D5F55AEF58E63E8E54DBE242691458E68DD38B08D71F55C4D3B1A"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/map/01/m01_a03d.arc",
+            "hash": "939C7FD99A95839464ECAF718F2FD783EDED22416760AD709FEAA32466399AB3"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/map/01/m01_a04d.arc",
+            "hash": "9235A10F54752E9295141177821129026FA16220FE456E3EF789B3518235A8D7"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/map/01/m01_a05d.arc",
+            "hash": "9A7FC14D7D6FD79ED1E6305F5FDE79710F190C28F5E62FEE1BB10A45E5448E94"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/map/01/m01_a06d.arc",
+            "hash": "EFE60B8FB20227185188F5235DB54ADA737EA0314B123E6D5AD636CCA436918D"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/map/01/m01_a07d.arc",
+            "hash": "15E00DE38440203102D4393A52DF02A530BB9431927F5578FC7776966EF297D2"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/map/01/m01_a08d.arc",
+            "hash": "A96B6468B29FAF08A7FC166F18C55524D494ED9A89F62773E219657C4B00AD08"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/map/01/m01_a09d.arc",
+            "hash": "2955E4BD64181C3922AF8823CE3593D99871CF52FBA8B006003E6A7671541E3B"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/map/01/m01_a10d.arc",
+            "hash": "E255A251D99EEA6AD97DB946EA4EC90415C51B0E1F7DB765AF387575DFABC0DF"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/map/01/m01_a11d.arc",
+            "hash": "C5FDA5C779B91266A48BC91C6046DDBBDD53FD11D4422DDC9C70D0652578A15E"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/map/01/m01_a12d.arc",
+            "hash": "1B69309CB803A47536A99DC062B1B4F637D88ED7BF76A3B217FA1EAAD2A1E23F"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/map/04/m04_a00d.arc",
+            "hash": "8182E03666DD39B38DA5E13C29DCB7BE7D406618D6981AC756589736887673AB"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/map/04/m04_a01d.arc",
+            "hash": "810D785FFE9EEB48D044D93547E7F33C8CED42AB739ED0E74797919F108ABDB1"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/map/04/m04_a02d.arc",
+            "hash": "43054256D17AC54DD4929FFF80F499CB14FBF5C7576ABBED21AA827865A29F84"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/map/04/m04_a03d.arc",
+            "hash": "716A2B82883C80D27AE9390D49B23555139323970CE83794CAFBE77B55EFBB0A"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/map/04/m04_a04d.arc",
+            "hash": "35A7073CABD31B84FE0C5E39B409183E9A7E497261047A203D59986E4625E0CC"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/map/04/m04_a05d.arc",
+            "hash": "5EF04A20A4262EC7B1EB3E9BC39CF33488A02F5C42E30F1EFCBCAB3C9562F7D5"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/map/04/m04_a06d.arc",
+            "hash": "6958E91F330E515039D0D760FD3AFFBD358A6219414E4A70E1A097EEF348DCE5"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/map/04/m04_a07d.arc",
+            "hash": "7F7D43419715BBF6CA171DF3F4EFD94F86612E3EFE22457A5F3B0722D5B27FBD"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/map/04/m04_a08d.arc",
+            "hash": "D2F55466075FE5F183CAA957DBEA09E09D01B73460671F1654B87268C29640B2"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/map/04/m04_a09d.arc",
+            "hash": "D68822F3FB1AE18B09277F824219F25FEB0E5F6ADC6200E6A5613036B65E26E8"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/map/map_01.arc",
+            "hash": "2B44B24F9ED9D759C726C9E02082B6F398E30EFD3EF8C089BF4800CA0FAC8041"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/map/map_04.arc",
+            "hash": "86B431EA2864A6ADCE82E1CBA314DCBCBF480E6E4EAC6C5E74FE61A6FE323643"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/map/map_15.arc",
+            "hash": "F5BED2961F5D46958046446936FFE845EFEA95382BAB750590EB72329D445181"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/map/map_18.arc",
+            "hash": "22E1228E939D637300A9ED1C38C436DBD01FAE5FBBBCA9B718D4A5B240334ED9"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/npc/quest/niguruma/snd_niguruma.arc",
+            "hash": "CF98035296689168199E719183FA5F80A20140CCCE5D58A388C838D250F5EB8E"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/npc/quest/sansai/snd_sansai.arc",
+            "hash": "9AF77F92322F41E36BB0A4C42890563519814EE90D037862AC92065B33094880"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/vo/f/f01/snd_pl_vo_f01.arc",
+            "hash": "8147A26655FAB231517A003D66763A0413BFE2629B17261746A4B12460ABFC78"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/vo/f/f02/snd_pl_vo_f02.arc",
+            "hash": "3F46B165C33A7DF40BA5C1FBF636E139B5D84EDD2EC9B25F9A6315858133D51F"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/vo/f/f07/snd_pl_vo_f07.arc",
+            "hash": "478284F76979AD0FBBBCC0F35DDB0A0665CDDA9752CC3C82D7E36565F3C80770"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/vo/f/f11/snd_pl_vo_f11.arc",
+            "hash": "3E2B54176D401FEA0E4F554C3A060284C4C76C2BA33DEFB412B11B80D6BD46E9"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/vo/f/f12/snd_pl_vo_f12.arc",
+            "hash": "76DC4F49EAD3E330496D120E9BEF54FB23C92423205FFFE08D04AADD5899A016"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/vo/f/f13/snd_pl_vo_f13.arc",
+            "hash": "E105E833A6C5E1304CF261E74A1C13D6E99C8F6D63BA2A30E6148C07BF634B12"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/vo/f/f19/snd_pl_vo_f19.arc",
+            "hash": "9FF13256700C7E8DE2FEFCC4F108E61212C53D75487BDE86ABE0B350D8FBD76E"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/vo/m/m02/snd_pl_vo_m02.arc",
+            "hash": "E66A4E2A1A1EEF6DD057A75E1BBFE2005B0850604663B74BA4A7E9CBDFB64A55"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/vo/m/m03/snd_pl_vo_m03.arc",
+            "hash": "603586185E030E27E392DE4E44EFE8E696E243D1F3A555ADC34C5B20477F557E"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/vo/m/m08/snd_pl_vo_m08.arc",
+            "hash": "8C5BD92529F2165A722142AB6130D2D65CD0431FE060A13913B9B36D561DA435"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/vo/m/m14/snd_pl_vo_m14.arc",
+            "hash": "4BE8C2DEB0350AE2C69CDEAED7DC34CF1EE4997AEA7CDD3EB1BC631F1DD23817"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/vo/m/m15/snd_pl_vo_m15.arc",
+            "hash": "9D50DA4427B5AC7B2948C9DD07BD228686EC0CA2DC9C12B8DE7D6BFDEDB467BB"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/wp/axe/009/snd_wp_axe009.arc",
+            "hash": "17261A525A197A826A712F60DBABB73918539FCD03B53BE4209AC4044A43A5B1"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/wp/axe/100/snd_wp_axe100.arc",
+            "hash": "E979A1B690BC403C0517B0E1B78341C5765AA0EC4AFC95F08CA045FED8B32B0D"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/wp/axe/com/snd_wp_axe_com.arc",
+            "hash": "5C488371685F3525FBCD188CB8D08603AFC3CB8222104E05D4ACEB4E88AC0284"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/wp/bow/005/snd_wp_bow005.arc",
+            "hash": "12E99BE2C83EB70DDFFEA638F28E0DA64AB29ADB6041280F54AEF19FD6421F89"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/wp/bow/com/snd_wp_bow_com.arc",
+            "hash": "1E93FAAB693D52A5EDE97905D1180F5B236C59FEA5178F99966690F128856444"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/wp/gun/017/snd_wp_gun017.arc",
+            "hash": "526F84B0548498D4FA055FC952BD25A54CA08194A06DD1957B19780084963895"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/wp/gun/029_EUS/snd_wp_gun029_EUS.arc",
+            "hash": "A1E58D85090B63CF716AB07DB0EA27902B4D3170B928D339F9F99E1240D9E60A"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/wp/gun/com/snd_wp_gun_bcom.arc",
+            "hash": "14F802D321348C1B952468A1EB8A09E144747EEE046DC372DEB2A985E95AEBC8"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/wp/gun/com/snd_wp_gun_icom.arc",
+            "hash": "64994175D57732C6346F3D7CC14F4076695605F0B8D9485D2CCE276C45453146"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/wp/ham/021/snd_wp_ham021.arc",
+            "hash": "5E4777CC38E27A22E4D55ED89A8FEFE777847477D923AEECF7D761267C3688EA"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/wp/ham/100/snd_wp_ham100.arc",
+            "hash": "CE115B4AD03942E00AF5835F779E58E70053F9F1AE471C63812F7EC10495DE1D"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/wp/ham/com/snd_wp_ham_bcom.arc",
+            "hash": "DE504987F1FDFF6DB58CD97FFA8D32CECAA4043532DE670B5CC96D12D4E28E80"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/wp/ham/com/snd_wp_ham_icom.arc",
+            "hash": "B67CC743E35C027D88D8C8874E81D91AE559F2373EF97EB9D819D8DF2BDFA14B"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/wp/hbg/barrel/028/snd_wp_hbgB028.arc",
+            "hash": "3D32142B78F8FBCB34A45C021E6C4A5D2AB7C2D4C269C58AA3A9A0F14B163713"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/wp/hbg/com/snd_wp_hbg_com.arc",
+            "hash": "D9BFA350A8E947182068EF37EE17AD5923FC6135E191BF413FE576DEE7B80046"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/wp/hbg/frame/028/snd_wp_hbgF028.arc",
+            "hash": "E360A76E526F1B503A9EB07EBA15B58E2F8845EB15B9606550039034127AD6C1"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/wp/hbg/stock/028/snd_wp_hbgS028.arc",
+            "hash": "D0D2C19B0E4BF44056EDBC8253E7FBA7335A4A523010A3C9A506B394C74C7EE4"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/wp/hue/005/snd_wp_hue005.arc",
+            "hash": "6DE26E2F936D2CF94B6F61064A332AE32F8F6F1A61362094F4E9394CDF7F5B1F"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/wp/hue/100/snd_wp_hue100.arc",
+            "hash": "165EA44ACF6CE30200B94628B370B179C20C08405FF3B26C482CAA68C48CB6D0"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/wp/hue/com/snd_wp_hue_bcom.arc",
+            "hash": "E07D2C8D5FF152ED4CD622D5AFC88F873B2071BA72B98D8874D5B2F9B99CE12A"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/wp/hue/com/snd_wp_hue_icom.arc",
+            "hash": "ADA3FA3D031FE71092FF9E6A78E1D23C84E9AC7B98ECD68B212292E7F0E15783"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/wp/lan/011/snd_wp_lan011.arc",
+            "hash": "C9ACCB5790E8EBB9596E1627ED07F8C76A4015EEAC35DF6DD003936E15F47887"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/wp/lan/com/snd_wp_lan_bcom.arc",
+            "hash": "821E3F110C7877F23E79BF6D0FD2A4FC122DE922255C8765E79FB62479AE0BAA"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/wp/lan/com/snd_wp_lan_icom.arc",
+            "hash": "A081D81C1FD7D2803F23D04B7FB1ABED916FD4FBEB1B21CD3320457C2CCAF7F2"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/wp/lbg/barrel/003/snd_wp_lbgB003.arc",
+            "hash": "14A44952A0197868ED0D187D67A2FCD6A34294868C6B45AFD549ECAA0CA62E2D"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/wp/lbg/barrel/019_EUS/snd_wp_lbgB019_EUS.arc",
+            "hash": "32E7416CFB5CA9BE235B3748FC3ED538DB5D18BC3E14CD50946FB1AB7BC56A2E"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/wp/lbg/com/snd_wp_lbg_com.arc",
+            "hash": "CED288B01F539DFA1019701A8C0EF456B5300BEE8F109F773DFDCDE4367CC640"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/wp/lbg/frame/003/snd_wp_lbgF003.arc",
+            "hash": "E29E5488677E19045206B17CBCD81A62EF3D3B7C141107D4589E888BB65B2407"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/wp/lbg/frame/019_EUS/snd_wp_lbgF019_EUS.arc",
+            "hash": "00316E09DA6209BF9F01C19C077B4C57F4ED7D57D164313C4CFDA850F83FDF6B"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/wp/lbg/stock/003/snd_wp_lbgS003.arc",
+            "hash": "8A5984B6A4FC7625A0D7FB0E74CEFA8B249AADBA0343050C126412BF26ED8141"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/wp/lbg/stock/019_EUS/snd_wp_lbgS019_EUS.arc",
+            "hash": "1F551AFA8731C81ECFA79F7340DE2D6B60F8D872DF16DAE9D1512D0F108227D6"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/wp/one/039/snd_wp_one039.arc",
+            "hash": "735DCE96E7B9CB990BEC15D914391E08F624A3D9D74349833FDAC501874A0C62"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/wp/one/100/snd_wp_one100.arc",
+            "hash": "2C2629290E5F0D206D745CEB0E420AEFB31FC7000AF7FDF4A66D333435452F44"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/wp/one/com/snd_wp_one_bcom.arc",
+            "hash": "277BA77D2009205D08024ACA24403FC541BA6A92509AEFB39F8AA2161A9B8177"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/wp/one/com/snd_wp_one_icom.arc",
+            "hash": "2C27221F2212B41C218CC9787444E2D89F998AF71E216B961161DB6430A349AA"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/wp/sou/028/snd_wp_sou028.arc",
+            "hash": "EBEADBBF6A559690840A87FA97268AFE959588CFD2DBCFB793ABB49097E84925"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/wp/sou/100/snd_wp_sou100.arc",
+            "hash": "092428B407D3EA0D04D0F9393E525D915DC939F7DC50826E438AAC2B3FE7E2AA"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/wp/sou/com/snd_wp_sou_bcom.arc",
+            "hash": "BC434522B1B54EE56E602F65978B46F16782B8E23B76798A954EA902108A592D"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/wp/sou/com/snd_wp_sou_icom.arc",
+            "hash": "37800F9828EB2C80349178304A73E4EE495686A8FBF1FC1524BF6D42C127E155"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/wp/swo/002/snd_wp_swo002.arc",
+            "hash": "91454256031C23CC29279984D7B85F7618AE87B02DB5E1453B5A6B8E43FAA8FF"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/wp/swo/101/snd_wp_swo101.arc",
+            "hash": "1DFFB12C0C6C0861CDA4E41C376EA821219BAF39D9F7C23132B9609DF55D8255"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/wp/swo/com/snd_wp_swo_com.arc",
+            "hash": "8D8DFAC0CF6ED02219476875F3D7E9B707309880BC8AB7DFCECE3FD510DF7A31"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/wp/two/046/snd_wp_two046.arc",
+            "hash": "0A3EA1BD22077A57D965ADC2098E2F95B2CDA0AA7B1353FD3DA776DC708D067F"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/wp/two/100/snd_wp_two100.arc",
+            "hash": "44429F545009704F2F5E2114CAED44F90B225DDEB4818DF73621686126B746BB"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/wp/two/102/snd_wp_two102.arc",
+            "hash": "1BE833738DB91EB7154872CA6D803FE1D6C8D61619248C7630626982C09BF173"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/wp/two/com/snd_wp_two_bcom.arc",
+            "hash": "C9F383053ABE5961726C406C9492BFD243299ECDE5DA58A9BC23E1C25619D95C"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/pl/wp/two/com/snd_wp_two_icom.arc",
+            "hash": "1815BADBED328B1B6F6A7067A08F9095EB05E594B12C4B5ABC5CECA34147D057"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/qs_cmn.arc",
+            "hash": "77FAF0BD7D3026D392161B9DAAD4F0BF2D73204D7C2E190BB80543DE4FD3AE27"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/res.arc",
+            "hash": "ACF54A106CA2EF055EF5CD6F66150C082AD58E4AA9A532484AECD440033414DF"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/tl_cmn.arc",
+            "hash": "56BCA2CC60B474F16FA06C332C80E5AA0C584D95955BA19B0F79D4598410F62E"
+        },
+        {
+            "file": "content/nativeCafe/arc/sound/se/tut.arc",
+            "hash": "4F2D516EB103FE0AF72568B902925C3B377CD107ED968CB4083FA6514CC3DB3B"
+        },
+        {
+            "file": "content/nativeCafe/arc/stage/m01/m01.arc",
+            "hash": "DAEC9690632D7B353D1A2D22785B0C58665043C55025865B8EA12AEDFD8020BF"
+        },
+        {
+            "file": "content/nativeCafe/arc/stage/m01/m01a00.arc",
+            "hash": "634A8016CA35FB95FAE1982670058DC8EE4CD28262F642FB5E396BC4F3AFF7AA"
+        },
+        {
+            "file": "content/nativeCafe/arc/stage/m01/m01a01.arc",
+            "hash": "EA2D8CF5B34124B3C69AC32D4EC8A595B8A9E6291CBDE94E1FF7FBECAA0773A4"
+        },
+        {
+            "file": "content/nativeCafe/arc/stage/m01/m01a02.arc",
+            "hash": "7462208593CC8FA94E8939AD421D707DF3900F6C56A269974571402CC9947327"
+        },
+        {
+            "file": "content/nativeCafe/arc/stage/m01/m01a03.arc",
+            "hash": "F5272F8B4612E1CEA5BB777CBDF95CAB71627D7795020FE461D9806A3B1B9B6B"
+        },
+        {
+            "file": "content/nativeCafe/arc/stage/m01/m01a04.arc",
+            "hash": "D19EA52526CBFB45800DB0C56C2D46FC2187B50A4E9D30C285E1DD85D6F1F748"
+        },
+        {
+            "file": "content/nativeCafe/arc/stage/m01/m01a05.arc",
+            "hash": "E4AE7FFD6061B7042401240A7FC077696982050E8067B38072E37E8661D909FA"
+        },
+        {
+            "file": "content/nativeCafe/arc/stage/m01/m01a06.arc",
+            "hash": "3C9493BA34E9A6C24AFFE8F08E742DCD9578888ACF39915C41E050AFA79CEF00"
+        },
+        {
+            "file": "content/nativeCafe/arc/stage/m01/m01a07.arc",
+            "hash": "895A47B58C6550CCAAF31BC79966B4A0A8C5AFC1C252D0D8503880841DA0B4D0"
+        },
+        {
+            "file": "content/nativeCafe/arc/stage/m01/m01a08.arc",
+            "hash": "16482AE38916EE0A9C5FE3C3DD6893DDDD7588B5A687B559EC87E22894802203"
+        },
+        {
+            "file": "content/nativeCafe/arc/stage/m01/m01a09.arc",
+            "hash": "EFD0F0465F659ABC8CDE7C6869AE4178211416CE7FE8CFB36D00A9E752F2021F"
+        },
+        {
+            "file": "content/nativeCafe/arc/stage/m01/m01a10.arc",
+            "hash": "D6F26CF93163AF626E8BF2777C193F55004D788018F20955BD5CE7E48070E765"
+        },
+        {
+            "file": "content/nativeCafe/arc/stage/m01/m01a11.arc",
+            "hash": "69378863D1D2BDAA17127DB4CFE750CB467840036AF2EA7BB036818F616C14BE"
+        },
+        {
+            "file": "content/nativeCafe/arc/stage/m01/m01a12.arc",
+            "hash": "63ECDC5F6429259E521D0E1FF10DE2AEE8543F472C76E31C8B75DC9B7094D87B"
+        },
+        {
+            "file": "content/nativeCafe/arc/stage/m04/m04.arc",
+            "hash": "BFA8732C3553638256F14C4C05972E5B2A112F0F8746E3C4B48475F180951A98"
+        },
+        {
+            "file": "content/nativeCafe/arc/stage/m04/m04a00.arc",
+            "hash": "67F67E4A578CFE8E1628E8B421A4C63C924D617EC0B605BD34A97526C2F78916"
+        },
+        {
+            "file": "content/nativeCafe/arc/stage/m04/m04a01.arc",
+            "hash": "CBF2DD3A6038F7675176CBE0997C65A5CF3382DA88DCD9E31CD8CF50F9F9E8C9"
+        },
+        {
+            "file": "content/nativeCafe/arc/stage/m04/m04a02.arc",
+            "hash": "373635AEE2C49ADBB51E558121B764DF56CB4D6573E2390FC91B825EBF37D182"
+        },
+        {
+            "file": "content/nativeCafe/arc/stage/m04/m04a03.arc",
+            "hash": "7FD613B52E7F3710B9AFCCE34D8F9A33EF6B7240C8D3AF50F13A2869098C6481"
+        },
+        {
+            "file": "content/nativeCafe/arc/stage/m04/m04a04.arc",
+            "hash": "D050FBB84145F9CA88B7CAC648480D6CFE4A0EEF688E14101AACA0636663D03A"
+        },
+        {
+            "file": "content/nativeCafe/arc/stage/m04/m04a05.arc",
+            "hash": "F82EE5A84B98B63E4F9632360C24402B458E965CD36CCFD3C52B8CACD187B9FA"
+        },
+        {
+            "file": "content/nativeCafe/arc/stage/m04/m04a06.arc",
+            "hash": "973B5F95F8E8954564DDA0A60FC8829C3502A74105B5110475501BB25DAAF76F"
+        },
+        {
+            "file": "content/nativeCafe/arc/stage/m04/m04a07.arc",
+            "hash": "AB49BB099EE59D8AE623615EC8DC961BEE58B50D13AD68EC9C40782ACC526C28"
+        },
+        {
+            "file": "content/nativeCafe/arc/stage/m04/m04a08.arc",
+            "hash": "01546926D3A1FF1B3699BFBEF56DB07666A90107A3177BAC82AE2B2839949778"
+        },
+        {
+            "file": "content/nativeCafe/arc/stage/m04/m04a09.arc",
+            "hash": "3337D686420FD3ACC9E0D0DC56CBB6B760FE3B1775FCE70688908E6C3611D0B2"
+        },
+        {
+            "file": "content/nativeCafe/arc/weapon/mod/w00/w00_46.arc",
+            "hash": "75E24E65CAA52B0BDC76798649CF4ECDAA7AE3BA8220AC19B83B3A5B0335D926"
+        },
+        {
+            "file": "content/nativeCafe/arc/weapon/mod/w01/w01_39.arc",
+            "hash": "847259D75D2961A963200CBA509423C7A8FA8E8ACDBF451ED3DD22B0C2D41622"
+        },
+        {
+            "file": "content/nativeCafe/arc/weapon/mod/w02/w02_21.arc",
+            "hash": "FA57AD5729112230D3FE5114BF550B18D158C97FE54447CAAD7BECC7732EDC8F"
+        },
+        {
+            "file": "content/nativeCafe/arc/weapon/mod/w03/w03_11.arc",
+            "hash": "B77167ACAF293F8763C681CF2C4DF9327EE65E4BDDDC23AD3C0E732B560F6B9C"
+        },
+        {
+            "file": "content/nativeCafe/arc/weapon/mod/w04/w04_28.arc",
+            "hash": "EF3F734B7FB917FD2E308D4A3392BBDF86DB9B6C8C2EFB2A5C4C68FB44E2F097"
+        },
+        {
+            "file": "content/nativeCafe/arc/weapon/mod/w06/w06_03.arc",
+            "hash": "8C54B0076E66148E18E3089DF10C9D745914F67FF7DE471C51C6504CAAF7817C"
+        },
+        {
+            "file": "content/nativeCafe/arc/weapon/mod/w07/w07_02.arc",
+            "hash": "2B98FCE5E449D51C733707238B544D02E8EB086BC4CCD62D9AFAC08B4A214242"
+        },
+        {
+            "file": "content/nativeCafe/arc/weapon/mod/w08/w08_09.arc",
+            "hash": "B2D121387C4A3C6AD4F064DE0CEF128DA4E1F9E37D7B5A8B5976B293425800B7"
+        },
+        {
+            "file": "content/nativeCafe/arc/weapon/mod/w09/w09_17.arc",
+            "hash": "D9C04FFA33CDFC5C5301035F716A7D9CD7946FA9710E4231FA536CA15EED059D"
+        },
+        {
+            "file": "content/nativeCafe/arc/weapon/mod/w10/w10_05.arc",
+            "hash": "6F6E506B5785026F6DECFD9C5A033364B6DEED8CBB4FA0665D13C231AA194520"
+        },
+        {
+            "file": "content/nativeCafe/arc/weapon/mod/w11/w11_28.arc",
+            "hash": "88D01C449EE10B254E0E57C3E59DB0B7F04A1CBBB525A322386C20922E8B59F5"
+        },
+        {
+            "file": "content/nativeCafe/arc/weapon/mod/w12/w12_05.arc",
+            "hash": "F6290DD7EF38AE0BB16B0A51A9C84317F2848FDF9F5B6A3871537A74ADEEE039"
+        },
+        {
+            "file": "content/nativeCafe/pop/m000_000000_c_pop.pop",
+            "hash": "C85DA9E2AF36ABC2E2CC769ACFBE05CB1E306240AC9763E6CA405BF4D6F85BB3"
+        },
+        {
+            "file": "content/nativeCafe/pop/m001_000000_c_pop.pop",
+            "hash": "F08CB784B26A9C73FDEDABAEB18DEC5CAE2197DC511C6F6EEEEB6C329FFCCBA0"
+        },
+        {
+            "file": "content/nativeCafe/pop/m001_000000_f_pop.pop",
+            "hash": "5B54981635CD485B0537094A403AD3A11E82F58C27C1C2D32EDD38F2A74B7FF3"
+        },
+        {
+            "file": "content/nativeCafe/pop/m001_000000_r_pop.pop",
+            "hash": "B77415DE578DD7F76FBA8B13C4C9C27C347DEB6A90F51D843E346D05858A4E57"
+        },
+        {
+            "file": "content/nativeCafe/pop/m001_000001_f_pop.pop",
+            "hash": "EFC4010B7023C2015E08553F948AFFA8F02E9CEEE5D01F7C915B69D50F2A5F82"
+        },
+        {
+            "file": "content/nativeCafe/pop/m001_000001_r_pop.pop",
+            "hash": "8420CAFAD3E51391643FD110CF0C295752A0C916A93DBA316ACFCF765DF403D4"
+        },
+        {
+            "file": "content/nativeCafe/pop/m001_000002_f_pop.pop",
+            "hash": "58D7777986AF860CD90F2EE766F0B6A694DAB9A76B43704876943FAA529517C8"
+        },
+        {
+            "file": "content/nativeCafe/pop/m001_000002_r_pop.pop",
+            "hash": "74D539AAF67C16EA7E6DE653B08BEA9EC7935FF92893E36A1C29F05F7EE21DAD"
+        },
+        {
+            "file": "content/nativeCafe/pop/m001_000003_f_pop.pop",
+            "hash": "A08B3AD40549927680F5512CBDD993E065311C79495A1702E585090B4412B0CB"
+        },
+        {
+            "file": "content/nativeCafe/pop/m001_000003_r_pop.pop",
+            "hash": "B5B19F873360F9CF1B492980997C351BCE3FB1AF00395C9E0EFC19889C34907A"
+        },
+        {
+            "file": "content/nativeCafe/pop/m001_000004_f_pop.pop",
+            "hash": "C2D12CD55EF5E17614436A0CC270EF761E227C181B169D9D4752AC1219BB6AA2"
+        },
+        {
+            "file": "content/nativeCafe/pop/m001_000004_r_pop.pop",
+            "hash": "5631AAFF5D11A35C43E5962B31C71599DDC92B371E0AAA434E37340FF4A3E32E"
+        },
+        {
+            "file": "content/nativeCafe/pop/m001_tgs_f_pop.pop",
+            "hash": "61B199EDED0C9619C792488F35C4C3C8DF9E1B559F1C52768DE13956367D47EE"
+        },
+        {
+            "file": "content/nativeCafe/pop/m001_tgs_r_pop.pop",
+            "hash": "12A6D4347837BD22189AA13E6B09C61FFCC84705B2CAD6BA95AF794E102C7EBD"
+        },
+        {
+            "file": "content/nativeCafe/pop/m002_000000_c_pop.pop",
+            "hash": "110E2D3079987E70D5A472D610FD838C1A3AA321C9A0D527FE107C3447179D82"
+        },
+        {
+            "file": "content/nativeCafe/pop/m002_000000_f_pop.pop",
+            "hash": "B056B782C970F35C36861EE37D3533442E557DF1DB4DEEF3349E1E54097D7AA3"
+        },
+        {
+            "file": "content/nativeCafe/pop/m002_000000_r_pop.pop",
+            "hash": "6FA0ABB0F03D649A04D2B22DDAE0E961EB2E06A24AA30C1A825DBF25510337A6"
+        },
+        {
+            "file": "content/nativeCafe/pop/m002_000002_f_pop.pop",
+            "hash": "0C5F77A0EA56F20414EA6316E3CB8F96930ED94961EEB821C2EE947C720D5096"
+        },
+        {
+            "file": "content/nativeCafe/pop/m002_000002_r_pop.pop",
+            "hash": "5F093EB2158E340ED9A037CD72E9A21178F85F0ED48884CB7570766461B383E3"
+        },
+        {
+            "file": "content/nativeCafe/pop/m002_000004_f_pop.pop",
+            "hash": "06ECC8C2EAD0292A5150AF3D11A6BE953EEC2D1EE8584D4F55C6234F40F73C4C"
+        },
+        {
+            "file": "content/nativeCafe/pop/m002_000004_r_pop.pop",
+            "hash": "8E6CF2EA850716B183A2EA180C24B1178A2C785DE8C6BA621B2694C743499B9D"
+        },
+        {
+            "file": "content/nativeCafe/pop/m003_000000_c_pop.pop",
+            "hash": "52C629E2136251EC49BDD82E0DECF58A91813D78EF2F7202B34B0CFEDD867E63"
+        },
+        {
+            "file": "content/nativeCafe/pop/m003_000000_f_pop.pop",
+            "hash": "C0C8F0441632077A6728A4C3F8674C3B4E8921E700B0FCDCAD304BFBCBE975AB"
+        },
+        {
+            "file": "content/nativeCafe/pop/m003_000000_r_pop.pop",
+            "hash": "E87A624D9C53F12248FCC9FE24B4322C3863FE0FC6660E730A3FB795B6F24822"
+        },
+        {
+            "file": "content/nativeCafe/pop/m003_000002_f_pop.pop",
+            "hash": "F78A45A0885E6748C3F29304AF6ED4BC26F4179B8D3DFF37063EE169239C88AB"
+        },
+        {
+            "file": "content/nativeCafe/pop/m003_000002_r_pop.pop",
+            "hash": "110A2E4DA55F09C638BB98FC3E9ABBAC7F67CBAFDB919912AE42C2E5C510E37E"
+        },
+        {
+            "file": "content/nativeCafe/pop/m003_000004_f_pop.pop",
+            "hash": "AE1505CCE8C131A06354423A46D53817FBD792B48108C1F3878FF1CB8DAA7CBF"
+        },
+        {
+            "file": "content/nativeCafe/pop/m003_000004_r_pop.pop",
+            "hash": "98ED2E229A3039C7E102E2AEA1621AF9C750C981D97E332FAA366C8C7C324D76"
+        },
+        {
+            "file": "content/nativeCafe/pop/m004_000000_c_pop.pop",
+            "hash": "AE9065A31113AE21DFAB946390850BD58CE4796C807CFBE4E450D0AB02BC9275"
+        },
+        {
+            "file": "content/nativeCafe/pop/m004_000000_f_pop.pop",
+            "hash": "026C194B48E7288128D6D86169E6F874DFA59A8D088601CB3FC2B5B84785FA60"
+        },
+        {
+            "file": "content/nativeCafe/pop/m004_000000_r_pop.pop",
+            "hash": "D8A99AFED8F080825FC129333A5BE761B127678F8389EAC7BC5A1CC19895EDEB"
+        },
+        {
+            "file": "content/nativeCafe/pop/m004_000002_f_pop.pop",
+            "hash": "4C95CD4FED57B7C58F3BE6FDD3E2EB283D3FD2BA8C78F0549B8177FAFE571EDD"
+        },
+        {
+            "file": "content/nativeCafe/pop/m004_000002_r_pop.pop",
+            "hash": "2C2504F6671EF7712F3E04748F42EDE9F6DA90A95B3D696F5A02579B7B48FB0C"
+        },
+        {
+            "file": "content/nativeCafe/pop/m004_000004_f_pop.pop",
+            "hash": "58C3484217B8DDAC7F519040829D776A3451327F5BC9848777C24BA1EB43E466"
+        },
+        {
+            "file": "content/nativeCafe/pop/m004_000004_r_pop.pop",
+            "hash": "0F29296EFA95459717AA4D12891BD5B6B9963F8FC57FD01ED68DB1BBFB8FAAC1"
+        },
+        {
+            "file": "content/nativeCafe/pop/m005_000000_c_pop.pop",
+            "hash": "A1483326D1BF9E6F67C3027260D560F8C1F95F57B29DE4B9B07B69CB7D747937"
+        },
+        {
+            "file": "content/nativeCafe/pop/m005_000000_f_pop.pop",
+            "hash": "EDD7341530D7ADE957533D7584F247CB6BF8E87095ACC3A36C3B658B0B2D3C08"
+        },
+        {
+            "file": "content/nativeCafe/pop/m005_000000_r_pop.pop",
+            "hash": "A648F22F127FBB6579C5FF9AC2BDB02180CA72865EFD54340E78E18E9EBE7D8C"
+        },
+        {
+            "file": "content/nativeCafe/pop/m005_000002_f_pop.pop",
+            "hash": "BCCF206DF885491BB4EFD7E1397F40D65039C51673761B423191CF86244173B8"
+        },
+        {
+            "file": "content/nativeCafe/pop/m005_000002_r_pop.pop",
+            "hash": "E89FF7C6A675AD4236262BA2A30A34EE50D8A5D5F889422D5E7427C1D15DED74"
+        },
+        {
+            "file": "content/nativeCafe/pop/m005_000004_f_pop.pop",
+            "hash": "012CE01E5C0EFE131D14BD2F9CC4F4D391789677391FB4D5D4A135B030B69E9A"
+        },
+        {
+            "file": "content/nativeCafe/pop/m005_000004_r_pop.pop",
+            "hash": "F4AE257F3D16AE8187DF5B5030243EF1EB0773E23DFBA2FBFE52CDB123DA3248"
+        },
+        {
+            "file": "content/nativeCafe/pop/m006_000000_c_pop.pop",
+            "hash": "81CC35E1E3AAF43EEAEB3689234669C99CAF14ED0FE6DA58A7711035270292FE"
+        },
+        {
+            "file": "content/nativeCafe/pop/m006_000000_f_pop.pop",
+            "hash": "DBD7AFF9AD13C7AD43CD8E1C544272288FE3C6DD0ECEC6BC74AE33C75B3AB818"
+        },
+        {
+            "file": "content/nativeCafe/pop/m006_000000_r_pop.pop",
+            "hash": "80B7959C6DE9C6044877DDC35256BF4BA8EC05248691AC97809B23A35040168D"
+        },
+        {
+            "file": "content/nativeCafe/pop/m006_000002_f_pop.pop",
+            "hash": "DBD7AFF9AD13C7AD43CD8E1C544272288FE3C6DD0ECEC6BC74AE33C75B3AB818"
+        },
+        {
+            "file": "content/nativeCafe/pop/m006_000002_r_pop.pop",
+            "hash": "80B7959C6DE9C6044877DDC35256BF4BA8EC05248691AC97809B23A35040168D"
+        },
+        {
+            "file": "content/nativeCafe/pop/m006_000004_f_pop.pop",
+            "hash": "8BD2FB7DF9D269352D00A15455A7B10E7D8F79CC0BF4E2BF2E27A9735C6151BE"
+        },
+        {
+            "file": "content/nativeCafe/pop/m006_000004_r_pop.pop",
+            "hash": "80B7959C6DE9C6044877DDC35256BF4BA8EC05248691AC97809B23A35040168D"
+        },
+        {
+            "file": "content/nativeCafe/pop/m007_000000_c_pop.pop",
+            "hash": "193CCCCD02EDF15129971F92CCE1E953A9BE5F819352CC8435B251BB2E688C84"
+        },
+        {
+            "file": "content/nativeCafe/pop/m007_000000_f_pop.pop",
+            "hash": "181080330D629F2BD56645BACE6B2DD4A4D74C5F991BCB3611B8BAD0A7434BF9"
+        },
+        {
+            "file": "content/nativeCafe/pop/m007_000000_r_pop.pop",
+            "hash": "80B7959C6DE9C6044877DDC35256BF4BA8EC05248691AC97809B23A35040168D"
+        },
+        {
+            "file": "content/nativeCafe/pop/m007_000002_f_pop.pop",
+            "hash": "181080330D629F2BD56645BACE6B2DD4A4D74C5F991BCB3611B8BAD0A7434BF9"
+        },
+        {
+            "file": "content/nativeCafe/pop/m007_000002_r_pop.pop",
+            "hash": "80B7959C6DE9C6044877DDC35256BF4BA8EC05248691AC97809B23A35040168D"
+        },
+        {
+            "file": "content/nativeCafe/pop/m007_000004_f_pop.pop",
+            "hash": "181080330D629F2BD56645BACE6B2DD4A4D74C5F991BCB3611B8BAD0A7434BF9"
+        },
+        {
+            "file": "content/nativeCafe/pop/m007_000004_r_pop.pop",
+            "hash": "80B7959C6DE9C6044877DDC35256BF4BA8EC05248691AC97809B23A35040168D"
+        },
+        {
+            "file": "content/nativeCafe/pop/m008_000000_c_pop.pop",
+            "hash": "D246754BBEE6909C0773087786E136CEEDD7E0697BE8D94B41B31F5CF77B1BB6"
+        },
+        {
+            "file": "content/nativeCafe/pop/m008_000000_f_pop.pop",
+            "hash": "20B91A3F02802A844E9457E89CF2858ECF947F2C29D4D802CDF22C580F7A3906"
+        },
+        {
+            "file": "content/nativeCafe/pop/m008_000000_r_pop.pop",
+            "hash": "80B7959C6DE9C6044877DDC35256BF4BA8EC05248691AC97809B23A35040168D"
+        },
+        {
+            "file": "content/nativeCafe/pop/m008_000002_f_pop.pop",
+            "hash": "20B91A3F02802A844E9457E89CF2858ECF947F2C29D4D802CDF22C580F7A3906"
+        },
+        {
+            "file": "content/nativeCafe/pop/m008_000002_r_pop.pop",
+            "hash": "80B7959C6DE9C6044877DDC35256BF4BA8EC05248691AC97809B23A35040168D"
+        },
+        {
+            "file": "content/nativeCafe/pop/m008_000004_f_pop.pop",
+            "hash": "6AB27DB3E18E434E162DF6E875D4CF24A0F2144736B08A29F6F452A8E9B3ED59"
+        },
+        {
+            "file": "content/nativeCafe/pop/m008_000004_r_pop.pop",
+            "hash": "80B7959C6DE9C6044877DDC35256BF4BA8EC05248691AC97809B23A35040168D"
+        },
+        {
+            "file": "content/nativeCafe/pop/m009_000000_c_pop.pop",
+            "hash": "AC0A8CCFF67074864D921B4A3C8320185E569A91E25BACE9D14CDC7E4407940E"
+        },
+        {
+            "file": "content/nativeCafe/pop/m009_000000_f_pop.pop",
+            "hash": "DFEE73A24B6980151D2A01BCE6731BD6C527F68CC2D4A7BE6178EE493B65FE50"
+        },
+        {
+            "file": "content/nativeCafe/pop/m009_000000_r_pop.pop",
+            "hash": "80B7959C6DE9C6044877DDC35256BF4BA8EC05248691AC97809B23A35040168D"
+        },
+        {
+            "file": "content/nativeCafe/pop/m009_000002_f_pop.pop",
+            "hash": "756841E435D6CE8A683EDF26B49B1BEE23D203B6BB58064F2DD020E457D476EA"
+        },
+        {
+            "file": "content/nativeCafe/pop/m009_000002_r_pop.pop",
+            "hash": "80B7959C6DE9C6044877DDC35256BF4BA8EC05248691AC97809B23A35040168D"
+        },
+        {
+            "file": "content/nativeCafe/pop/m009_000004_f_pop.pop",
+            "hash": "756841E435D6CE8A683EDF26B49B1BEE23D203B6BB58064F2DD020E457D476EA"
+        },
+        {
+            "file": "content/nativeCafe/pop/m009_000004_r_pop.pop",
+            "hash": "CE9EFE2E2B6A84F1D846F3BD405D2928C565BA09441747615A24A1925890AB45"
+        },
+        {
+            "file": "content/nativeCafe/pop/m010_000000_c_pop.pop",
+            "hash": "1C809FB0A7A9E4DC3234D1029EC9541BBED4CD0E750FC585799D1193FC4B6818"
+        },
+        {
+            "file": "content/nativeCafe/pop/m010_000000_f_pop.pop",
+            "hash": "F55385C149E28162A88939F6CB6011716B41C3F9FBCFA87CDEBDC7400771FC1B"
+        },
+        {
+            "file": "content/nativeCafe/pop/m010_000000_r_pop.pop",
+            "hash": "CE9EFE2E2B6A84F1D846F3BD405D2928C565BA09441747615A24A1925890AB45"
+        },
+        {
+            "file": "content/nativeCafe/pop/m010_000002_f_pop.pop",
+            "hash": "F55385C149E28162A88939F6CB6011716B41C3F9FBCFA87CDEBDC7400771FC1B"
+        },
+        {
+            "file": "content/nativeCafe/pop/m010_000002_r_pop.pop",
+            "hash": "CE9EFE2E2B6A84F1D846F3BD405D2928C565BA09441747615A24A1925890AB45"
+        },
+        {
+            "file": "content/nativeCafe/pop/m010_000004_f_pop.pop",
+            "hash": "F55385C149E28162A88939F6CB6011716B41C3F9FBCFA87CDEBDC7400771FC1B"
+        },
+        {
+            "file": "content/nativeCafe/pop/m010_000004_r_pop.pop",
+            "hash": "CE9EFE2E2B6A84F1D846F3BD405D2928C565BA09441747615A24A1925890AB45"
+        },
+        {
+            "file": "content/nativeCafe/pop/m011_000000_c_pop.pop",
+            "hash": "A8C2BE4513D04104D193652C54E2E00A8712E89244A3024285C4830F91AA2E24"
+        },
+        {
+            "file": "content/nativeCafe/pop/m011_000000_f_pop.pop",
+            "hash": "60FEDC9F659444A8EEEFEED0582419B93E0430D33CBDE1B94F4D1E2AAECF74B9"
+        },
+        {
+            "file": "content/nativeCafe/pop/m011_000000_r_pop.pop",
+            "hash": "CE9EFE2E2B6A84F1D846F3BD405D2928C565BA09441747615A24A1925890AB45"
+        },
+        {
+            "file": "content/nativeCafe/pop/m011_000002_f_pop.pop",
+            "hash": "60FEDC9F659444A8EEEFEED0582419B93E0430D33CBDE1B94F4D1E2AAECF74B9"
+        },
+        {
+            "file": "content/nativeCafe/pop/m011_000002_r_pop.pop",
+            "hash": "CE9EFE2E2B6A84F1D846F3BD405D2928C565BA09441747615A24A1925890AB45"
+        },
+        {
+            "file": "content/nativeCafe/pop/m011_000004_f_pop.pop",
+            "hash": "60FEDC9F659444A8EEEFEED0582419B93E0430D33CBDE1B94F4D1E2AAECF74B9"
+        },
+        {
+            "file": "content/nativeCafe/pop/m011_000004_r_pop.pop",
+            "hash": "CE9EFE2E2B6A84F1D846F3BD405D2928C565BA09441747615A24A1925890AB45"
+        },
+        {
+            "file": "content/nativeCafe/pop/m012_000000_c_pop.pop",
+            "hash": "04692EFFA4691522B03CECFECDC48C90797502E286C7AC9006A9BA26D6B30949"
+        },
+        {
+            "file": "content/nativeCafe/pop/m012_000000_f_pop.pop",
+            "hash": "72F0FB75FA4E9599F2657E92E7B690EDEBDF5D2B8D01E496492BDDDA38FAC617"
+        },
+        {
+            "file": "content/nativeCafe/pop/m012_000000_r_pop.pop",
+            "hash": "F0599A30D08E1CCB60CB7487EA1074FA400FE7DE37DE2DF5200E612B87EA847A"
+        },
+        {
+            "file": "content/nativeCafe/pop/m012_000002_f_pop.pop",
+            "hash": "B6614364C3A4536330634D1C8F4A1FF132A1CE150BB688C2D791753CC59ABE32"
+        },
+        {
+            "file": "content/nativeCafe/pop/m012_000002_r_pop.pop",
+            "hash": "6ECF3E143A1AFF4AD6C311E08352B88CD3D103F248061D0BC2AB5AD8CBCA2930"
+        },
+        {
+            "file": "content/nativeCafe/pop/m012_000004_f_pop.pop",
+            "hash": "A5A5EB728BF562311881486235EF83C3CEC294D22A6A7E7E468D7EEF791BF9FF"
+        },
+        {
+            "file": "content/nativeCafe/pop/m012_000004_r_pop.pop",
+            "hash": "D9A50591234B190221960A7A576A1BD3B497FD277807E9D2A1C06673D6458A4E"
+        },
+        {
+            "file": "content/nativeCafe/pop/m013_000000_c_pop.pop",
+            "hash": "CE9EFE2E2B6A84F1D846F3BD405D2928C565BA09441747615A24A1925890AB45"
+        },
+        {
+            "file": "content/nativeCafe/pop/m013_000000_f_pop.pop",
+            "hash": "CE9EFE2E2B6A84F1D846F3BD405D2928C565BA09441747615A24A1925890AB45"
+        },
+        {
+            "file": "content/nativeCafe/pop/m013_000000_r_pop.pop",
+            "hash": "F0599A30D08E1CCB60CB7487EA1074FA400FE7DE37DE2DF5200E612B87EA847A"
+        },
+        {
+            "file": "content/nativeCafe/pop/m013_000002_f_pop.pop",
+            "hash": "CE9EFE2E2B6A84F1D846F3BD405D2928C565BA09441747615A24A1925890AB45"
+        },
+        {
+            "file": "content/nativeCafe/pop/m013_000002_r_pop.pop",
+            "hash": "F0599A30D08E1CCB60CB7487EA1074FA400FE7DE37DE2DF5200E612B87EA847A"
+        },
+        {
+            "file": "content/nativeCafe/pop/m013_000004_f_pop.pop",
+            "hash": "1A1788849680ABF53D7737ED779B7A977F46E629FE0C651BEE392ADF6A19A3A3"
+        },
+        {
+            "file": "content/nativeCafe/pop/m013_000004_r_pop.pop",
+            "hash": "CE9EFE2E2B6A84F1D846F3BD405D2928C565BA09441747615A24A1925890AB45"
+        },
+        {
+            "file": "content/nativeCafe/pop/m014_000000_c_pop.pop",
+            "hash": "539065886E74B923D394DF78DC566C7D708D77B2CE09B3F1F899EE0A2E4EF1CF"
+        },
+        {
+            "file": "content/nativeCafe/pop/m014_000000_f_pop.pop",
+            "hash": "4284EC08254935542629CBFE012275F1F801A95047D96F601FB17DA472CBD7EE"
+        },
+        {
+            "file": "content/nativeCafe/pop/m014_000000_r_pop.pop",
+            "hash": "F0599A30D08E1CCB60CB7487EA1074FA400FE7DE37DE2DF5200E612B87EA847A"
+        },
+        {
+            "file": "content/nativeCafe/pop/m014_000002_f_pop.pop",
+            "hash": "4284EC08254935542629CBFE012275F1F801A95047D96F601FB17DA472CBD7EE"
+        },
+        {
+            "file": "content/nativeCafe/pop/m014_000002_r_pop.pop",
+            "hash": "F0599A30D08E1CCB60CB7487EA1074FA400FE7DE37DE2DF5200E612B87EA847A"
+        },
+        {
+            "file": "content/nativeCafe/pop/m014_000004_f_pop.pop",
+            "hash": "4B6BFC5EBCE9C1FF0D6EEC8345F4A72235BF4866F3B8E8BC6166C5D0453A2136"
+        },
+        {
+            "file": "content/nativeCafe/pop/m014_000004_r_pop.pop",
+            "hash": "F0599A30D08E1CCB60CB7487EA1074FA400FE7DE37DE2DF5200E612B87EA847A"
+        },
+        {
+            "file": "content/nativeCafe/quest/btl/q_50001.quest_btl",
+            "hash": "2C7FAFF1083939D39B85A8AEBBFBE7DE53F483441A868F241EC3E02A553ED5DD"
+        },
+        {
+            "file": "content/nativeCafe/quest/btl/q_50002.quest_btl",
+            "hash": "C215513ADECB77DC6CB988511CBF71D68F27B646057C9497BAD38C1A77ACECD8"
+        },
+        {
+            "file": "content/nativeCafe/quest/eu/q_50001.quest",
+            "hash": "E2C6553E554A3F0BBC696FECD754D4C32A5BBB49635E57082B004A984D08613B"
+        },
+        {
+            "file": "content/nativeCafe/quest/eu/q_50002.quest",
+            "hash": "7168D71078201E1FF149646EBC5D577FF35501D8F6D0AFBC995FD05DCF73C5BE"
+        },
+        {
+            "file": "content/nativeCafe/quest/eu/q_50003.quest",
+            "hash": "4E463A9BBBC75FC63E50BEACCB1624296086BBE715F43CD55BD81B862ACA5B31"
+        },
+        {
+            "file": "content/nativeCafe/quest/eu/q_50004.quest",
+            "hash": "0FA319C3A73DBF4AF1826002B4940E201F67F06B79CD0324783DECED954B4C71"
+        },
+        {
+            "file": "content/nativeCafe/quest/eu/q_50005.quest",
+            "hash": "9011EBD0E48D5818B0221328D14C9ED98A0E37F05AA7835A6D1B16E205C9BB83"
+        },
+        {
+            "file": "content/nativeCafe/quest/eu/q_50006.quest",
+            "hash": "F268E7F3D77F0C2A5D65ACA00A29F961CB3F211DB1B48B7BE47F0E5F506CFF30"
+        },
+        {
+            "file": "content/nativeCafe/quest/eu/quest.list",
+            "hash": "BAA99A1654AB550C1CB20828F0B8C633D13E8390D932985B8D7307D8C294A10D"
+        },
+        {
+            "file": "content/nativeCafe/quest/quest.list",
+            "hash": "C30AEF45DDBA98F749EE61EC69DEAD15BD18EEAC4B12AEFAAAFF3E5FDC7B6849"
+        },
+        {
+            "file": "content/nativeCafe/quest/quest2.list",
+            "hash": "76CFC29D73BCCDC368FC33632522E9202AB9F2FC821BF5D1F250BCC184F55979"
+        },
+        {
+            "file": "content/nativeCafe/quest/quest_TGS.list",
+            "hash": "943791CE38C1AB335F7E745A77E75BF7F6EA321916CDD78715EAE71FC16E00C9"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp000.supp",
+            "hash": "9048FD0FAB6C8A8D4192439EEE82851F00E20CDDDE82FBD33E20CB7867EEC236"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp001.supp",
+            "hash": "9FB628E7F43364B7C8E9F8D4271F3C37C5BD9F5EE9AE6B9F75737A5E095CE2E6"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp002.supp",
+            "hash": "9FB628E7F43364B7C8E9F8D4271F3C37C5BD9F5EE9AE6B9F75737A5E095CE2E6"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp003.supp",
+            "hash": "9754B0E708917CD1FDC15D6F6F7A5E20759C5BBDC861C6AFBC895620045D6E0F"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp005.supp",
+            "hash": "CE6B65B3B71D02B12BBB38952D3DDCF36D457441B8D22DDF3CDBEB7C5CD0BD23"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp006.supp",
+            "hash": "7C7F7438E96D78E40E947EA43A5AE2E428B01ED7060B56D1BB5578E11D35A8CD"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp008.supp",
+            "hash": "EED02E2B099D4AF01A9E4F17395AA61A21F56016A2356AAA94E439711ED23137"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp010.supp",
+            "hash": "43F1382B99D93E16E0B37522F4F74E7C29527A78F1C09F66AD8A8E5A21B157F2"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp011.supp",
+            "hash": "4349B4E0413A745EE24B29770AA919D1FB67FD11C5DCFE358298CEF8C4A139F0"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp013.supp",
+            "hash": "1CF933678E9DDF2605163321FB0BC4CBFB19248DE839AEA513631A5BC2676E12"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp015.supp",
+            "hash": "24486E4960F4176E5F147AD80232C18715EFFC2DDA738CF8D13AF1CC3871F8E5"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp017.supp",
+            "hash": "A3101C18661E9165FBE5BF8DE7A759E207B3630DECA1C99281B11A9A3C91164C"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp021.supp",
+            "hash": "3D3768E2CA742312E56133A1FC9C5D5C74B93D39D9FA7DE6172AF7A0AE3092B9"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp023.supp",
+            "hash": "37A2DA43E934A4EB1BCE96A6B25EE6A44113B294F979345307F07A10AC6A4997"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp025.supp",
+            "hash": "E738FED57089B6C2AA1A916213DA8FA8467DD27C569CFDFD573F82A17D4745B8"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp027.supp",
+            "hash": "6AE952F3BB40338111526E49070CE050F64A68830392E164D6FB4FE00BEE8E67"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp030.supp",
+            "hash": "48CB7F9A8F092CCEFFBD29599FAB022F6FF2EC5053BB39D22AB2ECF73F86068B"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp031.supp",
+            "hash": "EEDE5709F152F1652FF34F9950C23A888C7CC23E892350114BE98F8DF58EED23"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp035.supp",
+            "hash": "D3973DBDDEFA173D96FDFE7A8C5059C9B09B342903CB68C5E9A5671D1AE20B4E"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp038.supp",
+            "hash": "680CE10EFFA4BA02E9ECCE96B47557D0A1FB71292C4582A4D67230915995C4A3"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp040.supp",
+            "hash": "54E8924DF7C94747D04C1C9C20AE9A4B3FCD5C05C9787209D85677624131F803"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp041.supp",
+            "hash": "CB747D067E0DDE83CC3088B15E98A553046F36ACA8131A4F7725E31EDA4C9EE3"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp043.supp",
+            "hash": "6629735A40490E69CF8D50E75077808C53596FC4C8C49C4F1C680D7038B9CE44"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp044.supp",
+            "hash": "F0E5DEE7ADE0CFD1921804714DF7C0992967480B5ECAE337439993BD524E6DB3"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp047.supp",
+            "hash": "057480338C416FB2F495604E62F303D656486CCAF96D33A07E7471C7A365E062"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp048.supp",
+            "hash": "5939B085D0D026F61609F8BB3BF97DE943BB759C64D6556BE301986CA12FDBCC"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp051.supp",
+            "hash": "1F5A26220147986A83AFFF579D096A06CD8462713AF66242CF9D465E1B2C1265"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp053.supp",
+            "hash": "BD0E7D12D951DB4F6B0E47577B1C40538A7A8EA00F0D4F448987F3F06E69FFFA"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp054.supp",
+            "hash": "AC63AD761CCB8F69DF8E8287C348F05515C97C0952F446EDC020E905F37D382D"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp055.supp",
+            "hash": "2BEA7AC0804D2BDDEABAD53025847FE3A6F773F1DD5D2319B29BE62EACD3CB24"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp056.supp",
+            "hash": "B9E01F927A101D4A7C81EDBE77CEA59E7CE1420E43FBBB79B062C0B21FDAD6AB"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp057.supp",
+            "hash": "E666B3523CC40F967C2470401BD1F3A7E27ABC86670D2E2E567984EC74386577"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp058.supp",
+            "hash": "D684AE018490F55C088B0DC75A3002E0DD14AD621085895D71E6EF6D19710E2C"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp059.supp",
+            "hash": "7DDB823A2273278462EDE0CE82C2C379ACB6017ED10F8AC5F9A4DF91EA4AC0D7"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp060.supp",
+            "hash": "39F3B054411950868F7A22DB160D459101C994B86C1B129B15C633066FF4964B"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp061.supp",
+            "hash": "911AE83A09B4417AA2C74B714A2BE9999AB80E1FDD04FBBD4D1B4EBE4B16C506"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp062.supp",
+            "hash": "C895D5BE4B48416E8AF6BC3322F1E4D1F53138583CA8E890C1EFF9618CF4BC24"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp063.supp",
+            "hash": "C30DCD5DE4C09151787058D2644FA5BD26B6A7E12606FC21826D99AFFA92083D"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp065.supp",
+            "hash": "A7622FD369BDF0E5CF126F49BB20C439D3575F80EA2AD32FEE54EBAEC45BF99D"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp066.supp",
+            "hash": "7CF315987E3501B6277DE1D135CCE30E6EA2D5BC3CCA7DEBA52AF44CE67545BF"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp067.supp",
+            "hash": "405D93308670217B672E3CC265FD32C93993075C61256D3C28B0AA82CB3C6F80"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp068.supp",
+            "hash": "9D5B5D3D1112D40158FE08BD7224D0884B264CFA6BEE431BE2A4313D3D6393F9"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp069.supp",
+            "hash": "E17C9FA2DFC72BA7A0EED408912679ACCBB7DBF1737302BD8CB4091C67D2BF41"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp070.supp",
+            "hash": "4511AD042B189E7C8ED0A5786D3C254C7FAFF6EEB19D82F3EF20E7560AF06B99"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp072.supp",
+            "hash": "027235FFA24DC1299138590DEC1C7088DF4BE6F77FCEA9DDB3DAE3F7D6B00746"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp073.supp",
+            "hash": "3A8C19E31F315B20A5286F8344A0C53D9BD9ECD5FC1A1B9BBBF9F005471F82AB"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp074.supp",
+            "hash": "54E8924DF7C94747D04C1C9C20AE9A4B3FCD5C05C9787209D85677624131F803"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp075.supp",
+            "hash": "EEDBC336AD0CA72F85FAC5731B718FAEFF694706E8E7A8C37FF561ED9294C2FF"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp076.supp",
+            "hash": "F48E6F8C74C1390C01493958BAFA8CB9169E700B6BC0E8D85F93AA9360CF10B3"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp077.supp",
+            "hash": "11CC27C926686F2B23914DA33F00928CF6D9F71BFD8F90F153BEC12F0C28E8FA"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp078.supp",
+            "hash": "39DF79E4D09743E6AFDA409DF43380ECB9435A0289BD03D32366916EC44E9EA1"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp079.supp",
+            "hash": "C9579E1F215D932B23E57182C7D0D742DB27CF0B5EBB2CEE53907207EE1C7836"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp080.supp",
+            "hash": "5AA89BB2424F446A3945AB7C0717994E4A825CE80BEED055536634E67E4A6372"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp081.supp",
+            "hash": "43945D69F67663FE4068C443EAC9045112E861E5FBED78AE7CB98929F37E26F2"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp101.supp",
+            "hash": "5E6DBF9B79697C6FFEFF8601F465C9BDBB6C887A9F88F1B3039AECEC2BFFF7F9"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp102.supp",
+            "hash": "5C3C609BE74CF29B059220F11A78AA2A05E4437EA05A8972FF0EA5EE2C0EDBB6"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp103.supp",
+            "hash": "EED0A599F6632FC37111DC2ECF772B9FE129EB0DCB7D93CF4A16471C02A7F444"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp104.supp",
+            "hash": "1360265BDE80572D29E63025319FA0C076AEA1825410C7C37B4547E1C31C689B"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp105.supp",
+            "hash": "B775A3B2C57211870CC5D38416392DA40501234B465FF607E4C0EFC649D4AD8D"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp106.supp",
+            "hash": "943F22572E140F5D03544B29402A5608ADBECB3DC0D1895FD7E77041C00A41B1"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp107.supp",
+            "hash": "2B20A3244D2B4F8F4C49F6690FB0D8C5ADC60A22D8AC5CF6880B9816396C84CB"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp108.supp",
+            "hash": "16005E01A57F13EEC199858BDA89BDF3508AC60BD67A4097D2AB2A13C0C95A56"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp109.supp",
+            "hash": "FAD99DF35FA206252E594591665ECD27AF2D18D4FC6CF61F3C9FF837A6484FE3"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp110.supp",
+            "hash": "7B79F31706CD451081AD690D0093A4563201DA348A0249610F18104A1ED0067F"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp111.supp",
+            "hash": "BAB49BF550B72F2B1834526C15B58F0C8F4F6CD3426B0F3E24755B7D355B24A6"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp113.supp",
+            "hash": "9180B02E0556867C261B55025C8B5505C78B8CD62FA87D4BAAEE894761759858"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp114.supp",
+            "hash": "E36E681A9B9DD851D465D1154B07BCD6370230DC8DCCA6CE018A47AACE7867FD"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp115.supp",
+            "hash": "393345AD0C566DB0F23D7C3B51164F6A971437517DD77591EF05E0BAF4CCAE02"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp116.supp",
+            "hash": "5FAA33670E84D0669F8696104E0E82F663A99BE95839EC7BE1B1C5654C2D8D75"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp117.supp",
+            "hash": "52A90A689527855DCEB79146C1A02AB817E58AAA768B77C3ADB624734F4F124D"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp118.supp",
+            "hash": "EF5DA156928B30ACB32B4DAEFEA9BBBAB3BBE2E341E4E66F0F3F02085C06066B"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp119.supp",
+            "hash": "F74D0A86E8660C14900CF32BB7E7B22747FF2A4F94C09BBDD870291D66D96611"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp120.supp",
+            "hash": "5C8EB4310F26CC5EA67A70B6BC86A89AB87C69AA7379FBB3193286C95CED1F61"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp121.supp",
+            "hash": "1EA81709501D87B8C498DBE9087C95E736CA081B1E9614B3B4B4F18A502ABDA7"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp122.supp",
+            "hash": "7DDBA1095F614BAFC6E69EDA2104F4F05687E4BCFF15C7A72F015BF80E677DB6"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp124.supp",
+            "hash": "D8E39165F05C2BF407C7701BBCD5E460B71D024BC73390F09942B80B8F0A5714"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp125.supp",
+            "hash": "6697D479EEDACBA9ADFCD646BA4A1B3576C57E4C91C4048994C0AB7F9CEF90EF"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp127.supp",
+            "hash": "7F0F8562008E3D0F955B23867DBB828439B3B06A01223F96768ADF46D4D395B4"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp130.supp",
+            "hash": "83D2D69E9227770AF486D8586195E3C092CB75623EEEF590B7AAD2387D76C26E"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp131.supp",
+            "hash": "F66D065869CDC6737ECB120FC0413F5B81FF4297BF7195A65E3F0DD4C4B3FE44"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp133.supp",
+            "hash": "62FF8B9F83A12988AB8E0BB5ECD094258496A69A8E0E907CAB643EA554E13D95"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp134.supp",
+            "hash": "BD8B2898043BB7F9BFC8A960FF795D5EFA42F4E389CCD0AD1787D01A48E90197"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp135.supp",
+            "hash": "C32A31F2CF8CC60121712714B813FCF66B0A09A95EE697FF6117AD4780A9BEA6"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp136.supp",
+            "hash": "B6754F499E1E06218B68D584FC21280A7448CD7DA82F8AF52224EAA38B09F433"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp137.supp",
+            "hash": "D7E07BCCA047096406089BD9EB74C6DF4D8E89980C48A2E7E1A98D5FC760B22A"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp139.supp",
+            "hash": "5C3C609BE74CF29B059220F11A78AA2A05E4437EA05A8972FF0EA5EE2C0EDBB6"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp140.supp",
+            "hash": "523F6D3330ABDFF60B7B7B2620CAAB346BEBCAE94B5B81549E978E8DEFEF4C1F"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp141.supp",
+            "hash": "0452C29B9BCB5DF73C25E33E5BE1B82D33B30A157E8478ACB0CA9C9D05BB1933"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp142.supp",
+            "hash": "20DF69383C7677ED1D4EA826A083F88D8E4E09614ECD5D141326E3A609BDE7DD"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp143.supp",
+            "hash": "5486E88D72F029C32110C3B0B2C6FEC48B06A33BA2FA75F3F4340CE92FD8C7B6"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp144.supp",
+            "hash": "2B20A3244D2B4F8F4C49F6690FB0D8C5ADC60A22D8AC5CF6880B9816396C84CB"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp145.supp",
+            "hash": "868B7DD6CA19500E1C964AA08645FCCD41ADCEE9E1564C9C11598FA41319E3BF"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp150.supp",
+            "hash": "EE0B20761E2CF17B8DAE5277D2EE1C63C5733151600F713819F9097B6883C27E"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp151.supp",
+            "hash": "0C15799E62C6AAE40EA587C4B20BF10A0172D8D9A8C8668F21004B1E80A0B8C5"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp152.supp",
+            "hash": "C4BCF1A83FB799C8245E0850A780D16BD1B2871211D3262C0C16DE69B6668800"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp153.supp",
+            "hash": "BB6C4DF4737F150FD0D9C6AA64FA3A7A83123943833C4945BAADB1EC82625454"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp154.supp",
+            "hash": "FD15B83DD394C6E1BF71D95727C748F6AEB78E6AFA4948E487178084A136DE5B"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp155.supp",
+            "hash": "FD19D6D8CFC22D34A98B791F3B183C5F6BBF07BB9377B025DE57AA6037F688E3"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp156.supp",
+            "hash": "53ACBD8E6D43E1AA83BDA9D4818F951EBA147B0A2019C75857DC81E296F4AF06"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp157.supp",
+            "hash": "17EC7FF70956B053A98D15946AF02FACBD4336886F1F817742B11A2F3E12A960"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp158.supp",
+            "hash": "D895D7A5D962B26B3D5BE8D78BD1936982EAF9309A29EFC36669FBA37808D5C1"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp159.supp",
+            "hash": "4991BF98E16423EB3F8479D43F15BAC50908B03F12ED005FE3DED7705F47F7D1"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp160.supp",
+            "hash": "4991BF98E16423EB3F8479D43F15BAC50908B03F12ED005FE3DED7705F47F7D1"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp161.supp",
+            "hash": "05DB4A18F905636B7CB5A6B1232EDA193FF768ADFFF66ECE15DC9FE0FC7C4B2C"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp164.supp",
+            "hash": "34B13E449735028F655C5FC62DA3BFA8C6C9D977398EE522A49DCC23D62F215E"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp165.supp",
+            "hash": "45ADE6DC6BCD6341CEE0B439ECC037A1E3E63E1E7DBC292657DA2423E43782B2"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp166.supp",
+            "hash": "3E4428F1B697C2ADC397AB6F00D0CAA7BD09DFFD8DEE7BC6A2137008422029C4"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp167.supp",
+            "hash": "FD1F7D31D4955EE08F224C25044EC09A87D44DD6684C1B1C3BC58E5505244DFD"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp168.supp",
+            "hash": "A49A42A84A5FC2BAF8EBEBC39146436E19C9AA2F1A2210B34BC178AE487F2ABA"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp169.supp",
+            "hash": "09C9FE771A49F2DDF2B22392EE1D4735E8E7795095DB6694BBDAD621653EA110"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp170.supp",
+            "hash": "A38B1B15D789B64C101DCDD3989C53E35899BB0BD97E080AE41EF1FC8360B558"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp171.supp",
+            "hash": "9250B5FBD69631FC166BC03FAAD50F48B08B700B4350791BC1564A231CA2C35F"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp172.supp",
+            "hash": "4C5310D3DD8C3E50006533422D5D84514EDF1956D086EA9383C0362F4A2DBA2E"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp173.supp",
+            "hash": "DE9040E0B30FC3E9EB2BF53C7BA654C7A34A671CE27270890A466C98B7CC35E2"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp174.supp",
+            "hash": "254BD5834E046C9FCA0904D906A92E7C75D1EE03BED03184F04FCF29EC52B8ED"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp175.supp",
+            "hash": "1B2A43B9BCB1C421892A7857A7E6E82FCDD7605588F5C309FC6F94DEE36D2A22"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp176.supp",
+            "hash": "5C7F48D7A8D8B4A66A97341DC0583105C69555B24B8A9C2A4AC12D5447E748B7"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp177.supp",
+            "hash": "712E5FCF2F927F4590FDE234AEB1B7D5BDBBC804310C7D6B89BD0AA9CEC94706"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp178.supp",
+            "hash": "821A72139899B8C36875AA947193492929C5B45EB2067A25E42A8DF7D28446B1"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp179.supp",
+            "hash": "57A457874316535CDA5162F09DF343BCC6A29CD9C7FE57CEC45D524AD5466E99"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp180.supp",
+            "hash": "A890AC7BD17102E59B29D671011622174D6002D5E29D864EABF004644815C282"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp181.supp",
+            "hash": "EA9BAAAE5909B5A5191181616F81974003E8ABDB5299DB6B398B636B299A25FA"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp182.supp",
+            "hash": "77AE2FC7B9923B0F94C33FF9FF7B5929AF820254D8E474C91334C0CB4D99B87F"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp183.supp",
+            "hash": "ED3D56CFE54976B4CDFE5C27B3255DD21733A91AD20744E17BCF0CC0B35A0B11"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp184.supp",
+            "hash": "137C5002CFA9A14A88C8CF1AF74768FDBEB7C556ADF7749926B718B2E3C67513"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp186.supp",
+            "hash": "16005E01A57F13EEC199858BDA89BDF3508AC60BD67A4097D2AB2A13C0C95A56"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp187.supp",
+            "hash": "D0B45039F70E0CE31E4DE705A042F13048C9D6DF3F67DF0F9845C19A133EAA74"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp190.supp",
+            "hash": "6CA180566D59459880F442A33F9167EC2BFE3EC807C1032BCFAA823457ED5F21"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp191.supp",
+            "hash": "BC75E4F26D12AC5E0EC2A90F8B6FE1C9951771DBEF94D35142D4080A23B894D9"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp192.supp",
+            "hash": "5FA25566C15DFA62D73057FE1678236CBE1339A24C93306C611B8E5942A2F124"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp193.supp",
+            "hash": "2307E08CF00554CFFF6D02801EAD6EB23F9A9AB10DE86D09700AC44581A708FE"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp194.supp",
+            "hash": "C753D35C35B94F37E2638740EE762A3AB0FFF734404DB4A5C679B3959C1F3117"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp195.supp",
+            "hash": "1BF5EB6018B20DDD450B77BC990D0BEEB9DF8E031F117BB89669100BE628C471"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp196.supp",
+            "hash": "DC98137143918438382285B40F5F3259EFC456DE1EDEF947053BA5D099002568"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp197.supp",
+            "hash": "12AE5D821D166B49723CB619FA22AE78DB7FDA64A6B1D800DAF5987196DBE65D"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp201.supp",
+            "hash": "CCD8BDEBF98A5835D94E6869DA375D13FBF3F2E0AD15B0563E32E51CEC3887AC"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp202.supp",
+            "hash": "BC095243D7A0E818758DBDF48F288253251A2F8B5274CA5C94A5D20EF76885AE"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp203.supp",
+            "hash": "77285B7522E198199A85F11A76BED57347267F4A6E28347B5AA334999BAE7A84"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp204.supp",
+            "hash": "4BD16A9FE5DC25C5C5F398F84062393AE150AF1CD2B79B17D527F737D6F53577"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp205.supp",
+            "hash": "C895D5BE4B48416E8AF6BC3322F1E4D1F53138583CA8E890C1EFF9618CF4BC24"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp206.supp",
+            "hash": "7C7F7438E96D78E40E947EA43A5AE2E428B01ED7060B56D1BB5578E11D35A8CD"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp209.supp",
+            "hash": "84F01E2CBA0A792E92256995B2E98483E9CB64807AC564D694C3FD3F01C8E37F"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp212.supp",
+            "hash": "52CC7BD436AFFBD2779377F9E384D852DAE6725157B0BAB42858B0278DE93A84"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp213.supp",
+            "hash": "F7CE2354849CD09C36243F39A0C6A42F942B716666810FB5E498163A9678A486"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp214.supp",
+            "hash": "FF9EB523214CFD64D099E04179C923CC3922C7AA056874F164C0BB7CEB3E5F0F"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp221.supp",
+            "hash": "8A46F06BB99ECEEA52919ABB938A90051F82AE54C764A21FBB931F13A94A6E58"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp222.supp",
+            "hash": "8CD226B5259F0A9CEA8C32F9296FF108D549CF822E694BE6F81081860A0976B9"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp223.supp",
+            "hash": "B4A9C7B70E4E5FE5A9BD0E88D51FACEBE0312C506422F0C4B2C0D2975C99C55E"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp227.supp",
+            "hash": "707E86B7A0BF8557925410C1BABFC94FC1006EF13B6A82D02E1824E9BB245E64"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp228.supp",
+            "hash": "D9F2060F4340676B55D6172130EC93E7E6A086FED61CC4BD3BCDD6A71DB0F50E"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp230.supp",
+            "hash": "39F3B054411950868F7A22DB160D459101C994B86C1B129B15C633066FF4964B"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp231.supp",
+            "hash": "477963E88DFC01F0CE1ABCB83A49013D5B2C3E01FEB4525AF0E2AFABA53636B0"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp232.supp",
+            "hash": "6319F663FE15E30782076D449C9E0C04D41B92ED4981951118B3A8944E4CCE02"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp233.supp",
+            "hash": "CC3F55E8FE9B1059F811293E3A9AE3CD0F201E3664087FA7F318AA467A847317"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp235.supp",
+            "hash": "73D2B64AA3A20C99C58504E56F2584487B1BBD78241B683BAB94097AD9F147F0"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp236.supp",
+            "hash": "BF3745718D17EE98CAC1D90B97FCDD0E848330E5307D8B1AD2570F73C1D87C8B"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp237.supp",
+            "hash": "C994E2946596DAC4A206B0060CEDD620B94C90946C60F986C46D4C0F32D2A266"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp238.supp",
+            "hash": "4349B4E0413A745EE24B29770AA919D1FB67FD11C5DCFE358298CEF8C4A139F0"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp242.supp",
+            "hash": "2102BA9E2FA9435E254B81DB900E5F878ECE756E4AAB58AE9E33D6B8C6323DFF"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp244.supp",
+            "hash": "F4F3E1D3BA1DF959C5A71571B19BB16D1CB339A3690FF52E976E14EFBA964C06"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp246.supp",
+            "hash": "2CB31AF121032AD8A5C50DAA386FC6E54660CE85C2AD7C3CD8DBA224C21B54CD"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp247.supp",
+            "hash": "E6B1CEB62106789DA145DA70608257267BB651FF27737FAC0323FC2B7D443002"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp248.supp",
+            "hash": "DD35F1E8C59A2C7F5DBB7BA92C69CD5BCA39E583CE7203A9E76AF4A3ACD9960A"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp251.supp",
+            "hash": "90233033E0ADBF52791E587F3EC3669B2AB637A8ADC3F546D159452A69DA3A94"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp252.supp",
+            "hash": "46A431AF660EE3491B15B404CAFC9D569FF9B0816CECC76643494D26CE1534FC"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp253.supp",
+            "hash": "CCD2F8B3373DA54776026ACE81F7D4B3585B41C0530102EDF39B622F8C87388A"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp254.supp",
+            "hash": "1252522EE7550A923203ECBB1C5A0FEFCDC4C599CD92BB4B9A46988A1D78E6F2"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp257.supp",
+            "hash": "126F00D7E9302916501A5C09AC0C7CA4B87CB51EFE9EFE40C7BA1824B9B53F34"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp258.supp",
+            "hash": "7C7F7438E96D78E40E947EA43A5AE2E428B01ED7060B56D1BB5578E11D35A8CD"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp259.supp",
+            "hash": "37F27ABDD3BB39297DE4623B850D3562FEDC66807DC5ED3134ACE47F12C71C53"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp260.supp",
+            "hash": "0E9F1ACA27B4A3FC842DA73367DDE0A4967FDE5F051C2086C3BB33F2D5CA51CE"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp262.supp",
+            "hash": "DF736A57E26F31BCB31EC7A559FD298B51A95A1EAE6A522C24D22EE8D08EF88C"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp263.supp",
+            "hash": "C2C1D643F7866D1245EBFBA5127362BE4A7699120D8B6E844F8B5CD9F1C3A19C"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp266.supp",
+            "hash": "8E95FF5FDBDABF90635CE90C3D8DA587E4B3EE46DEF634DE10E171DFBAA0C1B0"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp267.supp",
+            "hash": "EB45FF4F5CC942431F6B79E176F1898E00943B1EF5C851439D4025DC89D1CE49"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp269.supp",
+            "hash": "CA41DA0A5715C5FA50665F8C911C60A88D1C8B5A49C95B5A00CFEA024E34A500"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp270.supp",
+            "hash": "39DF79E4D09743E6AFDA409DF43380ECB9435A0289BD03D32366916EC44E9EA1"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp271.supp",
+            "hash": "5C24E5BA8B3FE4E6AE553851829B474A5FDAF30A3B928CBF9A8EFF6B4F130A7C"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp272.supp",
+            "hash": "BB85B86D74892CB0D3AD3E0E91BF960A3E91FDF5498987FB6962B7D17199A4E5"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp273.supp",
+            "hash": "868A42F89F815AD55DBBEDD094EE6F8F533A6BD9C8DE07F60A7F0B665AA3F37B"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp274.supp",
+            "hash": "405D93308670217B672E3CC265FD32C93993075C61256D3C28B0AA82CB3C6F80"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp277.supp",
+            "hash": "FB31957484363377D26232EB5E43920A0BF245E5C9DAC04A59C1B337BF006B63"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp278.supp",
+            "hash": "C895D5BE4B48416E8AF6BC3322F1E4D1F53138583CA8E890C1EFF9618CF4BC24"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp279.supp",
+            "hash": "5148369F607BD000680DE8E1D11697B919DF60DA31579CBD05A807162112121F"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp281.supp",
+            "hash": "C17483B439BB2E6D125E77B500BB7CF7D8381A7D3D9BBF7D2E3EC18A2A80DEBA"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp283.supp",
+            "hash": "E302FD7FAA8DD984349C15E76B312DCADF3D878200BCFDA9378D7FDFCAB05D4C"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp285.supp",
+            "hash": "E17C9FA2DFC72BA7A0EED408912679ACCBB7DBF1737302BD8CB4091C67D2BF41"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp286.supp",
+            "hash": "323373053EE9A2FC5138886EE0AAC8D584C993C732A2B9B22C3D026825279B6D"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp287.supp",
+            "hash": "159EB5EA8A787F53E59FD39D3F63383302831339AEEEE1CAC36225150D00A675"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp288.supp",
+            "hash": "2D603D51A97C8B977155572652E6F7A2BC88CB5503160FB4AFB78C1BC49B8EA4"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp289.supp",
+            "hash": "889A86C586C99B4ADAED34FD754C14D2891C19AEFEAD39E5808DDD2B5284A9CB"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp290.supp",
+            "hash": "654634ADAE5BF106072C95F3F20699A448067C6C9B62D2773CA97798D7D0365E"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp291.supp",
+            "hash": "A3A573F882930B918421C6288DF430D8A701F0AB593FD45C4294B68BF3B4AD83"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp292.supp",
+            "hash": "8031CDBB10B28E27F2B00D2AE088F3D6C3AAFDA1BBEF7A7C7CA4A6A86169E49D"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp293.supp",
+            "hash": "F5DF453E7CEAECCEDA8D3CF6BE870EE6F58E00848E56A56580046F733472E71E"
+        },
+        {
+            "file": "content/nativeCafe/quest/support/supp294.supp",
+            "hash": "FC0F5238B7F77807F7F11B12499A5882998686FA3DEF9DF571268A56EA17F5D4"
+        },
+        {
+            "file": "content/nativeCafe/quest/us/q_50001.quest",
+            "hash": "E2C6553E554A3F0BBC696FECD754D4C32A5BBB49635E57082B004A984D08613B"
+        },
+        {
+            "file": "content/nativeCafe/quest/us/q_50002.quest",
+            "hash": "7168D71078201E1FF149646EBC5D577FF35501D8F6D0AFBC995FD05DCF73C5BE"
+        },
+        {
+            "file": "content/nativeCafe/quest/us/q_50003.quest",
+            "hash": "4E463A9BBBC75FC63E50BEACCB1624296086BBE715F43CD55BD81B862ACA5B31"
+        },
+        {
+            "file": "content/nativeCafe/quest/us/q_50004.quest",
+            "hash": "0FA319C3A73DBF4AF1826002B4940E201F67F06B79CD0324783DECED954B4C71"
+        },
+        {
+            "file": "content/nativeCafe/quest/us/q_50005.quest",
+            "hash": "9011EBD0E48D5818B0221328D14C9ED98A0E37F05AA7835A6D1B16E205C9BB83"
+        },
+        {
+            "file": "content/nativeCafe/quest/us/q_50006.quest",
+            "hash": "F268E7F3D77F0C2A5D65ACA00A29F961CB3F211DB1B48B7BE47F0E5F506CFF30"
+        },
+        {
+            "file": "content/nativeCafe/quest/us/quest.list",
+            "hash": "BAA99A1654AB550C1CB20828F0B8C633D13E8390D932985B8D7307D8C294A10D"
+        },
+        {
+            "file": "content/nativeCafe/serial.srt",
+            "hash": "627640803824A4484546C1E890C04F91B337D1FF7151DC8BE616504EA1A3318C"
+        },
+        {
+            "file": "content/nativeCafe/shaderArc.arc",
+            "hash": "A0A1A67693F0910D5BCB59F26677DEBFC6886F2DD73DA7AF09B1B3107A369E1C"
+        },
+        {
+            "file": "content/nativeCafe/shaderPack.spkg",
+            "hash": "95E4EFC24686DFAEEB8E849FFF7A9EA62C9DFC07149242E2BB59E83ECDDBE6B8"
+        },
+        {
+            "file": "content/nativeCafe/shortcut/ui.usc",
+            "hash": "2B3524DF057D8B9E306D88CDE32B102822910CF1C33CD09243C15EC7AC77E0B8"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/ambient/m01_d/amb_map01_d.stqr",
+            "hash": "C9553D0B8756803E2E0A2CEF8C8A64150FE13958D5AFE555076613789EA74259"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/ambient/m01_d/wav/MQ_J_SUBQE.dspw",
+            "hash": "613BA39DD022DFBE5DD8112543198BB91DD2D7B85327412D7EF7C28396C42E95"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/ambient/m01_d/wav/m01_a00d.dspw",
+            "hash": "FBB4DE473553B3E921E4B660465A0D1837DB484C7303BBA8AC6DBAA55D0099A7"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/ambient/m01_d/wav/m01_a00d_in.dspw",
+            "hash": "2E8C7D7881BAE3B08ADA8B410AA00A44F5CD3D2309E64D65A78AC10825E25C29"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/ambient/m01_d/wav/m01_a01d.dspw",
+            "hash": "570821A312EA814EFB63963CF7E5B1C5450506A0A11CB515A0D60CFA7A1D450D"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/ambient/m01_d/wav/m01_a02d.dspw",
+            "hash": "EEE6D9D7CA092A947E6A583795C5A9F6D35C6771168E13040613D6037FE80F27"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/ambient/m01_d/wav/m01_a03d.dspw",
+            "hash": "2A82D2E00F29DB4B4C424E8D33B5C0559FB3DECCACE235EC0E90B20C3FF95DD1"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/ambient/m01_d/wav/m01_a04d.dspw",
+            "hash": "B040FE0AD987F7D113C84C63D69D776C759D3BB94A492342F88581F754E0BF02"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/ambient/m01_d/wav/m01_a05d.dspw",
+            "hash": "DB604099408D9246E0AE4B08459351D02A9FBC9D7FE5BFFE2F6F7FBA69C20665"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/ambient/m01_d/wav/m01_a06d.dspw",
+            "hash": "13489FE6BF6408AA9497176E2E18AECE4245A26E10FE21EB57368D227267A763"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/ambient/m01_d/wav/m01_a07d_in1.dspw",
+            "hash": "D6B5CA327E2FE73A67FA686D29631FD42F51A04E3DA1B10B02C0586B62F2A545"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/ambient/m01_d/wav/m01_a07d_in2.dspw",
+            "hash": "1B42FCA596C678D0A64DBEDC7A48BEA91B3978B7A7A38A6B0D537C20E71F4B7B"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/ambient/m01_d/wav/m01_a07d_out.dspw",
+            "hash": "35FB007142FAEFC233B7C95A1FF5D2E30854449A5515BF67DFF3A2DD6AE7837E"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/ambient/m01_d/wav/m01_a08d.dspw",
+            "hash": "E0DEDDB1C62FB304450AB30A557EC8F878E6AF3E94346B41E42A65CC666049FD"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/ambient/m01_d/wav/m01_a09d.dspw",
+            "hash": "E6F928EC43C6DA92FEB8C570D875B2A9AFAEA429B200C5F31BD379E16C8A6EF2"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/ambient/m01_d/wav/m01_a11d.dspw",
+            "hash": "1A8113C55097A313EF1835ECA68B077DE043032F4914C034951802F8500B5FFC"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/ambient/m01_d/wav/m01_a11d_cat.dspw",
+            "hash": "45ED86651DAEA620CC9944887530A5EF411CBE07FEDC8C82B0E8DF95A878AC6E"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/ambient/m04_d/amb_map04_d.stqr",
+            "hash": "7CB2A9B585F488C375E571B2B90B99EF7E6588AE42AF628A72A453456C65FCF1"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/ambient/m04_d/wav/MQ_J_SUBQE.dspw",
+            "hash": "613BA39DD022DFBE5DD8112543198BB91DD2D7B85327412D7EF7C28396C42E95"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/ambient/m04_d/wav/m04_a00d.dspw",
+            "hash": "30A8E4D32AA3425AA75DC8B388C3C068781ED7001E5DF189CA2A19C476800EDE"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/ambient/m04_d/wav/m04_a01d.dspw",
+            "hash": "BDB351DD41D0E979723BD5FBB3BFD11130AC7575CDC75FFA29154C7950DAF3FD"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/ambient/m04_d/wav/m04_a02d.dspw",
+            "hash": "29A08F0B1DFD6FC9C0EAFC073E70D5A7526EDF10C6C8C3F70A60A6E6EB304125"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/ambient/m04_d/wav/m04_a03d.dspw",
+            "hash": "691E0A58DE4E6FFD8D44B8C6C30F82DA9473E830E21F6C0DCE3EB6750BE49244"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/ambient/m04_d/wav/m04_a04d.dspw",
+            "hash": "DC2D78E19E90F13D76E7379299F4B680681E7C555116EC677DFF919167F495AA"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/ambient/m04_d/wav/m04_a06d.dspw",
+            "hash": "9C1A35866A7F4EC113277B67B8606191F8B939B80C96BA44670AE5A934FF2FFB"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/ambient/m04_d/wav/m04_a07d.dspw",
+            "hash": "2C37B320DDDBD9A7CF43BBC9A1EDF6F5C3187CDA2D20D3719C68C1353E428551"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/ambient/m04_d/wav/m04_a09d.dspw",
+            "hash": "E2AFC61FC776A00EAFB97CE8D47E40B7F0814360B209030B10CA569405B8A3BC"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/ambient/quest_end/quest_end.stqr",
+            "hash": "4C570B84C6BA122048FB46120BAA02EB1CC09CDA84DC28CA3A28079CB57A47A0"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/ambient/quest_end/wav/QUEST_CLEAR.dspw",
+            "hash": "4601FE5579023FE031E64D2030311E059EE116B1AA88CBB7F2621258E0361A6A"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/ambient/quest_end/wav/QUEST_FAILED.dspw",
+            "hash": "09B6D1319CA868667455B671F1973751192A09CEA1B6048BCBFDC415F41F335F"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/ambient/quest_end/wav/QUEST_RETIRE.dspw",
+            "hash": "7200CB2050479D0EA47FA0CF72E9E2A5A89DEE158AE9F0A84CCB380169ECCA68"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/data/data.stqr",
+            "hash": "28E3C114841A090F17E74A250C5078BC3FEFCAF4D74447D64D3C986924023C5F"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/data/wav/ML_NTSAVE.dspw",
+            "hash": "CAA673E137543E03B8A474CDAD3535880E84F28D000337A5CC3CA941147BD470"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/quest/quest.stqr",
+            "hash": "6523D1DF66A93EC90AD478307F73DF275F08EFF544649DC4F8445AD5FE15C59A"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/quest/wav/MQ_CSELECT.dspw",
+            "hash": "0FC90AAA423859D23DD36AD02A33ED41C174EFB141E18408CEAC9BA0E9F1198D"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/quest/wav/MQ_FIGHT01.dspw",
+            "hash": "1A55A2287E66433CE2DCF6F12BEADB1979EFDE6963508F66854F5F80643B3A9E"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/quest/wav/MQ_FIGHT02.dspw",
+            "hash": "F929CF8FDB91DF580DC25B3C408BFEDF23FD6E6778B4CCF4D773911D0AF28AD0"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/quest/wav/MQ_FIGHT03.dspw",
+            "hash": "F891A0EE0F6E740B9C7A52AF6A1CB4DAC73596E52C2B7F7E68EF43D333DAFB52"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/quest/wav/MQ_FIGHT04.dspw",
+            "hash": "421C5AF5701D80E24A1CC7D7F21BCBF8F95E84E5852F9F2530A496D26A71ADFF"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/quest/wav/MQ_FIGHT05.dspw",
+            "hash": "CF369BB2E96EC9C67C70B768A1AC4E3ACD6BB6BBB94E6259A9170DA3DF5C458F"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/quest/wav/MQ_FIGHT10.dspw",
+            "hash": "D7D6D3539C80BDF42E0408191F4F3DA4DF290E3C4047A2AED3DC8815C267F2FB"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/quest/wav/MQ_FIGHT11.dspw",
+            "hash": "832A75496C47C546B74BC54B5F67B6AA88C3B1A84FF1CF174D45E21682AB8942"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/quest/wav/MQ_FIGHT12.dspw",
+            "hash": "0CF9895FB87D8110C51496289164AB1D9659950919E9828F33233AE0D15513E2"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/quest/wav/MQ_FIGHT13.dspw",
+            "hash": "CFBE9876841F98F96D4FC0A0DF1268ECF6BA00689554B04D238FAFF0CE15F59B"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/quest/wav/MQ_FIGHT19.dspw",
+            "hash": "A0FA30ABF9A69620C22AA4B19773BDBA3BDD983AD76CA017FEEA76FE5E350E25"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/quest/wav/MQ_FIGHT89.dspw",
+            "hash": "464D84108781169EE7334E480AE661F2FD7C0A145237D899008EAABE06AB595C"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/quest/wav/MQ_FIGHTD1.dspw",
+            "hash": "793ADA38644254B0C1B629372A7D36B94DFC0E1C319C3A2DCDDD312C6809B66E"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/quest/wav/MQ_FIGHTD2.dspw",
+            "hash": "68917F73614B95D1F4FABCED58BEE9B5C893A335727117479756180EA29176E3"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/quest/wav/MQ_FIGHTEY.dspw",
+            "hash": "7B2A2E61E4441412D3C0CC46082219746145B95933007C688B36FF27F65E2CD8"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/quest/wav/MQ_FIGHTJJ.dspw",
+            "hash": "3C9113EB85786A313B68BA943174F1157B2072AD8FEC730AB3D00E5973B61C00"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/quest/wav/MQ_FIGHTK1.dspw",
+            "hash": "EA5EA2D9E029FDECC7D4B0674E62547CE1F9DAB25ECD6FAEBCD51BEBCE41F341"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/quest/wav/MQ_FIGHTK2.dspw",
+            "hash": "8F95A9DB9E8D6DB376953C8F875C96A423D0CDE86BFC4004879A101107CD3E35"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/quest/wav/MQ_FIGHTKR.dspw",
+            "hash": "394D5A7A5B82A25519DFCA3917343F429C31A60C82AEAACC1EE7C61C38C88701"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/quest/wav/MQ_FIGHTLB.dspw",
+            "hash": "4466D4DBABABD9EA69FE0361891889FC7DE57A39262D8FC9F761221017F0B221"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/quest/wav/MQ_FIGHTMB.dspw",
+            "hash": "8FCEDAB529C33D4919F3A6C041067A96B7F4F50FFDAE0FCCC3D4CEC7CED8E36D"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/quest/wav/MQ_FIGHTTI.dspw",
+            "hash": "4BD82C853099187C5AE706E876ABA91A162FAAE479083C0DE51CAD4C2271D5B6"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/quest/wav/MQ_FIGHT_N.dspw",
+            "hash": "E534A18EB1978B26B2B085E88205035AFB943BE72E5E589535DF4F2C2EF32831"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/quest/wav/MQ_J_1OCHI.dspw",
+            "hash": "F00C4840B906AE58439169913EEB10F265697659E76842139BB2AE08642B96FD"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/quest/wav/MQ_J_3OCHI.dspw",
+            "hash": "386AA51B46CFC12DC76DD008DDB3FE82A8663548EE57C5B4497D1B02B906E353"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/quest/wav/MQ_J_FOUND.dspw",
+            "hash": "4CF35A5AA2BBA0E0F175A217027EF375DB0742EEACF166B7E607251537C4F3C5"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/quest/wav/MQ_J_MONTK.dspw",
+            "hash": "84FF6A8E2997A8B215FCDF3F77AE64F1F19D0C0DA8C1F4293FC8F0B16F2C90AC"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/quest/wav/MQ_MAPST01.dspw",
+            "hash": "0D28BBAD9FA6CF63BC957BD6DB55A16132B00686B67646BCAFA656058D192623"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/quest/wav/MQ_MAPST02.dspw",
+            "hash": "CCDEA16FBEB875C7D754BC6D338906D6DB416951AA7CA071CA9EC5DA234957B6"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/quest/wav/MQ_MAPST03.dspw",
+            "hash": "46899893F9182AD8301C85274FD732FEE747902A5C67D612F026606DDD864161"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/quest/wav/MQ_MAPST04.dspw",
+            "hash": "80B94420F4407F934881303341FF33B2C67B41BCA2DCD8E83D8B2FA7382CDC3D"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/quest/wav/MQ_MAPST05.dspw",
+            "hash": "515D11F91AC56C987A43E5EB7021950C00E68F342B03DFF46D916B4375AE43A1"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/quest/wav/MQ_MAPST07.dspw",
+            "hash": "ED6BD8EDC1B8C7B33AC6C7AFAEF81925C3CA8AB2440C1DACE4D2181D3AC7AB36"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/quest/wav/MQ_MAPST12.dspw",
+            "hash": "34A18DD8ACAF851DF1E890BE7BF0B5F2BB9277A87C6E27B284308964973EE52B"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/quest/wav/MQ_MAPST13.dspw",
+            "hash": "D528B1532812F0AC6F09C85C81E360661DC5EAA3234A1136D6A44A1F60313A1F"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/quest/wav/MQ_MAPST89.dspw",
+            "hash": "1191148B046467C945D80F76702724A31DF46BB954FB73AEEAFFCD5730E4A375"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/quest/wav/MQ_Q_CLEAR.dspw",
+            "hash": "36F5EAAB6ED91271E3F3FB1F457E638DB1625DC18777E0C4B8BDFB1442580762"
+        },
+        {
+            "file": "content/nativeCafe/sound/bgm/quest/wav/MQ_ST_MENU.dspw",
+            "hash": "B58591293735A9AE5AEA585B537F59D02470FA0B5060F4159B9610E66D134BC2"
+        },
+        {
+            "file": "content/nativeCafe/sound/blank.dspw",
+            "hash": "13170A6B572B5521BD507426A8EF009A29E3CC4737C35E059AB4050622AC37A9"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/em/em010.mss",
+            "hash": "BA2D3CB477767096E55622A740494B38F662B9C4F30D0271A9A3487E007386D6"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/em/em011.mss",
+            "hash": "3F006670EFCEF4620118802135AAE4DD9765041BF8E85AB658C77E0B510B3B97"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/em/em017.mss",
+            "hash": "E095B85D44458D8EB7A1A387608070AE0955E14A53AF04636DCFBACB4D3444E4"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/em/em023.mss",
+            "hash": "FD24AC9AA7CB849CE2C88D16D25CDA439B23AC29733006DF80257A6B89FAC429"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/em/em026.mss",
+            "hash": "12770C24656CF77AA12A1780EB30ED1AE6022CE0634A1B5268EA923A8C4C9086"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/em/em027.mss",
+            "hash": "DFF8116A403A753846366A4B754F33EBBBA7DC98989EE006033FF382F66191F9"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/em/em030.mss",
+            "hash": "63DDB3565102A95B7503971CC361DBEB13BFB3AD67D8814B58BE3F9E95655618"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/em/em032.mss",
+            "hash": "DBCF6EB29BC7A94D0DDC7BE9F7A81D16A466500D1E0B5E30756952A9A1468B9F"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/em/em033.mss",
+            "hash": "10FB6620E02C77A0BF2CF77960053DC8162CAA480428DD6D625F06EC404BBB86"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/em/em034.mss",
+            "hash": "8C6A860F4BD564E41E81F4FD0DFE4B6AAA0463ABA71164A678F166B7B493E5C6"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/em/em035.mss",
+            "hash": "594470BD57DA890CBAD9C8735CD19D9C47AB7B04245C0B353118CC67847D20F6"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/em/em036.mss",
+            "hash": "ABE188E0AB9BD3A4FF650BB3A05E370587FFF8B59E578813604824A6381D4817"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/em/em040.mss",
+            "hash": "EC561AECDF35E9353240975D356CD0CF9B5D9E0A77826CAE79384457BBF29D12"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/em/em043.mss",
+            "hash": "9E5F3A426453A471B45E1A90CC5B290EF391ECAC4C6063405D27862896A256CB"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/em/em066.mss",
+            "hash": "73E176D15DEAF6BA05EF86C6384FD137BC25121569405B1CC4DCE4EAE186D17D"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/em/em077.mss",
+            "hash": "0E376BE043FB0C9A8FCD61BA91CFC57ED19C1F069804DBAC390B104FFFFE46FC"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/map/01/m01_a00d.mse",
+            "hash": "265088CB4C61E4EA6D36C79638EEF1576F1568EA117B2DD55E7B2180172FDB44"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/map/01/m01_a00n.mse",
+            "hash": "265088CB4C61E4EA6D36C79638EEF1576F1568EA117B2DD55E7B2180172FDB44"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/map/01/m01_a01d.mse",
+            "hash": "0EC8FD6138EBE6116CDA414AFEBC3941D5AC400364A88A278A14FF8937276177"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/map/01/m01_a01n.mse",
+            "hash": "6DD968462ED2404E3AC5CAE8C9D17F9A7F4EECC6E0E4C6099328B77C82B62183"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/map/01/m01_a02d.mse",
+            "hash": "1B3795118E5EC00D129D089CB16015F341190F0D073CF3A20BCE8B8759D413D4"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/map/01/m01_a02n.mse",
+            "hash": "1B3795118E5EC00D129D089CB16015F341190F0D073CF3A20BCE8B8759D413D4"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/map/01/m01_a03d.mse",
+            "hash": "E136E87194A11B95B6D51F2B2D7F047639BB27490A3C30FC102F71857D242AC6"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/map/01/m01_a03n.mse",
+            "hash": "E136E87194A11B95B6D51F2B2D7F047639BB27490A3C30FC102F71857D242AC6"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/map/01/m01_a04d.mse",
+            "hash": "062DDBC8D5ACFDBA024B97E73F81AAA5EE21F54CD8F1CBFE4137C22C0C07649C"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/map/01/m01_a04n.mse",
+            "hash": "062DDBC8D5ACFDBA024B97E73F81AAA5EE21F54CD8F1CBFE4137C22C0C07649C"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/map/01/m01_a05d.mse",
+            "hash": "CD0153E8E605CA2D4E5965FD7368EC73DB09749828681B7590D5FB9EB1427A46"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/map/01/m01_a05n.mse",
+            "hash": "CD0153E8E605CA2D4E5965FD7368EC73DB09749828681B7590D5FB9EB1427A46"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/map/01/m01_a06d.mse",
+            "hash": "73946D641127184A613F1416C3F510E68E9BE35B0EF68A105D20C778108C7E8B"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/map/01/m01_a06n.mse",
+            "hash": "73946D641127184A613F1416C3F510E68E9BE35B0EF68A105D20C778108C7E8B"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/map/01/m01_a07d.mse",
+            "hash": "EF156918997CBCE34BE6103A54EEE9F3A94DBF5D35D37BEC19F39282891D83B2"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/map/01/m01_a07n.mse",
+            "hash": "EF156918997CBCE34BE6103A54EEE9F3A94DBF5D35D37BEC19F39282891D83B2"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/map/01/m01_a08d.mse",
+            "hash": "BBE132CC5DD39B3BE4A91997188FCA3D3A6DCA89CA6BBD3D31CAA9101AD4BEA5"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/map/01/m01_a08n.mse",
+            "hash": "BBE132CC5DD39B3BE4A91997188FCA3D3A6DCA89CA6BBD3D31CAA9101AD4BEA5"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/map/01/m01_a09d.mse",
+            "hash": "02325E83D757D97C368D206208450A42A810890FA8FD41DA4253B6CD661A1719"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/map/01/m01_a09n.mse",
+            "hash": "02325E83D757D97C368D206208450A42A810890FA8FD41DA4253B6CD661A1719"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/map/01/m01_a10d.mse",
+            "hash": "0358B26F55AACEE61CC2610AB62E2A2534751C22AE06FCFA345217355598FE70"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/map/01/m01_a10n.mse",
+            "hash": "0358B26F55AACEE61CC2610AB62E2A2534751C22AE06FCFA345217355598FE70"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/map/01/m01_a11d.mse",
+            "hash": "DB1D57415F6FB7A87D95AE1C98E67936D0930E10865AC4EBA0DCB0D327059E24"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/map/01/m01_a11n.mse",
+            "hash": "DB1D57415F6FB7A87D95AE1C98E67936D0930E10865AC4EBA0DCB0D327059E24"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/map/01/m01_a12d.mse",
+            "hash": "67DCEFE46E9F87B72FC64A5CADF54137D22622CA326694BA9C6077DE4464683C"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/map/01/m01_a12n.mse",
+            "hash": "67DCEFE46E9F87B72FC64A5CADF54137D22622CA326694BA9C6077DE4464683C"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/map/04/m04_a00d.mse",
+            "hash": "6308467B720D5AA4525B6C97D56D275B7BD2709447612E79BC9D84D5BB39D813"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/map/04/m04_a00n.mse",
+            "hash": "6308467B720D5AA4525B6C97D56D275B7BD2709447612E79BC9D84D5BB39D813"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/map/04/m04_a01d.mse",
+            "hash": "BDE02ADA1374979098727B28B686E6D672C2E90FEF6A1CCF16777C9FB5807109"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/map/04/m04_a01n.mse",
+            "hash": "BDE02ADA1374979098727B28B686E6D672C2E90FEF6A1CCF16777C9FB5807109"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/map/04/m04_a02d.mse",
+            "hash": "47FFA421150D2BA6820468B48CE3D953DFE053032101A2E002DB69D1A3812456"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/map/04/m04_a02n.mse",
+            "hash": "47FFA421150D2BA6820468B48CE3D953DFE053032101A2E002DB69D1A3812456"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/map/04/m04_a03d.mse",
+            "hash": "D2B0C6F88EE7082F60895E9513F6B6652508D6D95825F05C5AD926C146634770"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/map/04/m04_a03n.mse",
+            "hash": "D2B0C6F88EE7082F60895E9513F6B6652508D6D95825F05C5AD926C146634770"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/map/04/m04_a04d.mse",
+            "hash": "940F9AEC4B05961A1B7B6F8DBADDADE9C690E7B267C1BDF87BBC55D381485E3A"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/map/04/m04_a04n.mse",
+            "hash": "940F9AEC4B05961A1B7B6F8DBADDADE9C690E7B267C1BDF87BBC55D381485E3A"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/map/04/m04_a05d.mse",
+            "hash": "C4A20AEDEFECAFC69CCB3EF57EF7FB8B4F1E77977BA7BAA88B658C5DAD61755C"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/map/04/m04_a05n.mse",
+            "hash": "73F5B947AB846FAFB2AE6C0F239A8CE7AF4E687312E3214EC4DCE5E741DA71F3"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/map/04/m04_a06d.mse",
+            "hash": "313FB60F7D4087A8EBB05CE00962729ABF940D20BC1F7FFAB21B17D2C3ABEF0F"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/map/04/m04_a06n.mse",
+            "hash": "313FB60F7D4087A8EBB05CE00962729ABF940D20BC1F7FFAB21B17D2C3ABEF0F"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/map/04/m04_a07d.mse",
+            "hash": "159E0CEFC5A8472783256A041FF0A003A7FEED35B05CAF3D599B3780A612EC2D"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/map/04/m04_a07n.mse",
+            "hash": "359B1AAD7C66C3F4009575B628C954A04CB0CA7500832D9173FDD03ACA16F0E5"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/map/04/m04_a08d.mse",
+            "hash": "BDE02ADA1374979098727B28B686E6D672C2E90FEF6A1CCF16777C9FB5807109"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/map/04/m04_a08n.mse",
+            "hash": "BDE02ADA1374979098727B28B686E6D672C2E90FEF6A1CCF16777C9FB5807109"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/map/04/m04_a09d.mse",
+            "hash": "BDE02ADA1374979098727B28B686E6D672C2E90FEF6A1CCF16777C9FB5807109"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/map/04/m04_a09n.mse",
+            "hash": "BDE02ADA1374979098727B28B686E6D672C2E90FEF6A1CCF16777C9FB5807109"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/npc/an000.mss",
+            "hash": "97E595849AB07D52FEB39C2BD996E6C9CE7053CC96F40914C680B9B0E35C5051"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/npc/qn000.mss",
+            "hash": "FFF78C40EF29A82445A47C264EB5AA96687B8BED3954298240B26E71ECCC8DE4"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/npc/qn001.mss",
+            "hash": "9BA8ADFCBCE52FF3987F5A3A0D5F0CDF1F5867D0F5E0ADF11C2C03EC249BFE58"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/npc/qn002.mss",
+            "hash": "42B854F52680C96F7EED8F5EA46981628E53067A05C63FD2643D1E5282372353"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/pl/pl_cmn.mss",
+            "hash": "BD188081B80B37A3688297760C5B3D4353BD1FDC16B78208D4497D842980AEAA"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/pl/pl_wp00.mss",
+            "hash": "D7AB416A309A5254382010E37C75B880353BD1A13436D85951377B4942266D8C"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/pl/pl_wp01.mss",
+            "hash": "957D6D635133F4AF3FEB169737C3425979AB06C594D07832E3AAFE714EA6CE00"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/pl/pl_wp02.mss",
+            "hash": "DBBAAF7DFE9B0CFC33377B9235CECBF8FB564A35952D32F36F7833286015347D"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/pl/pl_wp03.mss",
+            "hash": "77DBAFE5C09126BA2C7ACBD999A7947ECB1EA1979CF1D726188FCAB6AACCE351"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/pl/pl_wp04.mss",
+            "hash": "CDAFC596A3C9728FD47CCEA0270004339F5987CCA5B1D5E583B8DB7519E44007"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/pl/pl_wp05.mss",
+            "hash": "EDC0C68D441EE7E87E2438A80FECBB61AE027D54C6D8C002AFEA767A0AC59051"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/pl/pl_wp06.mss",
+            "hash": "14C344AAF2F9A9B391EA21367D17C3CA36FC776618DE9ABC8246AE55EE0C3044"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/pl/pl_wp07.mss",
+            "hash": "CD6DB7970302B4DD7B90A54BB6150592049F4FB07A9B89AB76F2F5E0D916D38C"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/pl/pl_wp08.mss",
+            "hash": "60166C42D1419D917D2FE532BD5A37D8B3279E98E83CE6B43E22BCD8CEA58DFA"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/pl/pl_wp09.mss",
+            "hash": "C96DFA4C60468CD2E20B9D10A3D062CA0FFDC33C5D52A8AA9F0BC529594B2F0F"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/pl/pl_wp10.mss",
+            "hash": "1C22A25DC1B0E7A74C0667347102CCB04748E9A3D5E2823EF2BF2BB747BCD9FD"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/pl/pl_wp11.mss",
+            "hash": "85441ADDAD76F963AFB86A15C98F8F24621C2A124B2D59F2B4C1BFCF8943F633"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/pl/pl_wp12.mss",
+            "hash": "596BFD5689E177ACC30FF4F2A92334C63892AAEC8D927C24BAF9FDEB6F1C1C95"
+        },
+        {
+            "file": "content/nativeCafe/sound/call/pl/pl_wp13.mss",
+            "hash": "83DBE81C4CE0A6A7959B83AB461A8B5307B526C65BFC6A21998F7AC71B25CF3A"
+        },
+        {
+            "file": "content/nativeCafe/sound/initial.scsr",
+            "hash": "76E00CAB010A6838E71374DEB99CF225F35B7AB6B5A0C42B50623A1B7EC4E4D7"
+        },
+        {
+            "file": "content/nativeCafe/sound/initial_d.sdsr",
+            "hash": "2CC0B73BFD6C9F442DFCB4EACEF14C15F641082608FD5E09E4DF528DF5BDAED0"
+        },
+        {
+            "file": "content/nativeCafe/sound/se/data/snd_data.sbkr",
+            "hash": "0A5DC16762F0435FC3F92B650BAB31CB818BBFA6B6C90E51B0132A307797E960"
+        },
+        {
+            "file": "content/nativeCafe/sound/se/data/snd_data.srqr",
+            "hash": "02845E535A459ABC10DBA552CA00F208AC16BB5D6173F07C33FD4F565D63865E"
+        },
+        {
+            "file": "content/nativeCafe/sound/se/data/wav/PIG_buhibuhi.dspw",
+            "hash": "F4302D217B87AB30EC6272DFF3147534990641D1647E0319A486906966938BF2"
+        },
+        {
+            "file": "content/nativeCafe/sound/se/data/wav/PIG_hurry.dspw",
+            "hash": "7DFF5D82BC29A26E5846824C0BD69DFDB1040735A46DE6DE2E5C28B63ECF251D"
+        },
+        {
+            "file": "content/nativeCafe/sound/se/data/wav/buta_heart_BIG2.dspw",
+            "hash": "AD9A535EB3DF25B1E23E45B8D91C51894B10B66EB64424BE7E243F65BB16D0FE"
+        },
+        {
+            "file": "content/nativeCafe/sound/se/data/wav/checkmark_off.dspw",
+            "hash": "C81D9F5F43BAF834EE28B627B3DF5D3439CCF5B3AD8232E9F46B78B460B66B60"
+        },
+        {
+            "file": "content/nativeCafe/sound/se/data/wav/checkmark_on.dspw",
+            "hash": "7711F0FF567F73607557B50C9DB9CA223445E7B8F8F47740CA490C1119E54D40"
+        },
+        {
+            "file": "content/nativeCafe/sound/se/data/wav/color.dspw",
+            "hash": "03E6A2E223EF992C8D5345ADEC7BE094CCF25CA7767919C369F232E5D66D087A"
+        },
+        {
+            "file": "content/nativeCafe/sound/se/data/wav/menu_cursor_1.dspw",
+            "hash": "EFBBE55BD0ED016127B170A349389DE56A50DF5336F7F0154EDECF643CDE7104"
+        },
+        {
+            "file": "content/nativeCafe/sound/se/data/wav/menu_cursor_2.dspw",
+            "hash": "65C988C049A14FD1BBE37513B7F3FD4259FB1CC8897DBA98F00660A736CEB864"
+        },
+        {
+            "file": "content/nativeCafe/sound/se/data/wav/menu_cursor_3.dspw",
+            "hash": "B3595A9D7A2DF738BCFB3240AEF43054A281712939C66801AB6A35DFE4A2C9E5"
+        },
+        {
+            "file": "content/nativeCafe/sound/se/data/wav/shop_kanban.dspw",
+            "hash": "6D0F862428F824185DA4F308F90256CBA04F4DF7402ACEFDD4FE6627883D38A8"
+        },
+        {
+            "file": "content/nativeCafe/sound/se/data/wav/sys_cancel.dspw",
+            "hash": "DA54B662F98838734F799EF119C7A24FEBD87D43F52F83E7077E62135C2FCA8C"
+        },
+        {
+            "file": "content/nativeCafe/sound/se/data/wav/sys_item_suteru.dspw",
+            "hash": "3D04598694A73E45CE3DF8338B9AF6D0E838A76DE3158C94746E5BEC0BCDF7A2"
+        },
+        {
+            "file": "content/nativeCafe/sound/se/data/wav/sys_kettei.dspw",
+            "hash": "840938DA34610C60A928AECF02DDDDE878C5342DBB86ECA1D23DFDB168C0CE94"
+        },
+        {
+            "file": "content/nativeCafe/sound/se/data/wav/sys_money.dspw",
+            "hash": "25D496202B0AB147A93ED83A9524EAA838E153220A2C00ACDA9B28E5ADE03072"
+        },
+        {
+            "file": "content/nativeCafe/sound/se/data/wav/sys_say.dspw",
+            "hash": "6FBADEF7C08EA5825FEF12A5D35D73AEAB1BC0FAF192960F9F3FB6DEE136E661"
+        },
+        {
+            "file": "content/nativeCafe/sound/se/data/wav/sys_undercursor.dspw",
+            "hash": "24C01D4C69AD1D6F409762DA96137D1E1CD761BC7BEBDDF9E0D213F4953B7540"
+        },
+        {
+            "file": "content/nativeCafe/sound/se/map/04/m04_a04d.sbkr",
+            "hash": "27256402ED66ABE21DA10D264FCC1D6309A365223681276BDD450BDE4428D0F0"
+        },
+        {
+            "file": "content/nativeCafe/sound/se/map/04/m04_a04d.srqr",
+            "hash": "702BCE35A35819A97FA384B036A1D0D9CF064B9DD1648553368C357DDF6D80A7"
+        },
+        {
+            "file": "content/nativeCafe/sound/se/pl/vo/m/m02/snd_pl_vo_m02.sbkr",
+            "hash": "440263B3E054AE8C2FB45DACA6CA985F8BFF237B9F5147C98A0937301F46A07A"
+        },
+        {
+            "file": "content/nativeCafe/sound/se/pl/vo/m/m02/snd_pl_vo_m02.srqr",
+            "hash": "092301ADC7E4228D47D8A72A8D60B80146689FBF0A2D0D12C54C4D4BC34189FB"
+        },
+        {
+            "file": "content/nativeCafe/sound/se/pl/vo/m/m02/wav/m02_A0_kiai.dspw",
+            "hash": "63D945118978F417DC6056E6346CDEC619996F2FAA2531720894A633755B4178"
+        },
+        {
+            "file": "content/nativeCafe/sound/se/pl/vo/m/m02/wav/m02_A1_kiai.dspw",
+            "hash": "A7B7617355F93BAA013F34EA80D99AAC8DF83C255FBB754A2773CBAC1BCE11E2"
+        },
+        {
+            "file": "content/nativeCafe/sound/se/pl/vo/m/m02/wav/m02_A2_kiai.dspw",
+            "hash": "7545161048E8A6865096F7247BC292B5EDC535A5399E9690096EA0EA95EE286D"
+        },
+        {
+            "file": "content/nativeCafe/sound/se/pl/vo/m/m02/wav/m02_A3_noboru.dspw",
+            "hash": "D5435D1AABE8853061C1C87884C07917E6CE90AA8F33CF2CC09CE1EAC1AD2FF7"
+        },
+        {
+            "file": "content/nativeCafe/sound/se/pl/wp/one/039/snd_wp_one039.sbkr",
+            "hash": "61303DBA6C3F12E1D89AA7EB2C4057F69E197AD812C85822445327BB8C4DA268"
+        },
+        {
+            "file": "content/nativeCafe/sound/se/pl/wp/one/039/snd_wp_one039.srqr",
+            "hash": "DF4FE85A0F8149A5832F947879CE735BE57E486702D328A9461DF15CBA916CE8"
+        },
+        {
+            "file": "content/nativeCafe/sound/se/pl/wp/one/com/wav/wp_katate_com_kaze.dspw",
+            "hash": "6BE9DCCD0B331D36DFC1448D2A6EC6962CCC0B7B38C4DEFEA5C4C34FDD3D6867"
+        },
+        {
+            "file": "content/nativeCafe/system/font/Gothic_AM_NOMIP.tex",
+            "hash": "DFB38369567C68C862F4634369F4BBF7022F2FC094D8FCF21D0133815AA42CBB"
+        },
+        {
+            "file": "content/nativeCafe/system/help/system.hlp",
+            "hash": "590F4273DA2C01476A630D3293EB8E03AC525A66BE5B848EF19517B1CC381E11"
+        },
+        {
+            "file": "content/nativeCafe/system/ltshader/null.es",
+            "hash": "3ED0ABC1AA558DE3ED012BF9B7B87961015E38AE345331549B2D60A74791FD1A"
+        },
+        {
+            "file": "content/nativeCafe/system/ltshader/uber.es",
+            "hash": "63150D2A5E8390AFD8E5200548AA6BFA6765B74F8F4EDEA1B7437366177461F7"
+        },
+        {
+            "file": "content/nativeCafe/system/texture/DefaultCube_CM.tex",
+            "hash": "9CAFEA0CFC7FF8F4761906656B96DFFFFACB7702F3133E6463E26DC8B3064B02"
+        },
+        {
+            "file": "content/nativeCafe/system/texture/HbmIcon_GSM_HQ_NOMIP.tex",
+            "hash": "0CCC9330D384822EBA04ADFE0E47C66538FCB99A8ADDE9E56E616090DD39F7FC"
+        },
+        {
+            "file": "content/nativeCafe/system/texture/NullWhite.tex",
+            "hash": "383A6713A494C0AF66F6D23B04CACDFDFACC78662DF78567C41930646D2C5878"
+        },
+        {
+            "file": "content/nativeCafe/system/texture/sysfont_AM_NOMIP.tex",
+            "hash": "1B8CDC3D2728D696A8A403298206F664286981EAE7BD0271C8DA01277FE821C7"
+        },
+        {
+            "file": "meta/Manual.bfma",
+            "hash": "B2866C714DB423CF159C7EDE8B510162DBAA79B300E7CC7B84FD1EB2A8DC223B"
+        },
+        {
+            "file": "meta/bootDrcTex.tga",
+            "hash": "EFC0561197F6D50B96986D6D10DD69477CC99ADF9A3D9C74FFBF1E30DAD60B47"
+        },
+        {
+            "file": "meta/bootLogoTex.tga",
+            "hash": "91B63D9C03F7F9153C8B9FC8179E1CCCB6F4AFC60204B988D91D1B5EFCEE4AA8"
+        },
+        {
+            "file": "meta/bootMovie.h264",
+            "hash": "069FD8C5713F4B23EA1098D2674BCC839E610BA844683BF532E1E6CB10642621"
+        },
+        {
+            "file": "meta/bootSound.btsnd",
+            "hash": "A7B0DF14DB0818AA67D7E163526D9486B8A4AA3939B1039A005B1BC0D94B0983"
+        },
+        {
+            "file": "meta/bootTvTex.tga",
+            "hash": "A8D83605D870A5C4AE0F144D6F233F459AE0A6665DD2CDB869F8280DA8157863"
+        },
+        {
+            "file": "meta/iconTex.tga",
+            "hash": "2185D614A896977A9A77EC893747F7DCD16D9701F8614CFCDEC52A6397AACDA4"
+        },
+        {
+            "file": "meta/meta.xml",
+            "hash": "AAAACA8E58F453F5F41626B041DB7FC545BF916DC23C0F196142CEAE84D334C3"
+        }
+    ]
+}

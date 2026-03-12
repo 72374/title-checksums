@@ -1,0 +1,143 @@
+{
+    "title_id": "0005000010192f00",
+    "region": 4,
+    "version": 0,
+    "files": [
+        {
+            "file": "code/app.xml",
+            "hash": "0F614B6928B890A1B65580059DE80C337E54AF024970B799663D8D5F23A4A8B0"
+        },
+        {
+            "file": "code/cos.xml",
+            "hash": "E6E50028AC70921379F9A987DD89F1019E11EE9C36F15DE320A9956A91DE78E3"
+        },
+        {
+            "file": "code/m2engage.rpx",
+            "hash": "9908E4BC0BB6B20FE328DBB60E1A4A497A69AEF72EF826CBDC7CB6C8369D2B35"
+        },
+        {
+            "file": "code/title.fst",
+            "hash": "1B9AE11B140CF8678C334CBF0C0162DE80A08D75EE2DFBF6DC425AA09CD53B0F"
+        },
+        {
+            "file": "code/title.tmd",
+            "hash": "486087307DC659BBEEC6B8B3077B6884415055A0D5EA7CEAD40FDEC39336842C"
+        },
+        {
+            "file": "content/alldata.bin",
+            "hash": "6C42F658551E9547B2B6DC99EBC32A3B9FDB55819775CF4550CAF682718092E7"
+        },
+        {
+            "file": "content/alldata.psb.m",
+            "hash": "D959969041D63D56222D79672B2B8E95C2AD10E3CA6552C38606339643CA174A"
+        },
+        {
+            "file": "meta/CERO_ja.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/CGSRR_zh.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/COB_en.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/ESRB_en.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/ESRB_fr.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/GRB_ko.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/Manual.bfma",
+            "hash": "FB3369C75B40191D7BDCFB7F7AFAFACDF61CEE015F3A21A9C3C13F8EBB642B5E"
+        },
+        {
+            "file": "meta/OFLC_en.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_BBFC_en.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_Portugal_pt.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_de.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_en.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_es.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_fr.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_it.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_nl.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_pt.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_ru.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/RAR_ru.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/USK_de.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/bootDrcTex.tga",
+            "hash": "FFD19A2F75FBB31AB8D83078CD15E4AD91F40F884396F9527F9B58CB07B8601F"
+        },
+        {
+            "file": "meta/bootLogoTex.tga",
+            "hash": "91B63D9C03F7F9153C8B9FC8179E1CCCB6F4AFC60204B988D91D1B5EFCEE4AA8"
+        },
+        {
+            "file": "meta/bootMovie.h264",
+            "hash": "069FD8C5713F4B23EA1098D2674BCC839E610BA844683BF532E1E6CB10642621"
+        },
+        {
+            "file": "meta/bootSound.btsnd",
+            "hash": "5CB03E3D625D87F4820507369AC4D73DEDB9153826FF291A51A4883178E96A67"
+        },
+        {
+            "file": "meta/bootTvTex.tga",
+            "hash": "19F958E5BB636199A914DCE362BB5889705E70AA9A06FC8D84E632043B339E3C"
+        },
+        {
+            "file": "meta/iconTex.tga",
+            "hash": "479D7E2F71DAE2B75DC7376D1E766B272A4A261CD1E5A5B791826C8ED8DE06F5"
+        },
+        {
+            "file": "meta/meta.xml",
+            "hash": "088DE8EBE5FF38E087C13F0DB8BDEF7DEBF9DB508D8628AC38E492D80C307D92"
+        }
+    ]
+}

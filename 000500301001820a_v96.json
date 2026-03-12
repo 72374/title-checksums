@@ -1,0 +1,191 @@
+{
+    "title_id": "000500301001820a",
+    "region": 4,
+    "version": 96,
+    "files": [
+        {
+            "file": "code/app.xml",
+            "hash": "D38C44B18522E489C5B38D3BAEA9F91EE01A86148F36565BA900F69362061CBF"
+        },
+        {
+            "file": "code/cos.xml",
+            "hash": "C2F7A47A77CD1526F48F6D51A86CB0A8D1DF8A32CEFD2004FB5CFD953872EA76"
+        },
+        {
+            "file": "code/scope.rpx",
+            "hash": "752057D80B3DF8E990B92DC3DE9D7812226E3A71EAD807E7C83B484CD4FF9FE7"
+        },
+        {
+            "file": "code/title.fst",
+            "hash": "84F98FD9BFFD0DCD7E0F024CC298882502340061A059445EA311EF50B4A3C880"
+        },
+        {
+            "file": "code/title.tmd",
+            "hash": "2DBE61B0E235B2BE8E78411AA95E8E31775C50F76CFAF03C7FB60C9B7BE33337"
+        },
+        {
+            "file": "content/debug/dummy00.idb.zlb",
+            "hash": "416CE631ED1493E6674A33C96B8FEC4B4188AFFE03906F8C09D5BF8C9E78367C"
+        },
+        {
+            "file": "content/debug/dummy01.idb.zlb",
+            "hash": "491F66A71D2BA0E82BD43324A20CFC901D8436FCD71F011DAA7F1A2A472B9CDE"
+        },
+        {
+            "file": "content/debug/dummy02.idb.zlb",
+            "hash": "9B1C1207938CB719D00A9FB073EF26B2D07EDEEF21C6D2307E3849388D719E97"
+        },
+        {
+            "file": "content/debug/unknown.idb.zlb",
+            "hash": "F7AC1AE3501B4CF64A008FA599AB185102673BC0FB0527221B77CADBD13F519D"
+        },
+        {
+            "file": "content/debug/updater.idb.zlb",
+            "hash": "937508DF29AF9EC0560644B969D25600A13A18693752DC7184F4045EABF0275A"
+        },
+        {
+            "file": "content/font/nintendo_NTLG-DB_002.bfttf",
+            "hash": "02316D9CF3ADBB0ABEB34FAAC8ADEA01B6F307D268B183A1110C7C61CB3B9F42"
+        },
+        {
+            "file": "content/layout/Body/BossList.arc.zlb",
+            "hash": "23B29F4D04DAD8B6FA7F1D1DBBDCF7E49D3A8669820F0AC58453DF9684E5DA59"
+        },
+        {
+            "file": "content/layout/Body/Common.arc.zlb",
+            "hash": "EE10763D9F729C8EDF43867037A2E430AC36165D60D647B016E47B29A3DBF370"
+        },
+        {
+            "file": "content/layout/Body/Cursor.arc.zlb",
+            "hash": "61711AF4D127771ECC95857BA6ADE635DDDDF3EB3151FF0C6B7D60E54FE7569D"
+        },
+        {
+            "file": "content/layout/Body/DLDetail.arc.zlb",
+            "hash": "544B6AEFBAE3920DB8C0678BFD14A562885B986498EE2721D1357A2C6CCA3D67"
+        },
+        {
+            "file": "content/layout/Body/DLList.arc.zlb",
+            "hash": "8D41FE2B2E5D0F731A47236416D30F493ACC03A9353E5C14342ABF8CA0E83B9E"
+        },
+        {
+            "file": "content/layout/Body/Debug.arc.zlb",
+            "hash": "D5300057283E21A18EC770A5F0D59341B691592F8C6A4E4B9E3A26276C1F734C"
+        },
+        {
+            "file": "content/layout/Body/Dialog.arc.zlb",
+            "hash": "10EFE0EC45B2796F2203D707397FDF4999ABC5B15D12578AFBA5D23EB5FD3C7F"
+        },
+        {
+            "file": "content/layout/Body/NimAuto.arc.zlb",
+            "hash": "499C70A155DF8B7568DAEA046FE69BE0955F10CF7DE833D94CB6CFAAE3D892C3"
+        },
+        {
+            "file": "content/layout/Body/NimError.arc.zlb",
+            "hash": "277CA44ACC3F09D6540EF8288E53D00FCB443B86B7BE6F67DADF51DEB82655C9"
+        },
+        {
+            "file": "content/layout/Body/NimTitle.arc.zlb",
+            "hash": "CB78998BB0D946267F1C76090DEBF04C85365F0498F552AE2B86C3B93BA57845"
+        },
+        {
+            "file": "content/layout/Body/SelectFrame.arc.zlb",
+            "hash": "90329C8810D492DBADBD917B5425EBE3DCF81082DFA5B6FBD38D40A11D536023"
+        },
+        {
+            "file": "content/layout/Body/Setting.arc.zlb",
+            "hash": "29CFCF096A897791C59E26B2857B9A903ABEBA1E35BAA7E3AE0DC438F9C6587B"
+        },
+        {
+            "file": "content/layout/Parts/Common.arc.zlb",
+            "hash": "BCE8ED1CBBEB46B220D9AE9CBE16D01DA9676BFCE34CD9F31B3335479F9B4204"
+        },
+        {
+            "file": "content/message/EU_Dutch/scope.msbt.zlb",
+            "hash": "5FEEAF352E635618BC70C67294F2F8693B10DDFF3711BC587926C35837D88B5D"
+        },
+        {
+            "file": "content/message/EU_English/scope.msbt.zlb",
+            "hash": "211D038645614BE79CFF0ED7AAFFB9948BD4555931B7026C59773E708DC4E1ED"
+        },
+        {
+            "file": "content/message/EU_French/scope.msbt.zlb",
+            "hash": "39D70D1C48326A2704DA4EDFE79508C16FF537BB9D471DA013F5ADF516934BC5"
+        },
+        {
+            "file": "content/message/EU_German/scope.msbt.zlb",
+            "hash": "BAD6690A26BEB31A5782A5BCEE1C4ABCC16C94EAB941FA030DA9B2651D82989F"
+        },
+        {
+            "file": "content/message/EU_Italian/scope.msbt.zlb",
+            "hash": "BCB0ECBF8ACE5DB52644CBCF6D13CBCBA816BA30121D09A3E9ACB8C049A364B2"
+        },
+        {
+            "file": "content/message/EU_Portuguese/scope.msbt.zlb",
+            "hash": "CFD2F12B839204551C17CC1BC7729CAAA5E03C0EE4C2FC2C1955CFE6326EEA05"
+        },
+        {
+            "file": "content/message/EU_Russian/scope.msbt.zlb",
+            "hash": "C57E6D095627F498DCD7241EFDDA7B495D5EAA083188E5274C0130B1FDF60C55"
+        },
+        {
+            "file": "content/message/EU_Spanish/scope.msbt.zlb",
+            "hash": "41998A6F7AF9750DB8BA865B030F9F1783DE4498B1F8587AE3A033F55FDFE4B1"
+        },
+        {
+            "file": "content/message/JP_Japanese/scope.msbt.zlb",
+            "hash": "8D34492255B780D980FD3AB13BE7B1083CA4261DF25AC026C230A504D80A2EE9"
+        },
+        {
+            "file": "content/message/US_English/scope.msbt.zlb",
+            "hash": "34B6024861C818E1A3510253BD724D7E442807C0FCDFFB6BC53B455D61299224"
+        },
+        {
+            "file": "content/message/US_French/scope.msbt.zlb",
+            "hash": "372553DF05A76ED15731F15276171BC66BAE48D93C5B7A734CD65A8D96058A22"
+        },
+        {
+            "file": "content/message/US_Portuguese/scope.msbt.zlb",
+            "hash": "9AB53DBA6ABA1DD90A7B736875DD99A1433AF1C164D095993741163878E3975B"
+        },
+        {
+            "file": "content/message/US_Spanish/scope.msbt.zlb",
+            "hash": "A92E08C5F6F9F1410349C8B55CD07C9FA33FA0AAF4C35D708C52E26B88AB8E57"
+        },
+        {
+            "file": "content/shaders/font_BuildinShader.gsh",
+            "hash": "B43C0EEF8C1BE9A52D316812BF3804AB72D268BF177629707EDA1B74DADFAB46"
+        },
+        {
+            "file": "content/shaders/lyt_BuildinShader.gsh",
+            "hash": "A25F1EF373580C5A61007D525ECA1D0FB89BFFB7DB6EA3CE3450C7A65BA33658"
+        },
+        {
+            "file": "content/sound/ScopeSound.bfsar",
+            "hash": "BDB9652917DEAF27A2175C22476A9E6597414493DD0A9608FC34A0CE71AC2308"
+        },
+        {
+            "file": "meta/bootDrcTex.tga",
+            "hash": "9858A031FDF11B9A3E490FD2F59F0C355175495AAFC9DE2A8121D85AC60BB592"
+        },
+        {
+            "file": "meta/bootLogoTex.tga",
+            "hash": "91B63D9C03F7F9153C8B9FC8179E1CCCB6F4AFC60204B988D91D1B5EFCEE4AA8"
+        },
+        {
+            "file": "meta/bootMovie.h264",
+            "hash": "069FD8C5713F4B23EA1098D2674BCC839E610BA844683BF532E1E6CB10642621"
+        },
+        {
+            "file": "meta/bootTvTex.tga",
+            "hash": "90BEC39B7AE4A54D78BF78EC0AB24F2BC9C9E914A3541DCCBB70297727ED1F64"
+        },
+        {
+            "file": "meta/iconTex.tga",
+            "hash": "139A8131C47BA9B34B2094D4A7955C444A3619FC69D63BDF5D8E3C92FC561144"
+        },
+        {
+            "file": "meta/meta.xml",
+            "hash": "AA3294864736C152549718344503987ABC290DE5410A25AFC51419FC67CE40E5"
+        }
+    ]
+}

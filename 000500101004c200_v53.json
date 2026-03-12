@@ -1,0 +1,111 @@
+{
+    "title_id": "000500101004c200",
+    "region": 4,
+    "version": 53,
+    "files": [
+        {
+            "file": "code/app.xml",
+            "hash": "D0F6787AD2C92DFE52161DF90696F76FD171F70605B8A6214F31F2066307E590"
+        },
+        {
+            "file": "code/cos.xml",
+            "hash": "CF3A72E96A460BCF0117853BC7AE34A210C80B670741FFEAF58A673CAA433B91"
+        },
+        {
+            "file": "code/ply.rpx",
+            "hash": "D0F1B9F4481BD5078AE8BBF4C8C8E69C55104CAD4FBBE942C27572BF82BCAC0B"
+        },
+        {
+            "file": "code/preload.txt",
+            "hash": "07D296486E6C4F3DA69FAC3AF04D55FCDF06E9992A197AD309B492DF76A60816"
+        },
+        {
+            "file": "code/title.fst",
+            "hash": "2BB8859D3554567E58506A4427E5EE684656FFA52EEC24BCBC4A5D8FE33F92C7"
+        },
+        {
+            "file": "code/title.tmd",
+            "hash": "F868BCD3C535AF445FBFAAB1E3B9EE322F51FFAA9C49D6289DCBEFC3E58DE581"
+        },
+        {
+            "file": "content/Common/Package/Ply.pack",
+            "hash": "6669C6210E6CB9EF1E77364E6B845ABABBF692B6EB000C163BA0FCEA221A910F"
+        },
+        {
+            "file": "content/Common/Sound/Ply/cafe_barista_ply.bfsar",
+            "hash": "F858F0636386D5B91EE82FE4713C8C987907C980A2111C2FE666A28448672C5F"
+        },
+        {
+            "file": "content/Common/Sound/Ply/stream/BGM_PLY.bfstm",
+            "hash": "6FD5BDFB39A85BC9CDD12E00CA384339B67C4A667EA18BCB92311D0EBB84FEF5"
+        },
+        {
+            "file": "content/Common/System/RegionLang.txt",
+            "hash": "029B9AE1CB01A93D95862392AB96885980091019D7DBD559A35F575CD5FFA7AF"
+        },
+        {
+            "file": "content/Common/System/revision.txt",
+            "hash": "A0245DACAC64DE144DC9DA2A80D3EC8EED61EA385387BBC624F95CAD6CCCB3D7"
+        },
+        {
+            "file": "content/Common/System/timeStamp.txt",
+            "hash": "D7114281315C0A5FB77CA3129237351E9D078588A4FCC6660A4D0BD37DA9ECC1"
+        },
+        {
+            "file": "content/EuDutch/Message/AllMessage.szs",
+            "hash": "F18DFA280AE9475A10D9FC8ABEB098361150B9116E7575912BBF3CEACE7B4AAF"
+        },
+        {
+            "file": "content/EuEnglish/Message/AllMessage.szs",
+            "hash": "9C55C967ACAB88C18D8C052FFCAD36523470C565552565DC23555080B94DFFAE"
+        },
+        {
+            "file": "content/EuFrench/Message/AllMessage.szs",
+            "hash": "1A02606D9149ACCA49A11969188E87A93A19683E3F106EBE91FE617A88DADBC3"
+        },
+        {
+            "file": "content/EuGerman/Message/AllMessage.szs",
+            "hash": "4C28B6A103696FDC4B3CA6BF280736BA4ED53A3131724A5E75C06EA9AD1E5279"
+        },
+        {
+            "file": "content/EuItalian/Message/AllMessage.szs",
+            "hash": "3DE2A9D6D245BF1868B9C4257A6CCDD82A3B15C12401E646E166D259439279CA"
+        },
+        {
+            "file": "content/EuPortuguese/Message/AllMessage.szs",
+            "hash": "3BF7AA042F2094474F7FA742C06087540C8026E644A98099B3CC613395211360"
+        },
+        {
+            "file": "content/EuRussian/Message/AllMessage.szs",
+            "hash": "1375E034A59CCC089CDB122A9611F6F5CD58EC82502B424F57DFE081877EA773"
+        },
+        {
+            "file": "content/EuSpanish/Message/AllMessage.szs",
+            "hash": "3C62D3F1D3DBB653964802FD6C3F5E07556DDDB778B304AC10D3532174043401"
+        },
+        {
+            "file": "meta/bootDrcTex.tga",
+            "hash": "9E02028B817F1C0DF90B2CE02C3F828E8E8711680FB6788580EBAE27251729D3"
+        },
+        {
+            "file": "meta/bootLogoTex.tga",
+            "hash": "91B63D9C03F7F9153C8B9FC8179E1CCCB6F4AFC60204B988D91D1B5EFCEE4AA8"
+        },
+        {
+            "file": "meta/bootMovie.h264",
+            "hash": "069FD8C5713F4B23EA1098D2674BCC839E610BA844683BF532E1E6CB10642621"
+        },
+        {
+            "file": "meta/bootTvTex.tga",
+            "hash": "ADDA05804635F8DD639CF70C97B3212BE5EA50C7D020C6BC4853BF82230FE9AF"
+        },
+        {
+            "file": "meta/iconTex.tga",
+            "hash": "F1BBFD533DE0E5EF1277AD578C5C827AE44963BF0833CCF94DA07D083BB2FFA9"
+        },
+        {
+            "file": "meta/meta.xml",
+            "hash": "CDE0270E46C6ABD995F0F4A7379F468ACEB03E407645D161E1E1EE29159AAABB"
+        }
+    ]
+}
